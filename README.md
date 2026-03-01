@@ -1,1 +1,0 @@
-# vin-vlad.github.io
