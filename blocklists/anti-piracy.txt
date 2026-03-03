@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-03T06:23:18.112Z
-# Entries: 11645
+# Last updated: 2026-03-03T18:21:32.118Z
+# Entries: 11631
 tracker.guguan.000.pe
 003396815.xyz
 0123456789nonexistent.com
@@ -2586,6 +2586,7 @@ dididave.com
 dietdinnerrecipes.com
 digbazi.net
 digbt.org
+digeek.click
 diggnation.org
 srv5.digiboy.ir
 digimoviez39.top
@@ -3559,6 +3560,7 @@ filmoflix.bio
 filmon.tv
 filmoteka.cc
 filmowo.club
+filmpalast.one
 filmpalast.to
 filmpertutti.be
 filmpertutti.bet
@@ -4199,6 +4201,7 @@ gettorrents.org
 getvideostream.com
 getwhisky.app
 gfxtra31.com
+gg666jj888.com
 ggbases.com
 ghatailonline.net
 sparkle.ghostchu-services.top
@@ -4267,7 +4270,6 @@ god-games.com
 godriveplayer.com
 goem.org
 gofilmes.me
-goflix.io
 gofrag.ru
 gog-games.to
 gogo-stream.com
@@ -4461,7 +4463,6 @@ hacksnation.com
 hadopeer.org
 haho.moe
 haildrop77.pro
-hailglow59.site
 hailmist36.pro
 haitou.org
 hakuneko.download
@@ -4597,7 +4598,6 @@ hdmovie2.cd
 hdmovie2.center
 hdmovie2.ceo
 hdmovie2.cfd
-hdmovie2.ch
 hdmovie2.channel
 hdmovie2.chat
 hdmovie2.church
@@ -4638,13 +4638,10 @@ hdmovie2.estate
 hdmovie2.events
 hdmovie2.expert
 hdmovie2.exposed
-hdmovie2.express
 hdmovie2.family
-hdmovie2.fans
 hdmovie2.fashion
 hdmovie2.fast
 hdmovie2.feedback
-hdmovie2.fi
 hdmovie2.finance
 hdmovie2.financial
 hdmovie2.fish
@@ -4684,12 +4681,10 @@ hdmovie2.inc
 hdmovie2.industries
 hdmovie2.investments
 hdmovie2.is
-hdmovie2.kim
 hdmovie2.kiwi
 hdmovie2.koeln
 hdmovie2.kr
 hdmovie2.krd
-hdmovie2.lc
 hdmovie2.lease
 hdmovie2.li
 hdmovie2.limited
@@ -4701,7 +4696,6 @@ hdmovie2.love
 hdmovie2.lt
 hdmovie2.ltd
 hdmovie2.ltda
-hdmovie2.lu
 hdmovie2.luxe
 hdmovie2.luxury
 hdmovie2.lv
@@ -4720,7 +4714,6 @@ hdmovie2.my
 hdmovie2.nagoya
 hdmovie2.navy
 hdmovie2.network
-hdmovie2.news
 hdmovie2.ng
 hdmovie2.nl
 hdmovie2.nz
@@ -4730,20 +4723,16 @@ hdmovie2.organic
 hdmovie2.osaka
 hdmovie2.page
 hdmovie2.paris
-hdmovie2.parts
 hdmovie2.pet
 hdmovie2.ph
 hdmovie2.phd
 hdmovie2.photo
 hdmovie2.photography
 hdmovie2.photos
-hdmovie2.pizza
 hdmovie2.plumbing
 hdmovie2.plus
 hdmovie2.pm
-hdmovie2.poker
 hdmovie2.pro
-hdmovie2.promo
 hdmovie2.properties
 hdmovie2.qpon
 hdmovie2.racing
@@ -4755,14 +4744,12 @@ hdmovie2.reisen
 hdmovie2.ren
 hdmovie2.rent
 hdmovie2.rentals
-hdmovie2.repair
 hdmovie2.republican
 hdmovie2.rest
 hdmovie2.rocks
 hdmovie2.rodeo
 hdmovie2.sale
 hdmovie2.salon
-hdmovie2.sb
 hdmovie2.schule
 hdmovie2.science
 hdmovie2.scot
@@ -4774,7 +4761,6 @@ hdmovie2.show
 hdmovie2.singles
 hdmovie2.site
 hdmovie2.ski
-hdmovie2.skin
 hdmovie2.soccer
 hdmovie2.software
 hdmovie2.solar
@@ -4801,10 +4787,8 @@ hdmovie2.trade
 hdmovie2.trading
 hdmovie2.training
 hdmovie2.tube
-hdmovie2.tw
 hdmovie2.uk
 hdmovie2.university
-hdmovie2.uno
 hdmovie2.vc
 hdmovie2.vegas
 hdmovie2.vet
@@ -4818,7 +4802,6 @@ hdmovie2.watch
 hdmovie2.webcam
 hdmovie2.wine
 hdmovie2.work
-hdmovie2.world
 hdmovie2.ws
 hdmovie2.wtf
 hdmovie2.xin
@@ -5024,11 +5007,11 @@ ibooks.to
 iboxbd.online
 icefilms.info
 icefilms-info.com
-icemist80.wiki
 app.icon256.com
 icoonet.com
 icouchtuner.club
 icrackmac.com
+icynebula71.pro
 sensation.id-t.com
 iddl.org
 idealtorrent.com
@@ -5175,7 +5158,6 @@ ns349743.ip-91-121-106.eu
 ip8ktv.com
 ipacrack.com
 ipalibrary.me
-ipboot.xyz
 tracker.iperson.xyz
 v2.iperson.xyz
 tracker.ipfsscan.io
@@ -5288,7 +5270,6 @@ japscan.ws
 javafooty.com
 javbus.com
 javfeed.com
-javjunkies.com
 javlibrary.com
 javmix.tv
 javtorrent.me
@@ -5384,7 +5365,6 @@ katcr.co
 katcr.to
 katdrama.net
 katfile.com
-kati3kat.tube
 katmoviehd.ac
 katmoviehd.fi
 katmoviehd.nl
@@ -5428,7 +5408,6 @@ khinsider.com
 khmermovie168.org
 khulnaflix.net
 kichkas.biz
-kickass.cm
 kickass.so
 kickass.to
 kickass.ws
@@ -5492,7 +5471,6 @@ kinol.pl
 kinomall.ru
 kinomavic.com
 kinomax.to
-kinomisto.com
 kinomob.com
 kinonadzor.net
 kinoplenka.top
@@ -5550,7 +5528,6 @@ kinox.cloud
 kinox.club
 kinox.codes
 kinox.cool
-kinox.day
 kinox.deals
 kinox.digital
 kinox.direct
@@ -5576,7 +5553,6 @@ kinox.my
 kinox.navy
 kinox.news
 kinox.parts
-kinox.prof
 kinox.ru
 kinox.run
 kinox.sh
@@ -5705,6 +5681,8 @@ lapak21.com
 larooza.beauty
 larooza.boats
 larooza.skin
+larozza.makeup
+larozza.space
 latinbit.com
 pt.lax.mx
 layarkaca21.com
@@ -6164,6 +6142,7 @@ megakino.wtf
 megakino.zone
 megakino1.biz
 megakino1.co
+megakino1.cx
 megakino1.fit
 megakino1.org
 megakino1.vip
@@ -6345,6 +6324,7 @@ modhello.com
 modhihe.com
 modilimitado.io
 modlist.in
+modlitehub.com
 modlmh.com
 modok.ru
 modpree.com
@@ -6569,6 +6549,7 @@ moviewatcher.eu
 movieworld.pl
 movieworld.to
 moviexk.biz
+moviezona593.com
 moviezone.ws
 moviful.com
 moviplus.net
@@ -7871,6 +7852,7 @@ puzo.org
 pwtorrents.net
 qatarstreams.me
 qbittorrent.org
+qimanhwa.com
 tracker.qingwapt.org
 qiq.ws
 musicmania.ql.lt
@@ -7882,6 +7864,7 @@ quantumbooter.net
 quantumstress.net
 quantus.tv
 quedustreaming.com
+queijoevinhoda.best
 quest4play.xyz
 quetelbd.net
 quez.in
@@ -9121,6 +9104,7 @@ streamingcommunityz.golf
 streamingcommunityz.guru
 streamingcommunityz.hair
 streamingcommunityz.help
+streamingcommunityz.horse
 streamingcommunityz.info
 streamingcommunityz.international
 streamingcommunityz.investments
@@ -10754,6 +10738,7 @@ videypro.live
 videyy.stream
 videzz.net
 vidhog.com
+vidi64.com
 vidics.com
 vidics.to
 vidify.top
@@ -11307,6 +11292,7 @@ xuyadong.sbs
 xwt-classics.net
 xx-xsx.top
 xx1.online
+xx333hh888.com
 00.xxtor.com
 open.xxtor.com
 xxx-torrent.net
