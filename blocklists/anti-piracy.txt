@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-05T06:23:38.894Z
-# Entries: 11600
+# Last updated: 2026-03-05T18:42:18.909Z
+# Entries: 11585
 tracker.guguan.000.pe
 003396815.xyz
 0123456789nonexistent.com
@@ -331,6 +331,7 @@ admin.52ywp.com
 654321.best
 661321.xyz
 66387795cyr.com
+67sports.net
 67streams.online
 6ahddutb1ucc3cp.ru
 6box.me
@@ -1000,6 +1001,7 @@ arcflix.net
 archivx.to
 arconaitv.us
 area51.to
+areagame.net
 arena-tr.com
 arenabg.ch
 arenabg.com
@@ -2354,6 +2356,8 @@ icc.crictime.is
 tv.crictime.is
 u4.trakx.crim.ist
 crimsonfansubs.com
+crimsonstorm18.live
+crimsonstorm18.pro
 critical-boot.com
 crnaberza.com
 crocdb.net
@@ -3301,6 +3305,7 @@ eurostreamings.space
 eurostreamings.store
 eurostreamings.top
 eurostreamings.vip
+eurostreamings.wiki
 bt.eutorrents.com
 ev01.net
 ev01.to
@@ -4265,6 +4270,8 @@ gk-network.net
 gktorrent.io
 gktorrent.pw
 gktorrents.cc
+glacierfalcon72.site
+glacierfalcon72.xyz
 cinetide.glitch.me
 gload.cc
 gload.to
@@ -9731,7 +9738,6 @@ torrent-damage.net
 torrent-finder.com
 torrent-finder.info
 torrent-games.best
-torrent-games.co
 torrent-games.games
 torrent-hitz.de
 torrent-igruha.org
@@ -9953,7 +9959,6 @@ totaldownloader.it
 totalsportek.ac
 totalsportek.at
 totalsportek.me
-totalsportek.one
 totalsporteklive.net
 totalsporteks.net
 totaltorrents.com
@@ -10163,7 +10168,6 @@ ufs.pt
 ugda.online
 piracitoplista.ugu.pl
 uhdbits.org
-uhdmovies.beer
 uhdmovies.dad
 uhdmovies.earth
 uhdmovies.icu
@@ -10408,7 +10412,6 @@ vdey.de
 vdiiy.space
 vdomela.com
 vdos-s.co
-vdos-s.com
 tracker.vectahosting.eu
 veday.fun
 vedek.pro
@@ -10424,7 +10427,6 @@ vegamovies.art
 vegamovies.asia
 vegamovies.at
 vegamovies.auction
-vegamovies.ax
 vegamovies.ba
 vegamovies.band
 vegamovies.bargains
@@ -10434,7 +10436,6 @@ vegamovies.bike
 vegamovies.bio
 vegamovies.bj
 vegamovies.black
-vegamovies.blue
 vegamovies.boo
 vegamovies.bot
 vegamovies.build
@@ -10466,7 +10467,6 @@ vegamovies.cv
 vegamovies.dating
 vegamovies.day
 vegamovies.degree
-vegamovies.design
 vegamovies.dev
 vegamovies.directory
 vegamovies.dog
@@ -10489,9 +10489,7 @@ vegamovies.forex
 vegamovies.forum
 vegamovies.free
 vegamovies.frl
-vegamovies.games
 vegamovies.gd
-vegamovies.ge
 vegamovies.gf
 vegamovies.gift
 vegamovies.gives
@@ -10591,7 +10589,6 @@ vegamovies.tw
 vegamovies.tz
 vegamovies.uno
 vegamovies.uy
-vegamovies.uz
 vegamovies.vacations
 vegamovies.ventures
 vegamovies.vg
@@ -10606,7 +10603,6 @@ vegamovies.work
 vegamovies.works
 vegamovies.wtf
 vegamovies.xin
-vegamovies.xxx
 vegamovies.yoga
 vegamovies.yt
 vegamovies.zip
@@ -10810,7 +10806,6 @@ voe-network.net
 voeunblk.com
 voidboost.tv
 voir-seriestreaming.org
-voirdrama.org
 voirfilm.vip
 voirfilms.al
 voirfilms.io
@@ -10838,7 +10833,6 @@ vostfree.ws
 vostfrstreaming.com
 voxfilmeonline.biz
 voxhost.fr
-vpnfortorrents.page
 vpnmentor.com
 tracker.vraphim.com
 vrcarena.com
@@ -10945,7 +10939,6 @@ watch-free.tv
 watch-series.co
 watch-tvseries.net
 watch0123movies.org
-watch32.is
 watch32hd.co
 watch32hd.org
 watchanimeworld.net
@@ -11079,7 +11072,6 @@ win-torrent.net
 win7dl.org
 win7games.com
 fr.winantispyware.com
-windcurve65.site
 windglow99.pro
 windows-11.net
 windows-torrent.com
@@ -11198,7 +11190,6 @@ xcine.tv
 xcine-tv.com
 xcinema.ro
 xd-movie.com
-xdcc.eu
 xducaytr.com
 xdude.net
 tracker.xdvdz.com
@@ -11302,12 +11293,10 @@ yesmovies.agency
 yesmovies.app
 yesmovies.asia
 yesmovies.at
-yesmovies.baby
 yesmovies.cfd
 yesmovies.cloud
 yesmovies.com
 yesmovies.do
-yesmovies.email
 yesmovies.fun
 yesmovies.gg
 yesmovies.id
@@ -11315,7 +11304,6 @@ yesmovies.io
 yesmovies.is
 yesmovies.lat
 yesmovies.lol
-yesmovies.love
 yesmovies.media
 yesmovies.mn
 yesmovies.my
@@ -11364,7 +11352,6 @@ yifymovietorrent.com
 yifystatus.com
 yifysub.net
 yifysubtitles.me
-yifysubtitles.vip
 yifytorrent.cc
 yifytorrent.vip
 ymovies.se
@@ -11485,7 +11472,6 @@ zalukaj.cc
 zalukaj.film
 zalukaj.pl
 zalukaj.tv
-zalukaj-pl.com
 zalukaj-pl.tv
 zalukaj-tv.pl
 zalukaj-vip.pl
@@ -11596,7 +11582,6 @@ ztracker.hu
 tr.zukizuki.org
 tracker.zum.bi
 zumods.com
-tracker.zupix.online
 zxcprime.icu
 zxcstream.xyz
 zxonlinebd.com
