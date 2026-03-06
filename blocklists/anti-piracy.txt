@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-05T18:42:18.909Z
-# Entries: 11585
+# Last updated: 2026-03-06T06:21:58.678Z
+# Entries: 11590
 tracker.guguan.000.pe
 003396815.xyz
 0123456789nonexistent.com
@@ -872,6 +872,7 @@ ankeschwarz.net
 annas-archive.cc
 annas-archive.gs
 annas-archive.li
+annas-archive.pk
 anonboot.com
 anonsecurityteam.com
 private.anonseed.com
@@ -1939,6 +1940,7 @@ cineby.sbs
 cineby.shop
 cineby.wiki
 cineby.work
+cinecalidad.am
 cinecalidad.is
 cineez.com
 cineflix.rip
@@ -4573,6 +4575,7 @@ hdfilme.cloud
 hdfilme.cx
 hdfilme.food
 hdfilme.io
+hdfilme.party
 hdfilme.press
 hdfilme.ru
 hdfilme.to
@@ -4581,6 +4584,7 @@ hdfilme.tv
 hdfilme.uno
 hdfilme-to.my
 hdfilme-to.top
+hdfilme-tv.cc
 hdfreaks.cc
 hdfull.lv
 hdhome.org
@@ -11329,6 +11333,7 @@ yesmovies.zone
 yesnetcommunication.com
 yeyemo.info
 yflix.to
+ygg.gratis
 ygg.re
 yggleak.top
 yggtorrent.com
