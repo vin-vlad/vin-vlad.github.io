@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-08T06:19:26.523Z
-# Entries: 11600
+# Last updated: 2026-03-08T18:11:38.029Z
+# Entries: 11668
 tracker.guguan.000.pe
 003396815.xyz
 0123456789nonexistent.com
@@ -370,6 +370,7 @@ open.8a.is
 8hacks.com
 8kun.top
 8millimeters.com
+8putlocker.com
 8wsm.com
 909190.xyz
 9142346511.xyz
@@ -405,6 +406,7 @@ open.8a.is
 9kmovies.icu
 9kmovies.life
 9kmovies.makeup
+9kmovies.pet
 9kmovies.space
 9kmovies.spot
 9kmovies.surf
@@ -568,6 +570,7 @@ alltube.tv
 alltube-tv.pl
 alluc.org
 alluc.uno
+allwrestling.live
 allyoulike.org
 alpha-ag.ru
 alphabetagamer.com
@@ -579,9 +582,12 @@ alphatron.tv
 alt-torrent.com
 altadefinizione.agency
 altadefinizione.al
+altadefinizione.autos
+altadefinizione.beauty
 altadefinizione.bet
 altadefinizione.bio
 altadefinizione.bond
+altadefinizione.cam
 altadefinizione.casino
 altadefinizione.click
 altadefinizione.club
@@ -607,6 +613,7 @@ altadefinizione.io
 altadefinizione.it
 altadefinizione.kim
 altadefinizione.lat
+altadefinizione.legal
 altadefinizione.li
 altadefinizione.life
 altadefinizione.live
@@ -620,6 +627,7 @@ altadefinizione.news
 altadefinizione.one
 altadefinizione.online
 altadefinizione.org
+altadefinizione.pet
 altadefinizione.ph
 altadefinizione.pink
 altadefinizione.re
@@ -723,6 +731,7 @@ an1.com
 an1build.com
 anbudom.net
 andr.net
+androeed.de
 androeed.ru
 androeed.store
 androforever.com
@@ -812,6 +821,7 @@ animenosub.to
 animeon.club
 animeout.xyz
 animeow.me
+animeowl.me
 animepace.si
 animepahe.com
 animepahe.org
@@ -884,6 +894,7 @@ annas-archive.pk
 anonboot.com
 anonsecurityteam.com
 private.anonseed.com
+tracker.anonwebz.xyz
 anonymous-stresser.net
 anonymouse.org
 anonymouse.pl
@@ -1137,6 +1148,7 @@ baberepublic.com
 baby-beamup.club
 babystreaming.com
 babytorrent.vip
+badshahuploads.xyz
 baibako.tv
 retracker.baikal-telecom.net
 baixar.club
@@ -1165,6 +1177,7 @@ barrerab.beer
 retracker.bashtel.ru
 basixmovie.com
 basnetbd.com
+batflix.org
 batflixmovies.club
 batman-stream.tv
 batmanstream.cc
@@ -1180,6 +1193,7 @@ bb-tv.org
 torrents.bbccable.net
 bclearning.top
 bd-t.net
+bdbroadband.com
 bdcinema.net
 bdflixlive.com
 bdfun.club
@@ -1211,7 +1225,9 @@ bedro.cloud
 beeflix.biz
 tracker.beeimg.com
 beemp3.in
+beemp3s.org
 beeriptv.tv
+beetvapk.net
 beetvapp.me
 bellator.com
 tracker.belmult.online
@@ -1228,6 +1244,7 @@ best-moviez.ws
 best-series.me
 best-soft.net
 tracker.best-torrents.net
+best4stremio.space
 bestdjmix.com
 bestfilez.net
 bestfreestreaming.com
@@ -1573,6 +1590,7 @@ brodownload9s.com
 brokensilenze.net
 brokenstones.is
 brokenstones.me
+tracker.brokenstones.club
 brothers-of-usenet.net
 brothersitbd.com
 brotorrent.net
@@ -1630,6 +1648,7 @@ btzone.org
 tracker.btzoo.eu
 bubarindpr.com
 buchkammer.sbs
+buddycenters.shop
 buddyfly.top
 buffstream.io
 buffstreams.app
@@ -1653,6 +1672,7 @@ burningseries.sx
 burningseries.tw
 burningseries.vc
 bushtorrent.com
+scrapcomputers.busydizzys.com
 butterflyapk.com
 butterproject.org
 bvlist.com
@@ -1663,6 +1683,7 @@ tracker.bwtorrents.tv
 bxks.site
 byfiles.com
 byigruha.org
+bypassed.life
 watchepisodeseries.bypassed.wtf
 byrutgame.org
 byte.to
@@ -1724,6 +1745,7 @@ casacinema.net
 casacinema.nl
 casacinema.org
 casacinema.pics
+casacinema.red
 casacinema.ru
 casacinema.skin
 casacinema.vg
@@ -1779,6 +1801,7 @@ cb01.net
 cb01.network
 cb01.news
 cb01.observer
+cb01.online
 cb01.org
 cb01.pictures
 cb01.pw
@@ -1795,6 +1818,7 @@ cb01.training
 cb01.us
 cb01.vet
 cb01.vg
+cb01.video
 cb01.vip
 cb01.work
 cb01.world
@@ -1802,6 +1826,7 @@ cb01.ws
 cb01.xyz
 cb01.yachts
 cb01new.center
+cb01official.community
 cb01uno.uno
 cbo1.biz
 cboku.com
@@ -1880,8 +1905,10 @@ cineblog01.claims
 cineblog01.cloud
 cineblog01.coach
 cineblog01.codes
+cineblog01.com
 cineblog01.cool
 cineblog01.coupons
+cineblog01.cx
 cineblog01.delivery
 cineblog01.discount
 cineblog01.download
@@ -1934,6 +1961,7 @@ cineblog01.wine
 cineblog01.ws
 cineblog01.wtf
 cinebloom.com
+cinebloom.org
 cinebook.xyz
 cineby.app
 cineby.asia
@@ -1965,10 +1993,12 @@ cinemageddon.org
 tracker.cinemageddon.net
 cinemagratis.com
 cinemagratis.fm
+cinemagratis.net
 cinemagratis.online
 cinemagratis.vg
 cinemagratis.ws
 cinemagratis.xyz
+cinemahd.work
 cinemahdv2.io
 cinemaindo.net
 cinemalibero.cafe
@@ -1989,6 +2019,7 @@ cineplex21.online
 cinevid.tv
 cinevision.online
 cinevood.work
+cinewhale.com
 circleftp.net
 circlenetworkbd.net
 city9x.com
@@ -2001,6 +2032,7 @@ citytorrent.net
 cjoint.net
 cksub.org
 ckzy1com.com
+clashofclansmods.com
 clashofmagic.io
 classiccinemaonline.com
 classiccinemazone.com
@@ -2031,7 +2063,9 @@ cmacked.com
 cmovies.ac
 cmovies.co
 cmovies.dev
+cmovies.fm
 cmovies.is
+cmovies.mobi
 cmovies.one
 cmovies.so
 cmovies.us
@@ -2058,6 +2092,7 @@ www.comicsearch.co.uk
 downl0adz.co.cc
 fastpiratebay.co.uk
 filedep.co.cc
+filesoup.co.uk
 flixflux.co.uk
 hdmovie2.co.in
 justpaid.co.nr
@@ -2146,6 +2181,7 @@ movies-watch.com.pk
 nagordola.com.bd
 www.nartlof.com.br
 netpoint.com.bd
+nis.com.bd
 tracker.novage.com.ua
 nowhdtime.com.bd
 smtp-relay.odysseylabel.com.au
@@ -2217,6 +2253,7 @@ cool-torrent.pl
 coolmoviejagg.pro
 coolmoviezone.online
 coolrom.com
+coolsanime.me
 coolwarez.com
 coolwareznik.net
 coppersurfer.tk
@@ -2238,10 +2275,12 @@ couchtuner.show
 couchtuner.space
 couchtuner0.com
 courseclub.me
+cpabien.info
 cpasbien.bz
 cpasbien.ch
 cpasbien.com
 cpasbien.io
+cpasbien.me
 cpasbien.pe
 cpasbien.site
 cpasbien.to
@@ -2260,6 +2299,8 @@ crack4soft.com
 crack55.com
 crack81.com
 crackcrew.com
+crackdb.com
+crackdb.org
 cracked-games.org
 crackedfully.com
 crackedme.com
@@ -2318,6 +2359,7 @@ criaflix.live
 cric1.com
 cricbox.net
 cricfree.be
+cricfree.io
 cricfree.me
 cricfree.org
 cricfree.pw
@@ -2407,7 +2449,9 @@ tracker.cubonegro.lol
 tracker.cubonegro.xyz
 cuevana.is
 cuevana.nu
+cuevana.uno
 cuevana2.com
+cuevana2.io
 cuevana3.io
 cuevana3.me
 cuevana3.mobi
@@ -2479,6 +2523,7 @@ darkstresser.net
 darkvod.cc
 darkw.pl
 darkwarez.net
+darkwarez.pl
 darmowe-torenty.pl
 darwine.fr
 dashflix.top
@@ -2498,6 +2543,7 @@ daveking.com
 bt.davka.info
 daxiv.com
 dbgt.com
+dbz-media.nl
 dbzdivx.com
 dctorrent.com
 dctp.tv
@@ -2598,6 +2644,7 @@ dezflight-underground.com
 dfast.app
 dfichiers.com
 dflix.live
+em.dfnbd.net
 tube.dfnbd.net
 dfox.it
 mixes.dfx.at
@@ -2781,6 +2828,7 @@ dood.fun
 dood.guru
 dood.host
 dood.ink
+dood.is
 dood.la
 dood.li
 dood.live
@@ -2846,6 +2894,7 @@ doodstream.live
 doodstream.lol
 doodstream.pro
 doodstream.quest
+doodstream.space
 doodstream.top
 doodstream.video
 doodstream.vip
@@ -2883,6 +2932,7 @@ download.net
 downloadanime.org
 downloadarch.com
 popcorn-time.en.downloadastro.com
+downloademule.org
 downloadforum.com
 downloadgram.org
 downloadha.com
@@ -2932,6 +2982,7 @@ dramacafi-tv.quest
 dramacoolfirst.com
 dramaday.me
 dramago.com
+dramaqu.app
 dramaqu.beauty
 dramaqu.cloud
 dramaqu.digital
@@ -3003,6 +3054,7 @@ dxp.ru
 dynamic-universe.com
 irrenhaus.dyndns.dk
 tracker.dyne.org
+aam-bt.dyns.cx
 thitgaluoc.dynu.net
 dyxz.org
 e-book.cash
@@ -3105,11 +3157,13 @@ elamigos-games.com
 elbitz.net
 electro-torrent.pl
 tracker.elektronik.ro
+elementsbrowser.com
 elevensports.com
 elit-bg.com
 elite-tracker.net
 elitegoltv.run
 elitetorrent.com
+elitetorrent.in
 elitetorrent.net
 elitetorrent.nl
 elitetorrent.pl
@@ -3127,6 +3181,7 @@ emovies.si
 emp3juices.cc
 empire-stream.com
 empornium.us
+tracker.empornium.is
 tracker.empornium.sx
 empresstorrents.com
 emtrek.org
@@ -3219,6 +3274,7 @@ europixhd.top
 eurostreaming.actor
 eurostreaming.app
 eurostreaming.archi
+eurostreaming.autos
 eurostreaming.be
 eurostreaming.best
 eurostreaming.bet
@@ -3229,6 +3285,7 @@ eurostreaming.biz
 eurostreaming.boo
 eurostreaming.cash
 eurostreaming.cc
+eurostreaming.chat
 eurostreaming.click
 eurostreaming.cloud
 eurostreaming.co
@@ -3239,6 +3296,7 @@ eurostreaming.cyou
 eurostreaming.dance
 eurostreaming.de
 eurostreaming.dev
+eurostreaming.eu
 eurostreaming.faith
 eurostreaming.fan
 eurostreaming.fm
@@ -3259,6 +3317,7 @@ eurostreaming.me
 eurostreaming.net
 eurostreaming.network
 eurostreaming.online
+eurostreaming.ooo
 eurostreaming.ph
 eurostreaming.pink
 eurostreaming.poker
@@ -3267,7 +3326,9 @@ eurostreaming.quest
 eurostreaming.repair
 eurostreaming.sbs
 eurostreaming.shop
+eurostreaming.skin
 eurostreaming.soy
+eurostreaming.store
 eurostreaming.tattoo
 eurostreaming.taxi
 eurostreaming.tel
@@ -3475,6 +3536,7 @@ filbi1976.org
 file.al
 file.lu
 file.lv
+file4safe.com
 filebag.org
 filebase.ws
 filebit.pl
@@ -3557,6 +3619,7 @@ filmapik.social
 filmapik.study
 filmapik.taxi
 filmapik.town
+filmapik.us
 filmapik.works
 filmapikofficial.com
 filmarchives.jp
@@ -3649,12 +3712,14 @@ filmsenzalimiti.cool
 filmsenzalimiti.eu
 filmsenzalimiti.fm
 filmsenzalimiti.gold
+filmsenzalimiti.info
 filmsenzalimiti.io
 filmsenzalimiti.it
 filmsenzalimiti.love
 filmsenzalimiti.me
 filmsenzalimiti.name
 filmsenzalimiti.net
+filmsenzalimiti.online
 filmsenzalimiti.vg
 filmsenzalimiti.ws
 filmsofts.com
@@ -3850,6 +3915,8 @@ fmovies-to.is
 fmovies0.cc
 fmovies2.cx
 fmovies247.net
+fmovies3.com
+fmoviesc.org
 fmoviesf.co
 fmoviesgo.net
 fmovieshd.vip
@@ -6809,6 +6876,7 @@ neefit.net
 neglectsquad.com
 neko-sama.fr
 tracker.nekobt.to
+tracker.nekomi.cn
 nelion.me
 neobd.net
 neoboard.org
