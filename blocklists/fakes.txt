@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-08T18:11:37.107Z
-# Entries: 14229
+# Last updated: 2026-03-09T06:29:22.043Z
+# Entries: 14261
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -4629,6 +4629,7 @@ formanacupuncture.com
 formationy.com
 fornialegnaaccessori.com
 forschwerk.com
+forstwirtschaftsholz.com
 forstx.org
 fortagefundsmgmt.com
 forte-love.eu
@@ -4672,6 +4673,7 @@ fragrantanal.com
 framelia.org
 framezegame.com
 france-amf.com
+france-finances.com
 france-lavignette.com
 francescobellani.com
 francisco.cc
@@ -4822,6 +4824,7 @@ gaborcipele.com
 gaborfrance.fr
 gaborgreece.com
 gaborhungary.net
+gabormontreal.com
 gabornilkkurit.com
 gabornz.com
 gaborosterreich.at
@@ -4840,6 +4843,7 @@ gadgetgrids.com
 gadgetladen.shop
 gadmaster.com
 gadmaster.de
+gaffelshopava.shop
 gahas24.de
 gaiaboutique.de
 gailgoehring.shop
@@ -4876,6 +4880,7 @@ games-modellbau-shop.com
 gamesmania.shop
 gamestopde.de
 gamestopland.com
+gamestp.de
 gametimejerseys.com
 gameverkauf.de
 gameworlds.fr
@@ -4889,6 +4894,7 @@ gamingonline.store
 gannioutlet.de
 ganti-mode.de
 gantvogueus.com
+gapde.de
 gapkleidung.de
 garantiertefinanzierung.com
 garborine.com
@@ -5086,6 +5092,7 @@ geschirrs-de.com
 gesichtkorperbeauty.com
 gesichtsreinigungnachtpflege.com
 gestion.finance
+gestion-conseils.com
 gestion-de-patrimoine-asnieres.fr
 gestiondupatrimoine.net
 gesund.world
@@ -5132,6 +5139,7 @@ getwavetune.com
 getwellsafely.com
 getwuffy.com
 getwuffy.store
+getyourim.com
 getyouronlinemedshere.com
 getyourtickets.de
 getyourtreatmentshere.com
@@ -5258,6 +5266,7 @@ glueckimhaus.de
 gluecksraupe.shop
 glueckstore.de
 gluschwein.de
+gmbh2go.de
 sec.gmgeurope.online
 gmiglfx.com
 gmmplatform.co
@@ -5265,6 +5274,7 @@ gmzglobal.net
 gninvest-ag.com
 gnope.com
 gnstores.shop
+goadapter.com
 goball.de
 goblinkcl.shop
 gobuybest.com
@@ -5313,6 +5323,7 @@ golffachhandel.eu
 golfstravismathew.com
 gomel-24.de
 gometim.com
+gomez.de
 gomo-shop.de
 gomodellbahn.com
 gonsstransport.com
@@ -5393,6 +5404,7 @@ greendax.com
 greenhousesshop.com
 greenmah.shop
 greentec-handel.de
+greenthin.net
 greenwichwelpen.de
 greenwichwelpenhaus.de
 greermy.com
@@ -5444,6 +5456,7 @@ groupeferroignis.com
 groupenterprisevision.digital
 groupeshf.com
 groupsumi.de
+grow-dutch.com
 growano.com
 growminance.com
 growminds.de
@@ -5486,6 +5499,7 @@ guckflix.de
 guessfinland.com
 guesso.com
 gugeunk.de
+guide-placements-alternatifs.com
 guidehue.com
 guidimo.fr
 gul-store.com
@@ -5522,6 +5536,7 @@ rzycucbupk.gyhjjifm.beauty
 gylde.de
 gym-base.de
 gym-beast.de
+gym-experte.de
 gym-nation.de
 gym-shark-india.com
 gym2goshop.de
@@ -5600,6 +5615,7 @@ handsoapstore.com
 handstille.de
 handtoolsrich.com
 handwerker-katalog.net
+handwerkspark.com
 handwerkzeugshop.com
 handyhullekaufen.de
 handylocate.com
@@ -5607,6 +5623,7 @@ handyorten.de
 handytoolpro.com
 hangmats.com
 hanna-trachten.de
+hannamunchen.de
 hannelore.shop
 hannoverebike.de
 hans-fahrradhaus.de
@@ -5654,6 +5671,7 @@ hats-shop.com
 hauptapotheke.com
 hauptmarkt.com
 haus-elektro.de
+haus-marienthal.de
 haus-naturholz.com
 haus-stmartin.de
 hausdampf.com
@@ -5703,6 +5721,7 @@ havaianasflipflops.at
 eldraw.havecall.shop
 haventrend.com
 haviequipaferramentas.com
+havro.de
 havsbris.com
 havsbris.de
 hawalili.de
@@ -5827,6 +5846,7 @@ heizoel-held.de
 heizoel-jetzt.de
 heizoel-kalkulator.de
 heizoel-liefern.de
+heizoel-portal.com
 heizoel-premium.de
 heizoel-rabatt.de
 heizoel-schnell.com
@@ -5919,6 +5939,7 @@ helloelife.com
 hellomarkt.com
 hellomylumi.com
 hellorolexwatch.com
+hellostella.de
 hellweg-bikes.de
 hellyhansenargentina.net
 hellyhansencanada.com
@@ -5981,6 +6002,7 @@ herrenoase.de
 herrenpillen.net
 herrlampe.com
 herrmann-modehaus.de
+herrngarten.de
 hertz-online.com
 herzbegehrtduesseldorfava.shop
 herzbegehrtduesseldorfpop.shop
@@ -5998,6 +6020,7 @@ hextrad.com
 heydude-schuhe.de
 heydudelife.com
 heydudeschuheschweiz.com
+heyewall.de
 hezoposo.com
 hhb-garten.de
 hi-goeedoo.com
@@ -6051,12 +6074,14 @@ hiziel.de
 hjchelmetsdeal.com
 hjfh.shop
 hkm-sport.shop
+hkp-biofuels.com
 hlelu.com
 hlene.com
 hlpflavouring.com
 hmbgroup.at
 hmnengel.com
 hoabinhvn.com
+hobbiesoutdoor.com
 hobbiessurfing.com
 hobbyessentiel.com
 hobbyhubvip.com
@@ -6103,6 +6128,7 @@ holyember.com
 holz-brennholzhandel.de
 holz-discounter.com
 holz-pellets24.com
+holz-ton.com
 holzarteiche.de
 holzbaubillig.com
 holzbrenn.de
@@ -6153,6 +6179,7 @@ homeoffice--jobs.de
 homeoffice-helden.de
 homeofficekarriere.de
 homeofvintage.co
+homeplaceshop.com
 homersport.de
 homerungrocers.com
 homesandgardensdirect.com
@@ -6160,6 +6187,7 @@ homesupplybest.com
 homesupplymarket.com
 homesupplyonweb.com
 homesurya.com
+hometotally.com
 hometown-boys.com
 homewarelimit.com
 homewerkzeug.com
@@ -6273,6 +6301,7 @@ hundeweltde.com
 hundezentrum-emsland.de
 hundmonline.at
 hundtrockenfutter.com
+hundvonedenstoreava.shop
 hunter-austria.at
 hunter-gummistiefel.de
 hunter-osterreich.at
@@ -6286,7 +6315,9 @@ hunterfinland.com
 huntergermany.de
 huntergumbootsaustralia.com
 huntergummistiefel.de
+huntergummistiefeloutlet.de
 huntergummistiefeloutlets.de
+huntergummistiefelsoutlet.de
 hunteronlineshop.at
 hunterregenlaarzen.com
 huntersstiefel.at
@@ -6304,6 +6335,7 @@ hwsdescontos.com
 hybridfahrrader.com
 hydrip.de
 hygienecleanshop.com
+hyip.com
 hype-handel.de
 hype-hoodies.com
 hypedrip.top
