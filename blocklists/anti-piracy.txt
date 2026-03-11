@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-10T18:22:31.346Z
-# Entries: 12111
+# Last updated: 2026-03-11T06:23:28.003Z
+# Entries: 12108
 tracker.guguan.000.pe
 003396815.xyz
 0123456789nonexistent.com
@@ -917,18 +917,15 @@ ankergames.net
 ankeschwarz.net
 annas-archive.ax
 annas-archive.cc
-annas-archive.ch
 annas-archive.com
 annas-archive.cyou
 annas-archive.gd
 annas-archive.gl
 annas-archive.gs
 annas-archive.icu
-annas-archive.in
 annas-archive.li
 annas-archive.monster
 annas-archive.pk
-annas-archive.pm
 annas-archive.su
 annas-archive.sx
 annas-archive.top
