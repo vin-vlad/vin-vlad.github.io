@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-12T06:24:46.949Z
-# Entries: 14464
+# Last updated: 2026-03-12T18:23:36.837Z
+# Entries: 14471
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -53,6 +53,7 @@ eu.2bagsvalley.cn
 3d-printing.store
 3racingparts.com
 4rxofficial.com
+4u2ride.eu
 5-drugs.com
 52magicdownload.com
 52magicdownloads.com
@@ -3636,6 +3637,7 @@ eigenheimmagazin.de
 eimer-geraeten.com
 ein-kaffee.de
 einayah.com
+einfach-oel.com
 einfachelinklogistik.com
 einfacherkredit.com
 einfachgutemoebel.com
@@ -4940,6 +4942,7 @@ gartenmaschinen-arbeitsgerate.shop
 gartenmaschinen24.de
 gartenmaschinenpro.de
 gartenmaschinenzubehor.com
+gartenmoebelwelt.com
 gartenmotorgerate.com
 gartenobstshop.com
 gartenova.com
@@ -9222,6 +9225,7 @@ nextbinary.com
 nextcareerflow.online
 nextgenglobalenterprise45.cc
 nextproconnect.online
+nexus-reputation.com
 nexvireonde.works
 nexxco24.de
 nflshopofficialonlinestore.com
@@ -10685,7 +10689,6 @@ rangau-musikzug.de
 rangnau-versand.de
 ranjnagupta.com
 ranthambhorekothi.com
-rapidboost.com
 rapidconv.com
 rapunzelhairextension.com
 rare404.com
@@ -10782,6 +10785,7 @@ rehdergmbh.com
 rehearsalk.com
 reichwahl.de
 reifemode.com
+reifen-direkt24.com
 reifen-dreyer.com
 reifen-teile-discount.de
 reifenangebote.com
@@ -12180,6 +12184,7 @@ storeova.com
 storeshapewear.com
 storesportsinggoods.com
 storetwo.com
+story-news.com
 stoxdc.com
 strabenmotorrad.com
 straightnaturals.com
@@ -13534,6 +13539,7 @@ versatileus-women.com
 verschiedeneoutdoor.com
 versys.net
 vertexfy.com
+vertigo-technik.com
 vertisas.shop
 client.vertorise.com
 vertow.com
@@ -13784,6 +13790,7 @@ vytor.de
 vzbuch.shop
 waco-logistics.com
 wadada.online
+waermewald.de
 waffeleisende.com
 waffenundjagdwelt.com
 wagand-tech.de
