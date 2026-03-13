@@ -1,8 +1,9 @@
 # anti-piracy
-# Last updated: 2026-03-13T06:23:59.020Z
-# Entries: 12129
+# Last updated: 2026-03-13T18:16:39.148Z
+# Entries: 12131
 tracker.guguan.000.pe
 003396815.xyz
+004430.xyz
 0123456789nonexistent.com
 0123movie.net
 0123movie.onl
@@ -8053,6 +8054,7 @@ psarips.xyz
 pseudo-flix.pro
 psperspective.net
 pspstrana.ru
+pstream.net
 pstream.org
 psvitaiso.com
 psvitavpk.com
