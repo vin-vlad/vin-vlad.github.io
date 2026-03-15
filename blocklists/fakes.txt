@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-15T06:27:34.596Z
-# Entries: 14488
+# Last updated: 2026-03-15T18:14:24.614Z
+# Entries: 14453
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -121,7 +121,6 @@ accessories-world.club
 accessorieschildren.com
 accessoriessnow.com
 acc.accgn.com
-acc.accgn.net
 accidentalw.com
 accomplishk.com
 accsmarket.net
@@ -166,10 +165,8 @@ adidas-campus.at
 adidas-samba.at
 adidas-spezial.at
 adidascampus.at
-adidascolombia.net
 adidashrvatska.com
 adidashungaryhu.com
-adidasperu.com
 adidasyeezyboost.de
 adidasyeezyofficialwebsite.com
 adihilfe.com
@@ -216,7 +213,6 @@ affenzahne.shop
 affenzahne-de.shop
 affordablerxmeds.com
 affordableuniquepro.shop
-afripo.com
 afsinag-shop.com
 afterhourshobby.com
 aftermarket-part.com
@@ -238,7 +234,6 @@ agriculturi.com
 agrimodul.de
 agserviceplus.com
 aguasco.com
-ahbrennholz.com
 ahdoftime.com
 ahealthcare.online
 ahhaaaa.shop
@@ -383,7 +378,6 @@ alltimesupermarket.com
 alltopinvest.com
 alltopjewels.com
 alltoys.store
-alltradingeuropepro.com
 alltv.store
 allweil.net
 allyours.vip
@@ -503,7 +497,6 @@ trade.amlin-limited.info
 ammostoreonline.com
 amodafashion.de
 amor-trucks.com
-amora-mode.com
 amorideava.shop
 amoslimited.co
 amp-finance.com
@@ -523,7 +516,6 @@ amxwallet.cz
 amznreturnsale.com
 amzonpaletten.com
 amzshipdirect.com
-anaboliczni.pl
 anabolikalegale.com
 anabolikaonlinebestellen.com
 anabolikaonlinedeutschland.com
@@ -587,6 +579,7 @@ anointedtabernacle.com
 anpario.de
 anpicker.com
 anrespond.com
+anreutrp.com
 answerafor.com
 antcarry.com
 antenaschile.cl
@@ -647,7 +640,6 @@ applemarket.de
 applenext.de
 appliancesglobal.com
 applified.tech
-applovntop.com
 appreciatil.com
 approvaln.com
 apps-4-you.net
@@ -712,7 +704,6 @@ armodamunchen.de
 armourygear.com
 arms-mall.com
 armxn.com
-arnstadt-baumarkt.de
 arnstadt-baumarkt.shop
 aroma-finanz.com
 aroma-tec.com
@@ -727,7 +718,6 @@ art-portrait.de
 artcollectibles.xyz
 artemondo.eu
 artevive.de
-arti-ava.de
 artidomo.shop
 artihorizonx.com
 artizenti.de
@@ -792,7 +782,6 @@ astragroupholding.com
 astrahorizon.com
 astronomyh.com
 wombatscityhostelviennathelounge.at-austria.com
-finanzonline.bmf.gv.at-bestatigen.com
 at-setrafimoney.org
 asfinag.at-shop.live
 atacadao-pneus.com
@@ -809,7 +798,6 @@ athletpharma.com
 atikisoi.com
 atlantictrikot.de
 atlas--schuhe.com
-cccup.atmonitor.shop
 aton-invest.com
 atpgoldenpass.com
 atreide-ventures.fr
@@ -896,7 +884,6 @@ automotorradkomponente.com
 autopartsbandeira.com
 autopartssave.com
 autopecasbeirario.com
-autopecasjaguar.com
 autopecazn.com
 autoradiomitnavigation.de
 autosalon-kl.de
@@ -979,7 +966,6 @@ b2b-consulting.net
 b2b-sphere.de
 b2trades.com
 b4trade.com
-babara-mode.com
 babaschmuck.de
 baby-sanft-einschlafen.de
 babyanimal.shop
@@ -1029,7 +1015,6 @@ baguesdefiancailles.com
 bahismaksat.com
 bahiwa.com
 bahnhof-apotheke-hersbruck.de
-bahr-baumarkt.de
 bahr2max-baumarkt.com
 bail-so-gh.shop
 baitcastruten.com
@@ -1132,7 +1117,6 @@ bauer-parndorf.at
 bauer-wien.at
 bauergraz.com
 bauernhofspiele.com
-baufahrzeugeausholz.com
 baugerateprofi.com
 baugeraterabatt.com
 bauhobby.com
@@ -1158,7 +1142,6 @@ bayerischegeschenke.com
 bayowns.com
 bayreuth-boutique.de
 bazorlo.com
-bb-consults.com
 bbcnewstoday.com
 bbgadget.de
 bbqaccessoriessale.com
@@ -1169,7 +1152,6 @@ bdscoffee.com
 beaccustomed.com
 beachitem.com
 beachwalkbali.com
-beadios.com
 beambead.com
 beatricesavoy.de
 beatusbikes.com
@@ -1235,7 +1217,6 @@ bellfumo-tech.de
 bellinsongroup.com
 belliora.it
 bellissimoo.de
-belloambiente.shop
 belloslaresambientes.com
 belna.de
 belouu.de
@@ -1271,7 +1252,6 @@ bergmann.com
 bergmann-dusseldorf.de
 bergmann-mode.ch
 bergmanngoldschmied.com
-bergmannhamburg.de
 bergmannmode.de
 bergwalt-mode.com
 bergwanderershop.com
@@ -1363,7 +1343,6 @@ besteschlaftabletten.com
 besteuhren.io
 besteuhren.to
 besteware24.de
-bestfloordeals.com
 bestgamestopshop.de
 bestgenericonline.com
 besthomeship.com
@@ -1521,7 +1500,6 @@ binarycent.com
 binarylowcost.com
 binarymate.com
 bindado.de
-binderwelpen.de
 bingoblitz.shop
 binoa.com
 binomst.com
@@ -1549,13 +1527,11 @@ birkenstoreoutletsale.com
 birkinshaws.ca
 birkshoes.space
 biscalar-tech.de
-bismarck-modehaus.com
 bisontradepro.com
 m.bit2meua.com
 bit500.eu
 bitai-method.com
 bitaiapp.pro
-bitaimethod.com
 bitcodemethod.com
 bitcodeprime.org
 bitcoin-everest-ai.fr
@@ -1566,7 +1542,6 @@ bitcoin-up.io
 bitcoin-xact.fr
 bitcoin360ai.com
 bitcoinarchon.com
-bitcoinasystem.su
 bitcoineer.de
 bitcoinera.app
 bitcoingroup-vip.com
@@ -1637,7 +1612,6 @@ bluedo.de
 bluehend-land.de
 bluelock.store
 blueoceanproject.de
-bluepharm4u.com
 blueribbon.site
 blueskycargoes.com
 bluestyleshop.com
@@ -1665,13 +1639,11 @@ boardss.de
 boatingcenteronline.com
 boatworkssupply.com
 bobbyananta.com
-bobogosing.com
 boc24.shop
 bocancilowa.com
 bocapital.com
 bocastory.com
 bocceli.com
-body-fitness.store
 body-gear.to
 bodygo.com
 boekerrabatt.com
@@ -1680,7 +1652,6 @@ bofblockchain.com
 bog-apotheke.com
 bohnenfreude.de
 boho-and-chic.de
-bohrteam-handel.de
 boilsofas.com
 boisdechauffage.de
 bokermessershop.com
@@ -1789,11 +1760,8 @@ brennholz-pelletspreise.com
 brennholz-world.at
 brennholz-zertifikats.de
 brennholz49.de
-brennholzbillharz.shop
 brennholzboersch.com
 brennholzdge.com
-brennholzfiger.com
-brennholzholzge.com
 brennholzkamin.de
 brennholzmeister.com
 brennholzmeister.de
@@ -1821,7 +1789,6 @@ brighnow.com
 brightfinance.co
 brighthave.com
 brightselectronics.com
-brightsidesavings.com
 brightter-fld.com
 brillianci.co
 brilliant-photo.com
@@ -2049,7 +2016,6 @@ capitalcourtage.com
 capitalfm.io
 capitalfrance.fr
 capitalfxs.com
-capitalholdings.icu
 capitaliko.com
 capitalinvest-profit.org
 capitalinvestmentreviews.com
@@ -2058,7 +2024,6 @@ capitaltradefx.com
 capofini.com
 capstellar.com
 captainboot.de
-capvest-consulting.com
 carboar.ar
 carbondeluxe.de
 carculturein.com

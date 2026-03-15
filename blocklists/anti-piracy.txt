@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-15T06:27:34.932Z
-# Entries: 12127
+# Last updated: 2026-03-15T18:14:25.053Z
+# Entries: 12150
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -503,7 +503,6 @@ aeroinsta.app
 aerolite.dev
 aeromods.app
 aerotwitter.com
-aerowa.cc
 afdah.com
 afdah.live
 afdah.org
@@ -573,7 +572,6 @@ allmacworlds.com
 allmanga.to
 allmodapk.de
 allmoviesforyou.co
-allmovieshub.courses
 allmovieshub.win
 allmyroms.net
 allmyvideos.net
@@ -922,8 +920,6 @@ annas-archive.gd
 annas-archive.gl
 annas-archive.gs
 annas-archive.icu
-annas-archive.li
-annas-archive.monster
 annas-archive.pk
 annas-archive.su
 annas-archive.sx
@@ -1218,7 +1214,6 @@ retracker.bashtel.ru
 basixmovie.com
 basnetbd.com
 batflix.org
-batflixmovies.club
 batman-stream.tv
 batmanstream.cc
 batmanstream.info
@@ -1313,7 +1308,6 @@ bhpt4vip.com
 bhuiyan-online.com
 biberona.com
 bibliotik.me
-bidsrc.pro
 bigbbs.eu
 bigfangroup.org
 biggapan.tv
@@ -1340,7 +1334,6 @@ bintube.com
 bintv.net
 binzb.com
 mkvcinemasmovies.bio.link
-bioscopeblog.net
 biotorrents.net
 birds-of-binaries.com
 tracker.birkenwald.de
@@ -1740,7 +1733,6 @@ c1live.com
 c1movies.com
 c1ne.co
 c247.to
-c4cracksoftware.com
 c8bz2vq7.com
 rsweb.cachefly.net
 cafehulu.com
@@ -2169,6 +2161,7 @@ swimhereford.co.uk
 thepb.co.uk
 thepiratebay.co.com
 warez4ever.co.il
+xalaflix.co.uk
 coalyf.beer
 cocostream.rip
 coda.fm
@@ -2243,6 +2236,8 @@ nowhdtime.com.bd
 smtp-relay.odysseylabel.com.au
 onstream.com.in
 www.opnsports.com.pk
+purstream.com.cv
+purstream.com.de
 r1a.com.pl
 salamonline.com.bd
 seriezloaded.com.ng
@@ -2264,6 +2259,7 @@ vegamoviesl.com.in
 vegamoviesm.com.in
 vegamoviesw.com.in
 wormsblast.com.pl
+xalaflix.com.se
 yt1s.com.co
 www.midea123.z-media.com.cn
 zenkimex.com.mx
@@ -6972,7 +6968,10 @@ mycricketlive.live
 mycujoo.tv
 mycybernest.com
 forums.mydigitallife.net
+s1130639.ha009.t.mydomain.zone
 s1124554.ha012.t.mydomain.zone
+s1130642.ha014.t.mydomain.zone
+s1130638.ha016.t.mydomain.zone
 myduckisdead.org
 myfeed2all.eu
 myflixer.ac
@@ -8083,6 +8082,9 @@ puredl.org
 purelivegigs.com
 puretna.com
 purposeuncle.xyz
+purstream.cc
+purstream.lol
+purstream.wiki
 bt.pusacg.org
 pussytorrents.org
 pustakalya.vip
@@ -8484,6 +8486,7 @@ rsoccerstreams.net
 rth77.ru
 rtorrent.net
 rulu.co
+wsad.run.place
 rune-server.org
 runwaybroadband.com
 rus-media.org
@@ -10426,6 +10429,7 @@ torrindex.net
 torrminatorr.com
 torrnado.space
 tracker.torrust-demo.com
+http1.torrust-tracker-demo.com
 udp1.torrust-tracker-demo.com
 torsecurityteam.org
 torula.tv
@@ -11704,7 +11708,26 @@ x265movies.co
 x360club.pw
 x4f7yww4ddr.com
 tracker.x6c.co
+xalaflix.bet
+xalaflix.boutique
+xalaflix.design
+xalaflix.fitness
+xalaflix.garden
 xalaflix.in
+xalaflix.kids
+xalaflix.pet
+xalaflix.pro
+xalaflix.site
+xalaflix.uk
+xalaflix-fr.cv
+xalaflix-iptv.fr
+xalaflix-to.click
+xalaflix1.fr
+xalaflix2.fr
+xalaflix2.world
+xalaflixs.world
+xalaflixtv.mom
+xalaflixx.fr
 xatab-repack.net
 xatab-repack.rip
 xbins.org
