@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-16T18:27:03.648Z
-# Entries: 12133
+# Last updated: 2026-03-17T06:29:50.369Z
+# Entries: 12123
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -373,6 +373,7 @@ open.8a.is
 8wsm.com
 909190.xyz
 9142346511.xyz
+opentracker.91kf.top
 9276.me
 944118.xyz
 94hiphop.com
@@ -4235,6 +4236,7 @@ fulllengthaudiobooks.net
 fullmaza1.cfd
 fullmoviefilm.org
 fullmoviehd4k.com
+fullmoviestar.xyz
 fullmoviz.xyz
 fullpcsoftware.com
 fullprogramlarindir.com
@@ -5893,8 +5895,6 @@ lacasadeltikitaka.net
 lacraiatorrent.com
 laden.to
 ladresstina.com
-lafouinedunet.com
-lagazzettadelcorsaro.com
 mail.lakameraobscura.com
 lalbatte.net
 retracker.lanta.me
@@ -5954,7 +5954,6 @@ les-freres-ainsworth.com
 lesbians4u.org
 lesen.to
 lesliestone.tv
-lesseriestreaming.org
 letflix.tv
 letgames.org
 letitbit.net
@@ -6005,7 +6004,6 @@ limetor.com
 limetor.pro
 limetorrent.cc
 limetorrent.ws
-limetorrent.xyz
 limetorrents.asia
 limetorrents.at
 limetorrents.buzz
@@ -6127,7 +6125,6 @@ losmovies.sh
 losmovies.us
 losmovies.ws
 lossless.cd
-losslessclub.com
 lostfilm.tv
 lostfilm5.org
 loushao.net
@@ -6357,7 +6354,6 @@ megakino.eu
 megakino.how
 megakino.ink
 megakino.ist
-megakino.kim
 megakino.kiwi
 megakino.men
 megakino.moi
@@ -6371,7 +6367,6 @@ megakino.red
 megakino.rip
 megakino.si
 megakino.style
-megakino.tips
 megakino.video
 megakino.vin
 megakino.ws
@@ -6494,7 +6489,6 @@ mkvcinemas.app
 mkvcinemas.bet
 mkvcinemas.cat
 mkvcinemas.ceo
-mkvcinemas.co
 mkvcinemas.eu
 mkvcinemas.fit
 mkvcinemas.gift
@@ -6654,7 +6648,6 @@ movie4k.tv
 movie4k-to.cfd
 movie4kto.net
 movie4u.cc
-movie4u.live
 movie4u.org
 movieajip.online
 moviebazar.net
@@ -6688,7 +6681,6 @@ movielair.cc
 moviemagnet.co
 moviemaya.com
 moviemela.live
-movieminions.cc
 movieninja.io
 movieninja.to
 movienoe.com
@@ -6705,7 +6697,6 @@ movies123.email
 movies123.live
 movies123.pk
 movies123.sbs
-movies123.studio
 movies123.top
 movies123-online.cam
 movies123-online.me
@@ -7165,7 +7156,6 @@ newzleech.com
 newznab.com
 nextgenroms.com
 nextorrent.town
-nextream.click
 nextwap.net
 nextwarez.com
 nexus-games.net
@@ -7414,7 +7404,6 @@ ol-am.top
 olala123-warez.com
 olamovies.app
 olamovies.download
-olamovies.shop
 olamovies.top
 olamovies.watch
 old-games.ru
@@ -7494,7 +7483,6 @@ tracker.openlook.me
 openpirate.cc
 openpirate.org
 opensharing.org
-opentor.org
 tracker.opentorrent.top
 opentracker.cc
 opentracker.io
@@ -7616,6 +7604,8 @@ tracker.paradise-tracker.com
 parag.rs
 paranetinfo.com
 parliamentlive.tv
+colibri.parrot.run
+wolf.parrot.run
 tracker.parrotlinux.org
 tracker.parrotsec.org
 partis.si

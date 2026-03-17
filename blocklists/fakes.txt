@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-16T18:27:02.887Z
-# Entries: 14377
+# Last updated: 2026-03-17T06:29:49.735Z
+# Entries: 14358
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -7501,7 +7501,6 @@ lemella.de
 lemondedubainava.shop
 lemsdeutschland.com
 lemsschuhedeutschland.de
-lena-leipzig.de
 lena-moda.com
 lenahockson.com
 lendowl.co
@@ -7676,7 +7675,6 @@ loakeoutlet.shop
 loakeschweiz.net
 locateanyphone.net
 locationconseilsfinanciers.fr
-lockedintrading.co
 lockenbarava.shop
 lockpickingstore.de
 locmyparcel.com
@@ -7779,7 +7777,6 @@ lovozo.de
 lowa--schuhe.com
 lowa-de.com
 lowa-schuhe.net
-lowa-wanderschuhe.com
 lowaapavi.com
 lowabootsaustralia.net
 lowabootsmexico.com
@@ -7864,7 +7861,6 @@ luvori.de
 luvyle.com
 luxavita-berlin.de
 luxde.de
-luxe-collective-fashion.com
 luxeberlin.de
 luxedore.com
 de4.luxedressshop.com
@@ -7883,7 +7879,6 @@ luxurybagya.co
 luxuryholidaysvilla.com
 luxurypillows.pk
 luxuryvetements.com
-luxurywatchoutlet.shop
 luxus-berlin.de
 luxus-love.com
 luxusgeschenke24.com
@@ -7919,7 +7914,6 @@ madelor.com
 madridno94.com
 magag.de
 magalistore.com
-magartens.com
 magasinhokabelgique.com
 magasset.com
 magenta-oat.com
@@ -8068,7 +8062,6 @@ markezia.com
 markisenrabatt.com
 markmale.de
 markt.life
-marktexpress.com
 marktpay.com
 marktplatz-apo.com
 marktpro.de
@@ -8398,7 +8391,6 @@ milea-wien.at
 milentech.com
 milleis-bk.com
 milleniumchain.com
-milleniumcp.com
 millioncrystal.com
 millwoodshomege.com
 milopuzzle.shop
@@ -8458,7 +8450,6 @@ mizunode.com
 mizunodeutschland.de
 mizunos.de
 mizunosaleportugal.com
-mizunsport.com
 mjmconseil.fr
 mjonessb.com
 mkbaudesign.de
@@ -8468,7 +8459,6 @@ mkleid.de
 mknen.com
 mlbhungary.com
 mlcodwhz.shop
-mle-aumueller.de
 mmk-shoppingwelt.de
 mml-container.de
 mms-kapky.cz
@@ -8751,7 +8741,6 @@ musikgearhub.com
 musikgermany.com
 musikgeschaft.com
 musikhaus-neumann.de
-musikhaus-vogel.de
 musikinstrumente-profi.com
 musiknotenmarkt.com
 musikstrings.com
@@ -8780,7 +8769,6 @@ mybondify.com
 mycarbon.cc
 myclothesera.com
 mycrypto24.com
-myearthflow.com
 myeasykit.com
 myelektrocenter.com
 myfaifo.com
@@ -8987,7 +8975,6 @@ nauticalpartsstore.com
 nauticaromania.com
 nauticasdeutschland.de
 nauticaukwebsite.com
-nauticspace.com
 nauticwerk.com
 navaro-shop.de
 navaru.de
@@ -9005,8 +8992,6 @@ neatherlandnewstoday.com
 nebula-witch-power.com
 nebulain.com
 necessityi.com
-necessoul.com
-neckarhomeappliances.store
 necklaceh.com
 neded.de
 needsary.com
@@ -9091,7 +9076,6 @@ newbrousblades.com
 newbuildingsupplies.com
 newcfds.com
 newchrisreeve.com
-newdorinalingerie.com
 neweary.com
 neweuropetoday.com
 newfulfilment.com
@@ -9119,7 +9103,6 @@ nexberg-ag.co
 nexet.xyz
 nexo-ki.com
 nexoil.de
-nexonmarkets.com
 nexorazen.com
 nexsource.de
 next-bricks.com
@@ -9227,7 +9210,6 @@ nordoil.de
 nordoutlets.com
 nordspur.de
 nordvian.com
-nordyen-de.com
 norfolkhotels24.com
 norge-apt.com
 norge-ed.com
@@ -9315,7 +9297,6 @@ nur-uhren.de
 nurkaffee.at
 nursingaccessoriesstore.com
 nurssery.com
-nutrimcaps.com
 nuviaecom.fr
 nuvistio.com
 nuvonda.shop
@@ -9457,7 +9438,6 @@ ohpollydeutschland.de
 ohr-freund.de
 ohssl.org
 oikmvbuy.shop
-oil-direkt.com
 oil-direkt.de
 oil-profits.com
 oildirekt24.de
@@ -9581,7 +9561,6 @@ onlinereorg.com
 onlinetopgarden.com
 onlineusbike.com
 onlinewerkzeugzubehor.com
-onlineworkglobal.works
 only-baby.de
 onlyaya.com
 onlyjustshoes.com
@@ -11932,6 +11911,7 @@ spowo.at
 sprachgenie.at
 sprayitonyou.com
 spring4sale.com
+springclearance.club
 sprint-market.com
 spruhfarbenprofi.com
 de.spsfurntiure.com
@@ -13969,6 +13949,7 @@ winkler-modehaus.de
 winobin.com
 cfd.winstonmartin.com
 winterfallkits.de
+winterflashsale.club
 winterholt.com
 winterjacken-saleshop.com
 winterkraft.de
