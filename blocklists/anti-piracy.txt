@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-17T06:29:50.369Z
-# Entries: 12123
+# Last updated: 2026-03-17T18:26:25.530Z
+# Entries: 12162
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -2189,6 +2189,7 @@ coflix.tel
 coflix.tv
 coflix.wiki
 coflix.zip
+cointv.site
 coldplaybootlegs.com
 colivioo.com
 colombo-bt.org
@@ -3889,6 +3890,13 @@ firstrow1.xyz
 firstrowsport.org
 firstsrows.net
 firstsrowsports.tv
+fishtank.beer
+fishtank.expert
+fishtank.guide
+fishtank.live
+fishtank.me
+fishtank.my
+fishtank.rip
 fitgirl-repacks.site
 fitgirl-repacks.website
 tracker.fixr.pro
@@ -4748,17 +4756,53 @@ hddvdrip.com
 hdencode.com
 hdencode.org
 hdf.world
+hdfilme.app
+hdfilme.baby
+hdfilme.best
+hdfilme.bid
 hdfilme.blog
+hdfilme.cc
 hdfilme.cloud
+hdfilme.codes
+hdfilme.cool
+hdfilme.cv
 hdfilme.cx
+hdfilme.day
+hdfilme.dog
+hdfilme.fun
+hdfilme.garden
+hdfilme.green
+hdfilme.hair
+hdfilme.homes
+hdfilme.host
+hdfilme.icu
 hdfilme.io
+hdfilme.legal
+hdfilme.life
+hdfilme.loan
+hdfilme.lol
+hdfilme.me
+hdfilme.media
+hdfilme.movie
+hdfilme.my
+hdfilme.name
+hdfilme.nl
 hdfilme.party
+hdfilme.pics
 hdfilme.press
+hdfilme.pro
 hdfilme.ru
+hdfilme.skin
+hdfilme.store
+hdfilme.su
+hdfilme.tax
+hdfilme.team
 hdfilme.to
 hdfilme.top
+hdfilme.tube
 hdfilme.tv
 hdfilme.uno
+hdfilme.website
 hdfilme-to.my
 hdfilme-to.top
 hdfilme-tv.cc
@@ -7608,7 +7652,6 @@ colibri.parrot.run
 wolf.parrot.run
 tracker.parrotlinux.org
 tracker.parrotsec.org
-partis.si
 passion-musique.net
 passpulse.net
 passthepopcorn.me
@@ -7731,7 +7774,6 @@ piratebay.party
 piratebay.pro
 piratebay.red
 piratebay.surf
-piratebay.tech
 piratebay.to
 piratebay.website
 piratebay.zone
@@ -8033,7 +8075,6 @@ old.pubfilms.club
 publicdomaintorrents.com
 publicdomaintorrents.info
 publichd.se
-tracker.publichd.eu
 publictorrent.net
 publictracker.ch
 publictracker.xyz
@@ -8123,7 +8164,6 @@ putlockertv.onl
 putlockertv.to
 putlockerwatch.com
 putlockerz.mov
-tracker.puvvadi.net
 puzo.org
 pwtorrents.net
 qatarstreams.me
@@ -8235,7 +8275,6 @@ rarbgunlock.com
 rarbgway.org
 rarbgweb.org
 rarbt.com
-rardownload.net
 rarefilmm.com
 rarelust.com
 rarewares.org
