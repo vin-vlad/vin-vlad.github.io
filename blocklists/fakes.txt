@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-17T18:26:25.426Z
-# Entries: 14388
+# Last updated: 2026-03-18T06:30:56.932Z
+# Entries: 14358
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -11740,7 +11740,6 @@ softpulse.digital
 softritualsco.shop
 software-onsale.com
 softwarebilliger1.de
-hipoff.sohat.shop
 sohoohair.de
 soideverteilung.com
 sola-mode.de
@@ -11883,7 +11882,6 @@ spielzeugautowelt.com
 spielzeugelektronik.com
 spielzeugeneu.de
 spielzeugopapop.shop
-spielzeugtonie.com
 spigendeutschlandshop.com
 spimbey.com
 spiralo.de
@@ -11909,7 +11907,6 @@ sportausrustung-de.com
 sportbekleidung-de.com
 sportbekleidungde.com
 sportdamen.de
-sportfishtackle-de.com
 sportgorilla.de
 sportkleidungwelt.com
 sportkluftshopava.shop
@@ -12007,7 +12004,6 @@ stationeryoptimal.com
 staubsaugerrabatt.de
 staubzon.de
 stealthgamechanger.com
-steelcabinetsonline.com
 steelite-au.com
 stehaufe.de
 steiffen.shop
@@ -12039,7 +12035,6 @@ stevemaddenwien.at
 stickcars.de
 stickerkollektionenshop.com
 stienen-damast.de
-stihlg.com
 stihlgarten.com
 stil-mode.de
 stilehaus.de
@@ -12399,7 +12394,6 @@ tbdress.com
 tblackfriday.com
 tbtconcept.com
 tbyyf.com
-tbz-versand.de
 tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
@@ -12450,7 +12444,6 @@ teichwunder.com
 teilrad24.de
 teilwerkstatt.com
 teknohaus.de
-telapros.de
 telesys-market.com
 teller-store.com
 teltow-apotheke-berlin.de
@@ -12553,7 +12546,6 @@ thecraftssewing.com
 thecrewclothing.com
 thecryptolimited.com
 thectshirts.com
-thecyclistsupply.com
 thedailyritualscompany.shop
 thedailytelegraphnewstoday.com
 theedwebdeal.com
@@ -12611,7 +12603,6 @@ theresa-klein.de
 thereverselookup.com
 therickhinderer.com
 therling.com
-thermacds.com
 thermaldrill.net
 thermentausch-gwhs.at
 thermenwartung-spezialist.at
@@ -12665,7 +12656,6 @@ thurey.com
 thursdayboots.at
 thursdayboots.de
 thursdayboots-de.com
-thursdayboots-osterreich.at
 thursdaybootsdeutschland.com
 thursdaybootsdeutschland.de
 thursdaybootswien.at
@@ -12701,8 +12691,6 @@ timzin.de
 tinagarten.de
 tipoza.de
 tippsfurkaufhauser.com
-tiraloshop.com
-tischestore.com
 tischlampenstore.com
 tischlerei-brouns.de
 tischlerei-eckart.de
@@ -12754,7 +12742,6 @@ tomsshoesdubai.com
 ton-form-color.com
 tonchearth.pro
 tondeusediscount.com
-tondratex.com
 tonedo.de
 toni-greif.de
 tonies-geschaft.com
@@ -12809,7 +12796,6 @@ topeuropenews.com
 topfahrradzubehor.com
 topfastorder.com
 topflexibility.com
-topheizlosungen.com
 tophousesgoods.com
 topideaberlin.com
 topillstore.com
@@ -12879,7 +12865,6 @@ trade-mbitm.com
 trade-pro.io
 trade-shop.online
 trade-x.net
-tradecapexapp.com
 tradecapital.net
 tradecapital24.com
 tradecircle.org
@@ -12902,7 +12887,6 @@ tradersking.com
 traderush.com
 traderxp.com
 tradeswim.com
-tradetoinvest.com
 tradeviewforex.com
 tradewave.live
 tradiascrypto.de
@@ -12913,11 +12897,9 @@ traditionellertee.com
 trageli-tech.de
 tragleicht.de
 trailer-container.com
-trailer-master.de
 trailertour.com
 trakkerbillig.com
 traktorheld.de
-traktoriia.com
 traktorwerk.ch
 trallsland.com
 trangianverkaufe.com
@@ -12965,7 +12947,6 @@ trendboutiquekoln.de
 trendgardinen.de
 trendigehandtaschenkaufen.com
 trendigetasche.com
-trendito.de
 trendpunt.nl
 trendsdelight.com
 trendsmodern.com
@@ -12994,7 +12975,6 @@ triton-online.com
 tritoncapitalmarkets.com
 trivona.de
 trixupmysleeve.com
-trocador.at
 trockenesholz.de
 troiphveilla.de
 troll-kinderladen.com
@@ -13088,7 +13068,6 @@ tv-smart.co
 tvctrader.com
 tvidler.com
 tvshop-us.com
-tw-access.com
 twelvewhales.com
 twelvewhales.net
 twilight-fans.de
@@ -13121,7 +13100,6 @@ udofficialalfresco.com
 uesthermaina.shop
 ufolepbourgogne.org
 uggat.at
-uhlsportworld.shop
 uhren-heinrich.com
 uhren-walter.com
 uhrenvip.de
@@ -13188,7 +13166,6 @@ unisonmen.de
 unitechnica.com
 uniteddeliveryagency.com
 unitednudesale.com
-unityappliances.store
 unitywait.com
 universalbourse.com
 universalbundle.com
@@ -13398,7 +13375,6 @@ velionpartner.net
 vellera.de
 velobird-fahrrad.de
 velocityh.com
-velodirectstore.de
 velora-mode.de
 velorgain.com
 veloroil.de
@@ -13584,7 +13560,6 @@ vital-vibe.com
 vitaldelikatesse.com
 vitalgesund.at
 vitalismoemi.com
-vitkovice.net
 vivagopro.com
 vivaiabuty.pl
 vivaiaschuhe.at
@@ -13606,7 +13581,6 @@ vivobarefootschuhede.com
 vivobarefootschweiz.com
 vivobarefootshopberlin.de
 vivobarefootwien.at
-vivohogarvida.com
 vivomarkt.com
 vivvamixstore.com
 vixi.store
@@ -13654,7 +13628,6 @@ vollyshop.de
 voltabuy.com
 voltbankinternational.com
 voltryzapex.at
-voltsbikeshop.com
 volture.de
 voltus-elektroshop.de
 volvax.de
@@ -13754,12 +13727,10 @@ warmlogic.de
 warmood.ch
 warmthsta.com
 wascheparfum.at
-wascheparfume.de
 washingtontimesnewstoday.com
 wasserbetten-centrum.at
 wasserflorade.com
 wasserflorashop.com
-wasserhaus.shop
 wasserpflegede.com
 wasserspender-deutschland.de
 wassersportwert.com
@@ -13994,7 +13965,6 @@ withstndridg.com
 wittelsbach-partner.com
 wittelsheimholz.com
 witten-berg.de
-wiv-verwertung.de
 wivaro.de
 reiseweltat6.wixsite.com
 wjfsports.com

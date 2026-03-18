@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-17T18:26:25.530Z
-# Entries: 12162
+# Last updated: 2026-03-18T06:30:57.801Z
+# Entries: 12120
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -3892,7 +3892,6 @@ firstsrows.net
 firstsrowsports.tv
 fishtank.beer
 fishtank.expert
-fishtank.guide
 fishtank.live
 fishtank.me
 fishtank.my
@@ -4763,46 +4762,31 @@ hdfilme.bid
 hdfilme.blog
 hdfilme.cc
 hdfilme.cloud
-hdfilme.codes
 hdfilme.cool
 hdfilme.cv
 hdfilme.cx
 hdfilme.day
-hdfilme.dog
 hdfilme.fun
 hdfilme.garden
-hdfilme.green
 hdfilme.hair
-hdfilme.homes
-hdfilme.host
 hdfilme.icu
 hdfilme.io
 hdfilme.legal
 hdfilme.life
-hdfilme.loan
-hdfilme.lol
 hdfilme.me
-hdfilme.media
-hdfilme.movie
 hdfilme.my
-hdfilme.name
 hdfilme.nl
 hdfilme.party
-hdfilme.pics
 hdfilme.press
-hdfilme.pro
 hdfilme.ru
-hdfilme.skin
 hdfilme.store
 hdfilme.su
-hdfilme.tax
 hdfilme.team
 hdfilme.to
 hdfilme.top
 hdfilme.tube
 hdfilme.tv
 hdfilme.uno
-hdfilme.website
 hdfilme-to.my
 hdfilme-to.top
 hdfilme-tv.cc
@@ -5364,6 +5348,7 @@ imperiofilmes.org
 impulsive.hu
 imzdl.com
 anitube.in.ua
+tracker.exe.in.th
 friends.in.ua
 inattv203.cfd
 inattv209.cfd
@@ -6293,6 +6278,7 @@ mangareader.tv
 mangasee123.com
 mangasukuna.top
 mangogamers.com
+mania-torrent.org
 manicomio-share.com
 manikdicommunication.com
 bubu.mapfactor.com
@@ -8315,7 +8301,6 @@ redditnflstreams.net
 redditnhlstreams.com
 redditsoccerstreams.one
 redditsoccerstreams.tv
-redditsoccerstreams.watch
 redditsoccerstreams.xyz
 redecanais.zip
 ica1616.redirectme.net
@@ -8489,7 +8474,6 @@ rsoccerstreams.com
 rsoccerstreams.net
 rth77.ru
 rtorrent.net
-rulu.co
 wsad.run.place
 rune-server.org
 runwaybroadband.com
@@ -8719,7 +8703,6 @@ seriesflix.pics
 seriesflix.pro
 seriesflix.rest
 seriesflix.sbs
-seriesflix.skin
 seriesflix.taxi
 seriesflix.team
 seriesflix.top
@@ -8796,7 +8779,6 @@ sharemania.us
 sharemovies.net
 sharereactor.ru
 tracker.sharereactor.ro
-sharespark.cfd
 sharetheremote.org
 sharetv.com
 sharetv.org
@@ -8895,7 +8877,6 @@ skymovieshd.mba
 skymovieshd.pw
 skymovieshd.shop
 skymovieshd.tattoo
-skymovieshd.tech
 skymovieshd.tw
 skymovieshd.us
 skynetbd.net
@@ -9137,7 +9118,6 @@ sportsbay.top
 sportschamp.fun
 sportsleading.online
 sportslive.me
-sportsnetwork.fit
 sportsonline.gl
 sportsonline.to
 v3.sportsonline.sx
@@ -9179,7 +9159,6 @@ sportzonline.com
 sportzonline.live
 sportzonline.ps
 sportzonline.pw
-sportzonline.si
 sportzonline.site
 sportzonline.st
 sportzonline.to
@@ -9308,7 +9287,6 @@ streameast.soccer
 streameast.xyz
 streamed.pk
 streamed.st
-streamed.su
 streamees.com
 streamerflix.xyz
 streamflix.one
@@ -9428,7 +9406,6 @@ streamingcommunity.to
 streamingcommunity.us
 streamingcommunity.vg
 streamingcommunity.vip
-streamingcommunity.wang
 streamingcommunity.ws
 streamingcommunity.xyz
 streamingcommunityz.agency
@@ -9577,7 +9554,6 @@ streamingcommunityz.wiki
 streamingcommunityz.win
 streamingcommunityz.xn--6frz82g
 streamingcommunityz.yoga
-streamingdivx.ch
 streaminggratuit.cc
 streaminggratuit.rip
 streamingon.org
@@ -9759,7 +9735,6 @@ tantifilm.asia
 tantifilm.be
 tantifilm.bet
 tantifilm.bingo
-tantifilm.biz
 tantifilm.blog
 tantifilm.buzz
 tantifilm.casa
@@ -9788,7 +9763,6 @@ tantifilm.living
 tantifilm.locker
 tantifilm.mba
 tantifilm.me
-tantifilm.media
 tantifilm.mobi
 tantifilm.name
 tantifilm.net
@@ -9939,7 +9913,6 @@ themfire.pro
 themicrotech.net
 themirror.wiki
 themixingbowl.org
-themovie123.org
 themoviebay.net
 themoviehub.org
 themoviesflix.plus
@@ -9966,13 +9939,11 @@ thepiratebay.cx
 thepiratebay.ee
 thepiratebay.fail
 thepiratebay.fm
-thepiratebay.gd
 thepiratebay.icu
 thepiratebay.monster
 thepiratebay.org
 thepiratebay.party
 thepiratebay.pe
-thepiratebay.press
 thepiratebay.red
 thepiratebay.rocks
 thepiratebay.se
@@ -10017,8 +9988,6 @@ thepokerbay.org
 thepopcorntime.net
 wiki.theppn.org
 cricfree.theproxy.vip
-horriblesubs.theproxy.app
-viprow.theproxy.app
 therarbg.com
 tracker.therarbg.to
 yaps.therarbg.to
@@ -10272,7 +10241,6 @@ torrentdb.li
 torrentdia.com
 torrentdia100.com
 torrentdia2.com
-torrentdia99.com
 torrentdosfilmes.tv
 torrentdosfilmes2.net
 torrentdosfilmeshd2.net
@@ -10490,7 +10458,6 @@ traffilm.net
 traht.org
 trailers.to
 trainsaw.com
-tranceroute.com
 trancetraffic.com
 transamrit.net
 transmissionbt.com
@@ -10901,7 +10868,6 @@ ustv247.tv
 utorrent.com
 utorrent.li
 utorrentfilmi.ru
-utorrento.ru
 utorrentz2.in
 tracker.uw0.xyz
 uwatch.to
@@ -10948,10 +10914,8 @@ vegamovies.ad
 vegamovies.ae
 vegamovies.agency
 vegamovies.ai
-vegamovies.al
 vegamovies.art
 vegamovies.asia
-vegamovies.at
 vegamovies.auction
 vegamovies.ba
 vegamovies.band
@@ -10969,7 +10933,6 @@ vegamovies.business
 vegamovies.cab
 vegamovies.cafe
 vegamovies.cam
-vegamovies.camera
 vegamovies.camp
 vegamovies.cards
 vegamovies.care
@@ -10992,7 +10955,6 @@ vegamovies.creditcard
 vegamovies.cricket
 vegamovies.cv
 vegamovies.dating
-vegamovies.day
 vegamovies.degree
 vegamovies.dev
 vegamovies.diet
@@ -11079,7 +11041,6 @@ vegamovies.ph
 vegamovies.phd
 vegamovies.photo
 vegamovies.photos
-vegamovies.plus
 vegamovies.press
 vegamovies.ps
 vegamovies.pt
@@ -11104,7 +11065,6 @@ vegamovies.skin
 vegamovies.sl
 vegamovies.sm
 vegamovies.solar
-vegamovies.spa
 vegamovies.spot
 vegamovies.ss
 vegamovies.st
@@ -11119,7 +11079,6 @@ vegamovies.tips
 vegamovies.to
 vegamovies.today
 vegamovies.travel
-vegamovies.tube
 vegamovies.tv
 vegamovies.tw
 vegamovies.tz
@@ -11185,7 +11144,6 @@ vfserie.com
 vfstreamingseries.com
 vfxdownload.com
 vfxdownloads.net
-vghjnbui1a.cfd
 vhmovies.net
 bt.viachicago.org
 viafnatt.tv
@@ -11289,7 +11247,6 @@ vigorish.ru
 vikv.net
 vimm.net
 vincdn.net
-vinema.ru
 vinovo.si
 vinovo.to
 violetscans.org
@@ -11703,6 +11660,7 @@ ww1-zktorrent.me
 ww1-zktorrent.town
 ww1-zone-torrent.town
 ww2-nortorrent.com
+ww3-nortorrent.com
 ww4.click
 wwereleases.com
 wwmovies.xyz
