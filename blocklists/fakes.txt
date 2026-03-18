@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-18T06:30:56.932Z
-# Entries: 14358
+# Last updated: 2026-03-18T18:27:05.540Z
+# Entries: 14365
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -311,6 +311,7 @@ alessandrozavettiuk.com
 alessandrozavettiweste.de
 alessoria.de
 alfa-aesar.fr
+alfakherstore.de
 alfcasino1.com
 alfdever.com
 alfinanz.ch
@@ -646,6 +647,7 @@ applemarket.de
 applenext.de
 appliancesglobal.com
 applified.tech
+appolvintop.click
 appreciatil.com
 approvaln.com
 apps-4-you.net
@@ -1912,6 +1914,7 @@ buyhealthandcaremeds.com
 buyheatcore.com
 buyjordan2021.com
 buylowdrugs.com
+buynaturium.shop
 buypillsonlinenorx.com
 buypresents.store
 buyster.xyz
@@ -4697,6 +4700,7 @@ friluftswear.com
 frisch-versand.de
 frischehaut.com
 frischundklar.de
+fritz-container-gmbh.de
 fritzboxtech.shop
 fritzboxzone.de
 fritzelektro.de
@@ -5387,6 +5391,7 @@ grilmarktt.com
 grimhat.com
 griw.xyz
 grizzlyroids.shop
+grkwork.com
 grobenextapro.org
 groheverkauf.com
 grossiste-parfum-generique.com
@@ -6021,7 +6026,6 @@ hithertoh.com
 hiwered.com
 hiziel.de
 hjchelmetsdeal.com
-hjfh.shop
 hkm-sport.shop
 hkp-biofuels.com
 hlelu.com
@@ -6960,6 +6964,7 @@ katzenweltde.de
 katzeohr.de
 katzeonline.com
 kauf-markt.com
+kaufen-vignette.shop
 kaufen-virium.com
 kaufengrillzubehor.com
 kaufenhockey.com
@@ -8598,6 +8603,7 @@ modishoutdooritem.com
 moditec.fr
 modvigil.shop
 modvigil.sk
+moebelcenterremscheid.de
 moebelonline24.com
 moebelpunkt.com
 moebelundzubehoer.com
@@ -9285,6 +9291,7 @@ not-schlosser.at
 notationi.com
 notebookakku.at
 notebooknetzteileshop.de
+notenglanz.com
 notenweltde.com
 noticabreal.com
 notionmist.com
@@ -10938,6 +10945,7 @@ rollandbois.com
 rollangel.com
 rollenspielgeschaft.com
 rollenzeit.de
+rollladenjalousie.com
 rollstuhlzubehor.com
 romanticg.com
 romantichos.com
@@ -11883,6 +11891,7 @@ spielzeugelektronik.com
 spielzeugeneu.de
 spielzeugopapop.shop
 spigendeutschlandshop.com
+spikonig.de
 spimbey.com
 spiralo.de
 spiretime.com
@@ -13562,6 +13571,7 @@ vitalgesund.at
 vitalismoemi.com
 vivagopro.com
 vivaiabuty.pl
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -13734,6 +13744,7 @@ wasserflorashop.com
 wasserpflegede.com
 wasserspender-deutschland.de
 wassersportwert.com
+wasserwelpen.de
 watardrops.store
 watch-fakes.to
 watchcod-ca.shop
@@ -13894,6 +13905,7 @@ westshares.com
 weteis.com
 wetsuitus.com
 wetting.de
+wfh-markt.de
 whatsexy.de
 wheatinfall.com
 wheelix.net
@@ -14066,7 +14078,6 @@ wwllan.com
 ruckgabe.wwmode.de
 wwwhamsterkiste.de
 wwwvvvbbb.shop
-wynnvest.com
 x-clarity.com
 x-wallart.com
 x-watches.co
@@ -14124,7 +14135,6 @@ xpertmarket.com
 xperttrekking.com
 xpmarkets.com
 fr.xpoken.com
-xportal-management.com
 xprtcoin.com
 xqojgt.shop
 xrayshops.com
@@ -14133,12 +14143,10 @@ xrl-today.com
 xspiegel.de
 xsy198.com
 xtb-partner.com
-m.xtop.cc
 xtrader365.com
 xtxtshop.com
 xupe.at
 xwiftlogistics.com
-xxgab.com
 xxxxlutz.shop
 xyiyi.com
 de.xynapay.com
@@ -14324,7 +14332,6 @@ ziviveo5.pro
 zivyastore.com
 ziyarafashion.shop
 ziyaratelaviv.com
-zkort.shop
 zodernus.com
 zofita.com
 ger.zoibakii.com
