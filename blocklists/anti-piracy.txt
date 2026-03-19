@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-18T18:27:06.384Z
-# Entries: 12142
+# Last updated: 2026-03-19T06:28:03.328Z
+# Entries: 12141
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -5776,7 +5776,6 @@ kinovod311025.pro
 kinox.actor
 kinox.ae
 kinox.am
-kinox.auction
 kinox.blog
 kinox.by
 kinox.cards

@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-18T18:27:05.540Z
-# Entries: 14365
+# Last updated: 2026-03-19T06:28:02.861Z
+# Entries: 14366
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1914,7 +1914,6 @@ buyhealthandcaremeds.com
 buyheatcore.com
 buyjordan2021.com
 buylowdrugs.com
-buynaturium.shop
 buypillsonlinenorx.com
 buypresents.store
 buyster.xyz
@@ -5355,6 +5354,7 @@ greeceex.rest
 greecefarmakeio.com
 greenbitcoin.xyz
 greencrosspharmacy.online
+greenfuelworks.com
 greenhousesshop.com
 greenmah.shop
 greentec-handel.de
@@ -5993,6 +5993,7 @@ highjel.com
 highlandshotels.net
 highluxury.sk
 highluxurystore.co
+hightaurus.io
 hightqualitywear.com
 hihstore.com
 hijabsalmaava.shop
