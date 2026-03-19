@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-19T06:28:02.861Z
-# Entries: 14366
+# Last updated: 2026-03-19T18:24:08.778Z
+# Entries: 14370
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -2819,6 +2819,7 @@ d2-si.fr
 daboisdechauff.com
 dach-remscheid.de
 dachdeko.com
+dachlust.com
 dackelwelpen.at
 daddeln.net
 m.daefox.com
@@ -6027,6 +6028,7 @@ hithertoh.com
 hiwered.com
 hiziel.de
 hjchelmetsdeal.com
+hjfh.shop
 hkm-sport.shop
 hkp-biofuels.com
 hlelu.com
@@ -7147,6 +7149,7 @@ klempnerwerkzeug.com
 kleverzins.de
 klimmotorrad.com
 klingerdirndl.com
+klots.shop
 klugeidee.com
 klugezwerge.de
 klum-braun.de
@@ -7290,6 +7293,7 @@ kuehnenagel-service.de
 kuhschelhof.de
 kulbit.lv
 kundendienstexperte.at
+kundendienstgeraete.at
 kundendienstline.de
 kundenservice-hotline.at
 kundigenbei.at
@@ -11708,6 +11712,7 @@ smpecasparts.com
 smtoygalaxy.com
 snapbartar.com
 snapposh.com
+p6cj.snarkcactus.life
 snckhor-materiaux.com
 sneakermood.eu
 sneakersberlin.de
@@ -13572,7 +13577,6 @@ vitalgesund.at
 vitalismoemi.com
 vivagopro.com
 vivaiabuty.pl
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de

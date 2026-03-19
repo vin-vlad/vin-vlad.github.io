@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-19T06:28:03.328Z
-# Entries: 12141
+# Last updated: 2026-03-19T18:24:08.968Z
+# Entries: 12144
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -218,6 +218,7 @@ tracker.1h.is
 1stream.top
 1street.ru
 1tamilblasters.how
+1tamilmv.army
 1tamilmv.gs
 1tamilmv.pet
 1techno.org
@@ -572,6 +573,7 @@ allkey.org
 allmacworlds.com
 allmanga.to
 allmodapk.de
+allmovieland.you
 allmoviesforyou.co
 allmovieshub.win
 allmyroms.net
@@ -3871,6 +3873,7 @@ filmywap.one
 filmze.rip
 filmzenstream.online
 filmzenstream.tube
+filmzevkim.com
 filmzie.com
 filser.cc
 fin101.online
@@ -9616,7 +9619,6 @@ streamsports99.su
 streamsports99.tv
 streamsports99.website
 streamsthunder.tv
-streamsworld.cfd
 streamtape.com
 streamtp10.com
 streamwatch.online
@@ -11130,6 +11132,7 @@ vegamoviesa.diy
 vegamoviesog.site
 vegamovles.com
 vegamovles.pics
+veidtr.com
 velocinator.tv
 veoble.com
 veranime.top
