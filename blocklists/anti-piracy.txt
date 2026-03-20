@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-19T18:24:08.968Z
-# Entries: 12144
+# Last updated: 2026-03-20T06:25:29.825Z
+# Entries: 12146
 tracker.guguan.000.pe
 003396815.xyz
 004430.xyz
@@ -7066,6 +7066,7 @@ nanniesofgreenhills.com
 www.tracker.nano-net.ro
 nantong101.ru
 tracker.nanyangpt.com
+nartlof.com
 natorrent.com
 natsumi.fun
 nattawat.org
@@ -8366,6 +8367,7 @@ tracker.rescuecrew7.com
 torrent.resonatingmedia.com
 respawn.ca
 cdn.retget.ru
+pybittrack.retiolus.net
 retrogamechampion.com
 retrogametalk.com
 retrostic.com
