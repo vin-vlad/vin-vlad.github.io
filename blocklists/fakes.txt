@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-21T06:18:54.619Z
-# Entries: 14395
+# Last updated: 2026-03-21T18:12:28.843Z
+# Entries: 14412
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -52,8 +52,8 @@ eu.2bagsvalley.cn
 365pills.com
 3d-printing.store
 3racingparts.com
+4k-iptv-direct.com
 4rxofficial.com
-4u2ride.eu
 5-drugs.com
 52magicdownload.com
 52magicdownloads.com
@@ -84,6 +84,7 @@ aacreek-ranch.de
 aaronallen.top
 aatrailers.de
 abbigliamentoscarpe.com
+abbott-tech.net
 abcbinaire.com
 abdeckplanenmotor.com
 abeautybuffet.com
@@ -595,6 +596,7 @@ antenaschile.cl
 antepmobilya.com
 anticipatei.com
 antobi-shop.de
+anuraclo.com
 any-trades.com
 anyvibe.de
 anzugeshop.com
@@ -1727,6 +1729,7 @@ boxinvesting.com
 boxspringpro.com
 boxx-container.de
 bozok.at
+bozzer.de
 bp-analytics.de
 bp-direct.com
 bp-heizoel.de
@@ -1933,6 +1936,7 @@ bxrlin.de
 by-annameyer.de
 by-emmamuller.de
 by-olana.com
+bybitbaltic.info
 bydeia.com
 byilse.de
 bylola-store.de
@@ -2724,6 +2728,7 @@ crocsuruguay.net
 crokdalien.com
 crop-bytes.com
 crossfitsuomi.co
+crown-vintage.de
 crownet.com
 crownno.com
 crugo.de
@@ -2900,6 +2905,7 @@ davinci-wear.com
 davishop.de
 dawahandel.de
 daysgiftrewards.com
+daytoday-deals.com
 dazalle.com
 dbackdrop.de
 dbestbrands.com
@@ -3234,6 +3240,7 @@ digi-markets.de
 digipoint.org
 digipulse.online
 digisingl.ru
+digital-beast.tech
 digital-starten.com
 digitalakku.de
 digitalheizer.de
@@ -4059,6 +4066,7 @@ everlastosterreich.at
 everlodge.io
 evermily.com
 evershape.at
+everyday-outdoor.de
 everyknives.com
 everyswimsuit.com
 evisas.travel
@@ -4782,6 +4790,7 @@ fxcmanagement.com
 fxlivecrypto-option.net
 fxnovus.com
 fxpoint.co
+fxrikg.shop
 fxsep.com
 fyebuy.com
 fynixia.com
@@ -4969,7 +4978,6 @@ gebuhr-tech.de
 geflowing.de
 gelbente.de
 geldvision.com
-gelmalls.com
 gemhearingaids.com
 gemoneo.com
 generic4all-global.com
@@ -7188,6 +7196,7 @@ kobaltoutlet.com
 kobanga.de
 kobe-voitore.com
 koch-handel24.de
+kochand.com
 kochbucd.de
 kochenbackenneu.de
 kochenstein.de
@@ -7335,6 +7344,8 @@ kurzhantelnshop.com
 kuscheltiereteddys.com
 kwardany.com
 kwikkards.com
+kx-tools.uk
+kxhm-store.com
 kyma-store.de
 kynaz10fashion.com
 kynubeauty.de
@@ -8495,6 +8506,7 @@ missomajewellery.com
 missor.top
 misterhaushalt.de
 misterlamp.de
+misterwatch.shop
 miswimbest.com
 mitchellandness-de.com
 mitrueshop.com
@@ -11710,6 +11722,7 @@ smartbuyglasses.at
 smartcookgear.com
 smartelampen.com
 smartelektroshop.com
+smarthauswerk.com
 smartheizer.de
 smartheizoel.de
 smarthitzen.de
@@ -12143,6 +12156,7 @@ strausseu-vip-online.shop
 strawberryjamshop.com
 strawberrymilkshop.com
 streakk.io
+stream4k-tv.pro
 streetforlife.com
 streetsynergies.com
 streibl-garten24.de
@@ -12538,6 +12552,7 @@ teveo-germany.de
 teveoaustria.at
 teveogermany.com
 teveoosterreich.at
+teveoproducts.com
 tewango.de
 texsatelsac.com
 textileproductss.com
@@ -13558,6 +13573,7 @@ vinissage.de
 vinospezial.com
 vinsimo.com
 vinsrougesboutique.com
+vintage-watch-hub.com
 vintageladies.de
 vintaro.de
 vintedreselling.eu
@@ -14023,6 +14039,7 @@ wohlrab-handel.de
 wohn-perle.de
 wohndekode.com
 wohnelektro.com
+wohnenrabatt.com
 wohngartenshop.de
 wohnkuchede.com
 wohnlichkeiterschaffen.com
