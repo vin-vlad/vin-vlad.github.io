@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-21T18:12:28.843Z
-# Entries: 14412
+# Last updated: 2026-03-22T06:23:47.236Z
+# Entries: 14404
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -52,7 +52,6 @@ eu.2bagsvalley.cn
 365pills.com
 3d-printing.store
 3racingparts.com
-4k-iptv-direct.com
 4rxofficial.com
 5-drugs.com
 52magicdownload.com
@@ -84,7 +83,6 @@ aacreek-ranch.de
 aaronallen.top
 aatrailers.de
 abbigliamentoscarpe.com
-abbott-tech.net
 abcbinaire.com
 abdeckplanenmotor.com
 abeautybuffet.com
@@ -2728,7 +2726,6 @@ crocsuruguay.net
 crokdalien.com
 crop-bytes.com
 crossfitsuomi.co
-crown-vintage.de
 crownet.com
 crownno.com
 crugo.de
@@ -3240,7 +3237,6 @@ digi-markets.de
 digipoint.org
 digipulse.online
 digisingl.ru
-digital-beast.tech
 digital-starten.com
 digitalakku.de
 digitalheizer.de
@@ -7344,8 +7340,6 @@ kurzhantelnshop.com
 kuscheltiereteddys.com
 kwardany.com
 kwikkards.com
-kx-tools.uk
-kxhm-store.com
 kyma-store.de
 kynaz10fashion.com
 kynubeauty.de
@@ -12156,7 +12150,6 @@ strausseu-vip-online.shop
 strawberryjamshop.com
 strawberrymilkshop.com
 streakk.io
-stream4k-tv.pro
 streetforlife.com
 streetsynergies.com
 streibl-garten24.de
@@ -13573,7 +13566,6 @@ vinissage.de
 vinospezial.com
 vinsimo.com
 vinsrougesboutique.com
-vintage-watch-hub.com
 vintageladies.de
 vintaro.de
 vintedreselling.eu
