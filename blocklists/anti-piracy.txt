@@ -1,5 +1,5 @@
 # anti-piracy
-# Last updated: 2026-03-22T06:23:47.286Z
+# Last updated: 2026-03-22T18:13:13.716Z
 # Entries: 12147
 tracker.guguan.000.pe
 003396815.xyz
@@ -467,6 +467,7 @@ abrase.beer
 abrokegamer.com
 abv-media.ru
 ac-market.org
+acermovies.fun
 acetorrents.net
 acg.rip
 bt.acg.gg
@@ -1250,7 +1251,6 @@ bdixtorrent.com
 bdlan.net
 bdlivezone.com
 bdmovies.net
-bdremux.club
 bdspeed.com
 bdtv.live
 bdupload.asia
