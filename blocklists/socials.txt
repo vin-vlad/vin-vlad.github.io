@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-03-23T06:34:37.639Z
-# Entries: 889
+# Last updated: 2026-03-23T18:23:40.235Z
+# Entries: 888
 2ch.org
 4cdn.org
 4chan.org
@@ -854,7 +854,6 @@ vk.design
 vk.link
 vk.me
 vk.ru
-vkcache.com
 vkgo.app
 vklive.app
 vkmessenger.app
