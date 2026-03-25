@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-25T06:30:24.223Z
-# Entries: 12184
+# Last updated: 2026-03-25T18:25:45.141Z
+# Entries: 12193
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -70,6 +70,13 @@ weedy.1.vg
 1080-kino.com
 10drives.com
 10hitmovies.click
+10hitmovies.club
+10hitmovies.com
+10hitmovies.fit
+10hitmovies.help
+10hitmovies.lat
+10hitmovies.lol
+10hitmovies.one
 10kol.tv
 10mbit.com
 111movies.net
@@ -4396,6 +4403,7 @@ gbwhatspro.com
 m.gcao.net
 tracker.gcrenwp.top
 tracker.gcvchp.com
+gd8lebaran.com
 gdekino.me
 tracker.gdp.pw
 gdplayer.to
@@ -10251,6 +10259,7 @@ toros.co
 torproxy.org
 torr9.com
 torr9.xyz
+tracker.torr9.net
 torrage.info
 torrends.to
 torrent.ai
