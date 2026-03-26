@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-26T06:33:33.722Z
-# Entries: 12192
+# Last updated: 2026-03-26T18:28:39.692Z
+# Entries: 12193
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -358,6 +358,7 @@ wzone.6x.to
 720pstream.nu
 720pstream.se
 72939229dww.com
+tracker.7471.top
 786livetv.pro
 78964564.xyz
 7mag.net
