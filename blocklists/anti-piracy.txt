@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-25T18:25:45.141Z
-# Entries: 12193
+# Last updated: 2026-03-26T06:33:33.722Z
+# Entries: 12192
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -72,7 +72,6 @@ weedy.1.vg
 10hitmovies.click
 10hitmovies.club
 10hitmovies.com
-10hitmovies.fit
 10hitmovies.help
 10hitmovies.lat
 10hitmovies.lol
