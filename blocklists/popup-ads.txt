@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-03-26T18:28:39.477Z
-# Entries: 54150
+# Last updated: 2026-03-27T06:33:48.887Z
+# Entries: 54151
 0.beer
 0.club
 0.fashion
@@ -42488,6 +42488,7 @@ rusnews.biz
 russianfreedom.com
 rustdesk.io
 rustdesk.pl
+plus.rustfacepunch.com
 rustlenear.com
 rusty-platform.com
 rustyact.pro
