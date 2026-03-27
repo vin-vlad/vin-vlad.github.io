@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-27T06:33:49.126Z
-# Entries: 12193
+# Last updated: 2026-03-27T18:24:49.656Z
+# Entries: 12199
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -877,6 +877,7 @@ animerush.tv
 animes.so
 torrents.animes-bg.com
 animesalt.ac
+animesama.fan
 animeshow.tv
 animesim.com
 animesimple.com
@@ -1868,6 +1869,7 @@ cb01.world
 cb01.ws
 cb01.xyz
 cb01.yachts
+cb0101.pics
 cb01new.center
 cb01new.help
 cb01official.community
@@ -2890,6 +2892,7 @@ dontorrent.info
 dontorrent.org
 dontorrent.phd
 dontorrent.photos
+dontorrent.pink
 dontorrent.promo
 dontorrents.com
 dontorrents.org
@@ -3294,6 +3297,7 @@ enstream.co
 enxf.net
 eogli.org
 eolbd.com
+eonmovies.biz
 eonmovies.fit
 eonmovies.fun
 eonmovies.live
@@ -5948,6 +5952,7 @@ koora365.io
 kooralivs.com
 kopedafotor75.shop
 kora4live.net
+koraonline-yallashoot.com
 home.kray.pw
 kraytracker.com
 ktorrents.com
@@ -6889,6 +6894,7 @@ moviesmod.town
 moviesnation.courses
 moviesnipipay.me
 moviespur.info
+moviesque.me
 moviestape.net
 moviestars.to
 moviestowatch.cc
