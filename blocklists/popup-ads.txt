@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-03-27T18:24:49.604Z
-# Entries: 53290
+# Last updated: 2026-03-28T06:27:20.837Z
+# Entries: 53285
 0.beer
 0.club
 0.fashion
@@ -46738,20 +46738,14 @@ tmbzzscswoyir.space
 ads.tmdlead.com
 tmdqlk.top
 aomenxinpujing.baijiale.tmdss.com
-aomenwangshangduchangwangzhi.bocaiwang.tmdss.com
-hongzuyishi.bocaiwang.tmdss.com
-huangmazhiboba.bocaiwang.tmdss.com
-mengtekaluoyulewang.bocaiwang.tmdss.com
-tianduguojiyulehuisuo.bocaiwang.tmdss.com
+bocaiwang.tmdss.com
 dubowangyeyouxi.tmdss.com
 duboyouxijipojiefangfa.tmdss.com
 feilvbintaiyangcheng77suncjty.tmdss.com
 jishibifenwang.tmdss.com
 liboguojiyule.tmdss.com
 ligaoyulecheng.tmdss.com
-boebaiyulecheng.yulecheng.tmdss.com
-huangguanzhengwangyounajige.yulecheng.tmdss.com
-huanqiuyulecheng.yulecheng.tmdss.com
+yulecheng.tmdss.com
 tmfjas.com
 tmfngnuqxzpux.online
 tmll1.com
@@ -51236,6 +51230,7 @@ worse-mine.com
 qb.worsencabaan.com
 worshippers.store
 worst-message.pro
+worst-parent.pro
 worst-recognition.pro
 worstbreath.pro
 worstvoice.com

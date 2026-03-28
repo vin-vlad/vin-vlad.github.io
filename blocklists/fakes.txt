@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-27T18:24:49.571Z
-# Entries: 14228
+# Last updated: 2026-03-28T06:27:20.809Z
+# Entries: 14238
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -309,6 +309,7 @@ alfa-aesar.fr
 alfakherstore.de
 alfcasino1.com
 alfdever.com
+alfiag.cfd
 alfinanz.ch
 alfonline.de
 alfonsa.de
@@ -2221,7 +2222,6 @@ chicwells.de
 childsafetyseat-shop.com
 chillgod.com
 chilllady.com
-china-hifi-audio.com
 chinesecanadianvoice.ca
 chooseridge.com
 chordiom.com
@@ -4224,6 +4224,7 @@ de.fashvia.shop
 fasonberlin.de
 fast-fatbike.com
 fasteastbv.com
+fastenergy24.com
 fastenerk.com
 fasteupills.shop
 fastforextradelab.com
@@ -4730,6 +4731,7 @@ futuregolds.com
 futurmarket.com
 fuwamof.shop
 fvkiwanis.org
+fwertty.shop
 fx-vantage.com
 fxandco.com
 fxcapitalbank.com
@@ -6301,6 +6303,7 @@ ignitionmodelcars.com
 igona.de
 igotit.top
 ihforex.com
+ihljpbdo.shop
 ihrbedarf.com
 ihremed.de
 ihrepotenzmittel.de
@@ -8303,6 +8306,7 @@ mercator.direct
 mercedes-parts-and-more.de
 mercimunich.de
 mergpath.com
+meridianunitedholdingsnet.digital
 meritdeteno.com
 merlin-apotheke.com
 merlin-kinderladen.com
@@ -8402,6 +8406,7 @@ mineralsglobal.com
 mineralsolutions.de
 miniflix.de
 minimalsurvival.com
+miningrid.com
 mininomade.de
 miniwelpenparadies.com
 minosec.com
@@ -9102,6 +9107,7 @@ next-bricks.com
 next-neu.de
 nextbinary.com
 nextcareerflow.online
+nextchain.at
 nextgenglobalenterprise45.cc
 nextproconnect.online
 nexus-reputation.com
@@ -10083,6 +10089,7 @@ pitvipersunglassesnz.com
 pixelkatze.de
 pixulovesk.click
 pk.toys
+placidco.com
 planeoboden.com
 planetebike24.de
 planetoption.net
@@ -11102,6 +11109,7 @@ sarahravengb.com
 saramaud.com
 sarasarade.shop
 sardinenbarberlinava.shop
+sarlcresmar.com
 sarvamits.com
 saskiabader.de
 satisfiedfurniture.com
@@ -14177,6 +14185,7 @@ zieglerzurich.ch
 zigaretten-bestellen.net
 zigaretten-steuerfrei-bestellen.com
 zigber.com
+zignalor.at
 zigoff.de
 zilool.com
 zimmerpflanzens.com
@@ -14228,4 +14237,5 @@ zweirad-dach.de
 zwergspitzpomeranian.com
 zybux.shop
 zynexorai.at
+zyphorbit.at
 zyphorbit-at.com
