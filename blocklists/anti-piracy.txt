@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-28T06:27:20.855Z
-# Entries: 12199
+# Last updated: 2026-03-28T18:14:08.471Z
+# Entries: 12200
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -8710,6 +8710,7 @@ seedoff.net
 seedpeer.com
 seedpeer.eu
 seedpeer.me
+seedpeer.net
 seedr.cc
 seehd.co
 seehd.nl
