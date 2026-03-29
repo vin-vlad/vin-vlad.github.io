@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-28T18:14:08.413Z
-# Entries: 14238
+# Last updated: 2026-03-29T06:31:31.846Z
+# Entries: 14239
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -4205,7 +4205,6 @@ farmakeioellinika24.com
 farmakeiogr.com
 farmspain.com
 farmtiermarkt.com
-fashican.com
 fashion-ivora.com
 fashionaarmy.com
 fashionablenew.com
@@ -5948,7 +5947,6 @@ high-quality-model.com
 highbroker.com
 highbtcstock.com
 highjel.com
-highlandshotels.net
 highluxury.sk
 highluxurystore.co
 hightaurus.io
@@ -6305,6 +6303,7 @@ igotit.top
 ihforex.com
 ihljpbdo.shop
 ihrbedarf.com
+ihreedelmetallprofis.de
 ihremed.de
 ihrepotenzmittel.de
 ihrerasenmaher.com
@@ -6392,7 +6391,6 @@ indicativet.com
 indigo-investissement.com
 individualm.com
 individualw.com
-indonesiahotel24.com
 indoorecofarm.com
 industrie-moebel.eu
 industriebauladen.com
@@ -7857,6 +7855,7 @@ luvyle.com
 luxavita-berlin.de
 luxde.de
 luxeberlin.de
+luxecycleshop.com
 luxedore.com
 de4.luxedressshop.com
 luxefetch.com
@@ -8360,6 +8359,7 @@ michael-mahr.de
 michaelis-technik.com
 michaelkorsberlin.de
 michaelkorssuisse.net
+michel-auto-concpt.com
 michelinsuisse.com
 mici-tech.de
 micro-spiele.de
@@ -10417,6 +10417,7 @@ purprints.net
 pushup.at
 pv-analyse.com
 pvqkcuin.shop
+pw-express.com
 pyro-effects.com
 pyro-expression.com
 qartelshop.com
