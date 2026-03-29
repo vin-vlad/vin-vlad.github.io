@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-29T06:31:31.895Z
-# Entries: 12295
+# Last updated: 2026-03-29T18:15:15.091Z
+# Entries: 12288
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -2244,7 +2244,6 @@ coflix.wiki
 coflix.zip
 coflix2.com
 coflix2.net
-coflixfr.com
 coflixhd.com
 coflixtv.fit
 coflixtv.lol
@@ -6914,7 +6913,6 @@ moviesmobile.net
 moviesmod.bid
 moviesmod.bio
 moviesmod.blue
-moviesmod.bot
 moviesmod.build
 moviesmod.cafe
 moviesmod.cards
@@ -6925,11 +6923,9 @@ moviesmod.cool
 moviesmod.day
 moviesmod.dev
 moviesmod.forum
-moviesmod.fun
 moviesmod.fyi
 moviesmod.gift
 moviesmod.how
-moviesmod.kids
 moviesmod.kim
 moviesmod.mom
 moviesmod.nl
@@ -6938,7 +6934,6 @@ moviesmod.pink
 moviesmod.plus
 moviesmod.red
 moviesmod.rip
-moviesmod.sbs
 moviesmod.singles
 moviesmod.space
 moviesmod.store
@@ -6949,9 +6944,7 @@ moviesmod.video
 moviesmod.vip
 moviesmod.wtf
 moviesmod1.com
-moviesmod3.autos
 moviesmod3.shop
-moviesmod3.xyz
 moviesmod4u.com
 moviesmode.org
 moviesmode.town
