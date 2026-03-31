@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-03-31T06:36:49.484Z
-# Entries: 12287
+# Last updated: 2026-03-31T18:26:09.069Z
+# Entries: 12301
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -199,6 +199,7 @@ ettv.123unblock.world
 1ddl.org
 1desiremovies.foo
 1fichier.com
+1filmyfly.top
 1flix.to
 1gabba.net
 1gabba.pw
@@ -798,8 +799,10 @@ anicloud.io
 anidb.info
 anidex.info
 anidex.moe
+anidoor.me
 anidub.pro
 anify.to
+anigo.to
 anilinkz.to
 animatedchaos.com
 animationdigitalnetwork.fr
@@ -1563,6 +1566,7 @@ bollyflix.esq
 bollyflix.faith
 bollyflix.fish
 bollyflix.fit
+bollyflix.frl
 bollyflix.ist
 bollyflix.miami
 bollyflix.pub
@@ -2821,6 +2825,7 @@ tracker.dix.tf
 diyar24.com
 dizcompany.ru
 dizi44.life
+dizi49.life
 dizilla.to
 dizimag.onl
 dizipal.bar
@@ -3693,6 +3698,7 @@ fileupload.pw
 film-francais-vf.com
 film-pertutti.art
 film-pertutti.autos
+film-pertutti.bond
 film-pertutti.click
 film-pertutti.cyou
 film-pertutti.homes
@@ -4538,6 +4544,7 @@ gnulahd.nu
 gnutellaforums.com
 go123.stream
 go2load.com
+goal2.live
 goalz.zip
 goatd.me
 god-games.com
@@ -4857,6 +4864,7 @@ hdfilme-to.top
 hdfilme-tv.cc
 hdfilmizle22.com
 hdfreaks.cc
+hdfull.cam
 hdfull.lv
 hdhome.org
 hdhub4u.family
@@ -5715,6 +5723,7 @@ kekchain.com
 keke.re
 data.kenecolor.com
 keohosting.net
+kerry410bks.com
 kevinsport.top
 kevinsports.top
 kevinsporttv.top
@@ -7072,6 +7081,7 @@ multicanais.cl
 multicanais.com
 multicanais.fans
 multicanais.live
+multimovies.autos
 multimovies.center
 multimovies.cheap
 multimovies.click
@@ -9006,6 +9016,7 @@ simpsonai.tv
 simpsonitos.com
 simpsonsua.tv
 sims4odezhda.ru
+sinema.lat
 sinezy.biz
 sinezy.cx
 sisbdisp.com
@@ -10764,6 +10775,7 @@ uakino.me
 uakino-bay.net
 uakino-lu.com
 uakinogo.art
+uakinogo.best
 uakinogo.co
 uakinogo.com
 uakinogo.day
@@ -11972,6 +11984,7 @@ garaje.ya.com
 yabancidizi.now
 yabse.com
 yalla-shoot.fun
+yalla-shoot.mov
 yalla-shoot-mobasher.com
 yalla-shootv.live
 yalla-shootx.org
@@ -12088,6 +12101,7 @@ yourptflixmovies.com
 yourserie.com
 yoursports.stream
 youserials.com
+youthincinema.com
 youtorrent.com
 youwatch.org
 yowaapp.com
