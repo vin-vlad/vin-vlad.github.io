@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-30T18:26:01.808Z
-# Entries: 14238
+# Last updated: 2026-03-31T06:36:49.424Z
+# Entries: 14235
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -689,7 +689,6 @@ aresc.de
 aretephoenix.com
 arialscompany.at
 ariat-osterreich.at
-ariatde.de
 ariatfactoryoutlet.com
 ariatshopdeutschland.de
 arila.de
@@ -2010,7 +2009,6 @@ cantheme.com
 cantinadautoress.com
 canvasvista.com
 capacityk.com
-capatee.com
 capexgo.com
 webtrader.capexgo.net
 capital-coins.com
@@ -5085,7 +5083,6 @@ ghostarmy.de
 giadinh.org
 giardinoambienti.com
 giecy.com
-giesswein.ro
 giesswein.shop
 giesswein--schuhe.com
 giesswein-outdoor.de
