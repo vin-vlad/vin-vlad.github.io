@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-01T06:42:52.278Z
-# Entries: 12301
+# Last updated: 2026-04-01T18:25:34.838Z
+# Entries: 12300
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -70,7 +70,6 @@ weedy.1.vg
 1080-kino.com
 10drives.com
 10hitmovies.click
-10hitmovies.club
 10hitmovies.com
 10hitmovies.help
 10hitmovies.lat
@@ -90,7 +89,6 @@ chihaya-heroku.120181311.xyz
 123files.club
 123fox.net
 123freemovies.net
-123freemovies.show
 123hulu.com
 123movie.blog
 123movie.cc
@@ -9855,6 +9853,7 @@ sunnymovies.site
 sunonlinebd.com
 sunplex.net
 sunset-dragons.com
+sunsetline07.online
 sunveil63.live
 sunxdcc.com
 super-torrent.pl
