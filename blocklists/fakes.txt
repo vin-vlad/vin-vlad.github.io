@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-03-31T18:26:08.814Z
-# Entries: 14278
+# Last updated: 2026-04-01T06:42:52.212Z
+# Entries: 14275
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -2873,8 +2873,6 @@ dasorevaparis.de
 dasrichtigeholz.com
 datactively.com
 dateideen.at
-newsee.datevote.shop
-sixgun.datevote.shop
 davanu.com
 daveamor.us
 daveintheshop.com
@@ -5491,7 +5489,6 @@ habitualn.com
 habitualy.com
 habituatl.com
 haden.at
-hadiahslotlogin.com
 hadorn.shop
 hagebauu.com
 hagement.com
