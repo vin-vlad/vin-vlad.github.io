@@ -1,5 +1,5 @@
 # popup-ads
-# Last updated: 2026-04-02T06:34:33.532Z
+# Last updated: 2026-04-02T18:24:24.181Z
 # Entries: 54178
 0.beer
 0.club
