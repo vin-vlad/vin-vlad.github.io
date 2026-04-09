@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-08T18:34:07.994Z
-# Entries: 12196
+# Last updated: 2026-04-09T06:40:39.386Z
+# Entries: 12159
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -346,6 +346,7 @@ admin.52ywp.com
 654321.best
 661321.xyz
 66387795cyr.com
+66691337.xyz
 67sports.net
 67streams.online
 6ahddutb1ucc3cp.ru
@@ -9163,7 +9164,6 @@ spisoft.net
 splitinfinity.com
 sport-scene.net
 sport-stream.ru
-sport3.tv
 sport365.live
 sport365.sx
 sportagoals.fit
@@ -9337,7 +9337,6 @@ streamcloud.org
 streamcloud.plus
 streamcloud.press
 streamcloud.pro
-streamcloud.st
 streamcloud.sx
 streamcomplet.com
 streamcomplet.io
@@ -9413,7 +9412,6 @@ streamingcommunity.click
 streamingcommunity.cloud
 streamingcommunity.co
 streamingcommunity.codes
-streamingcommunity.coffee
 streamingcommunity.com
 streamingcommunity.computer
 streamingcommunity.cool
@@ -9447,7 +9445,6 @@ streamingcommunity.kaufen
 streamingcommunity.li
 streamingcommunity.life
 streamingcommunity.lol
-streamingcommunity.luxe
 streamingcommunity.me
 streamingcommunity.mobi
 streamingcommunity.net
@@ -9475,7 +9472,6 @@ streamingcommunity.spa
 streamingcommunity.stream
 streamingcommunity.tax
 streamingcommunity.tel
-streamingcommunity.to
 streamingcommunity.us
 streamingcommunity.vg
 streamingcommunity.vip
@@ -9632,10 +9628,8 @@ streaminggratuit.rip
 streamingon.org
 streamingsenzalimiti.net
 streamingseries.rip
-streamingvf.rip
 streamit.ws
 streamix.so
-streamiz.rip
 streamiz-filmze.com
 streamizfilm.fr
 streamking.eu
@@ -9731,7 +9725,6 @@ subsplease.org
 subtituladas.com
 subtracker.net
 sudo-flix.lol
-sudo-flix.nl
 sudo-flix.rip
 suesupriano.com
 sugar-cube.org
@@ -10106,7 +10099,6 @@ thinkkers.com
 thiweb.com
 thjpg1.top
 thjpg10.top
-thjpg2.top
 thjpg3.top
 thjpg4.top
 thjpg5.top
@@ -10485,7 +10477,6 @@ torrentzeta.com
 torrentzeu.org
 torrentzoa.com
 torrentzone.net
-torrentzozo.com
 torrindex.net
 torrminatorr.com
 torrnado.space
@@ -10714,22 +10705,15 @@ ugda.online
 piracitoplista.ugu.pl
 uhdbits.org
 uhdmovies.biz
-uhdmovies.cv
 uhdmovies.dad
 uhdmovies.earth
 uhdmovies.fyi
-uhdmovies.hair
-uhdmovies.homes
 uhdmovies.icu
 uhdmovies.ink
-uhdmovies.lat
 uhdmovies.loan
-uhdmovies.lol
 uhdmovies.mov
 uhdmovies.net
 uhdmovies.online
-uhdmovies.pics
-uhdmovies.rest
 uhdmovies.rip
 uhdmovies.shop
 uhdmovies.skin
@@ -10765,9 +10749,7 @@ ultpreplayer.com
 ultracine.cloud
 ultracine.info
 ultracine.live
-ultracine.love
 ultracine.net
-ultracine.online
 ultradownloads.com
 ultraflixhd.net
 ultramovies.net
@@ -10834,7 +10816,6 @@ rlsbb.unblockit.africa
 rlsbb.unblockit.asia
 rlsbb.unblockit.black
 rlsbb.unblockit.casa
-rlsbb.unblockit.dad
 rlsbb.unblockit.date
 rlsbb.unblockit.download
 rlsbb.unblockit.ing
@@ -10842,7 +10823,6 @@ rlsbb.unblockit.meme
 rlsbb.unblockit.mov
 rlsbb.unblockit.vegas
 rlsbb.unblockit.zip
-unblockninja.com
 unblockninja.st
 ettv.unblocknow.surf
 unblockpirate.uk
@@ -11001,9 +10981,7 @@ vegamovies.ae
 vegamovies.agency
 vegamovies.ai
 vegamovies.art
-vegamovies.asia
 vegamovies.auction
-vegamovies.ba
 vegamovies.band
 vegamovies.bargains
 vegamovies.bayern
@@ -11013,7 +10991,6 @@ vegamovies.bio
 vegamovies.bj
 vegamovies.black
 vegamovies.boo
-vegamovies.bot
 vegamovies.build
 vegamovies.business
 vegamovies.cab
@@ -11062,10 +11039,8 @@ vegamovies.football
 vegamovies.forex
 vegamovies.forum
 vegamovies.free
-vegamovies.frl
 vegamovies.gd
 vegamovies.gf
-vegamovies.gift
 vegamovies.gives
 vegamovies.giving
 vegamovies.glass
@@ -11101,15 +11076,12 @@ vegamovies.luxury
 vegamovies.maison
 vegamovies.makeup
 vegamovies.markets
-vegamovies.md
 vegamovies.menu
 vegamovies.miami
 vegamovies.mk
 vegamovies.ml
-vegamovies.moi
 vegamovies.money
 vegamovies.ms
-vegamovies.mu
 vegamovies.nagoya
 vegamovies.name
 vegamovies.navy
@@ -11126,7 +11098,6 @@ vegamovies.photo
 vegamovies.photos
 vegamovies.press
 vegamovies.ps
-vegamovies.pt
 vegamovies.quest
 vegamovies.realty
 vegamovies.reise
@@ -11135,7 +11106,6 @@ vegamovies.rent
 vegamovies.rest
 vegamovies.restaurant
 vegamovies.ro
-vegamovies.rocks
 vegamovies.rs
 vegamovies.rw
 vegamovies.sale
@@ -11163,7 +11133,6 @@ vegamovies.today
 vegamovies.travel
 vegamovies.tv
 vegamovies.tw
-vegamovies.tz
 vegamovies.uno
 vegamovies.uy
 vegamovies.vacations
@@ -11175,13 +11144,11 @@ vegamovies.vin
 vegamovies.voto
 vegamovies.voyage
 vegamovies.vu
-vegamovies.watch
 vegamovies.website
 vegamovies.work
 vegamovies.works
 vegamovies.wtf
 vegamovies.xin
-vegamovies.yoga
 vegamovies.yt
 vegamovies.zip
 vegamovies6.com
@@ -11291,7 +11258,6 @@ vidmate.me
 vidmate.net
 movie.vidmate.mobi
 vidmateapp.com
-vidmatehdapp.com
 vidmoly.biz
 vidmoly.me
 vidmoly.net
@@ -11521,7 +11487,6 @@ wat32.com
 watch-free.tv
 watch-series.co
 watch-tvseries.net
-watch0123movies.org
 watch32.is
 watch32hd.co
 watch32hd.org
@@ -11529,7 +11494,6 @@ watchanimeworld.net
 watchasian.co
 watchcartoononline.com
 watchcartoononline.io
-watchchantv35.cfd
 watchepisodes4.com
 watchepisodeseries.com
 watchfilm.net
@@ -11834,7 +11798,6 @@ xpdf4u.com
 xplorenetbd.com
 xpress.ltd
 xprime.stream
-xprime.today
 xprime.tv
 xrel.to
 xrshellbooter.com
