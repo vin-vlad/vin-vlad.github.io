@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-09T18:27:36.575Z
-# Entries: 12159
+# Last updated: 2026-04-10T06:45:05.039Z
+# Entries: 12207
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -10,6 +10,7 @@
 0123movie.stream
 0123movie.ws
 0123movies.com
+0123movies.live
 0123moviesfree.org
 01streaming.click
 01streaming.stream
@@ -23,6 +24,7 @@
 090600.xyz
 0day.ro
 0daycn.net
+0dayddl.com
 hichemtigsetorgy.0fees.net
 0mag.net
 0magnet.com
@@ -255,6 +257,7 @@ tracker.23794.top
 250412.xyz
 2600.com
 266528.xyz
+2anime.xyz
 2bbit.com
 2bcalvi.com
 2ddl.it
@@ -329,6 +332,7 @@ admin.52ywp.com
 5dbgwxjk.com
 5mins.shop
 5mod.ru
+5movierulz.vc
 5movies.buzz
 5movies.cloud
 5movies.fm
@@ -372,6 +376,7 @@ tracker.7471.top
 7xtream.com
 870726.xyz
 87av.com
+opentracker.8880085.xyz
 88853rwu.com
 894444.xyz
 open.8a.is
@@ -511,6 +516,7 @@ aerolite.dev
 aeromods.app
 aerotwitter.com
 afdah.com
+afdah.info
 afdah.live
 afdah.org
 afdah.to
@@ -520,6 +526,7 @@ afdah2.com
 afdah2.cyou
 afratafreeh.com
 afterdawn.com
+agusiq-torrents.pl
 ahashare.com
 ahoy.one
 ahoylist.net
@@ -529,6 +536,7 @@ tracker.aibt.xyz
 aidey.io
 aimhaven.com
 aimweb.ru
+ainiesta.com
 aiosearch.com
 aiowares.com
 aiw.bz
@@ -588,6 +596,7 @@ allotracker.com
 allpcworld.com
 allprivatebabes.com
 allrepack.ru
+allseek.info
 allsports4free.live
 allsportsflix.xyz
 stream.allsprk.tv
@@ -617,6 +626,7 @@ altadefinizione.bet
 altadefinizione.bio
 altadefinizione.bond
 altadefinizione.cam
+altadefinizione.casino
 altadefinizione.click
 altadefinizione.club
 altadefinizione.co
@@ -640,6 +650,7 @@ altadefinizione.io
 altadefinizione.it
 altadefinizione.kim
 altadefinizione.lat
+altadefinizione.legal
 altadefinizione.li
 altadefinizione.life
 altadefinizione.live
@@ -667,6 +678,8 @@ altadefinizione.tours
 altadefinizione.us
 altadefinizione.ventures
 altadefinizione.vg
+altadefinizione.vip
+altadefinizione.world
 altadefinizione.ws
 altadefinizione.xyz
 altadefinizione-01.beer
@@ -687,6 +700,7 @@ altadefinizione01.click
 altadefinizione01.cloud
 altadefinizione01.club
 altadefinizione01.com
+altadefinizione01.email
 altadefinizione01.fm
 altadefinizione01.games
 altadefinizione01.homes
@@ -713,6 +727,7 @@ altadefinizionegratis.center
 altadefinizionegratis.cfd
 altadefinizionegratis.cloud
 altadefinizionegratis.cool
+altadefinizionegratis.cyou
 altadefinizionegratis.fit
 altadefinizionegratis.forum
 altadefinizionegratis.fun
@@ -796,6 +811,7 @@ anidub.pro
 anify.to
 anigo.to
 anilinkz.to
+animag.to
 animatedchaos.com
 animationdigitalnetwork.fr
 anime.com
@@ -876,6 +892,7 @@ torrents.animes-bg.com
 animesalt.ac
 animesama.fan
 animeshow.tv
+animesim.com
 animesimple.com
 animesonline.biz
 animesonline.cc
@@ -1005,6 +1022,7 @@ apkmoddone.com
 apkmodea.com
 apkmodget.com
 apkmodgo.com
+apkmods.io
 apkmody.com
 apkmody.mobi
 apkmody.vip
@@ -1033,6 +1051,7 @@ appdb.to
 appdoze.com
 applegamingwiki.com
 applenetbd.com
+appmods.us
 appnee.com
 appnetica.com
 trackr.appolon.dev
@@ -1153,6 +1172,7 @@ audiobookss.com
 audionews.org
 audionews.ru
 audiostuff.ro
+audiozonetorrents.com
 aurastresser.com
 auratorrent.pl
 aurorabird6.live
@@ -1190,6 +1210,7 @@ b98.tv
 baberepublic.com
 baby-beamup.club
 babystreaming.com
+badasstorrents.com
 badshahuploads.xyz
 baibako.tv
 retracker.baikal-telecom.net
@@ -1218,8 +1239,10 @@ barbiemovies.tv
 barrerab.beer
 retracker.bashtel.ru
 basixmovie.com
+baskino.film
 basnetbd.com
 batflix.org
+batflixmovies.club
 batman-stream.tv
 batmanstream.cc
 batmanstream.info
@@ -1363,6 +1386,7 @@ bitgamer.com
 bitgate.org
 bitgoon.com
 bithouse.org
+bithouse.us
 bithumen.be
 bithumen.ru
 bitlord.com
@@ -1383,6 +1407,7 @@ bitspyder.net
 bitstreams.live
 tracker.bittalk.org
 tracker.bittor.pw
+tracker.bittor.xyz
 bittorrent.am
 bittorrent.com
 bittorrentfiles.org
@@ -1418,6 +1443,7 @@ blacktiesports.net
 blacktorrent.ru
 tracker.blackunicorn.xyz
 blackvid.space
+blackwave.tv
 blackz.ro
 tracker.blazing.de
 block908.ru
@@ -1643,6 +1669,7 @@ bt-revolution.net
 bt4g.org
 tracker.bt4g.com
 bt4gprx.com
+bt5000.com
 btafile.com
 btann.cn
 btbbt.cc
@@ -1663,6 +1690,7 @@ btkitty.red
 btmet.com
 btmon.com
 btmulu.live
+btmusic.eu
 btmusic.org
 btnext.com
 btor.org
@@ -1690,11 +1718,13 @@ buffstreams.sx
 buffstreams.tv
 tracker.bug38.com
 bughome.de
+csite.bugs3.com
 bulextorrent.org
 bulkpeers.com
 bullstresser.com
 bullstresser.net
 bundesliga-streams.net
+bunkr.tv
 buny.uk
 torrent.burgas.org
 burmese.app
@@ -1733,6 +1763,7 @@ c1live.com
 c1movies.com
 c1ne.co
 c247.to
+c4crack.com
 c8bz2vq7.com
 rsweb.cachefly.net
 cafehulu.com
@@ -1744,6 +1775,8 @@ calcio-streaming.online
 calibrecompanion.co
 caly-film.pl
 cambros.tv
+camclips.tv
+camflow.tv
 camhoe.tv
 share.camoe.cn
 canale-tv.com
@@ -1782,6 +1815,7 @@ casacinema.pics
 casacinema.red
 casacinema.ru
 casacinema.skin
+casacinema.us
 casacinema.vg
 casacinema.ws
 casanovax.com
@@ -1789,7 +1823,9 @@ cash2day4u.net
 castradio.net
 casualgamers.club
 cat-a-cat.net
+cataz.net
 cataz.to
+catflix.su
 catorrent.org
 cb01.ac
 cb01.app
@@ -1818,6 +1854,7 @@ cb01.eu
 cb01.events
 cb01.film
 cb01.fm
+cb01.fun
 cb01.giving
 cb01.in
 cb01.institute
@@ -1890,6 +1927,7 @@ cdromance.com
 cdromance.org
 celerystresser.com
 central-torrent.eu
+centraltracker.org
 certcommunity.org
 cestrm.xyz
 cg-gamespc.com
@@ -1975,6 +2013,7 @@ cineblog001.stream
 cineblog001.today
 cineblog001.vip
 cineblog01.agency
+cineblog01.auction
 cineblog01.bid
 cineblog01.biz
 cineblog01.boo
@@ -2142,6 +2181,7 @@ cmovies.fm
 cmovies.is
 cmovies.mobi
 cmovies.so
+cmovies.space
 cmovies.us
 cmovies.video
 cmovies.vip
@@ -2301,11 +2341,13 @@ vegamoviesg.com.in
 vegamoviesl.com.in
 vegamoviesm.com.in
 vegamoviesw.com.in
+vidnaija.com.ng
 wormsblast.com.pl
 xalaflix.com.se
 yt1s.com.co
 www.midea123.z-media.com.cn
 comandofilmetorrent.com
+comandohdtorrents.com
 comandotorrenthd.net
 comandotorrents.com
 comandotorrents.org
@@ -2396,6 +2438,7 @@ cracked-games.org
 crackedfully.com
 crackedme.com
 crackedmine.com
+crackedpc.org
 crackedstream.tv
 crackedversion.com
 crackfind.com
@@ -2462,6 +2505,7 @@ crichd.bar
 crichd.buzz
 crichd.com
 crichd.cyou
+crichd.guru
 crichd.info
 crichd.io
 crichd.lc
@@ -2545,6 +2589,7 @@ cuevana3.video
 cuevanagt.com
 cutercounter.com
 cuteyhoneyflash.de
+tracker.cutie.dating
 tracker-de-2.cutie.dating
 cutiegirl.ru
 cwer.ru
@@ -2564,7 +2609,10 @@ cyberwares.ru
 cyberwarez.info
 cyclingtorrents.nl
 cyonix.net
+tracker.cypherpunks.ru
 cytu.be
+proxy-cool-n-forex-hot-list.cz.cc
+sons-of-anarchy-3.cz.cc
 torrents.czteam.ro
 cztorrent.net
 d-addicts.com
@@ -2665,6 +2713,7 @@ ddownload.com
 tracker.ddunlimited.net
 ddwarez.com
 loveintheholyquran.de.com
+deadfrog.us
 fe.dealclub.de
 deamonbytes.net
 deathlord.eu
@@ -2678,6 +2727,7 @@ defconpro.net
 defianceprotocol.com
 deflix.tv
 degree-anime.com
+deimonhigh.com
 torrents.dekadence.ro
 dekhobd.com
 dekhvhai.com
@@ -2726,6 +2776,7 @@ dezflight-underground.com
 dfast.app
 dfichiers.com
 dflix.live
+em.dfnbd.net
 tube.dfnbd.net
 dfox.it
 mixes.dfx.at
@@ -2762,6 +2813,7 @@ tracker.digitalcore.club
 www2.digitaldistractions.org
 digitalduniya.net
 digitalhive.org
+digitalmusicians.ca
 digitalpanic.org
 digitalstreet.org
 dilandau.com
@@ -11894,7 +11946,6 @@ yesmovies.to
 yesmovies.vc
 yesmovies.vin
 yesmovies.vip
-yesmovies.win
 yesmovies.wtf
 yesmovies.zone
 yesnetcommunication.com
@@ -11907,7 +11958,6 @@ yggtorrent.com
 yggtorrent.fi
 yggtorrent.is
 yggtorrent.org
-yggtorrent.si
 yggtorrent.town
 tracker.ygsub.com
 alanb.yi.org
@@ -11921,7 +11971,6 @@ yify-torrents.com
 yifyhdtorrent.com
 yifymovies.xyz
 yifymoviesmx.live
-yifymovietorrent.com
 yifystatus.com
 yifysub.net
 yifysubtitles.me
@@ -11940,7 +11989,6 @@ adobecccrack2017formacandwindows.yolasite.com
 allserver.yolasite.com
 utvbd.yolasite.com
 yomovies.productions
-yomovies.sarl
 yomovies.uno
 tracker.yoshi210.com
 yotoshi.com
