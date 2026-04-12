@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-12T06:39:32.336Z
-# Entries: 12324
+# Last updated: 2026-04-12T18:19:15.072Z
+# Entries: 12385
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -8396,6 +8396,7 @@ putlockerwatch.com
 putlockerz.mov
 puzo.org
 pwtorrents.net
+trackthis.cyber.pz.it
 qatarstreams.me
 qbittorrent.org
 qimanhwa.com
@@ -9023,6 +9024,7 @@ sharemania.us
 sharemovies.net
 sharereactor.ru
 tracker.sharereactor.ro
+sharespark.cfd
 sharetheremote.org
 sharetv.com
 sharetv.org
@@ -9056,6 +9058,7 @@ shubt.net
 tracker.shuntv.net
 shush.se
 siambit.com
+siambt.com
 sidequestvr.com
 aus.sierules.com
 sifara.com
@@ -9129,6 +9132,7 @@ tpb.skynetcloud.site
 tracker.skynetcloud.site
 skynetonlinebd.net
 skytorrents.lol
+skytorrents.to
 tracker.skyts.cn
 tracker.skyts.net
 sladinki007.net
@@ -9258,6 +9262,7 @@ solarmovie.cr
 solarmovie.do
 solarmovie.fm
 solarmovie.fun
+solarmovie.mom
 solarmovie.net
 solarmovie.one
 solarmovie.pe
@@ -9305,6 +9310,7 @@ retracker.spark-rostov.ru
 sparkdeer21.online
 sparklinkbd.com
 sparknetbd.com
+sparvar.org
 taciturn-shadow.spb.ru
 spec-komp.com
 spedostream2.shop
@@ -9330,6 +9336,7 @@ spisoft.net
 splitinfinity.com
 sport-scene.net
 sport-stream.ru
+sport-tv.live
 sport365.live
 sport365.sx
 sportagoals.fit
@@ -9480,10 +9487,12 @@ storysaver.net
 str3ssed.co
 str3ssed.me
 stream.to
+stream-24.net
 stream-blog.tv
 stream-complet.fr
 stream-data-q9k4.space
 stream-oase.tv
+stream-planet.com
 stream-vf.co
 stream2watch.is
 stream2watch.one
@@ -9531,6 +9540,7 @@ streamed.st
 streamees.com
 streamerflix.xyz
 streamflix.one
+streamflix.space
 streamfree.app
 streamgoblin.com
 streamhls.click
@@ -9550,6 +9560,7 @@ streamingaddons.xyz
 streamingcommunity.actor
 streamingcommunity.ag
 streamingcommunity.airforce
+streamingcommunity.app
 streamingcommunity.army
 streamingcommunity.asia
 streamingcommunity.auction
@@ -9611,12 +9622,15 @@ streamingcommunity.kaufen
 streamingcommunity.li
 streamingcommunity.life
 streamingcommunity.lol
+streamingcommunity.lu
 streamingcommunity.me
 streamingcommunity.mobi
 streamingcommunity.net
+streamingcommunity.nl
 streamingcommunity.one
 streamingcommunity.org
 streamingcommunity.ovh
+streamingcommunity.paris
 streamingcommunity.pet
 streamingcommunity.ph
 streamingcommunity.photos
@@ -9638,6 +9652,7 @@ streamingcommunity.spa
 streamingcommunity.stream
 streamingcommunity.tax
 streamingcommunity.tel
+streamingcommunity.tv
 streamingcommunity.us
 streamingcommunity.vg
 streamingcommunity.vip
@@ -9829,6 +9844,7 @@ streamsports99.tv
 streamsports99.website
 streamsthunder.tv
 streamtape.com
+streamth.is
 streamtp10.com
 streamtpnew.com
 streamwatch.online
@@ -9836,6 +9852,7 @@ streamwatchfree.com
 streamway.org
 streamwish.to
 streamwoop.com
+streamwoop.net
 streamwoop.xyz
 streamworld.co
 streamworld.ws
@@ -9856,6 +9873,7 @@ stremiomovies.com
 stressboss.net
 stresser.cc
 stresser.in
+stresser.net
 stresser.network
 stresser.org
 stresser.world
@@ -9917,6 +9935,7 @@ supercartoons.net
 supercdn.cc
 superflix.pro
 superflix.vc
+superfutebol.tv
 supernetbd.com
 supernova.to
 superpsx.com
@@ -9946,6 +9965,7 @@ swebits.org
 sweet-paris.com
 sweetvideo.site
 swefilmer.to
+swetv.org
 tracker.swifte.space
 swiftnetbd.com
 swteam.ws
@@ -10107,8 +10127,10 @@ tfp.is
 tfpdl.se
 tfpdl.to
 tfreeca22.com
+tgx.rs
 thagoat.rocks
 the-eye.eu
+the-piratebay.com
 the-piratebay.org
 the-pop-corn-time.net
 the-potato.net
@@ -10164,6 +10186,7 @@ themfire.pro
 themicrotech.net
 themirror.wiki
 themixingbowl.org
+themovie123.com
 themoviebay.net
 themoviehub.org
 themoviesflix.plus
@@ -10195,6 +10218,7 @@ thepiratebay.org
 thepiratebay.party
 thepiratebay.pe
 thepiratebay.red
+thepiratebay.rip
 thepiratebay.rocks
 thepiratebay.se
 thepiratebay.tips
@@ -10257,6 +10281,7 @@ thesurgeons.org
 thetracker.org
 thetradersden.org
 thetrickz.com
+thevault.bz
 thewarezscene.org
 thewatchcartoononline.tv
 thewiki.moe
@@ -10372,6 +10397,7 @@ topcartoons.tv
 topdocumentaryfilms.com
 topeuropix.net
 topeuropix.site
+topevents.us
 topfilmeonline.net
 topflix.live
 topflix.one
@@ -10382,6 +10408,7 @@ topmovies.rip
 topmoviesonline.org
 topnet.in
 topnow.se
+toppmovies.com
 toprepack.com
 topsitestreaming.info
 topsrs.day
@@ -10429,6 +10456,7 @@ torrent-damage.net
 torrent-finder.com
 torrent-finder.info
 torrent-games.best
+torrent-games.co
 torrent-games.games
 torrent-hitz.de
 torrent-igruha.org
@@ -10450,6 +10478,7 @@ torrent411.li
 torrent411.to
 torrent4you.me
 torrent4you.org
+torrent9.biz
 torrent9.blue
 torrent9.fm
 torrent9.games
@@ -10463,6 +10492,7 @@ torrent9.so
 torrent9.to
 torrent9.uno
 torrent9cz.fr
+torrentai.net
 torrentazos.com
 torrentbay.to
 torrentbd.com
@@ -10557,9 +10587,11 @@ torrentor.pro
 torrentoyunindir.com
 torrentparadise.to
 tracker.torrentparty.com
+torrentplus.org
 torrentpond.com
 torrentprivacy.com
 torrentproject.cc
+torrentproject.com
 torrentproject.se
 torrentproject2.com
 torrentproject2.net
@@ -10591,6 +10623,7 @@ torrents-soft.net
 torrents-time.com
 torrents-zone.com
 torrents2download.com
+torrents2hell.com
 torrents3d.ru
 torrents9.cc
 torrentsafe.com
@@ -10598,6 +10631,7 @@ torrentsbay.org
 torrentscan.com
 torrentscity.net
 torrentsearch.com
+tracker.torrentseeds.org
 torrentseeker.com
 torrentsgalaxy.com
 torrentsgames.org
@@ -10630,6 +10664,7 @@ torrentz.com
 torrentz.eu
 torrentz.io
 torrentz.pl
+torrentz.pro
 torrentz.ws
 torrentz2.cc
 torrentz2.eu
@@ -10659,6 +10694,7 @@ totaldownloader.it
 totalsportek.ac
 totalsportek.at
 totalsportek.me
+totalsportek.one
 totalsporteklive.net
 totalsporteks.net
 totaltorrents.com
@@ -10701,6 +10737,7 @@ traffilm.net
 traht.org
 trailers.to
 trainsaw.com
+tranceroute.com
 trancetraffic.com
 transamrit.net
 transmissionbt.com
@@ -10794,6 +10831,7 @@ tvshows4mobile.org
 tvspring.com
 xcinemas.tvstream.biz
 tvtokio.ru
+tvtorrent.info
 tvtorrents.com
 tvzion.com
 twcclassics.com
@@ -10871,6 +10909,8 @@ ufs.pt
 ugda.online
 piracitoplista.ugu.pl
 uhdbits.org
+uhdmovies.beer
+uhdmovies.bet
 uhdmovies.biz
 uhdmovies.dad
 uhdmovies.earth
@@ -10889,6 +10929,7 @@ uhdmovies.stream
 uhdmovies.surf
 uhdmovies.tube
 uhdmovies.us
+uhdmovies.wales
 uhdmovies.wiki
 uhdmovieshub.com
 uhdmoviesonline.com
@@ -10912,6 +10953,7 @@ ukr-sub.com
 ultimate-torrent.town
 ultimate-warez.eu
 ultimateshare.net
+ultimatestremioaddons.club
 ultpreplayer.com
 ultracine.cloud
 ultracine.info
@@ -11076,6 +11118,7 @@ uraxhayer.ru
 urbanproxy.eu
 urll.net
 gomovies.us.com
+tracker.guguan.us.kg
 seikai-no-fansubs.us.tt
 steamunlocked.us.org
 us101.online
@@ -11135,6 +11178,7 @@ vdey.de
 vdiiy.space
 vdomela.com
 vdos-s.co
+vdos-s.com
 tracker.vectahosting.eu
 veday.fun
 vedek.pro
@@ -11183,13 +11227,16 @@ vegamovies.credit
 vegamovies.creditcard
 vegamovies.cricket
 vegamovies.cv
+vegamovies.dad
 vegamovies.dating
 vegamovies.degree
 vegamovies.diet
 vegamovies.directory
+vegamovies.diy
 vegamovies.dog
 vegamovies.durban
 vegamovies.ee
+vegamovies.energy
 vegamovies.engineering
 vegamovies.enterprises
 vegamovies.expert
@@ -11219,6 +11266,7 @@ vegamovies.green
 vegamovies.gripe
 vegamovies.group
 vegamovies.haus
+vegamovies.help
 vegamovies.hockey
 vegamovies.host
 vegamovies.hot
@@ -11232,6 +11280,7 @@ vegamovies.is
 vegamovies.ist
 vegamovies.jewelry
 vegamovies.joburg
+vegamovies.kiwi
 vegamovies.land
 vegamovies.lat
 vegamovies.lawyer
@@ -11263,6 +11312,7 @@ vegamovies.ph
 vegamovies.phd
 vegamovies.photo
 vegamovies.photos
+vegamovies.porn
 vegamovies.press
 vegamovies.ps
 vegamovies.quest
@@ -11273,11 +11323,13 @@ vegamovies.rent
 vegamovies.rest
 vegamovies.restaurant
 vegamovies.ro
+vegamovies.rodeo
 vegamovies.rs
 vegamovies.rw
 vegamovies.sale
 vegamovies.school
 vegamovies.schule
+vegamovies.se
 vegamovies.shoes
 vegamovies.si
 vegamovies.skin
@@ -11297,11 +11349,14 @@ vegamovies.theater
 vegamovies.tips
 vegamovies.to
 vegamovies.today
+vegamovies.tools
+vegamovies.tr
 vegamovies.travel
 vegamovies.tv
 vegamovies.tw
 vegamovies.uno
 vegamovies.uy
+vegamovies.uz
 vegamovies.vacations
 vegamovies.ventures
 vegamovies.vg
@@ -11314,6 +11369,7 @@ vegamovies.vu
 vegamovies.website
 vegamovies.work
 vegamovies.works
+vegamovies.world
 vegamovies.wtf
 vegamovies.xin
 vegamovies.yt
@@ -11551,6 +11607,7 @@ vostfree.ws
 vostfrstreaming.com
 voxfilmeonline.biz
 voxhost.fr
+vpn1.cfd
 vpnmentor.com
 tracker.vraphim.com
 vrcarena.com
@@ -11614,6 +11671,7 @@ warezcore.com
 warezcrack.net
 warezdownloads.info
 warezfactor.com
+warezfortune.com
 warezforum.cz
 warezforum.info
 warezforums.com
@@ -11658,6 +11716,7 @@ watch-tvseries.net
 watch32.is
 watch32hd.co
 watch32hd.org
+watchamovie.today
 watchanimeworld.net
 watchasian.co
 watchcartoononline.com
@@ -11683,6 +11742,7 @@ watchmoviesnow.co
 watchonlineseries.eu
 watchraw.com
 watchseries.bar
+watchseries.movie
 watchseries.pe
 watchseries.rocks
 watchseries.to
@@ -11737,6 +11797,7 @@ webfreecounter.com
 weblinks.ru
 weboas.is
 basket-torrent.webpark.pl
+webranger.net
 webrangers.net
 loulou.webrpg.info
 webstats4u.com
