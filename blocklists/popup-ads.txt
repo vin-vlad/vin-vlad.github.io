@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-04-12T18:19:15.054Z
-# Entries: 53965
+# Last updated: 2026-04-13T06:54:15.372Z
+# Entries: 54045
 0.beer
 0.club
 0.fashion
@@ -22825,6 +22825,7 @@ gazati.com
 gazedatthewon.com
 gaziemir-blog.com
 mb.gazygrits.com
+skema.gb.net
 gb1aff.com
 gbads.net
 gbafor2030.org
@@ -25528,19 +25529,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-app-google-zh.hl.cn
-apps-chrome-zh.hl.cn
-apps-google-hl.hl.cn
-chrome-gooogle-zh.hl.cn
-chrome-hl.hl.cn
-cnzh-google-apps.hl.cn
-googgle-chrrome.hl.cn
-google-chrrome-zh.hl.cn
-office-wps-hl.hl.cn
-qishui-yinle.hl.cn
-todesk-zh.hl.cn
-zh-googlle-chrome.hl.cn
-zhcn-googele.hl.cn
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -34631,6 +34620,7 @@ newsaboutsugar.com
 newsadsppush.com
 newsadst.com
 newsatads.com
+newsboydurance.cfd
 newscadence.com
 newsfeedzscrollz.com
 newsformuse.com
@@ -35168,6 +35158,7 @@ noxious-proof.com
 noxiousinvestor.com
 noxiousrecklesssuspected.com
 noxiousrequirement.pro
+noxiousspell.pro
 noxiouswear.pro
 sc.noyanceborer.com
 nozhscywegvjj.com
@@ -42173,7 +42164,6 @@ rtyznd.com
 rtzpfr.icu
 allsmi.ru.com
 banner.mob.ru.com
-nh-technologies.ru.com
 novostidlyavas.ru.com
 smi2020.ru.com
 supernovosti.ru.com
@@ -44669,12 +44659,7 @@ sougoapha.com
 soul-of-compass.com
 soulereserve.com
 soulful-contact.com
-bgogbq.soulfuldates.com
-bgowdz.soulfuldates.com
-ddkdbm.soulfuldates.com
-dglrav.soulfuldates.com
-dgqzqo.soulfuldates.com
-mwqnwo.soulfuldates.com
+soulfuldates.com
 souliloquybysadie.com
 soullmatevile.com
 soulmateevile.com
@@ -46967,6 +46952,7 @@ thenpreservationticket.com
 theodylunette.top
 theonecdn.com
 theonesstoodtheirground.com
+theoreticalassertshame.com
 nu.theoriaomegas.top
 theoxfordcomprehensive.com
 thepartnerpleasurs.com
@@ -51303,7 +51289,10 @@ whefookak.net
 whencewindy.com
 whenentering.com
 whensewing.com
+whepsophoky.pro
+wheptostethy.pro
 wheqqqro.net
+where-to.shop
 wherebydressparked.com
 wherebywhatsoeverduck.com
 wheretamperexists.com
@@ -51312,6 +51301,7 @@ whereverrocket.com
 wherevertogo.com
 wherticewhee.com
 whetherprovided-485.com
+whewhapome.com
 whfdny.org
 whgcbgdsrqixx.rocks
 whgugqkhydhg.net
@@ -51330,6 +51320,8 @@ whimsical-section.com
 whimsicalchef.com
 whimsicalcoat.com
 whimsicalfeeling.com
+whimsicalserve.com
+whimsicaluser.pro
 whimsicalzenith.com
 whimsrehash.com
 whineinstallssubdued.com
@@ -51380,8 +51372,11 @@ whjr.one
 whkbqnkscmnwo.global
 whoadamn.com
 whoanebsos.net
+whochokupte.com
 whoged.com
 whogloagru.net
+whogrudana.com
+whogycivi.com
 whoiscx.com
 whoisezh.com
 wholeactualnewz.com
@@ -51398,12 +51393,14 @@ wholewowblog.com
 wholituaten.com
 whomsudsikaxu.com
 whoockeg.top
+whookroo.com
 whootcham.net
 whoppercreaky.com
 whopping-click.com
 whoseabacus.com
 whoshiwhydo.com
 whosmyblondestofthemall.com
+whosodujy.com
 whoucheehy.net
 whoucortepoo.net
 whouphesaussums.net
@@ -51411,6 +51408,7 @@ whourgie.com
 whoursie.com
 whouseem.com
 whouwhaicm.net
+whovykeni.pro
 whpbrmdss.com
 whqtuypvdxzdk.website
 whstvdsqpzlaa.website
@@ -51422,13 +51420,17 @@ whugesto.net
 whulsaux.com
 hr.whulterwort.com
 whuwoawain.com
+whuwydachy.pro
 whvyhcvlszizp.online
 whxiaochengxu.com
 whydujap.com
 whygiglachy.com
+whyjifuhe.com
+whymanike.pro
 whyocafenet.space
 whyregenpod.com
 whywolveshowl.com
+whyzafoze.pro
 wicaphudi.com
 wicdn.cloud
 wickedif.pro
@@ -51438,6 +51440,7 @@ wickedsmartpodcast.com
 wickedwrests.com
 wickyuprestudy.com
 wicory.com
+wicuhixi.pro
 wide-mine.pro
 wideeyedchampion.com
 wideeyedclass.com
@@ -51460,6 +51463,7 @@ wigglepimp.shop
 wiggly-spend.pro
 wigkswxmurpfn.website
 wignosy.com
+wihychoshi.pro
 wiin4goals.com
 comllqgkg.wiithyounight.com
 wiiytwd.top
@@ -51546,6 +51550,7 @@ windscreenthomas.com
 windsplay.com
 windwardseaventure.com
 windyplentiful.com
+winewiden.com
 winfreesokoki.cfd
 wingamesspin.com
 winged-addition.com
@@ -51587,6 +51592,7 @@ winterdistortkey.com
 winterpraised.com
 winterwin.com
 wintrck.com
+winugriphe.pro
 winwin838h.xyz
 winzessolicit.com
 wipedheritagedarker.com
@@ -51730,6 +51736,7 @@ wvrm.wlzzwzeevbjaj.top
 wlzzwzeevbyak.top
 wmactive.ru
 wmbbsat.com
+wmbwc.com
 wmccd.com
 wmcdct.com
 wmcdpt.com
@@ -51787,6 +51794,7 @@ wobblyclassroom.pro
 wobblydiamond.com
 wobblypin.pro
 gd.wochuadaribah.com
+wochyshana.pro
 sr.woddieapiator.com
 woefifty.com
 woevr.com
@@ -51799,6 +51807,7 @@ woihtwxtybnzw.store
 fz.wokenrecombs.com
 wokeshootdisreputable.com
 wokm8isd4zit.com
+wokseephishopty.net
 wolfcityproductions.com
 wolfeighteen.com
 wo.wolfianbobbled.top
@@ -51834,6 +51843,7 @@ wonnerdirging.com
 oh.woodboxfilasse.com
 woodcabfactory.com
 wooden-excuse.pro
+wooden-success.com
 woodeneducation.com
 woodenside.pro
 ok.woodhendansant.shop
@@ -51943,7 +51953,9 @@ woundax.com
 woundmarkaching.com
 ja.wourarieaseful.com
 wouticaupikiz.net
+wovifohe.pro
 wovufaobxkzie.online
+wow-girls.org
 wow-i-get-push.com
 wow-i-get-push-okay.com
 wowcon.net
@@ -52034,8 +52046,10 @@ wrufer.com
 wrundlegame.com
 wrvxrwbqvnzdr.space
 wrwgtdsheye23.click
+wry-beautiful.pro
 wry-boss.com
 wryestburled.help
+ws183.com
 wsbxfiqahxjhf.top
 wsjlbbqemr23.com
 wsor.com
@@ -52063,7 +52077,9 @@ wufacxax.com
 wufazpappk.com
 wugoji.xyz
 wugroansaghadry.com
+wugyphepa.pro
 wujingou.com
+wujivedy.pro
 wukcvtbrlyrxd.store
 wukqjl.com
 wuliang-yeah.com
@@ -52112,6 +52128,7 @@ wwgrrqrnphfdg.online
 wwhsquzfatqzr.space
 wwija.com
 wwkedpbh4lwdmq16okwhiteiim9nwpds2.com
+wwmenyarch.org
 wwnowdnguuklz.site
 wwpon365.ru
 wwqsvldq.work
@@ -52172,9 +52189,11 @@ wysasys.com
 wytnrgtxsgvwo.online
 hh.wyveplanked.com
 wyvgwkupgpdrd.website
+wyviptothe.pro
 wyvlllooalwlj.top
 wywkwqzkavjjr.top
 wywwyvtsjuywc.space
+wyzogluvy.pro
 wzcbflxsbtkaw.site
 wzeadwoc.com
 wzekavkp.com
@@ -52251,6 +52270,7 @@ xaepktokzhspv.space
 xafrzicbixitc.today
 xaiofficial.ai
 xakhgpksmptdm.website
+xakishofa.pro
 xakzagtfud.com
 xalatlaco.org
 xaltby.top
@@ -52260,6 +52280,8 @@ xaqxh.com
 xarfxj.icu
 xarukaawenabr.site
 xarvilo.com
+xashukyci.pro
+xatawamo.pro
 xatovjatsosg.com
 xawbwejiv.com
 xawlop.com
@@ -52327,6 +52349,8 @@ xenongamers.com
 xepsygfqsvyyv.tech
 xequythaoquynhon.com
 xerahhhwhpcey.online
+xerobato.pro
+xexagleke.com
 xfalmawladvew.site
 xfans.click
 xfbjiyqezmwew.space
@@ -52345,6 +52369,7 @@ xftzmvvgnbnsx.space
 xfvrkhjmanrnr.online
 xfvslsqqtyeeb.store
 xfwblpomxc.com
+xg59.com
 xgal.jp
 xgbetzbmmdqbv.space
 xghklnjmyljlc.site
@@ -52379,7 +52404,9 @@ xiakas.xyz
 xiangcai-tech.com
 xiaobaixitong.com
 xiaoerwaikezhengwei.com
+928.xiaoranxinli.com
 b0h.xiaoranxinli.com
+xiaose88.com
 xiaosongguo.com
 xiaotangji.cn
 xiaoweishi.net
@@ -52552,6 +52579,7 @@ xolfzsxmgswqt.site
 xoniwltrsxgot.site
 xoofjgbtvkzjf.store
 xoojebxoyzves.online
+xoptotifa.pro
 xoszyclagweyv.online
 xovbjzdbfomoo.site
 xovzgcoovh.club
@@ -52559,6 +52587,7 @@ xownbkkhgzywg.website
 xoxnetwork.com
 xoxyxaxtgkryj.club
 xoymkdgsafcdh.site
+xozazoste.pro
 xp12316.com
 xpdoctor.com
 xpe3qcqz.xyz
@@ -52647,7 +52676,9 @@ xupasfavjpwu.com
 xupskiqab.com
 xuptiwsibnpe.com
 xurlctzwmnnxm.site
+xutoshumu.com
 xuvlzyep.icu
+xuxochefa.pro
 xvayntirbqohr.space
 xvcefcdyvbyyx.website
 xvcwbxjzdecpi.store
@@ -52714,11 +52745,13 @@ xy6253.com
 xy8001.com
 xyclothing.com
 xycyblnwl.net
+xygliwhawu.com
 jb.xylenolshivahs.com
 xylylicpeteca.com
 xympumihvhkkv.online
 xyntqqrtdrjzk.online
 xysda.com
+xyshytogu.pro
 xysxkzzygujpn.website
 xytcxy.top
 xywxwovfxhtaf.space
@@ -53037,6 +53070,7 @@ yndh997.xyz
 ynfanslkhrdtn.space
 ynossspikirow.online
 ynote.hk
+ynrije.com
 yntherplunge.com
 yntvrgqkwlwag.site
 ynurfigldblbt.online
@@ -53091,6 +53125,7 @@ youfindsoul.com
 mrvraz.youfuckteeangers.com
 yougetwhatyoupayfor.net
 yougottet.com
+sjkw.youkechina.cn
 vr54.youkechina.cn
 youku.earth
 youkuhonor.com
@@ -53194,6 +53229,7 @@ yphmaqcyhpfyz.store
 ypiohesltiqrj.space
 ypmnzrio.com
 ypmrjyxltcrra.space
+ypptv.com
 ypwcttlciuuzu.online
 yq38.com
 yq67.com
@@ -53293,6 +53329,7 @@ yunshipei.com
 cs.yunshubiao.com
 yunzhaoyao.com
 yupoo.biz
+yupoo-husky.ru
 yupooclothing.com
 yupooz.com
 yuppads.com
@@ -53360,6 +53397,7 @@ yzwtz.com
 cpanel12wh.bkk1.cloud.z.com
 z-lib.club
 z-lib.dev
+z-lib.id
 z-lib.ink
 z-lib.io
 z-lib.li
@@ -53370,15 +53408,18 @@ z-lib.ws
 z-library.help
 z-library.live
 z-library-proxy.com
+z232tadh8hrc.top
 z3acqbb3s.com
 z5x.net
 z8223.cn
+viktoriadelenick.za.com
 za6a3q0i9.com
 zabanit.xyz
 zacleporis.com
 zaevoqatiyylf.online
 zaffirgoggan.shop
 zaflsugu.icu
+zagrovacha.pro
 zags-yanao.ru
 zagvee.com
 zahard.win
@@ -53459,6 +53500,7 @@ zdfwmkfxwrlht.online
 zdhvgvsk.icu
 zdjbvn.icu
 zdmxehlpvvtta.site
+zdpnxx.cn
 zdravosite.ru
 zdvtuadwafljw.global
 zdworkscdn.com
@@ -53493,6 +53535,9 @@ zeenko.shop
 zeenm.com
 zeepartners.com
 zefuptohi.com
+zefypsegly.com
+zegepsany.com
+zegrylajy.pro
 zeguklgrjilli.space
 app.zeiron.run
 zejyoelgljenc.site
@@ -53508,6 +53553,7 @@ zenithoradog.com
 zenkreka.com
 zenoviagroup.com
 zeof-defender.pro
+zepazupi.com
 zepbbr.icu
 zephyronearc.com
 zepmqjqyhpjjw.store
@@ -53524,6 +53570,7 @@ zerorson.com
 zerospread.ai
 zesrsywjvphmj.store
 zestycrime.com
+zesucheke.com
 zetadeo.com
 zetaframes.com
 zetahit.click
@@ -53553,6 +53600,7 @@ zgfubuaenxdzl.site
 zgfyftltnhkgs.website
 zghdautxlwvis.store
 zghuasaikj.com
+zgjcsh.cn
 zglabel.com
 zgnymibptufjb.site
 zgpabnau.icu
@@ -53563,18 +53611,26 @@ zguhpz.com
 zgukxyhzquesk.love
 zgwgoxzayjmqc.store
 zgxgzq.com
+zgxncjs.com
+6wg1v.zgxrs.com
 zgxzeicunptms.store
+zgzjny.com
 zh-tenxun.com
 zh-ys.com
 zhaner.xyz
+zhangzhang.com
+m.zhans.net
 zhao-kao.com
 zhaocili.info
 zhaopinwuyang.com
+zhaoshang-sh.com
 zhaoshentu011.cn
 zhaoxieliao.com
 zhcn8.com
 zhcyrfxkupdvs.store
+zhdc0898.com
 zhej78i1an8w6ceu.com
+zhenjin.com
 zhffvzqowuoos.space
 zhi1616.com
 zhi58.com
@@ -53586,6 +53642,7 @@ zhjsq.com
 zhmsgznkpenng.space
 zhongguqiye.com
 zhongjiesujiao.com
+zhousong.com
 zhouyuanddd.space
 zhouyuzan.cn
 zhoyyibwywgev.one
@@ -53597,6 +53654,7 @@ zhuogejixie.com
 zhuotnqoongmt.club
 zhzijmkcplrch.store
 zi8ivy4b0c7l.com
+zibenban.org
 zibjls.top
 ziblo.cloud
 ziccxwyfkathr.website
@@ -53615,11 +53673,13 @@ zihogchfaan.com
 ziidgugyfrbvf.website
 zijdzuarwvz.com
 zijqohihvozks.space
+zikaosh.com
 zikpwr.com
 zilemtusighi.net
 zilliondisturbance.com
 ziloezqpjglqu.website
 zimg.jp
+zimizuma.pro
 zimpolo.com
 zincirsizstore.com
 zingfirstlook.com
@@ -53634,8 +53694,10 @@ zirbharizcp.com
 qk.zirconscuculle.com
 zirdough.net
 zireemilsoude.net
+ziregrifu.pro
 zirkiterocklay.com
 zisezi.com
+zistypticu.pro
 zitchinsoa.top
 zitterchuvash.com
 ziuob.com
@@ -53645,9 +53707,12 @@ zj-longteng.com
 zjdac.com
 zjfowaspawuza.store
 zjfsjzzquhdcw.online
+zjhcdz.net
 zjhnzn.cn
 zjjgbuiy.com
 zjjxcx.com
+zjscxxh.com
+zjsxhsd.com
 zjtaizhou.com
 zjvdyclulykon.online
 zjyxx1905.com
@@ -53739,6 +53804,7 @@ zolizatate.com
 zombiecatdog.com
 zomdufobhmfmm.space
 zomhfzodazcnz.space
+zomiluwha.pro
 zona-games.net
 zona-solari.eu
 zonealta.com
@@ -53757,6 +53823,8 @@ zoovanuzauphoth.net
 zoowhausairoun.net
 zoowheneejo.top
 zoowunagraglu.net
+zophebybi.com
+zopiluche.pro
 zoptouhouniz.com
 zzme.zoqvjykbwmomo.top
 zorango.com
@@ -53788,6 +53856,7 @@ zpreland.com
 zptjv.com
 zpvjnt.icu
 zpwllfsjphpig.online
+zq66.com
 zqdekzkqwvzcl.buzz
 zqdetabyxxnwp.website
 zqethqturvqgc.online
@@ -53814,6 +53883,7 @@ zrnslcqbtovnv.site
 zrqsmcx.top
 zrvheziaakihj.website
 zrygvvxyadvro.site
+zrylc.com
 zrzxqjkroukgh.space
 zs12315.com
 zsaiqrqhoqbdo.site
@@ -53855,6 +53925,7 @@ ztumuvofzbfe.com
 ztvynj.icu
 ztwnhod.top
 ztwolf.com
+ztyjxayy.com
 zubivu.com
 zubniivgigntj.website
 zubytf.icu
@@ -53867,6 +53938,7 @@ zuforqaglos.com
 zugo.com
 zuhkryviqx.com
 zuijvo.com
+zujiglalo.pro
 zukore.com
 zukxd6fkxqn.com
 zuleny.com
@@ -53878,11 +53950,14 @@ zunbo.app
 zunezf.icu
 zunsoach.com
 zunyiteeleidin.com
+mdubianchunyi.zuopinj.com
+zuoqy.com
 zupcrxfechrmx.store
 zuphaims.com
 zuputu.com
 zuqxuomhfipor.space
 zureiskedamyb.world
+zusiwade.pro
 zuwufag.com
 zuxxuczkivp.com
 zvdkxhzpaslxe.online
@@ -53926,6 +54001,7 @@ zxwx.com
 zxwzi.com
 zxyc1688.com
 zxzbjqoyojpza.site
+zxzs365.cn
 zy9868.com
 businesslnstagram.zya.me
 zyavhhgzkdjfu.space
@@ -53933,12 +54009,15 @@ zyblzreyykyjw.top
 zybnqcnikmpqu.life
 zybrdr.com
 zyf03k.xyz
+zyfcw.net
 zyhk17.com
+zyhugabu.com
 zyhzzhxnlnfdk.site
 zyiis.net
 zykkjyaokkjyb.top
 zykqk.com
 zaj.zymjzwvmjjqz.top
+zynashipty.pro
 zync-gov.cn
 zynewaylxyxex.buzz
 zynnrgeptfjhg.online
@@ -53965,4 +54044,5 @@ zzzjhkyprpsvl.store
 zzzjkf.com
 zzzjvqzmkazvo.top
 zzzmjfixezere.site
+zzzmyl.com
 zzzzfzgzbz.com

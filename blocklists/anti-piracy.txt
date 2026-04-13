@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-12T18:19:15.072Z
-# Entries: 12385
+# Last updated: 2026-04-13T06:54:15.385Z
+# Entries: 12393
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -11923,6 +11923,7 @@ csrinstaff.writeas.com
 bt.wrzru.com
 wtfnzb.pw
 wtftrackr.pw
+omg.wtftrackr.xyz
 wunza.ws
 wushare.com
 wvw-fmovies.com
@@ -11978,6 +11979,7 @@ xatab-repack.net
 xatab-repack.rip
 xbins.org
 xboot.net
+bt.xbox-sky.com
 xbox360iso.com
 xcine.click
 xcine.cx
@@ -12003,6 +12005,7 @@ xforce-cracks.com
 share.xfsub.com
 tracker.xiaoduola.xyz
 xider.hu
+xie22.com
 ximepa.ru
 xlist.ro
 xmovie8.pro
@@ -12018,6 +12021,7 @@ xmovies8.si
 tracker-zhuqiy.xn--1r3au8b.space
 xn--80a4b.com
 tracker.xn--djrq4gl4hvoi.top
+xn--firstrowsport-8xe.eu
 xn--thepratebay-fcb.com
 budvartrekker.xn-s.eu
 hd-hu.xn-s.eu
@@ -12041,6 +12045,7 @@ xtorrentp2p.com
 xtorrenty.org
 xtorx.com
 xtovideo.com
+xtraseed.com
 xtreme.cc
 xtremespeeds.net
 xtremewrestlingtorrents.net
@@ -12100,6 +12105,7 @@ yesmovies.cloud
 yesmovies.com
 yesmovies.do
 yesmovies.fun
+yesmovies.gg
 yesmovies.id
 yesmovies.io
 yesmovies.is
@@ -12123,6 +12129,7 @@ yesmovies.to
 yesmovies.vc
 yesmovies.vin
 yesmovies.vip
+yesmovies.world
 yesmovies.wtf
 yesmovies.zone
 yesnetcommunication.com
@@ -12231,6 +12238,7 @@ ytsstreaming.com
 ytstorrent.com
 ytstv.me
 ytstvmovies.xyz
+ytsyify.net
 yubraca.net
 yugenani.me
 yui-nya.com
