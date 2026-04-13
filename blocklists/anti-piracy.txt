@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-13T06:54:15.385Z
-# Entries: 12393
+# Last updated: 2026-04-13T18:33:35.144Z
+# Entries: 12394
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -6592,6 +6592,7 @@ megakino2.biz
 megakino2.com
 megakino2.net
 megakino2.org
+megakino3.com
 megakinox.top
 megamanmaker.com
 megamodapk.com

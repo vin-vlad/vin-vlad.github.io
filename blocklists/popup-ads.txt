@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-04-13T06:54:15.372Z
-# Entries: 54045
+# Last updated: 2026-04-13T18:33:34.928Z
+# Entries: 54089
 0.beer
 0.club
 0.fashion
@@ -8369,6 +8369,8 @@ app-gala-games-online-3yhh6.com
 app-gamesonline-9zhq.com
 app-momentum.com
 app-rush.com
+app-wegame.com
+app-wg.com
 app6.cc
 app9888.com
 appads.com
@@ -9814,6 +9816,9 @@ bandageretaliateemail.com
 banddisordergraceless.com
 bandelcot.com
 zl.bandhpensils.com
+bandisoft.org
+bandizip.net
+bandizip.pro
 bandoraclink.com
 bandswell.com
 bandyrefrigeratefeign.com
@@ -14135,6 +14140,7 @@ cmyiojnzfirqc.website
 cmzdm.com
 dynamic.163data.com.cn.tv
 everpharmanet.cn.tv
+cn-idm.com
 cn2f.cn
 cn846.com
 cndsdsva.top
@@ -14495,6 +14501,7 @@ coluteapurl.website
 3dchat.com.cn
 91xueli.com.cn
 9221.com.cn
+a-todesk.com.cn
 abtiedu.com.au
 ad4.com.cn
 admatic.com.tr
@@ -14530,6 +14537,7 @@ ck1.duanzipai.com.cn
 dusk.com.tw
 tr.dwjq.com.cn
 ebayobjects.com.au
+f-sogou.com.cn
 faceb00k.com.vn
 www.fifthwall.com.au
 fire3.com.cn
@@ -14587,9 +14595,12 @@ nnfls.com.cn
 offiio-wps.com.cn
 orcanmedikal.com.tr
 panoeye.com.cn
+pc-todesk.com.cn
 pian.com.cn
+q-sogou.com.cn
 qingfa.com.cn
 qishmusic.com.cn
+qishuide.com.cn
 qka.com.cn
 qufu.com.cn
 ralliant.com.cn
@@ -14602,7 +14613,9 @@ sarahchapman.com.cn
 sfjx.com.cn
 shegotloud.com.au
 shuanshu.com.com
+sogou2.com.cn
 solsticeadvancedmaterials.com.cn
+sougoupy.com.cn
 arnonym.spotify.com.cn
 cohorts.spotify.com.cn
 mcwp.spotify.com.cn
@@ -14625,6 +14638,7 @@ wcsl.com.cn
 tickets.website.com.se
 www-facebooks.com.vn
 www-office-wps.com.cn
+www-qishiu.com.cn
 wzlaw.com.cn
 www.xzc.com.tw
 yingjie.com.cn
@@ -17820,6 +17834,7 @@ dkswshap-3.online
 dkwtrzrrejqls.club
 dkyzxjlvlfjae.store
 dl-rms.com
+dl-sogou.com
 dl38b03.club
 dlasdbj.cn
 dldvfyshpgftw.website
@@ -23630,6 +23645,7 @@ vps.go-srv.com
 go-static.info
 go-to-website.com
 a.go-traffic.com
+go-wegame.com
 go1eulife.ai
 go2.global
 go2affise.com
@@ -25529,7 +25545,21 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-hl.cn
+app-google-zh.hl.cn
+apps-chrome-zh.hl.cn
+apps-google-hl.hl.cn
+chrome-gooogle-zh.hl.cn
+chrome-hl.hl.cn
+cnzh-google-apps.hl.cn
+go-todesk.hl.cn
+googgle-chrrome.hl.cn
+google-chrrome-zh.hl.cn
+office-wps-hl.hl.cn
+qishui-yinle.hl.cn
+qishui-zn.hl.cn
+todesk-zh.hl.cn
+zh-googlle-chrome.hl.cn
+zhcn-googele.hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -25665,6 +25695,7 @@ holyfrenchtoast.com
 holyworldusa.com
 linelife.home-chat.jp
 1litteno.home-walil1.jp
+home-wegame.com
 home4ugoog10you.com
 homecomingwoollen.com
 homeconstructionmanagementllc.mobi
@@ -26032,6 +26063,7 @@ huanweitong.com
 huanygl11.top
 huawoyjmdtyag.love
 huaxikou.cc
+hub-wegame.com
 hubbyrangerfry.com
 hubhc.com
 hubhubhub.name
@@ -27859,6 +27891,7 @@ jabhwjqj.icu
 oy.jabirussulcus.shop
 jabmascarastorey.com
 jabodzaxfja.com
+jabturfembitter.com
 jacabcolrta.com
 jacatoooras.top
 jackadamo.com
@@ -34930,6 +34963,7 @@ nnerventualkentin.org
 nnjlvfmz.icu
 nnoulqmhxrskm.store
 nnowa.com
+nnraytheon.com
 nnyejjtckhxkp.online
 nnyff.com
 no-gbh.com
@@ -35806,6 +35840,7 @@ official-kmspico.com
 official-kmspico.org
 official-permission.com
 official-permit.com
+official-wegame.com
 next.official7-frkoi.net
 officialkmspico.com
 officialpatientego.com
@@ -36448,9 +36483,11 @@ jinshanduba.org.cn
 jlsqgsp.org.cn
 mzxl.org.cn
 qqma.org.cn
+shurufa-sogou.org.cn
 stcl.org.cn
 transplantation.org.cn
 uniswap.org.in
+www-cn-google.org.cn
 xsfy.org.cn
 yujinyulechengzenmeying.yj93.org.cn
 orga29.com
@@ -44490,6 +44527,7 @@ softwareku.id
 sogetcoupes.com
 soggy-surround.com
 sognoansofou.net
+sogou-sogou.cn
 sogoushurf.com
 sogropidy.com
 soha.jp
@@ -46546,6 +46584,7 @@ teads.tv
 ph.teaerpregame.com
 kh.teaglebauson.com
 teakagency.com
+team-wegame.com
 teamavili.com
 teamhealthcareclinic.com
 teamrefcoins.com
@@ -46567,6 +46606,7 @@ teawarecoinfer.com
 teawareczar.com
 tebie.cn
 tech-best.com
+tech-sogou.com
 tech4u.app
 techbazaarx.store
 techblock.info
@@ -47427,6 +47467,7 @@ toddlersignlanguage.com
 todeataxed.website
 todecorstore.com
 todesk.im
+todesk-zh.cn
 todeskapp.com
 todopick.com
 todseenegnie.xyz
@@ -47534,6 +47575,7 @@ top-best.com
 top-official-app.com
 top-performance.top
 top-performance.work
+top-wegame.com
 top10canadabet.com
 topadbid.com
 topadsservices.com
@@ -51119,6 +51161,7 @@ weepy-natural.pro
 weepypapreg.com
 weewoogloogru.net
 weezoptez.net
+wegameesport.com
 wegetpaid.net
 wegnpzpsgjpzx.space
 wehrm.com
@@ -52112,6 +52155,7 @@ wvmvpjlguwapy.online
 wvqljkowybfxe.space
 wvtsnyncckesw.site
 wvwaerpeqvzpb.fun
+ww-sogou.cn
 ww6559.com
 ww6981.com
 ww8979.com
