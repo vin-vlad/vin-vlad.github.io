@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-14T06:45:30.630Z
-# Entries: 12394
+# Last updated: 2026-04-14T18:32:19.936Z
+# Entries: 12395
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -3164,6 +3164,7 @@ kamikazee.duckdns.org
 rekcart.duckdns.org
 thinking.duckdns.org
 tr4ck3r.duckdns.org
+vito-tracker.duckdns.org
 tracker.ducks.party
 duckwad.net
 dummipedia.org
