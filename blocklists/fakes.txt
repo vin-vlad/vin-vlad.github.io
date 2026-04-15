@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-15T06:45:40.977Z
-# Entries: 14667
+# Last updated: 2026-04-15T18:35:09.969Z
+# Entries: 14686
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -778,6 +778,8 @@ asfinet.info
 asfintarg.com
 asflnaq.me
 asfnneghs.cyou
+asfrnagi.beer
+asfrnagi.lat
 asgeirpetursson.com
 ashatoslombardini.com
 ashbergh.com
@@ -2245,6 +2247,7 @@ custom.changepool.xyz
 chansflavor.com
 chapterrest.store
 characterh.com
+charismatico.com
 charmdaily.com
 charmfay.com
 charmsvision.com
@@ -2692,6 +2695,7 @@ cooho.de
 cook-on-the-bright-side.com
 cookanddinesales.com
 cookskitchen.club
+coolgin.com
 cooling-ace.de
 coolsnow.at
 cooltv.shop
@@ -3136,6 +3140,7 @@ dekoobjektrabatt.com
 dekoration-store.com
 dekorations-o-grod.de
 dekorationsmeister.com
+dekorativeholzprodukte.com
 dekotext.com
 del.de
 delebensmittel.com
@@ -3689,6 +3694,7 @@ edpharm24.com
 edpillen.at
 edpills.de
 edpilulanetwork.com
+edreamtrips.com
 edrxmeds.com
 ee-fahrrad-handel.de
 eew-karriere.de
@@ -3997,6 +4003,7 @@ eshop-univers.com
 eshop-univers.de
 eshopkamagra.sk
 eslproleagues.com
+esn-fitness.com
 esotecs.com
 espacedblc.com
 espaceverts.com
@@ -4682,7 +4689,6 @@ fmtrader.com
 fodgramstar.com
 fogatoshop.com
 fokoomall.com
-fokus-auf-deutschland.click
 fokusfinanz.com
 foldcase.co
 foldingboxesstore.com
@@ -5378,6 +5384,7 @@ gmp-trade.com
 gmzglobal.net
 gninvest-ag.com
 gnope.com
+go-campingmaster.com
 goadapter.com
 goalbo.de
 goandfind.net
@@ -5464,6 +5471,7 @@ gosmartwatch.de
 gothictot.com
 gothimmes.com
 gotrixa.de
+gotshod.monster
 gourmetecke.com
 govern1.com
 gplate.de
@@ -6125,6 +6133,7 @@ herzstil.de
 heshengd.com
 hesly.de
 upcock.hetouch.shop
+heute-horoskope.de
 hexa-tronic.com
 hexagonresources.org
 hexoil.de
@@ -6370,6 +6379,7 @@ hoursclothes.com
 house-book.eu
 houseandhomeco.com
 housedreamfactory.com
+householdessentialslab.com
 houseofbuys.de
 houseofcbdeutschland.de
 houseofnordberg.com
@@ -6711,6 +6721,7 @@ interactionm.com
 interactivecoins.com
 interactiveoption.com
 interactp.com
+interarino.com
 acces.interface-arbitragecrypto.com
 interiordesignusa.com
 interiordome.com
@@ -7336,6 +7347,7 @@ klempnerwerkzeug.com
 kleverzins.de
 kley-kanzlei.com
 klima-bonus.app
+klimabonus2026.at
 klimmotorrad.com
 klingerdirndl.com
 klonl.shop
@@ -7409,6 +7421,7 @@ konsoleplay.com
 kontomeinelbaraiffeisen.com
 kontoraiffeisenmeinelba.com
 kontoverlaengerung.com
+koochand.com
 koodakde.shop
 kora-store.de
 korata.com
@@ -7827,6 +7840,7 @@ lifesattributes.de
 lifestyle-brands-us.com
 lifestyle-leder.de
 lifestylebicycle.com
+lifestylemallshop.com
 lifestyleshoe.com
 lifthe.com
 liftique.de
@@ -8641,6 +8655,7 @@ milentech.com
 millaura.com
 milleis-bk.com
 milleniumchain.com
+million-recht.de
 millioncrystal.com
 millwoodshomege.com
 milopuzzle.shop
@@ -9170,6 +9185,7 @@ vacarox.myshopify.com
 vaihjd-6f.myshopify.com
 ventilatoroase.myshopify.com
 versand-fuxx-ug.myshopify.com
+vetretto.myshopify.com
 vexiebox.myshopify.com
 waldundfeld.myshopify.com
 wassono.myshopify.com
@@ -10089,6 +10105,7 @@ overseask.com
 overthebordermeds.com
 overthecounterstore.com
 overtheworldmdseller.com
+ovrise.com
 ovrtkbndit.com
 ovtnz.shop
 owalaaustria.at
@@ -13064,6 +13081,7 @@ topelectronicshop.com
 topeuro-shop.com
 topfahrradzubehor.com
 topfastorder.com
+topfelite.shop
 tophousesgoods.com
 topideaberlin.com
 topillstore.com
@@ -13363,6 +13381,7 @@ web.tyrioncapital.live
 tyu-trade.com
 u-inv.com
 uaedisscount.com
+uaeteampissei.team
 uaqcx.shop
 uastudioshop.com
 ubadindies.top
@@ -13757,7 +13776,6 @@ viceregale.com
 vicinityk.com
 victoriassecret-vip-online.shop
 victoryshop.shop
-vidalivi.com
 vidaq.de
 viddsey.pro
 videforex.com
@@ -14302,6 +14320,7 @@ wolant.com
 wolf-juergen.de
 wolffashion.de
 wolffashiondeutschland.com
+wolffcommerce.de
 wolfmode.de
 wolke-hundebett.de
 wolkenweichboutique.de

@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-15T06:45:41.026Z
-# Entries: 12395
+# Last updated: 2026-04-15T18:35:10.357Z
+# Entries: 12407
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -332,6 +332,7 @@ admin.52ywp.com
 5dbgwxjk.com
 5mins.shop
 5mod.ru
+5movierulz.theater
 5movierulz.vc
 5movies.buzz
 5movies.cloud
@@ -2190,6 +2191,7 @@ cmovieshd.bz
 cmovieshd.com
 cmovieshd.net
 cmovieshd.vip
+cmovieshd.xyz
 cn101.ru
 cnetworkbd.net
 cny.fan
@@ -2862,6 +2864,8 @@ dizipal1543.com
 dizipal1544.com
 dizipal1936.com
 dizipal22.plus
+dizipal754.vip
+dizipal755.vip
 dizipall32.com
 djconway.com
 djleak.com
@@ -3304,6 +3308,7 @@ elitetorrent.in
 elitetorrent.net
 elitetorrent.nl
 elitetorrent.pl
+elitetorrent.wf
 elitetorrent1.com
 elkoora.live
 elsewhere.org
@@ -4246,6 +4251,7 @@ freemovies360.com
 freemoviesfull.com
 freemp3.cc
 freemp3.fm
+freemp4moviez.com
 freeoldies.com
 freepeer.org
 freeroms.com
@@ -4682,6 +4688,7 @@ gtdb.cc
 gtdb.to
 gtorrent.pro
 gtorrent.ru
+gtorrents.sbs
 guarda-serie.click
 guardaflix.com
 guardaflix.fm
@@ -7108,6 +7115,7 @@ mp4hydra.info
 mp4hydra.org
 mp4hydra.top
 mp4mania1.net
+mp4moviez.football
 mp4moviezhub.xyz
 mrgamingstreams.app
 tracker.mrhei.tech
@@ -10581,9 +10589,12 @@ torrentmove.com
 torrentmovie.info
 torrentmovies.co
 torrentnote.com
+archive.torrentonline.cc
 coeus.torrentonline.cc
 node01.torrentonline.cc
 node02.torrentonline.cc
+obey.torrentonline.cc
+whybother.torrentonline.cc
 torrentonly.com
 torrentor.pro
 torrentoyunindir.com
@@ -11369,6 +11380,7 @@ vegamovies.voto
 vegamovies.voyage
 vegamovies.vu
 vegamovies.website
+vegamovies.wedding
 vegamovies.work
 vegamovies.works
 vegamovies.world
