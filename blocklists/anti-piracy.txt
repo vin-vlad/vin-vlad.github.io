@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-15T18:35:10.357Z
-# Entries: 12407
+# Last updated: 2026-04-16T06:46:19.330Z
+# Entries: 12406
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -129,7 +129,6 @@ chihaya-heroku.120181311.xyz
 123movies.work
 123movies-apk.com
 123movies-to.org
-123movies4u.fun
 123movies4u.life
 123movies4u.net
 123moviesb.net

@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-15T18:35:09.969Z
-# Entries: 14686
+# Last updated: 2026-04-16T06:46:19.254Z
+# Entries: 14685
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -779,7 +779,6 @@ asfintarg.com
 asflnaq.me
 asfnneghs.cyou
 asfrnagi.beer
-asfrnagi.lat
 asgeirpetursson.com
 ashatoslombardini.com
 ashbergh.com
