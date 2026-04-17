@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-17T06:46:33.622Z
-# Entries: 12409
+# Last updated: 2026-04-17T18:24:11.266Z
+# Entries: 12402
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -1254,7 +1254,6 @@ bayernstream.com
 bayfiles.com
 bayofpirates.xyz
 bb-tv.org
-torrents.bbccable.net
 bclearning.top
 bd-t.net
 bdbroadband.com
@@ -1885,7 +1884,6 @@ cb01.support
 cb01.taxi
 cb01.training
 cb01.us
-cb01.vet
 cb01.vg
 cb01.video
 cb01.vip
@@ -2278,7 +2276,6 @@ colivioo.com
 colombo-bt.org
 123movies.com.pk
 9kmovies.com.co
-9kmovies.com.cv
 www.aenianos.com.br
 aruacfilmes.com.br
 btarg.com.ar
@@ -2352,7 +2349,6 @@ www.midea123.z-media.com.cn
 comandofilmetorrent.com
 comandohdtorrents.com
 comandotorrenthd.net
-comandotorrents.com
 comandotorrents.org
 comandotorrentshd.net
 mywebpages.comcast.net
@@ -2466,7 +2462,6 @@ crackserver.com
 cracksfiles.com
 crackslink.com
 cracksnow.com
-crackspider.net
 crackstore.com
 crackstreams.com
 crackstreams.dev
@@ -2925,7 +2920,6 @@ dodear.com
 dodi-repacks.site
 dognzb.cr
 doile378vtt.com
-doilybeguine.cyou
 dokumen.pub
 dokumentalne.net
 dolwiz.com
@@ -3116,17 +3110,11 @@ drakulastream.xyz
 drakulatv.eu
 drama-online.pl
 dramacafi-tv.quest
-dramacoolfirst.com
 dramaday.me
 dramago.com
 dramaqu.app
-dramaqu.beauty
 dramaqu.cloud
-dramaqu.digital
-dramaqu.live
-dramaqu.me
 dramaqu.net
-dramaqu.site
 dramaqu.vip
 dramaqu.website
 dramaqueen.pl
@@ -3173,9 +3161,7 @@ duckwad.net
 dummipedia.org
 dunia21.cc
 dunia21.download
-dunia21.me
 dunia21.net
-dunia21.pw
 dup3.me
 dupefr.com
 durantonetworkbd.com
@@ -3502,6 +3488,7 @@ eurostreamings.buzz
 eurostreamings.cam
 eurostreamings.casa
 eurostreamings.cfd
+eurostreamings.click
 eurostreamings.com
 eurostreamings.fun
 eurostreamings.hair
@@ -4871,6 +4858,7 @@ hdencode.com
 hdencode.org
 hdf.world
 hdfilmcehennemi.now
+hdfilmcehennemi27.com
 hdfilme.app
 hdfilme.baby
 hdfilme.best
@@ -4883,6 +4871,7 @@ hdfilme.cool
 hdfilme.cv
 hdfilme.cx
 hdfilme.day
+hdfilme.deals
 hdfilme.fit
 hdfilme.fun
 hdfilme.garden
@@ -4928,6 +4917,9 @@ hdmatch.club
 hdmatch.link
 hdme.eu
 hdmoie2.com
+hdmovi2.bz
+hdmovi2.fan
+hdmovi2.xyz
 hdmovia2.com
 hdmovie14.net
 hdmovie2.ac
@@ -5175,6 +5167,7 @@ hdmovieshub.nl
 hdmoviesnxt.com
 hdmoviespark.com
 hdmoviesverse.xyz
+hdmovil.xyz
 hdmovil2.com
 hdmovit2.com
 hdmoviz2.xyz
