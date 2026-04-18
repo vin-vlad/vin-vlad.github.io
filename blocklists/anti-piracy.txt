@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-17T18:24:11.266Z
-# Entries: 12402
+# Last updated: 2026-04-18T06:33:26.270Z
+# Entries: 12396
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -3402,7 +3402,6 @@ euromovies.me
 europixhd.io
 europixhd.pro
 europixhd.site
-europixhd.top
 eurostreaming.actor
 eurostreaming.app
 eurostreaming.archi
@@ -3450,7 +3449,6 @@ eurostreaming.online
 eurostreaming.ooo
 eurostreaming.org
 eurostreaming.ph
-eurostreaming.pink
 eurostreaming.poker
 eurostreaming.pro
 eurostreaming.quest
@@ -3654,7 +3652,6 @@ feeder.lt
 fel3ardaa.com
 feliratok.eu
 lucke.fenesisu.moe
-feniks-site24.pl
 fenopy.com
 fenopy.se
 feuerbringer.com
@@ -3680,7 +3677,6 @@ filebase.ws
 filebit.pl
 filebits.org
 filecatch.com
-filechef.com
 filecr.com
 filecraft.com
 filedown.net
@@ -3745,7 +3741,6 @@ film4k.to
 filman.cc
 filmapik.beauty
 filmapik.bike
-filmapik.bio
 filmapik.cafe
 filmapik.cash
 filmapik.channel
@@ -4002,7 +3997,6 @@ flacworld.com
 flarefiles.com
 flash-games.ws
 flashbit.cc
-flashfilmes.org
 flashfilms-hd.com
 flashfilms-hd.top
 flashnetbd.com

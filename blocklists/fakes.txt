@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-17T18:24:11.206Z
-# Entries: 14643
+# Last updated: 2026-04-18T06:33:26.182Z
+# Entries: 14611
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1565,7 +1565,6 @@ bitcoin-pharmacy.com
 bitcoin-revolution.org
 bitcoin-up.io
 bitcoin-xact.fr
-bitcoin360ai.com
 bitcoinarchon.com
 bitcoineer.de
 bitcoinera.app
@@ -2006,7 +2005,6 @@ canada-gymshark.com
 canada-pharmacy-24h.com
 canadadrugstore.com
 canadanewsreport.com
-canadapharmacyonline.com
 canadapharmacypro.com
 canadapharmacytrust.net
 canadasale365.com
@@ -3696,7 +3694,6 @@ elektro-evolution.de
 elektro-friedrich.com
 elektro-meisner.com
 elektro-mix.de
-elektro-rabatt.com
 elektro-rock.com
 elektro-soforthilfe.at
 elektro-stern.com
@@ -3743,20 +3740,16 @@ elipolyse.de
 elisabethwien.at
 elisaluna-handel24.de
 elise-schmuck.de
-elite-flows.com
 eliteai-t.com
 elitepie.com
 elitesafetrading.com
 elitesneakers.store
 elitestayzio2u.com
-elizazara.com
-ella-boutique.de
 ellabelle.de
 ellada-farmakeio.com
 ellameyer.de
 ellanorahamburg.com
 elle-weber.de
-elle-zurich.ch
 elle-zurich.com
 ellela.de
 ellenperuecken.de
@@ -3784,7 +3777,6 @@ ema-mold.com
 ema-schmuck.com
 emamold.com
 emaschmuck.com
-emba24.de
 embertime.com
 embrellar.de
 emeingarten24.com
@@ -3796,7 +3788,6 @@ emiliegan.com
 emilyedwards.de
 emilyschmuck.com
 eminage.com
-emma-keller.de
 emmafrey.ch
 emmalipp.com
 emmalove.de
@@ -3853,7 +3844,6 @@ entornobanoes.com
 entove.com
 entrancet.com
 entruempelung-meister.at
-entruempelungsexperten.at
 entrustjewelry.com
 entzueck-end.de
 enuvio.de
@@ -3867,7 +3857,6 @@ epargnefacile.com
 epari.de
 epbitcoin.com
 epcc.co
-eponahorsefeeddeava.shop
 eppystooloff.com
 epromarket.com
 sovkonc.ept.se
@@ -3879,12 +3868,10 @@ equipdiscount24.com
 equitycapitals.com
 equivalenh.com
 equivalenu.com
-eradkultur.com
 eradkultur.de
 eradmarkt.de
 eradstore.de
 erate.com
-erclubi.cc
 erdbeerblase.de
 ereka-versand.com
 erektile-apotheke24.de
@@ -3894,7 +3881,6 @@ erektionspillen.com
 erexe.cz
 ergeb-nisse.de
 ergobackpacks.com
-ergrolabrantnerkg.com
 erinnersegel.com
 erjteroerp.xyz
 erleseneweine24.com
@@ -4142,7 +4128,6 @@ exteriork.com
 extraordiny.com
 extrapassion.club
 extshginm.com
-exventor.net
 exxtone.com
 eyekonikeyewear.de
 eyewearandframes.com
@@ -4247,7 +4232,6 @@ familieenhaustiere.de
 familienbegleiterin.de
 familienmobil24.de
 familienschatze.com
-familienzug.ch
 familo.net
 family-drugs.net
 family-pills.com
@@ -4357,7 +4341,6 @@ femalenew.com
 fembeck-finanzen.de
 femizzalojas.com
 femmefrei.de
-femmehaus.de
 fenderprofilleisten.com
 fendiz.com
 fenla-berlin.de
@@ -4370,7 +4353,6 @@ ferienwohnung-gudow.de
 ferlinwaffen.com
 fermil.shop
 fermonnvertrieb.com
-fernandesequipamentos.com
 fernbedienung-schalter.de
 ferne-schied.de
 fernholz-handel.de
@@ -4424,7 +4406,6 @@ figuredart.shop
 figurenverkauf.com
 figurinestoys.com
 filamniceent.com
-fillamoda.com
 fillethumn.com
 fillinger.shop
 filloutlet.com
@@ -4458,7 +4439,6 @@ finarixisx.de
 finasport.de
 finaurex.com
 webtrader.finaurex.org
-finaxanlage.de
 fincacheck.com
 fincas-und-villen.com
 finchmarkets.com
@@ -4532,8 +4512,6 @@ fitnestar.de
 fitouthometool.com
 fitpro-shop.de
 fitselect.de
-fitstancic.com
-fitstoredeal.com
 fittergear.de
 fittingdiscount.com
 five-media011.com
@@ -4799,7 +4777,6 @@ cdtest.fullgrow.club
 hipoff.fullgrow.club
 fullzcash.com
 fundgoxpro-solution.com
-fundgoxprosolution.com
 fr.fundiza.com
 fundrock-group.de
 okhat.fundtable.shop
@@ -4884,11 +4861,9 @@ gala-gruppe.com
 gala-waldbau.de
 trading.galacapital.net
 galandu.de
-galaxy-handel.de
 galaxyfox.io
 galaxygroup.io
 galera-markt.com
-galeria-bergmann.de
 galerie-kaufhaus.de
 galeriemodehaus.com
 galerieoswald.de
@@ -4987,7 +4962,6 @@ gartenmotor.de
 gartenmotorgerate.com
 gartenobstshop.com
 gartenpflanzende.com
-gartenpflege-service-wien.at
 gartenpflegeshop.com
 gartenpicks.de
 gartenplus24.com
@@ -5085,7 +5059,6 @@ geoxportugaloutlet.com
 geoxschuhe.de
 geoxsouthafrica.com
 geoxsrbija.com
-geoxsuomi.com
 geoxuk.com
 geoxuruguay.com
 geqimo.com
@@ -5254,7 +5227,6 @@ glamstadt.com
 glanzberg-mode.de
 glanzlampen.com
 glaprestige.com
-glas-plus.at
 glassesde.com
 glassesify.com
 glassesstoreshop.com
@@ -5290,7 +5262,6 @@ glowyplant.de
 funnel.gluckaro.de
 gluckbox.com
 gluckgrill.com
-gluco-slim.net
 gluconol-capsules.com
 at.gluconv.com
 ch.gluconv.com
@@ -5334,7 +5305,6 @@ golden-goose.at
 golden-outlet.de
 golden-re.com
 goldenbayboutiques.com
-fb.goldengoosefan.com
 goldengoosesale.de
 goldengoosess.shop
 goldenngoosee.com
@@ -5345,7 +5315,6 @@ goldhandel-degussa.de
 goldhandel-heute.de
 goldhandel-kauf.de
 goldhandel-testsieger.de
-goldira.wiki
 goldman-capital.com
 goldofficemaster.com
 goldpromocoes.com
@@ -7275,7 +7244,6 @@ kleverzins.de
 kley-kanzlei.com
 klima-bonus.app
 klimabonus2026.at
-klimakaelteprofi.com
 klimmotorrad.com
 klingerdirndl.com
 klonl.shop
@@ -7597,6 +7565,7 @@ lebens-traum.at
 lebensartikel.com
 lebenskompassdeava.shop
 lebensmittelgeschaft.com
+lebensmittelgeschafte.com
 lebensmitteltime.com
 lebenwertebauen.com
 leboutique24.de
@@ -11780,7 +11749,6 @@ shops-eminem.com
 shopsaddlebag.com
 shopsaltpepper.com
 shopsavehub.com
-shopsgogo.shop
 shopstables.com
 shoptee.de
 shopunivers.de
