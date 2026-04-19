@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-18T18:19:05.115Z
-# Entries: 12381
+# Last updated: 2026-04-19T06:42:15.979Z
+# Entries: 12370
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -6465,7 +6465,6 @@ mathkangaroo.jp
 matrix-virovitica.com
 mawtoload.com
 max-rls.com
-max2013schweiz.club
 maxidown.com
 maxseries.top
 maxseries.xyz
@@ -6855,7 +6854,6 @@ moviecluphd.store
 moviecracker.net
 moviedokan.autos
 moviedokan.baby
-moviedokan.biz
 moviedokan.cfd
 moviedokan.click
 moviedokan.cv
@@ -6953,7 +6951,6 @@ moviesm4u.net
 moviesmania.info
 moviesmobile.net
 moviesmod.bid
-moviesmod.bio
 moviesmod.blue
 moviesmod.build
 moviesmod.cafe
@@ -6964,12 +6961,9 @@ moviesmod.cloud
 moviesmod.cool
 moviesmod.day
 moviesmod.dev
-moviesmod.forum
 moviesmod.fyi
-moviesmod.gift
 moviesmod.kim
 moviesmod.mom
-moviesmod.nl
 moviesmod.onl
 moviesmod.pink
 moviesmod.plus
@@ -7039,7 +7033,6 @@ moviplus.net
 moviz.net
 movizdb.com
 movply.com
-movply.stream
 movreel.com
 movt70.store
 movtubex3.cc
@@ -7115,7 +7108,6 @@ multicanais.com
 multicanais.fans
 multicanais.live
 multicanais.today
-multimovies.autos
 multimovies.center
 multimovies.cheap
 multimovies.click
@@ -7127,7 +7119,6 @@ multimovies.guru
 multimovies.lol
 multimovies.media
 multimovies.network
-multimovies.nl
 multimovies.onl
 multimovies.online
 multimovies.run
@@ -7370,7 +7361,6 @@ neufneuf.space
 neuvertonung.de
 neverland.ws
 dark-warez.new.fr
-warezland.new.fr
 new-dimensionz.com
 new-futur.com
 new-line.net
@@ -7389,7 +7379,6 @@ newerteam.com
 newhdmovie2.com
 newhdmovie2.net
 newhdmovie2.one
-newhdmovie2.org
 newhdmovies.org
 newhdmovies.top
 newhdmovies24.net

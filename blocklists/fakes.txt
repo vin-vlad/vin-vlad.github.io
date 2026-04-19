@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-18T18:19:05.043Z
-# Entries: 14577
+# Last updated: 2026-04-19T06:42:15.748Z
+# Entries: 14555
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -4788,7 +4788,6 @@ cdtest.fullgrow.club
 hipoff.fullgrow.club
 fullzcash.com
 fundfjord.com
-fundgoxpro-solution.com
 fr.fundiza.com
 fundrock-group.de
 okhat.fundtable.shop
@@ -5732,7 +5731,6 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
-haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -8143,7 +8141,6 @@ marc-cain-eu.shop
 marcfisherlady.com
 marcfisherwien.at
 marcjacobsfactoryoutlet.us
-marcjacobsosterreich.at
 marcoferretti.de
 marconzept.com
 marconzept.de
@@ -8152,7 +8149,6 @@ marcosbrito.com
 marcveriont.de
 mardano.com
 marecuperadora.online
-margaretannlynch.com
 marginalk.com
 marginelite.com
 mariandmaison.com
@@ -8602,7 +8598,6 @@ mmtaccessibility.com
 moancd.shop
 mobefind.com
 mobefind-de.com
-mobel-welt.com
 mobelimfreien.com
 mobelmagie.com
 mobelonlineshop24.com
@@ -8616,7 +8611,6 @@ mobileappkamapro.xyz
 mobilephonelocator.net
 mobilerheizungen.de
 mobiliarluuna.com
-mobilihomedecor.com
 mobilitaetsnation.de
 mobilizex.com
 mobitracker.org
@@ -8802,11 +8796,9 @@ morii.nl
 moro-fahrraeder.de
 mortalvessel.com
 morvath-ltd.com
-mosaik-invest.com
 mosano.de
 moschinosale.de
 moscotberlin.de
-moser-graz.at
 moser-wien.com
 mosessions.com
 mosmankoch.at
@@ -8854,7 +8846,6 @@ mrxcapitaltrading.com
 msc-beratung.de
 mseminar.com
 msf.global
-mskauf.de
 msmmetallindustry.com
 msnanty.com
 mstf.de
@@ -8913,7 +8904,6 @@ musiqueonline.com
 mustang-parts-shop.de
 muttermode.de
 muvastore.com
-muysale.cn
 muzam.de
 muzenaudio.com
 mvfahrrad.de
@@ -8952,7 +8942,6 @@ mykreditexpress.com
 myleadcorner.com
 mylumenx.com
 mymedshoplive.com
-mymissionariess.shop
 hulkmusclerx.mymusclepay.com
 mynanosparkle.com
 mynecklace.de
@@ -9107,7 +9096,6 @@ nakupni.cz
 nalaiandco.com
 nalviros.com
 nam-gestion.com
-nanila.de
 nanodeals.de
 nanuundnana.com
 nanyangdaily.com
@@ -9153,7 +9141,6 @@ navaru.de
 navigatil.store
 navirexep.de
 navoli.de
-naxinv.com
 nazaone.com
 nbdiscount.com
 nbynicole.com
@@ -9257,7 +9244,6 @@ newbrousblades.com
 newbuildingsupplies.com
 newcfds.com
 newchrisreeve.com
-neweary.com
 newfulfilment.com
 newinmountain.com
 newinsnowboard.com
@@ -9323,7 +9309,6 @@ nikeshoesoutlet.gr
 nikesuomi-fi.com
 nikesuomishop.com
 nikiexportdiffusion.com
-niknfactory.com
 nilamiwelp.com
 nilnook.de
 nimoil.de
@@ -9355,15 +9340,11 @@ nobalte.de
 noblepawz.com
 utlcm.noborn.com
 nobrerefino.com
-nobullbelgie.net
 nobulldeutschland.de
-nobullgreece.net
 nobullosterreich.com
-nobullprojectmexico.com
 nobullsale.at
 nobullsale.de
 nobullshop.at
-nobullsrbija.com
 nobulprojectnederland.me
 noclegipolanczyk.pl
 nofish.org
@@ -9485,7 +9466,6 @@ nuvonda.shop
 nuxxu.de
 nvcxa.com
 nvgevolgd.com
-nvgtnosterreich.at
 nw-heizoel.de
 nwmoverscp.com
 nxsfund.com
@@ -9499,7 +9479,6 @@ obagroup.site
 obaspa.store
 obdclick.com
 ober-sicherheit.com
-oberflache24.com
 oberfrasede.com
 obermeyerski.com
 obibaumarkt.at
@@ -11926,7 +11905,6 @@ solarheim.com
 solarien-berlin.de
 solarlion.de
 solarmik.de
-solarmira.de
 solarplatten24.de
 solarpowerde.com
 solarpvwerkzeug.com
