@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-19T18:19:13.662Z
-# Entries: 12371
+# Last updated: 2026-04-20T06:55:38.135Z
+# Entries: 12363
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -9085,6 +9085,7 @@ skymovieshd.credit
 skymovieshd.cv
 skymovieshd.diy
 skymovieshd.earth
+skymovieshd.fast
 skymovieshd.guru
 skymovieshd.house
 skymovieshd.land
@@ -9532,7 +9533,6 @@ streaming-series.org
 streamingaddons.xyz
 streamingcommunity.actor
 streamingcommunity.ag
-streamingcommunity.airforce
 streamingcommunity.app
 streamingcommunity.army
 streamingcommunity.asia
@@ -9588,7 +9588,6 @@ streamingcommunity.garden
 streamingcommunity.help
 streamingcommunity.icu
 streamingcommunity.info
-streamingcommunity.io
 streamingcommunity.ist
 streamingcommunity.it
 streamingcommunity.kaufen
@@ -9924,11 +9923,9 @@ supremesecurityteam.com
 surrealmoviez.info
 susflix.tv
 suspic.com
-suteki-yume.net
 suzihaza.com
 sverigeplay.tv
 swapnonetwork.net
-swatchseries.info
 swatchseries.is
 swatchseries.ru
 swatchseries.to
@@ -9990,7 +9987,6 @@ tantifilm.club
 tantifilm.coach
 tantifilm.com
 tantifilm.cool
-tantifilm.diy
 tantifilm.education
 tantifilm.eu
 tantifilm.exchange
@@ -10003,10 +9999,7 @@ tantifilm.it
 tantifilm.kaufen
 tantifilm.land
 tantifilm.lat
-tantifilm.live
-tantifilm.living
 tantifilm.locker
-tantifilm.mba
 tantifilm.me
 tantifilm.mobi
 tantifilm.name
@@ -10351,7 +10344,6 @@ tollytorrents.com
 toloka.to
 trun.tom.ru
 tomehub.xyz
-tomoa.net
 toolba.se
 toolhip.com
 toolzu.com
