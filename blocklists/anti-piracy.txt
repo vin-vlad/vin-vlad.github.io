@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-21T06:47:01.339Z
-# Entries: 12377
+# Last updated: 2026-04-21T18:30:39.285Z
+# Entries: 12379
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -4864,6 +4864,7 @@ hddvdrip.com
 hdencode.com
 hdencode.org
 hdf.world
+hdfilmcehennemi.llc
 hdfilmcehennemi.now
 hdfilmcehennemi27.com
 hdfilme.app
@@ -4907,6 +4908,7 @@ hdfilme-to.top
 hdfilme-tv.cc
 hdfilme321.buzz
 hdfilmizle22.com
+hdfilmizle24.com
 hdfreaks.cc
 hdfull.cam
 hdfull.lv
