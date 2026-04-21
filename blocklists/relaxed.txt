@@ -1,5 +1,5 @@
 # relaxed
-# Last updated: 2026-04-20T18:27:55.753Z
+# Last updated: 2026-04-21T06:46:59.360Z
 # Entries: 306602
 0.beer
 www.0.beer
