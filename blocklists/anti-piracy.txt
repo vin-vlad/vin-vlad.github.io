@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-22T06:46:29.425Z
-# Entries: 12380
+# Last updated: 2026-04-22T18:30:55.472Z
+# Entries: 12382
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -5539,6 +5539,7 @@ ipstress.in
 ipstresser.com
 iptorrents.com
 iptv-web.app
+iptv4me.net
 iptvcanarias.tv
 iptvguard.app
 iptvonly.tv
@@ -7958,6 +7959,7 @@ pig2pig.com
 pijafka.pl
 tracker.pimp4003.net
 pinoymovieshub.tv
+pinoymovieshub.win
 pinoytorrents.net
 tv.pipexbd.com
 piraat.xyz
