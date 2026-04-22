@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-21T18:30:39.285Z
-# Entries: 12379
+# Last updated: 2026-04-22T06:46:29.425Z
+# Entries: 12380
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -912,6 +912,7 @@ animesuge.io
 animesuki.com
 animet.ru
 animetake.tv
+animetempy.com
 animetoon.org
 animetorrents.com
 animetorrents.me

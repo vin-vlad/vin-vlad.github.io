@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-21T18:30:39.222Z
-# Entries: 14549
+# Last updated: 2026-04-22T06:46:29.386Z
+# Entries: 14557
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -760,7 +760,6 @@ asela-handel.de
 asfig-strasse.com
 asfimarg.com
 asfinac.shop
-asfinag.sbs
 asfinag.shop
 asfinag-vignette.com
 asfinay.com
@@ -1412,6 +1411,7 @@ betonspot.com
 betrendy.site
 betrmode.com
 betrug.law
+betrugsexperten.de
 betrugsrecht.de
 bettbezugrabatt.com
 bettdeckenkissen.com
@@ -4618,6 +4618,9 @@ fm-fx.com
 fmarketx.com
 fmi-finance.com
 fmtrader.com
+foamr.ch
+foamr.de
+foamr.nl
 fodgramstar.com
 fogatoshop.com
 fokoomall.com
@@ -4798,6 +4801,7 @@ fuechsefussball.de
 fuehrungsregister.de
 fuehrungszeugnis.at
 fuelglovet.com
+fuelmeister.de
 fugespace.com
 fugitive.top
 fuhrmann.store
@@ -7550,6 +7554,7 @@ lavina-berlin.de
 laviza.de
 laxnds.com
 layda-handel.de
+layer-shop.com
 geschirrspueler.lbspro.at
 lbzdzx.com
 lcfservice.com
@@ -9518,7 +9523,6 @@ nyfolk.de
 nylsinv.com
 nze.com
 oakdalerotary.org
-oakgetloft.com
 oakhabitsy.com
 obagroup.site
 obaspa.store
@@ -9662,6 +9666,8 @@ adl.okhxm.shop
 okjordans.com
 okohausplus.com
 okun.shop
+okuracookware.ch
+okuracookware.de
 olangdeutschland.de
 olangsdeutschland.de
 olanzas.de
@@ -9730,6 +9736,7 @@ onitsukatigervogue.com
 onkel-nolte.de
 online-apotek.no
 online-arbeit.com
+online-betrugs-hilfe.de
 online-file-converter.com
 online-firmenfinder.com
 online-health-pharm.com
@@ -13647,6 +13654,7 @@ vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
 viennameerschaum.com
+viennamode.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
