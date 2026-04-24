@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-24T06:48:12.820Z
-# Entries: 12383
+# Last updated: 2026-04-24T18:20:47.290Z
+# Entries: 12390
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -1189,6 +1189,7 @@ aurorabird6.live
 autocadbmjes.com
 autocadgou.com
 autocadtfesvb.com
+autoeq.top
 avantabg.com
 avatar-bg.org
 avaxhome.co
@@ -4051,6 +4052,7 @@ flixdump.com
 flixgo.net
 flixhd.cc
 flixhd.org
+flixhq.app
 flixhq.id
 flixhq.net
 flixhq.to
@@ -5199,6 +5201,7 @@ hdstar.org
 tracker.hdstreet.club
 tracker.hdtime.org
 hdtoday.cc
+hdtoday.one
 hdtoday.tv
 hdtodaytv.tv
 hdtodayz.ms
@@ -7196,6 +7199,7 @@ s1130638.ha016.t.mydomain.zone
 myduckisdead.org
 myfeed2all.eu
 myflixer.ac
+myflixer.art
 myflixer.center
 myflixer.com
 myflixer.is
@@ -7206,10 +7210,12 @@ myflixer.ru
 myflixer.to
 myflixer.today
 myflixer.vc
+myflixer.win
 myflixer.ws
 myflixer.zone
 myflixerhd.ru
 myflixertv.to
+myflixerz.stream
 myflixerz.to
 myflixtor.tv
 myfreeleech.com
@@ -11488,6 +11494,7 @@ vidplay.org
 vidplay.tv
 vidspot.net
 vidsrc.me
+vidsrc.to
 vidsrc-embed.ru
 vidsrc-embed.su
 vidsrcme.su

@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-24T06:48:12.760Z
-# Entries: 14581
+# Last updated: 2026-04-24T18:20:47.206Z
+# Entries: 14596
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1057,6 +1057,7 @@ baleurshop.de
 balfourcapitalgroup.com
 balinvest-ch.com
 balitaberlin.de
+balkongluck.com
 balloret.com
 ballszone.de
 balony.de
@@ -1720,6 +1721,7 @@ boomjoo.co
 booster-lastminute.com
 bootsde.com
 bootsprofi.com
+booxshop.de
 boridashop.de
 boroconcept.com
 borpillshop.com
@@ -2253,6 +2255,7 @@ chicmery.com
 chicoza.de
 chicvo.com
 chicwells.de
+childeducationalshop.com
 childsafetyseat-shop.com
 chillgod.com
 chilllady.com
@@ -2684,6 +2687,7 @@ corteiz.co
 coselle.eu
 cosmeticcareclub.com
 cosmeticshop.store
+cosmeticshopcenter.com
 cosmopoint.de
 cosmoscrisp.com
 cosmozone.de
@@ -3368,6 +3372,7 @@ dogsdreamaustria.at
 dogsmopolitanshopeu.shop
 dogzy.de
 dohahotel24.com
+dokumentenkaufen.eu
 dolaxe.com
 dolceamara.com
 dolcevitashoe.com
@@ -4207,6 +4212,7 @@ fahrradhandel-alf.de
 fahrradhandel-daempfle.de
 fahrradhandel-hartmann.de
 fahrradhandel-kappler.de
+fahrradhandel-koumagnon.de
 fahrradhandel-kramer.de
 fahrradhandel-krause.de
 fahrradhandel-martin.de
@@ -4286,6 +4292,7 @@ fanaticsusd.com
 fancyclothing.de
 fancygrab.com
 fanmalls.de
+fanskicke.com
 fantasys.shop
 fantomfinanzen.com
 fanwish.cn
@@ -5590,6 +5597,7 @@ haarprofis.com
 haberfasher.com
 habitataro.com
 habitatero.com
+habitatovae.com
 habitatsoleil.com
 habitualn.com
 habitualy.com
@@ -5673,6 +5681,7 @@ hannas-modehaus.com
 hannelore.shop
 hannover-mode.de
 hannoverebike.de
+hans-engelke-energie.de
 hans-fahrradhaus.de
 hans-pick.de
 hanse-consol.de
@@ -6675,6 +6684,7 @@ iowautotrading.com
 ipanema-osterreich.at
 ipgatetrade.pro
 iprimmo.com
+iptvanbieter.at
 iptvdutch.store
 ipuroangebote.com
 iq-fast.com
@@ -7079,6 +7089,7 @@ kaufenozemp25mg.com
 kauffahrradzubehoer.com
 kaufhardware.com
 kaufhausaccessoires.com
+kaufhaushamburg.com
 kaufhausonline.com
 kaufhaussupermarkt.com
 kaufhaustier.com
@@ -7723,6 +7734,7 @@ lidlde.online
 lidleurireland.com
 lidlhh.shop
 lidlpalace.com
+lidlpp.shop
 lidnz.shop
 lidora.de
 lidou.shop
@@ -9413,6 +9425,7 @@ nobullshop.at
 nobulprojectnederland.me
 noclegipolanczyk.pl
 nofish.org
+nofs.online
 nofsclothing.de
 nogentais.finance
 nograinmedia.com
@@ -9458,7 +9471,6 @@ northfaceoutletstoreus.com
 northvapeusa.com
 northwaveoff.com
 northwestpharmacy.com
-norwayhotel.net
 norxonline.biz
 not-bad.shop
 not-schlosser.at
@@ -10194,6 +10206,7 @@ pertalriodic.com
 pesos-shop.de
 petbloom.de
 peterjeskouhren.de
+peterkenkelgruppe.de
 petfoodedeals.com
 petfuttershop.com
 petgroomingdeal.com
@@ -11004,7 +11017,6 @@ rheingolddusseldorf.com
 rheinjobs-gmbh.de
 rheinkuss-handel24.de
 rhineritz.de
-rhodeshotel24.com
 ri-lieeoodu.com
 ricadihotelspage.com
 ricasrucksack.com
@@ -12120,6 +12132,7 @@ spotdiamonds.com
 spowo.at
 sprachgenie.at
 sprayitonyou.com
+sprengler-direkt.de
 spring4sale.com
 springclearance.club
 sprint-market.com
@@ -12296,7 +12309,6 @@ streibl-garten24.de
 streichduft.de
 strengtheng.com
 strengtheng.de
-strenuus-capital.com
 stresstherapy.de
 stretsure.com
 streurmann.de
@@ -12490,6 +12502,7 @@ sylvieboutique.de
 symbiosiswellbeing.com
 symbolberlin.com
 abigo4u.symfony.nl
+syntek-ai.app
 synthesizestylish.com
 synthplatformtrust.click
 syrokan.com
@@ -12884,6 +12897,7 @@ tjcmwe.com
 tjmrxp.shop
 tk-eurituals.shop
 tk-kontor.de
+tkensure.top
 tkkfrms.net
 tkonline.shop
 tkpelletsgmbh.de
@@ -13711,6 +13725,7 @@ vintedreselling.eu
 vintross.de
 vinylcollectordeeu.shop
 vinylcollectordepop.shop
+vinylrecordmall.com
 vionicmexico.com
 vionicschuhe.de
 vionicshoesportugal.com
@@ -13734,7 +13749,6 @@ visionauto-solution.com
 visionfancyclothing.com
 visionfx.me
 visioninvesti.com
-visitaserbia.com
 visualframe.de
 visualizem.com
 visvishengelsnl.com
@@ -14044,6 +14058,7 @@ wellvest.pro
 wellzy.de
 welpenhimmel.de
 welpenkaufen.at
+welpentraum.de
 weltbibliothek.com
 weltshop24.com
 weltteppiche.com
