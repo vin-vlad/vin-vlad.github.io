@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-25T06:38:05.323Z
-# Entries: 12385
+# Last updated: 2026-04-25T18:20:13.430Z
+# Entries: 12386
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -5321,6 +5321,7 @@ hqanime4arab.com
 hqsource.org
 hs-scene.to
 tracker.huadongblower.xyz
+pixel.hubcdn.fans
 hugefiles.cc
 hugefiles.net
 hugewarez.net
@@ -6606,6 +6607,7 @@ megakino2.net
 megakino2.org
 megakino3.com
 megakino3.org
+megakino3.to
 megakinox.top
 megamanmaker.com
 megamodapk.com
@@ -8597,7 +8599,6 @@ retrozone.co
 revanced.dev
 revanced.net
 revanced.to
-revancedapk.net
 revancedapk.org
 revancedapp.download
 revancedapp.io
