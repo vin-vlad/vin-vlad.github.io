@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-26T06:46:07.143Z
-# Entries: 14345
+# Last updated: 2026-04-26T18:20:59.656Z
+# Entries: 14332
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -238,7 +238,6 @@ ahdoftime.com
 ahhaaaa.shop
 ahyokaboutique.com
 ai-energy.net
-ai-horoskope.de
 aiapp2025.com
 aichaintrader.com
 aichecker.club
@@ -426,7 +425,6 @@ alpivogue.ch
 alpstep.com
 alro-stahlbau.de
 alsara-online.de
-alstran-spedition.com
 alta-roc.de
 altaprotect.com
 altenlaw.de
@@ -647,7 +645,6 @@ applified.tech
 appolvintop.click
 appreciatil.com
 approvaln.com
-approve-reservation-euro.com
 apps-4-you.net
 appvalidation.com
 appworldng.com
@@ -2651,7 +2648,6 @@ coveshe.com
 coviviocapital.com
 cowboybootsnew.com
 cozeymaison.de
-cozychicretreat.com
 cozyhoome.com
 cozysleepzone.com
 cp24.pl
@@ -3186,7 +3182,6 @@ diag-wagen.de
 diamant-eventcenter.de
 diamants-invest.com
 diamix.de
-cfd.diamond-tradeltd.com
 diamondinvests.com
 diamonstore.com
 diamony.com
@@ -3642,7 +3637,6 @@ elegsant.com
 elektora.de
 elektricworld24.de
 elektriker-hilfe.at
-elektriker-hoffmeyer.de
 elektriker-koc.at
 elektriker-notdienstwien.com
 elektro-bau.com
@@ -5545,7 +5539,6 @@ handelbrennholz.de
 handelcfx.com
 handelsartikel.com
 handelshaus-buchem.de
-handelsnation.com
 handelsplanetdeutschland.de
 handlebarprada.com
 handlemylife.info
@@ -5562,7 +5555,6 @@ handtoolsrich.com
 handtoolworld.com
 handwerker-katalog.net
 handwerkzeugshop.com
-handy-horoskope.de
 handylocate.com
 handyorten.de
 handyprotool.com
@@ -6166,6 +6158,7 @@ hotbikede.com
 hotcarmodificationparts.com
 hotel-ds.com
 hotelaustralien.de
+hotelinphuket.net
 hotelladen.com
 hotels-colombo.com
 hotels-colorado.net
@@ -6891,8 +6884,6 @@ kaminholz-premium.de
 kaminholzbeumer.de
 kaminholzmoppel-de.com
 kaminoland.de
-kammerjaeger-fischer.de
-kammerjaeger-hoffmeyer.de
 kammerjaeger-notruf.at
 kamodygarten.de
 kamoni.de
@@ -7238,7 +7229,6 @@ kreative-zukunft.com
 kredit-pro.com
 kreditberatungs.de
 kreditfuralle.com
-kredithaus24.eu
 kreditwizard.com
 kremer-mode.de
 krimisthriller.com
@@ -9544,7 +9534,6 @@ oliver-schwarzer-shop.de
 olivercabelldeutschland.de
 olivespielzeug.com
 oliviamoreau.de
-olivias-horoskope.de
 olley.ch
 olukaiosterreich.at
 olyava.com
@@ -11200,7 +11189,6 @@ sawfashionnew.com
 saycom.net
 saynthesis.com
 sbikeparts.com
-sbk-hoffmeyer.de
 scandifurn.com
 scannero.io
 scarpejoya.com
@@ -12286,7 +12274,6 @@ sylvieboutique.de
 symbiosiswellbeing.com
 symbolberlin.com
 abigo4u.symfony.nl
-syntek-ai.app
 synthesizestylish.com
 synthplatformtrust.click
 syrokan.com
@@ -13510,7 +13497,7 @@ visionarycaapital.com
 visionauto-solution.com
 visionfancyclothing.com
 visionfx.me
-visioninvesti.com
+visitaserbia.com
 visualframe.de
 visvishengelsnl.com
 vita-pflege.de
