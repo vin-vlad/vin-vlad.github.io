@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-25T18:20:13.430Z
-# Entries: 12386
+# Last updated: 2026-04-26T06:46:07.222Z
+# Entries: 12401
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -6573,6 +6573,7 @@ megakino.cab
 megakino.co
 megakino.deals
 megakino.eu
+megakino.foo
 megakino.how
 megakino.ink
 megakino.ist
@@ -8313,15 +8314,28 @@ puredl.org
 purelivegigs.com
 puretna.com
 purposeuncle.xyz
+purstream.ac
 purstream.art
+purstream.biz
+purstream.buzz
 purstream.cc
+purstream.cloud
 purstream.co
+purstream.cx
+purstream.digital
+purstream.ink
 purstream.io
+purstream.lat
+purstream.live
 purstream.lol
 purstream.me
 purstream.net
 purstream.quest
+purstream.sbs
+purstream.shop
+purstream.space
 purstream.to
+purstream.top
 purstream.wiki
 bt.pusacg.org
 pussytorrents.org
@@ -10911,6 +10925,7 @@ uhdmovies.loan
 uhdmovies.mov
 uhdmovies.net
 uhdmovies.online
+uhdmovies.pink
 uhdmovies.rip
 uhdmovies.shop
 uhdmovies.skin

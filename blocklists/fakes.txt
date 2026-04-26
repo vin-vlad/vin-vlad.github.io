@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-25T18:20:13.396Z
-# Entries: 14344
+# Last updated: 2026-04-26T06:46:07.143Z
+# Entries: 14345
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -2651,6 +2651,7 @@ coveshe.com
 coviviocapital.com
 cowboybootsnew.com
 cozeymaison.de
+cozychicretreat.com
 cozyhoome.com
 cozysleepzone.com
 cp24.pl
