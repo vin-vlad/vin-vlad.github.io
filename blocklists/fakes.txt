@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-26T18:20:59.656Z
-# Entries: 14332
+# Last updated: 2026-04-27T07:03:39.173Z
+# Entries: 14334
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1579,6 +1579,7 @@ blaudonau.de
 blaudonu.de
 blaue-dragoner.de
 blaujade.com
+blaunexus.inc
 blazertokids.com
 blibean.com
 blikeuhij.click
@@ -1968,7 +1969,6 @@ camptotalneu.com
 canada-pharmacy-24h.com
 canadadrugstore.com
 canadanewsreport.com
-canadapharmacyonline.com
 canadapharmacypro.com
 canadapharmacytrust.net
 canadasale365.com
@@ -2857,6 +2857,7 @@ dateideen.at
 davanu.com
 daveamor.us
 daveintheshop.com
+davelectro.com
 davesbiomarkt.de
 davidbeckershop.de
 davinci-wear.com
@@ -12327,6 +12328,7 @@ talentxperts.com
 talkbuds.de
 tallerfelix.com
 tandexo.com
+tanganyassetmanagement.com
 tangent-capital.pro
 tangobonn.de
 tanner-shoes.com
