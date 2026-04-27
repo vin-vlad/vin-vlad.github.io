@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-27T07:03:39.173Z
-# Entries: 14334
+# Last updated: 2026-04-27T18:35:42.026Z
+# Entries: 14348
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -238,6 +238,7 @@ ahdoftime.com
 ahhaaaa.shop
 ahyokaboutique.com
 ai-energy.net
+ai-horoskope.de
 aiapp2025.com
 aichaintrader.com
 aichecker.club
@@ -425,6 +426,7 @@ alpivogue.ch
 alpstep.com
 alro-stahlbau.de
 alsara-online.de
+alstran-spedition.com
 alta-roc.de
 altaprotect.com
 altenlaw.de
@@ -645,6 +647,7 @@ applified.tech
 appolvintop.click
 appreciatil.com
 approvaln.com
+approve-reservation-euro.com
 apps-4-you.net
 appvalidation.com
 appworldng.com
@@ -736,6 +739,7 @@ arwibon.us
 arzi.de
 arztebedarf.com
 ascelteria.com
+aschenbecher-deutschland.de
 ascreationdecor.com
 asd-rechtsanwaelte.de
 asdvance.com
@@ -1969,6 +1973,7 @@ camptotalneu.com
 canada-pharmacy-24h.com
 canadadrugstore.com
 canadanewsreport.com
+canadapharmacyonline.com
 canadapharmacypro.com
 canadapharmacytrust.net
 canadasale365.com
@@ -3183,6 +3188,7 @@ diag-wagen.de
 diamant-eventcenter.de
 diamants-invest.com
 diamix.de
+cfd.diamond-tradeltd.com
 diamondinvests.com
 diamonstore.com
 diamony.com
@@ -3638,6 +3644,7 @@ elegsant.com
 elektora.de
 elektricworld24.de
 elektriker-hilfe.at
+elektriker-hoffmeyer.de
 elektriker-koc.at
 elektriker-notdienstwien.com
 elektro-bau.com
@@ -4358,7 +4365,6 @@ figulax.de
 figurenverkauf.com
 figurinestoys.com
 filamniceent.com
-fillamoda.com
 fillethumn.com
 fillinger.shop
 filloutlet.com
@@ -5540,6 +5546,7 @@ handelbrennholz.de
 handelcfx.com
 handelsartikel.com
 handelshaus-buchem.de
+handelsnation.com
 handelsplanetdeutschland.de
 handlebarprada.com
 handlemylife.info
@@ -5556,6 +5563,7 @@ handtoolsrich.com
 handtoolworld.com
 handwerker-katalog.net
 handwerkzeugshop.com
+handy-horoskope.de
 handylocate.com
 handyorten.de
 handyprotool.com
@@ -6167,7 +6175,6 @@ hotels-in-tyrol.com
 hotelsinperm.ru
 hotelsinvienna.org
 hotelsofmenorca.com
-hotelsofnewyorkcity.net
 hotelwareus.com
 hotelwhales.com
 hotix.de
@@ -6885,6 +6892,8 @@ kaminholz-premium.de
 kaminholzbeumer.de
 kaminholzmoppel-de.com
 kaminoland.de
+kammerjaeger-fischer.de
+kammerjaeger-hoffmeyer.de
 kammerjaeger-notruf.at
 kamodygarten.de
 kamoni.de
@@ -7230,6 +7239,7 @@ kreative-zukunft.com
 kredit-pro.com
 kreditberatungs.de
 kreditfuralle.com
+kredithaus24.eu
 kreditwizard.com
 kremer-mode.de
 krimisthriller.com
@@ -9535,6 +9545,7 @@ oliver-schwarzer-shop.de
 olivercabelldeutschland.de
 olivespielzeug.com
 oliviamoreau.de
+olivias-horoskope.de
 olley.ch
 olukaiosterreich.at
 olyava.com
@@ -11190,6 +11201,7 @@ sawfashionnew.com
 saycom.net
 saynthesis.com
 sbikeparts.com
+sbk-hoffmeyer.de
 scandifurn.com
 scannero.io
 scarpejoya.com
@@ -12275,6 +12287,7 @@ sylvieboutique.de
 symbiosiswellbeing.com
 symbolberlin.com
 abigo4u.symfony.nl
+syntek-ai.app
 synthesizestylish.com
 synthplatformtrust.click
 syrokan.com
@@ -12440,6 +12453,7 @@ termink.com
 terminologe.com
 termoidraulica.de
 terragaming.com
+terrariumhaustiere.com
 teslacoin.io
 teslaminingplc.com
 teslarea.com
@@ -13442,7 +13456,6 @@ vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
-viennameerschaum.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
@@ -13499,6 +13512,7 @@ visionarycaapital.com
 visionauto-solution.com
 visionfancyclothing.com
 visionfx.me
+visioninvesti.com
 visitaserbia.com
 visualframe.de
 visvishengelsnl.com
