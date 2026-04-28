@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-04-27T18:35:42.144Z
-# Entries: 52016
+# Last updated: 2026-04-28T07:03:43.976Z
+# Entries: 52003
 0.beer
 0.club
 0.fashion
@@ -9695,9 +9695,7 @@ bartramagynous.com
 barxpf.icu
 barytemarkup.com
 barytethynnid.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -13775,6 +13773,7 @@ cmyiojnzfirqc.website
 cmzdm.com
 dynamic.163data.com.cn.tv
 everpharmanet.cn.tv
+tudthrone.cn.com
 cn-idm.com
 cn2f.cn
 cn846.com
@@ -24806,18 +24805,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-app-google-zh.hl.cn
-apps-chrome-zh.hl.cn
-chrome-gooogle-zh.hl.cn
-chrome-hl.hl.cn
-cnzh-google-apps.hl.cn
-go-todesk.hl.cn
-googgle-chrrome.hl.cn
-google-chrrome-zh.hl.cn
-office-wps-hl.hl.cn
-todesk-zh.hl.cn
-zh-googlle-chrome.hl.cn
-zhcn-googele.hl.cn
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -47559,7 +47547,6 @@ ursvgeoaweeli.love
 urtirepor.com
 urtyert.com
 urwvphdnwhdzl.site
-checkedtakemyclassonline.us.com
 us-aliexpress.com
 us0704.com
 us2date.net

@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-27T18:35:42.200Z
-# Entries: 12403
+# Last updated: 2026-04-28T07:03:43.988Z
+# Entries: 12404
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -2855,6 +2855,7 @@ dizipal1521.com
 dizipal1532.com
 dizipal1543.com
 dizipal1544.com
+dizipal1550.com
 dizipal1936.com
 dizipal2062.com
 dizipal2063.com
