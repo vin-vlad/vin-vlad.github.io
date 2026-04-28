@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-28T07:03:43.955Z
-# Entries: 14411
+# Last updated: 2026-04-28T18:39:45.200Z
+# Entries: 14423
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -51,7 +51,6 @@ eu.2bagsvalley.cn
 365pills.com
 3d-printing.store
 3racingparts.com
-4-pfoten-freizeit.de
 4rxofficial.com
 52magicdownload.com
 52magicdownloads.com
@@ -1157,11 +1156,11 @@ beaccustomed.com
 beachitem.com
 beachwalkbali.com
 beambead.com
-beambright.de
 beatricesavoy.de
 beatusbikes.com
 beauty365.site
 beautyclam.de
+beautyhaarshop.com
 beautyhausberlin.de
 beautyketten.com
 beautypassword.com
@@ -1203,7 +1202,6 @@ belenkawien.at
 beleuchtungprada.com
 belezapreventiva.com
 belgicainvest.ltd
-belieul-stammholz.com
 beliora.de
 belizal.com
 bella-balu.de
@@ -1565,7 +1563,6 @@ bitgetzx.com
 biticodes.com
 bitiq.app
 bitlast.com
-bitloonx.de
 bitnixer.io
 area.bitnixer.net
 bitonite.com
@@ -1728,7 +1725,6 @@ bp-direct.com
 bp-heizoel.de
 bp-mineraloel.de
 bp-mineraloele.com
-bpbioheat.de
 bpgcoin.com
 bradfordcutlery.com
 hub.bradyboutiquehub.com
@@ -1800,7 +1796,6 @@ breuninger-stuttgart.de
 brevani.de
 breville.vip
 brevilledeutschland.de
-brewheaven.shop
 brezella.com
 brickstec.com
 brighnow.com
@@ -1940,6 +1935,7 @@ bysusannekling.de
 bytebad.com
 c-and-a-deutschland.de
 c-and-a-osterreich.com
+c-und-a-austria.com
 ca-agentur.de
 ca-pharm.net
 caactioncoalition.org
@@ -2546,6 +2542,7 @@ comfitunderwear-suomi.com
 comfydog.de
 comfypjs.shop
 comfytravel.de
+comfyure.com
 comiccharacters-shop.com
 comicsbyhaemi.com
 comicsde.com
@@ -2774,6 +2771,7 @@ curriculumt.com
 curtainguess.com
 curvedream.de
 cusb4.com
+cusb8.com
 cushygait.com
 customalls.com
 cutblajat.com
@@ -2978,6 +2976,7 @@ decorationdeal.com
 decorationmaterialsonline.com
 decorhomechristmas.com
 decorinterior.club
+decorlivio.com
 decorsolutions.online
 decorstore.club
 decorworld.shop
@@ -3465,6 +3464,7 @@ duzeces.com
 dvdsblurays.com
 dvepare.com
 dwelldome.com
+dwellivory.com
 dxvape.com
 dyn-amo.com
 dynamic-store.com
@@ -3807,7 +3807,6 @@ energieheizen.de
 energiekick.at
 energiepreise24.com
 energy-lng.com
-energy-premium.de
 energyhood.de
 enfunpro.com
 engel-garten23.de
@@ -3933,6 +3932,7 @@ estaviva.com
 estilobrasilofertas.com
 estimatem.com
 estrategen.de
+esy-oil.com
 esyqefp.top
 etcydecor.de
 etercitenal.com
@@ -4575,6 +4575,7 @@ fm-fx.com
 fmarketx.com
 fmi-finance.com
 fmtrader.com
+fniyitegeka.org
 fodgramstar.com
 fogatoshop.com
 fokoomall.com
@@ -4621,6 +4622,7 @@ formanacupuncture.com
 formationy.com
 formeri.shop
 fornialegnaaccessori.com
+foronhausgeraete.de
 forschwerk.com
 forstx.org
 fortagefundsmgmt.com
@@ -4848,6 +4850,7 @@ galerie-kaufhaus.de
 galeriemodehaus.com
 galerieoswald.de
 galeryfile.com
+galvirexora.com
 gambystudios.com
 game.toys
 gamebyte.eu
@@ -5045,7 +5048,6 @@ geraetedirekt.com
 geraetedoc.com
 gerdetect.de
 gerhard-tremmel.de
-gerlinelshop.com
 germalls-garten.de
 german-apotheke.de
 german-audio-equipment.com
@@ -5949,6 +5951,7 @@ heningclothing.com
 hennkel.de
 henylife.shop
 heraldik-leitfaden.de
+ivfan.herate.shop
 outaim.herate.shop
 tencap.herate.shop
 herbalpellets.com
@@ -6209,6 +6212,7 @@ hotels-in-tyrol.com
 hotelsinperm.ru
 hotelsinvienna.org
 hotelsofmenorca.com
+hotelsofnewyorkcity.net
 hotelwareus.com
 hotelwhales.com
 hotix.de
@@ -6818,7 +6822,6 @@ kachi-berlin.de
 kadewetasche.com
 kadiwo.de
 kadonimo.de
-kaercherde.shop
 kaeser-llc.com
 kaffee-burg.de
 kaffee-de.com
@@ -7120,7 +7123,6 @@ kirche-lennep.de
 kircheaustreten.de
 kirchner-rechtsanwaelte.de
 kirost.com
-kirschservices.de
 kisforstholz.de
 kissanana.com
 kissen-sales.com
@@ -7212,6 +7214,7 @@ koedel-gartenbau.de
 koel--schuhe.com
 koellers.de
 koenig-handel.de
+koenigssee-uhrmanufaktur.de
 koenigsthal.de
 kofferverkaufde.com
 kogenheimholz.com
@@ -7266,6 +7269,7 @@ kraemer-garten.de
 kraftdesweins.com
 kraftholz.shop
 kraftholz-pellet.shop
+kraftwerk-solar.com
 krahl-container.eu
 krakenaccess.com
 kramerbid.com
@@ -7755,6 +7759,7 @@ loakeoutlet.shop
 loakeschweiz.net
 locajardin.com
 nyhead.localdraw.shop
+oneact.localdraw.shop
 localgermany.de
 locateanyphone.net
 locationconseilsfinanciers.fr
@@ -8078,7 +8083,6 @@ management-zander.de
 managementinvest.com
 mandalaverkauf.shop
 manduca-baby.com
-manfred-schnell.shop
 mango-sale.com
 mangolo-boutique.de
 mangroupfx.com
@@ -9324,6 +9328,7 @@ nolanmoto.com
 nomorereactions.com
 nomra.de
 getclairu.nomshopper.com
+nookhavenz.com
 nora-bergen.com
 noral.xyz
 norarienshoppe.com
@@ -9401,6 +9406,7 @@ novatradecore.com
 novatrustmarket.com
 novelbuys.com
 novele.de
+noventracapitals.com
 novermessen.de
 noveteadram.com
 novira-berlin.com
@@ -10115,6 +10121,7 @@ pferdedeckende.com
 pferdepflegewelt.com
 pflanzbedarfsladen.com
 pflanzsinn.com
+pflegeprofi-shop.com
 pflegeschonheit.com
 pfotentrend.com
 pg99.cc
@@ -11047,7 +11054,6 @@ rotterdamsunny.com
 rotyka.com
 roulettegem.com
 routinefashiones.com
-rovlier.com
 roxydubai.com
 roxyski.de
 royaldebank.com
@@ -11427,7 +11433,6 @@ senvix.fr
 senzza.de
 separaten.com
 sepgoal.com
-sepkicks.com
 seprun.com
 serenadeutschland.de
 serendiplty.com
@@ -12254,6 +12259,7 @@ sunshinemo.com
 sunsirui.com
 suntr.shop
 sunuyles.com
+supavero.com
 super-discount-farma.com
 super-pharm-fr.net
 super-potencja.to
@@ -12665,6 +12671,7 @@ thorogoodfrance.com
 thorogoodfrance.fr
 thresholdi.com
 thriftfolio.com
+thriftnexus.com
 thrillsnew.com
 thrustmarkets.com
 thsingcloe.com
@@ -13222,6 +13229,7 @@ urban-transporte.com
 urbanclasse.store
 urbanfahrt.de
 urbanfurnicraft.com
+urbangrowde.com
 urbanixa.shop
 urbanoutletstores.com
 urbanstepzone.cfd
@@ -13980,6 +13988,7 @@ wildlingshoesportugal.com
 wildlingshoessverige.com
 wildlingshoesuk.com
 wildschlaf.com
+wildundfreide.com
 wilhelmfoodshop.com
 wilkesarahwelpen.de
 willintter.shop
@@ -14009,6 +14018,7 @@ wisatareligi.com
 wisdomandprudence.net
 wisebanc.com
 wisevests.com
+withingss.at
 withstndridg.com
 wittelsbach-partner.com
 wittelsheimholz.com
@@ -14286,6 +14296,7 @@ zalori.de
 zaloweb.me
 zaloweb.pro
 zalvori.com
+zaniro.shop
 zanondo.com
 zanvon.com
 zanzea.com
@@ -14323,6 +14334,7 @@ zeltkinggear.com
 zeltneu.com
 zeltundschlaf.com
 zendoo.de
+zenglowz.com
 zengyt.com
 zenistitch.com
 zenla.de
