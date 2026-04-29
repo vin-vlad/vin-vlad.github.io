@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-29T06:58:33.405Z
-# Entries: 14424
+# Last updated: 2026-04-29T18:38:25.948Z
+# Entries: 14437
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -426,6 +426,7 @@ alpionki.com
 alpivogue.ch
 alpstep.com
 alro-stahlbau.de
+alsa-shop.de
 alsara-online.de
 alstran-spedition.com
 alta-roc.de
@@ -2520,6 +2521,7 @@ steelseries.com.de
 tempusluxor.com.br
 torfix.com.br
 tripland.com.br
+under-armour.com.de
 useraven.com.br
 vercc.com.br
 vermontco.com.br
@@ -2824,6 +2826,7 @@ daheimgut.ch
 dailog.de
 daily-jewelry123.com
 daily-option.com
+dailygermanshop.com
 dailyjoy.shop
 dailylifeyouth.de
 dailyrosy.com
@@ -3204,6 +3207,7 @@ dgcex.net
 dgeyone.com
 dghpts.com
 dgtlfuture.com
+dhg-versand.de
 dhrys.com
 diaetolin.com
 diaetoxil.de
@@ -4206,7 +4210,6 @@ fairfaction.com
 fairvesta.de
 fairyshomes.com
 fairytalecreators.com
-fakeshop.at
 faketasche.de
 falinas.at
 falinas.de
@@ -4747,6 +4750,7 @@ ftexvip.com
 ftmxglobal.com
 ftradition.com
 ftrxvip.com
+fts-gmbhmaschine.com
 ftzs.net
 fu-ostholstein.de
 fuchssolar.de
@@ -5702,6 +5706,7 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
+haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -7002,6 +7007,7 @@ kaufenkamagra.de
 kaufenozemp25mg.com
 kauffahrradzubehoer.com
 kaufhardware.com
+kaufhaus-pankratz.com
 kaufhausaccessoires.com
 kaufhaushamburg.com
 kaufhausonline.com
@@ -10637,6 +10643,7 @@ rabattswix.de
 rabattzelte.com
 rabbeatsvapes.com
 rabbit-fitness.de
+rabeagrigmbh.de
 rabeinriver.de
 raceoption.com
 rachelentwistle-store.com
@@ -11434,6 +11441,7 @@ senvix.fr
 senzza.de
 separaten.com
 sepgoal.com
+sepkicks.com
 seprun.com
 serenadeutschland.de
 serendiplty.com
@@ -11767,6 +11775,7 @@ snowboard-usa.com
 snowboardprofi.com
 snowfitgear.com
 snowhow.shop
+snugist.com
 so-hub.com
 soapandmore.shop
 sobipack-tech.de
@@ -12033,6 +12042,7 @@ stanlly-a.com
 eu.stanlyss1913.com
 stanton-energie.de
 stantonamarlberghotels.com
+staplerbatterien.de
 star-apotheke.org
 star-gamer.com
 starcici.com
@@ -12064,6 +12074,7 @@ steiner-wien.at
 steinersalzburg.at
 steinersalzburg.com
 steinhaus-berlin.co
+steinkamp-container.com
 steinkampbillig.com
 stelcore-retail24.de
 stella-zurich.com
@@ -12327,6 +12338,7 @@ sweet-dealz.com
 sweetsaltysale.com
 swevix.de
 swiss-vests.com
+swissalpha.io
 swissbitcoins.com
 swisscoinco.com
 swisslona.ch
@@ -13522,6 +13534,7 @@ vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
+viennameerschaum.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
