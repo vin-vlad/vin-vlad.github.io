@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-29T18:38:26.112Z
-# Entries: 12409
+# Last updated: 2026-04-30T07:01:14.683Z
+# Entries: 12411
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -2090,6 +2090,7 @@ cineby.info
 cineby.lat
 cineby.ru
 cineby.sbs
+cineby.sc
 cineby.shop
 cineby.wiki
 cineby.work
@@ -4991,6 +4992,7 @@ hdmovie2.download
 hdmovie2.email
 hdmovie2.engineering
 hdmovie2.enterprises
+hdmovie2.equipment
 hdmovie2.expert
 hdmovie2.exposed
 hdmovie2.family

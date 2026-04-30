@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-29T18:38:25.948Z
-# Entries: 14437
+# Last updated: 2026-04-30T07:01:14.608Z
+# Entries: 14435
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -5353,7 +5353,6 @@ gourmetecke.com
 govern1.com
 gplate.de
 gpslocatorphone.com
-gpt-definity.com
 gpt-immediate.com
 gpt55x.io
 grablee.store
@@ -5372,7 +5371,6 @@ granderioam.com
 grandprixfactory.com
 grandsoft.uz
 grandwent.com
-granimator.live
 grantaste.com
 grapewinesales.com
 graphad.xyz
