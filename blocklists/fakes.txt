@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-04-30T18:37:44.121Z
-# Entries: 14463
+# Last updated: 2026-05-01T07:03:24.514Z
+# Entries: 14461
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -3146,7 +3146,6 @@ designbyclaudia.com
 designdecor.store
 designequations.ca
 designerhome.store
-designoliq.com
 designstools.com
 desigualsuomi.net
 desirablee.com
@@ -3184,6 +3183,7 @@ deutscher-invest-markt.de
 deutschersammlerschatz.com
 deutsches-gut.de
 deutschesbrennholz.de
+deutschesgourmet.de
 deutschezeltwelt.com
 deutschgeschenkfest.com
 deutschla.de
@@ -3300,7 +3300,6 @@ discoverculture.com
 discoversm.com
 discustsion.com
 disdisbuy.com
-diseasy.shop
 diskrete-apotheke.de
 disneykinder.de
 distanceg.com
@@ -13175,7 +13174,6 @@ uhrenvip.de
 uhrhaus24.de
 uhrstern.net
 uhvcti.shop
-uiahgpuutgr.top
 adidasuk.uk.com
 adidasyeezy.uk.com
 dunkluu.uk.com

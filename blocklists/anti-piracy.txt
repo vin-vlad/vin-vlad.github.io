@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-04-30T18:37:44.378Z
-# Entries: 12414
+# Last updated: 2026-05-01T07:03:24.806Z
+# Entries: 12432
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -976,8 +976,11 @@ anosbd.com
 ansktracker.net
 antbd.com
 antbd.net
+antenapluto.store
+antenasouth.store
 antenasport.online
 antenasport.site
+antenawest.store
 antennasport.ru
 tracker.anthelion.me
 anthousebd.net
@@ -2621,8 +2624,10 @@ d0000d.com
 d00per.com
 d123movies.to
 d4download.com
+d4ktv.info
 bingoportal.da.ru
 daddylive.sx
+daddylive3.com
 daddylive5.top
 daddylivehd1.click
 daddylivestream.com
@@ -3346,6 +3351,7 @@ eonmovies.fit
 eonmovies.fun
 eonmovies.live
 epforums.org
+epicplayplay.cfd
 epider.me
 episodes-tv.com
 rocketnet.epizy.com
@@ -5291,6 +5297,7 @@ hlscat.com
 hlusoe.info
 hn-iptv.com
 hnven5eq.com
+hoca6.com
 hoerbuch.us
 hoerspielprojekt.de
 hoichoi24.com
@@ -5545,8 +5552,10 @@ iptvcanarias.tv
 iptvguard.app
 iptvonly.tv
 iptvprova.com
+iptvs.pw
 iptvsource.com
 iptvstream.tv
+iptvsupra.com
 api.ipv4online.uk
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
@@ -5809,6 +5818,7 @@ kimcartoon.si
 kimcartoon.to
 kimoitv.com
 kinej395aoo.com
+king365tv.me
 kingdom-kvcd.net
 kingdom-leaks.com
 kingdomxxx.com
@@ -6049,6 +6059,7 @@ kolompc.com
 komikcast03.com
 komiksin.net
 komikstation.org
+kondoplay.cfd
 koora-live.io
 koora365.io
 kooralivs.com
@@ -6157,6 +6168,7 @@ leelo.ru
 leet-tracker.moe
 leflix.us
 leftist.online
+lefttoplay.xyz
 legaltorrents.com
 legendary-torrents.net
 legittorrents.info
@@ -6483,6 +6495,7 @@ manicomio-share.com
 manikdicommunication.com
 bubu.mapfactor.com
 mapple.tv
+marcobox.in
 marcrobledo.com
 mariocube.com
 mariumnetwork.com
@@ -8609,6 +8622,7 @@ reqzone.com
 bt.rer.lol
 ipv4.rer.lol
 ipv6.rer.lol
+rereyano.ru
 tracker.rescuecrew7.com
 torrent.resonatingmedia.com
 respawn.ca
@@ -8644,6 +8658,7 @@ bt.rghost.net
 rgmechanics-games.com
 isk.richardsw.club
 ridomovies.tv
+rightflourish.net
 cs.rin.ru
 gwp2-v19.rinet.ru
 rintor.info
@@ -9174,6 +9189,7 @@ slyck.com
 small-games.info
 smart-os.ru
 smartbox.digital
+smartbox-tv.com
 smartflix.digital
 smartkino.ru
 smartnetltd.com
@@ -10131,6 +10147,7 @@ telegrampremiumapk.com
 teleparty.com
 telepisodes.org
 telerium.lol
+telestream.mom
 tennis.stream
 tenvoi.com
 tenyardtorrents.com
@@ -10411,6 +10428,7 @@ top-flix.homes
 top-serie.org
 torrents.top-site-list.com
 top123movies.com
+top1iptv.my
 topanalyse.org
 topbytes.net
 topcartoons.tv
