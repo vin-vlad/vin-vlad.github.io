@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-01T07:03:24.806Z
-# Entries: 12432
+# Last updated: 2026-05-01T18:30:44.913Z
+# Entries: 12425
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -976,11 +976,8 @@ anosbd.com
 ansktracker.net
 antbd.com
 antbd.net
-antenapluto.store
-antenasouth.store
 antenasport.online
 antenasport.site
-antenawest.store
 antennasport.ru
 tracker.anthelion.me
 anthousebd.net
@@ -2624,7 +2621,6 @@ d0000d.com
 d00per.com
 d123movies.to
 d4download.com
-d4ktv.info
 bingoportal.da.ru
 daddylive.sx
 daddylive3.com
@@ -2866,6 +2862,7 @@ dizipal1550.com
 dizipal1936.com
 dizipal2062.com
 dizipal2063.com
+dizipal2064.com
 dizipal22.plus
 dizipal754.vip
 dizipal755.vip
@@ -5552,7 +5549,6 @@ iptvcanarias.tv
 iptvguard.app
 iptvonly.tv
 iptvprova.com
-iptvs.pw
 iptvsource.com
 iptvstream.tv
 iptvsupra.com
@@ -6059,7 +6055,6 @@ kolompc.com
 komikcast03.com
 komiksin.net
 komikstation.org
-kondoplay.cfd
 koora-live.io
 koora365.io
 kooralivs.com
@@ -10147,7 +10142,6 @@ telegrampremiumapk.com
 teleparty.com
 telepisodes.org
 telerium.lol
-telestream.mom
 tennis.stream
 tenvoi.com
 tenyardtorrents.com
@@ -10428,7 +10422,6 @@ top-flix.homes
 top-serie.org
 torrents.top-site-list.com
 top123movies.com
-top1iptv.my
 topanalyse.org
 topbytes.net
 topcartoons.tv
