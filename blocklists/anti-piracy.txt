@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-02T06:47:24.824Z
-# Entries: 12424
+# Last updated: 2026-05-02T18:24:39.607Z
+# Entries: 12421
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -311,7 +311,6 @@ generatory.3xg.pl
 4kvod.tv
 4megaupload.com
 4mirrorlink.com
-4movierulz.mn
 4pda.to
 4players.org
 4realtorrentz.com
@@ -559,7 +558,6 @@ tracker.ali213.net
 alibabanetwork.net
 alice.al
 alienflix.net
-aliez.me
 aliez.tv
 alifanet.com
 iptv.aliflailabd.com
@@ -673,7 +671,6 @@ altadefinizione.pink
 altadefinizione.red
 altadefinizione.ru
 altadefinizione.solutions
-altadefinizione.soy
 altadefinizione.tienda
 altadefinizione.tokyo
 altadefinizione.tours
@@ -753,7 +750,6 @@ altadefinizionegratis.skin
 altadefinizionegratis.space
 altadefinizionegratis.store
 altadefinizionegratis.surf
-altadefinizionegratis.top
 altadefinizionegratis.vip
 altadefinizionegratis.watch
 altadefinizionegratis.wiki
@@ -866,6 +862,7 @@ animekai.to
 animekaizoku.com
 animekayo.com
 animekhor.org
+animekizz.live
 animelab.com
 animeland.tv
 animeland.us

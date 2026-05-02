@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-02T06:47:24.767Z
-# Entries: 14479
+# Last updated: 2026-05-02T18:24:39.556Z
+# Entries: 14474
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -96,7 +96,6 @@ abipartyxxl.de
 abm-industrie.com
 abodeare.com
 abodeena.com
-abodeene.com
 aboveinvesting.pro
 abrahamr.com
 abrisphere.com
@@ -245,7 +244,6 @@ aichaintrader.com
 aichecker.club
 aicheleholzgmbh.de
 aidulovesm.click
-aieurope.fr
 aifundbtc.com
 aigleoutletuk.com
 aik-yr.shop
@@ -336,16 +334,13 @@ allbirdswien.at
 allbuysport.com
 allcart.xyz
 allclothes.club
-alldiamondpaintingdeeu.shop
 alle-hebel.de
 allefoxmesser.com
 allegoo.com
 alles-anhanger.com
 allesescooter.de
-allesfurbaby.de
 allesfurzuhause.de
 allesheizung.de
-allesoutdoor.de
 alleuropills.com
 allforyourlife.org
 allgamesinone.com
@@ -471,7 +466,6 @@ amaznboxde.com
 amazonboxus.com
 amazonglobal.live
 amazongori.com
-amazonia-investing.com
 amazonliw.com
 amazonspallet.com
 ambestenkleider.com
@@ -491,7 +485,6 @@ amessa24.de
 amethysts.de
 amffrance.com
 amffrance.org
-aminatakidseu.shop
 amira-boutique.de
 amkleidung.com
 amodafashion.de
@@ -6403,6 +6396,7 @@ ihremed.de
 ihrepotenzmittel.de
 ihrrasentraktor.com
 iinfitenily.com
+ikea-eu.shop
 ikici.com
 ikkimelpoppstar.de
 ikkotrader.com
@@ -11838,6 +11832,7 @@ softwarebilliger1.de
 sohoohair.de
 soideverteilung.com
 sola-mode.de
+solagoshop.de
 solamira.de
 solancie.com
 solandis.com
