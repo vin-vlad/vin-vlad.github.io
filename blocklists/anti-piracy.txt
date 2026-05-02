@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-01T18:30:44.913Z
-# Entries: 12425
+# Last updated: 2026-05-02T06:47:24.824Z
+# Entries: 12424
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -75,7 +75,6 @@ weedy.1.vg
 10hitmovies.com
 10hitmovies.help
 10hitmovies.lat
-10hitmovies.lol
 10hitmovies.one
 10kol.tv
 10mbit.com
@@ -160,7 +159,6 @@ chihaya-heroku.120181311.xyz
 123moviestv.net
 123movieswww.com
 123putlocker.io
-123stream.la
 123streams.org
 123tvnow.com
 123unblock.art
@@ -195,7 +193,6 @@ ettv.123unblock.world
 1ddl.org
 1desiremovies.foo
 1fichier.com
-1filmyfly.fyi
 1filmyfly.mov
 1filmyfly.top
 1flix.to
@@ -219,7 +216,6 @@ tracker.1h.is
 1movietv.com
 1nd.hu
 1progs.ru
-1shows.nl
 1soft.space
 1stream.top
 1street.ru
@@ -741,6 +737,7 @@ altadefinizionegratis.group
 altadefinizionegratis.hair
 altadefinizionegratis.help
 altadefinizionegratis.homes
+altadefinizionegratis.host
 altadefinizionegratis.ink
 altadefinizionegratis.life
 altadefinizionegratis.monster
@@ -755,6 +752,7 @@ altadefinizionegratis.shop
 altadefinizionegratis.skin
 altadefinizionegratis.space
 altadefinizionegratis.store
+altadefinizionegratis.surf
 altadefinizionegratis.top
 altadefinizionegratis.vip
 altadefinizionegratis.watch
@@ -9590,6 +9588,7 @@ streaming-community.courses
 streaming-community.fit
 streaming-community.kaufen
 streaming-community.sarl
+streaming-community.study
 streaming-community.surf
 streaming-community.team
 streaming-community.trade
