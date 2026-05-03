@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-03T06:58:53.848Z
-# Entries: 12435
+# Last updated: 2026-05-03T18:24:45.337Z
+# Entries: 12428
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -2409,7 +2409,6 @@ cpasbien.io
 cpasbien.me
 cpasbien.pe
 cpasbien.site
-cpasbien.to
 cpasbien-torrent.biz
 cpasbien-torrents.fr
 cpasbien3.pro
@@ -2495,7 +2494,6 @@ crichd.at
 crichd.bar
 crichd.buzz
 crichd.com
-crichd.cyou
 crichd.guru
 crichd.info
 crichd.io
@@ -2540,13 +2538,11 @@ cross.moe
 crosstowntorrents.org
 crotorrents.com
 crownbit.cc
-crsky.net
 packages.crunchbangplusplus.org
 cruscros.me
 tpb.crushus.com
 cruzing.xyz
 tracker.cryptichaven.org
-crystal-warez.in
 crytal58ue.com
 uhdmovies.cs.in
 cspan.com
@@ -2963,7 +2959,6 @@ dood.host
 dood.ink
 dood.la
 dood.li
-dood.live
 dood.lol
 dood.lt
 dood.ltd
@@ -3034,7 +3029,6 @@ tr.doogh.club
 dooodster.com
 dooood.com
 doopes.com
-dopebox.cc
 dopebox.net
 dopebox.to
 doperoms.com
@@ -3073,7 +3067,6 @@ downloadportal.dk
 downloadpost.com
 downloads.ws
 downloads-anymovies.co
-downloads-anymovies.com
 downloadsoftwarez.net
 downloadspace.org
 downloadteam.org
