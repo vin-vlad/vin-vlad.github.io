@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-03T18:24:45.337Z
-# Entries: 12428
+# Last updated: 2026-05-04T07:12:32.942Z
+# Entries: 12415
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -3128,7 +3128,6 @@ ds-reloaded.com
 ds2play.com
 open.dstud.io
 dsvplay.com
-dtbook.shop
 dtvd.net
 dubbedanime.net
 dubbedanime.vip
@@ -3330,7 +3329,6 @@ eonmovies.fit
 eonmovies.fun
 eonmovies.live
 epforums.org
-epicplayplay.cfd
 epider.me
 episodes-tv.com
 rocketnet.epizy.com
@@ -3351,7 +3349,6 @@ retracker.perm.ertelecom.ru
 elmellowebmaster.es.tl
 kinox.escapethefog.com
 eshiel.com
-espnv2.online
 estrenoslatinos.com
 esubmovie.net
 liber3.eth.limo
@@ -3421,7 +3418,6 @@ eurostreaming.fm
 eurostreaming.fun
 eurostreaming.games
 eurostreaming.giving
-eurostreaming.haus
 eurostreaming.homes
 eurostreaming.info
 eurostreaming.ink
@@ -3442,9 +3438,7 @@ eurostreaming.quest
 eurostreaming.repair
 eurostreaming.sbs
 eurostreaming.skin
-eurostreaming.soy
 eurostreaming.store
-eurostreaming.tattoo
 eurostreaming.taxi
 eurostreaming.tel
 eurostreaming.today
@@ -3509,7 +3503,6 @@ evillagectg.com
 evillinks.de
 evolution-network.ws
 evonetbd.com
-evopt.org
 eweka.nl
 ex-torrenty.org
 piranha.excom.us
@@ -3813,7 +3806,6 @@ filmoflix.vc
 filmon.tv
 filmoteka.cc
 filmoviez.com
-filmowo.club
 filmpalast.one
 filmpalast.to
 filmpertutti.be
@@ -3992,7 +3984,6 @@ fitgirlrepacks.co
 fitgirlrepacks.in
 fitgirlrepacks.org
 fitgirlrepacks.pro
-fitgirlrepacksite.com
 fitgirltorrent.com
 tracker.fixr.pro
 fl1x.com
@@ -4089,7 +4080,6 @@ fmovies.fo
 fmovies.gd
 fmovies.hn
 fmovies.llc
-fmovies.one
 fmovies.org
 fmovies.rs
 fmovies.sc
@@ -4286,7 +4276,6 @@ frmovies.live
 fromhot.com
 fromhot.to
 fromhots.com
-rutorrent.frontline-mod.com
 frostcomet5.pro
 frostglimmer59.xyz
 frostshine12.wiki
@@ -4326,9 +4315,7 @@ full4movies.help
 fullcrackserial.net
 fulldls.com
 fulldownloads.com
-fullfilmstream.co
 fullfilmstream.net
-fullhdfilm.cx
 fullhdfilmizlesene.pw
 fullhdizle.one
 fulllengthaudiobooks.net
