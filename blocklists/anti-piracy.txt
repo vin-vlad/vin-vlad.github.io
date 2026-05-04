@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-04T07:12:32.942Z
-# Entries: 12415
+# Last updated: 2026-05-04T18:40:41.906Z
+# Entries: 12405
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -137,6 +137,9 @@ chihaya-heroku.120181311.xyz
 123moviesfree.homes
 123moviesfree.love
 123moviesfree.net
+123moviesfree9.digital
+123moviesfree9.monster
+123moviesfree9.tattoo
 123moviesfreez.com
 123moviesfull.me
 123moviesgo.su
@@ -1921,6 +1924,7 @@ cdn-novflix.com
 cdn-tnmr.org
 cdn1vipcanaistv.site
 cdn99.tv
+cdnlivetv.tv
 cdnstreame.net
 cdromance.com
 cdromance.org
@@ -2930,6 +2934,7 @@ dontorrent.phd
 dontorrent.photos
 dontorrent.pink
 dontorrent.promo
+dontorrent.racing
 dontorrent.reisen
 dontorrents.com
 dontorrents.org
@@ -4551,7 +4556,6 @@ gmovies.xyz
 gmt-max.org
 gnetworkbd.com
 gnula.life
-gnula.nu
 gnula.su
 gnulahd.nu
 gnutellaforums.com
@@ -4572,7 +4576,6 @@ gogo-flix.fit
 gogo-flix.ink
 gogo-flix.online
 gogo-stream.com
-gogoanime.in
 gogoanime.io
 gogoanime.so
 gogoanime.vc
@@ -4603,7 +4606,6 @@ gomovies.men
 gomovies.sc
 gomovies.sx
 gomovies.uno
-gomovies-hd.org
 gomovies-online.com
 gomovies-online.link
 gomovies123.fi
@@ -4634,7 +4636,6 @@ goyslop.tv
 gpisp.net
 gps-team.pl
 gqc7.top
-grabthe.info
 graphicex.com
 gratfilm.com
 gratflix.net
@@ -4697,7 +4698,6 @@ guardaserie.media
 guardaserie.men
 guardaserie.money
 guardaserie.net
-guardaserie.one
 guardaserie.onl
 guardaserie.online
 guardaserie.org
@@ -4709,7 +4709,6 @@ guardaserie.site
 guardaserie.skin
 guardaserie.social
 guardaserie.store
-guardaserie.tax
 guardaserie.top
 guardaserie.toys
 guardaserie.training
@@ -4731,7 +4730,6 @@ guardaserietv.cc
 guardaserietv.fit
 guardaserietv.homes
 guardaserietv.lat
-guardaserietv.life
 guardaserietv.live
 guardaserietv.online
 guardaserietv.pics
@@ -4928,7 +4926,6 @@ hdmovie2.builders
 hdmovie2.buzz
 hdmovie2.bz
 hdmovie2.cafe
-hdmovie2.camera
 hdmovie2.cards
 hdmovie2.careers
 hdmovie2.casa
@@ -4952,7 +4949,6 @@ hdmovie2.company
 hdmovie2.consulting
 hdmovie2.contact
 hdmovie2.contractors
-hdmovie2.cool
 hdmovie2.coupons
 hdmovie2.courses
 hdmovie2.creditcard
@@ -4966,9 +4962,7 @@ hdmovie2.email
 hdmovie2.engineering
 hdmovie2.enterprises
 hdmovie2.equipment
-hdmovie2.expert
 hdmovie2.exposed
-hdmovie2.family
 hdmovie2.fashion
 hdmovie2.fast
 hdmovie2.feedback
@@ -4990,16 +4984,13 @@ hdmovie2.gmbh
 hdmovie2.gr
 hdmovie2.graphics
 hdmovie2.gratis
-hdmovie2.gripe
 hdmovie2.guru
 hdmovie2.gy
 hdmovie2.hair
 hdmovie2.health
 hdmovie2.help
-hdmovie2.hiphop
 hdmovie2.hk
 hdmovie2.hockey
-hdmovie2.horse
 hdmovie2.host
 hdmovie2.hot
 hdmovie2.house
@@ -5009,7 +5000,6 @@ hdmovie2.immobilien
 hdmovie2.inc
 hdmovie2.industries
 hdmovie2.investments
-hdmovie2.is
 hdmovie2.kiwi
 hdmovie2.koeln
 hdmovie2.kr
@@ -5043,7 +5033,6 @@ hdmovie2.navy
 hdmovie2.ng
 hdmovie2.nl
 hdmovie2.nz
-hdmovie2.observer
 hdmovie2.ooo
 hdmovie2.organic
 hdmovie2.osaka
@@ -5072,13 +5061,11 @@ hdmovie2.rocks
 hdmovie2.rodeo
 hdmovie2.sale
 hdmovie2.salon
-hdmovie2.schule
 hdmovie2.science
 hdmovie2.scot
 hdmovie2.services
 hdmovie2.sex
 hdmovie2.sh
-hdmovie2.shiksha
 hdmovie2.shopping
 hdmovie2.show
 hdmovie2.singles
@@ -5102,13 +5089,11 @@ hdmovie2.tf
 hdmovie2.theater
 hdmovie2.tips
 hdmovie2.today
-hdmovie2.tokyo
 hdmovie2.tools
 hdmovie2.tr
 hdmovie2.trade
 hdmovie2.trading
 hdmovie2.training
-hdmovie2.tube
 hdmovie2.uk
 hdmovie2.university
 hdmovie2.vc
@@ -5334,7 +5319,6 @@ i-b.co
 i1apk.com
 tracker.iamhansen.xyz
 ianimes.org
-iartbot.ru
 movies.iatout.fr
 ibdplex.net
 ibit.to
@@ -5376,6 +5360,7 @@ ihub.live
 iitv.info
 iktin.ru
 ikwilthepiratebay.org
+il-geniodellostreaming.club
 ilcorsaronero.info
 ilcorsaronero.link
 ilf.net
@@ -5583,7 +5568,6 @@ itorrents.org
 itorrents-igruha.net
 itorrents-igruha.org
 itunesmaxhd.com
-itvhd.live
 bbs.itzmx.com
 tracker1.itzmx.com
 tracker2.itzmx.com
@@ -5593,7 +5577,6 @@ ivesoccer.sx
 iwannawatch.is
 iwatchfreestreams.to
 ixinews.com
-tracker.ixuexi.click
 izalukaj.pl
 izofile.com
 t.jaekr.sh
@@ -5647,11 +5630,8 @@ tracker.jordan.im
 journeyman.tv
 retracker.joxnet.ru
 joyra380som.com
-jpgjingpinx.vip
-jpgjingpinx1.top
 jpmangas.co
 jpopsuki.eu
-jpxjpg01.top
 jpxjpg2.top
 jpxm3u8.com
 jpzy01.com
@@ -5884,7 +5864,6 @@ kinox.cool
 kinox.deals
 kinox.digital
 kinox.direct
-kinox.dog
 kinox.express
 kinox.farm
 kinox.foo
@@ -5893,7 +5872,6 @@ kinox.fyi
 kinox.gr
 kinox.group
 kinox.haus
-kinox.homes
 kinox.ink
 kinox.io
 kinox.it
@@ -6030,7 +6008,6 @@ koora365.io
 kooralivs.com
 kopedafotor75.shop
 kora4live.net
-koraonline-yallashoot.com
 home.kray.pw
 kraytracker.com
 ktorrents.com
@@ -6059,9 +6036,7 @@ tr.kxmp.cf
 l33t-raws.org
 la-cale.space
 la123movies.com
-labaia.ws
 labtor.tv
-lacasadeltikitaka.net
 lacraiatorrent.com
 laden.to
 ladresstina.com
@@ -6087,7 +6062,6 @@ laroza.icu
 laroza.life
 laroza.lol
 laroza.makeup
-laroza.media
 laroza.mom
 laroza.monster
 laroza.now
@@ -6255,6 +6229,7 @@ livescorehunter.com
 livesoccer.sx
 livesoccertv.com
 livesx.eu
+livetv.asia
 livetv.ru
 livetv.sx
 livetv786.pro
@@ -6858,6 +6833,7 @@ movie2k.lat
 movie2k.to
 movie2k-hd.com
 movie2ktv.bond
+movie2th.com
 movie4k.ag
 movie4k.is
 movie4k.org
@@ -6876,6 +6852,7 @@ moviebite.cc
 movieblogarea.com
 movieboxa.com
 movieboxbd.com
+moviecenter.online
 moviecluphd.store
 moviecracker.net
 moviedokan.autos
@@ -6896,15 +6873,18 @@ moviedokan.us
 moviedom.live
 moviedream.ws
 moviefiles.org
+moviefishers.org
 movieforfree.co
 moviefox.org
 moviefreak.xyz
+moviefunia.com
 moviegaga.to
 movieglide.com
 moviego.net
 moviego.site
 moviehaat.net
 moviehdfree.net
+moviehills.com
 moviehunterz.cc
 moviejesus.com
 movieking.cc
@@ -6914,9 +6894,14 @@ moviemaya.com
 movieninja.to
 movienoe.com
 movienyt.net
+movieocean.org
+movieonyx.com
 movieorca.com
 movieparadise.org
+movieplus.org
 moviepoka.com
+moviepowder.com
+movieprofits.com
 movierot.com
 movierr.online
 movierulz.yachts
@@ -6944,6 +6929,7 @@ movies4u.sl
 movies4u.ug
 movies4us.co
 movies7.to
+moviesaction.net
 moviesb4time.biz
 moviesbark.com
 moviescene.cc
@@ -7102,6 +7088,7 @@ mp4hydra.info
 mp4hydra.org
 mp4hydra.top
 mp4mania1.net
+mp4mobimovies.com
 mp4moviez.football
 mp4moviezhub.xyz
 mrgamingstreams.app
@@ -9533,6 +9520,7 @@ streamcomplet.io
 streamcomplet.me
 streamcomplets.net
 streamconnect.us
+streamcorner.click
 streamcouch.com
 streamdeouf.rip
 streamdor.com
@@ -9830,6 +9818,7 @@ streamingsenzalimiti.net
 streamingseries.rip
 streamingunity.autos
 streamingunity.biz
+streamingunity.dog
 streamit.ws
 streamix.so
 streamiz-filmze.com
@@ -11585,6 +11574,7 @@ voeunblk.com
 voidboost.tv
 voir-anime.to
 voir-seriestreaming.org
+voiranime.rip
 voirfilm.vip
 voirfilms.al
 voirfilms.io
