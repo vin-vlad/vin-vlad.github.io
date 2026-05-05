@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-04T18:40:41.906Z
-# Entries: 12405
+# Last updated: 2026-05-05T06:55:01.079Z
+# Entries: 12447
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -1940,6 +1940,7 @@ ch3oh.ru
 chainco.beer
 changhong.life
 channelstream.es
+chat2day.com
 chayachobi.net
 chdbits.org
 tracker.chdbits.co
@@ -2077,6 +2078,7 @@ cineblog02.com
 cinebloom.com
 cinebloom.org
 cinebook.xyz
+cinebto.com
 cineby.app
 cineby.asia
 cineby.cloud
@@ -2098,6 +2100,7 @@ cineflix.rip
 cinefound.com
 cinefun.co
 cinego.tv
+cinehd.app
 cinehub24.com
 cinema24.tv
 cinemaapk.com
@@ -2395,6 +2398,7 @@ tracker.corpscorp.online
 pre.corrupt-net.org
 trace.corrupt-net.org
 corsflix.net
+cosflix.net
 cosmic332.com
 cosmicscans.asia
 cosmobox.org
@@ -2634,6 +2638,7 @@ darkbooter.com
 darkdata.net
 darkino.co
 darkiworld15.com
+darkiworld16.com
 darkiworld2026.com
 darklight.to
 darkmachine.pl
@@ -2852,6 +2857,7 @@ dizipal1936.com
 dizipal2062.com
 dizipal2063.com
 dizipal2064.com
+dizipal2065.com
 dizipal22.plus
 dizipal754.vip
 dizipal755.vip
@@ -2890,6 +2896,7 @@ dmfk.org
 tracker.daydream.dmhy.best
 share.dmhy.org
 u2.dmhy.org
+dna2day.com
 dnetbd.com
 dnetdrive.com
 dnf24.com
@@ -3295,6 +3302,7 @@ embedcanaisonline.com
 embedflix.net
 embedhd.org
 embedtv.best
+embos.top
 emetsbank.xyz
 cemu.emiyl.com
 emiz.biz
@@ -3721,6 +3729,7 @@ film-streaming-ita.vg
 film-streaming-ita.ws
 film01stream.ws
 film1k.com
+film1movie.com
 film2mediax.top
 film2movie.info
 film4k.to
@@ -4070,6 +4079,7 @@ ns2.floads.com
 flood.to
 flowermangas.net
 fluxyrepacks.xyz
+flyembed.best
 vpn.flying-datacenter.de
 flynetbd.com
 flywarez.info
@@ -4194,6 +4204,7 @@ open.free-tracker.ga
 free2read.cc
 free4pc.org
 freebannedbooks.org
+freebestmovies.net
 freebfg.org
 freebooks.lol
 freebookspot.es
@@ -4887,6 +4898,7 @@ hdhome.org
 hdhub4u.family
 hdhub4u.gd
 hdhub4u.gifts
+hdhub4u.insure
 hdhub4u.menu
 hdhub4u.pictures
 hdhub4u.rehab
@@ -5301,6 +5313,7 @@ hurawatch.com
 hurawatch.ru
 hurawatch.stream
 hurawatchz.to
+hydracker.com
 hydrahd.ac
 hydrahd.cc
 hydrahd.com
@@ -5428,6 +5441,8 @@ imzdl.com
 anitube.in.ua
 tracker.exe.in.th
 friends.in.ua
+inattv252.cfd
+inattv253.cfd
 inattvgir-amp.xyz
 incine.ru
 inclouddrive.com
@@ -5437,6 +5452,7 @@ indiaboat.art
 indiankino.net
 indiankino.org
 indietorrents.com
+indirmovie.com
 indown.io
 indoxx1.art
 indoxxi.center
@@ -5599,6 +5615,7 @@ javlibrary.com
 javmix.tv
 javtorrent.me
 javtorrent.re
+jaysflix.com
 jbartisanssoaps.com
 jdbooks.xyz
 jennymodapk.info
@@ -5616,6 +5633,7 @@ jkanime.net
 jkanime.online
 jkanime.video
 jmbsoft.com
+johnwaynemovies.org
 join4films.com
 jojoy.io
 jokercdn.org
@@ -5861,6 +5879,7 @@ kinox.cloud
 kinox.club
 kinox.codes
 kinox.cool
+kinox.courses
 kinox.deals
 kinox.digital
 kinox.direct
@@ -6218,9 +6237,11 @@ live-nfl.stream
 live-sport-tv.it
 live-stream.tv
 live7.pro
+liveday2day.com
 livehd7i.live
 livekooora.online
 livekoora.io
+liveon4.zip
 liveonscore.tv
 livepirate.com
 liveru.sx
@@ -6242,6 +6263,7 @@ livetv814.me
 livetv815.me
 livetv863.me
 livingtorrents.com
+livnet.xyz
 livrefilmeshd.net
 lizaonlinebd.com
 lizardstresser.su
@@ -6261,6 +6283,7 @@ tracker.loadpeers.org
 loffe414wil.com
 logansmovies.com
 tracker.logirl.moe
+loiflix.xyz
 open.lolicon.eu
 tracker.loligirl.cn
 lolokino.biz
@@ -6306,6 +6329,7 @@ lossless.cd
 losslessclub.com
 lostfilm.tv
 lostfilm5.org
+loudmovies.com
 loushao.net
 love-games1.net
 love-torrent.net
@@ -6378,7 +6402,6 @@ macsoftdownload.com
 macsourceports.com
 mactorrent.co
 mactorrents.io
-macwarez.net
 macx.ws
 mad-jack.com
 madeintorrent.com
@@ -6505,7 +6528,6 @@ medbit.ru
 media-sharing.com
 media-torrent.org
 mediaboom.org
-mediaboxbd.com
 mediaboxhd.net
 mediaclub.tv
 mediafire.com
@@ -6532,7 +6554,6 @@ megafilmes.co
 megaflix.tv
 megagames.com
 megahfilmeshd.net
-megakino.bio
 megakino.biz
 megakino.cab
 megakino.co
@@ -6647,7 +6668,6 @@ tracker.minglong.org
 prestige.minimafia.nl
 private.minimafia.nl
 minimalfreaks.co
-mininova.biz
 mininova.com
 mininova.org
 minionstream.com
@@ -6764,7 +6784,6 @@ modtoco.com
 modw.net
 modxda.com
 modyolo.com
-modzod.com
 modzozo.com
 moe4sale.in
 tracker.moeblog.cn
@@ -6800,8 +6819,10 @@ tracker.morethantv.me
 moriyashrine.org
 morpheustvhd.com
 wg.mortis.me
-motchill.cm
+motchillf.top
 motchillfin.io
+motchillic.com
+motchillic.org
 motchillki.fm
 motchillr.is
 motchillzl.tv
@@ -6947,7 +6968,6 @@ moviesjoy.is
 moviesjoy.life
 moviesjoy.net
 moviesjoy.one
-moviesjoy.onl
 moviesjoy.plus
 moviesjoy.to
 moviesjoytv.to
@@ -7241,7 +7261,6 @@ myvi.tv
 myvidplay.com
 rfc5746.mywaifu.best
 tracker.mywaifu.best
-mywarez.com
 mywarez.ru
 adminion.n-blade.ru
 nabtor.com
@@ -7285,7 +7304,6 @@ necroip.tv
 nedasabd.net
 neefit.net
 neglectsquad.com
-neko-sama.fr
 tracker.nekobt.to
 tracker.nekomi.cn
 nelion.me
@@ -7559,6 +7577,7 @@ nsxafiliados.com
 ntorrents.net
 ntrace.in
 retracker.nts.su
+ntvs.cx
 ntvshara.ru
 nuclein.beer
 tracker.nucozer-tracker.ml
@@ -7934,6 +7953,7 @@ pelisplus.org
 pelisplusgt.com
 pelisplushd.net
 pepecine.to
+perfectsign.ca
 pesktop.com
 peteteo.com
 pgfiles.com
@@ -7944,6 +7964,7 @@ phdteam.com
 phimmoichill.now
 phimmoii.to
 phoenix-warez.ws
+photosflix.com
 pianosheets.org
 pianyuan.net
 picktorrent.com
@@ -7956,6 +7977,7 @@ pijafka.pl
 tracker.pimp4003.net
 pinoymovieshub.tv
 pinoymovieshub.win
+pinoysflixtv.net
 pinoytorrents.net
 tv.pipexbd.com
 piraat.xyz
@@ -8060,6 +8082,7 @@ pirlotv.fr
 pirlotvhd.online
 pirvox.net
 pitbulltorrent.eu
+pittsburghsoap.com
 tracker.pixelcove.me
 pjointe.com
 pkgps4.click
@@ -8202,6 +8225,7 @@ primewirestatus.org
 privatehd.to
 region.nl1.privex.cc
 privtracker.com
+prmovies.giving
 pro-evolution.org
 pro-windows.net
 proaudiotorrents.org
@@ -8280,6 +8304,7 @@ pubfilm.one
 old.pubfilms.club
 publicdomaintorrents.com
 publicdomaintorrents.info
+publicflix.org
 publichd.se
 publictorrent.net
 publictracker.ch
@@ -8384,6 +8409,7 @@ putlockers2.com
 putlockersflix.com
 putlockersfm.com
 putlockerss.online
+putlockerss.org
 putlockerstoworld2.com
 putlockert.com
 putlockertv.info
@@ -8858,6 +8884,7 @@ seehd.uno
 seeingblind.net
 seekasong.com
 seez.su
+seisyun-movie.com
 bigfoot1942.sektori.org
 selcuksportshdc78e4a78c6.xyz
 selezen.club
@@ -9181,6 +9208,7 @@ snowblink22.pro
 snowfl.com
 snowtigers.net
 snsbd.net
+soap-m.com
 soap2day.ac
 soap2day.biz
 soap2day.com
@@ -9207,6 +9235,7 @@ soaper.vip
 soaperpage.com
 soapgate.org
 soapnatur.com
+soaptesting.com
 sobt18.sbs
 socagol.tv
 soccerbite.net
@@ -9221,6 +9250,7 @@ soccerstreams.football
 soccerstreams.net
 soccerstreamshd.com
 soccerworldcup.me
+social2day.com
 socialplug.io
 sockshare.ac
 sockshare.net
@@ -9343,6 +9373,7 @@ sport365.live
 sport365.sx
 sportagoals.fit
 sportbit.org
+sportcastt.ru
 sportend.com
 sportlemo.net
 sportlemon.be
@@ -9372,6 +9403,7 @@ sportslive.me
 sportsonline.gl
 sportsonline.to
 v3.sportsonline.sx
+sportspass.zip
 sportstream.tv
 sportsurge.beer
 sportsurge.bz
@@ -9868,6 +9900,7 @@ streamworld.co
 streamworld.ws
 streamx10.cloud
 streamx339.cloud
+streamx550.com
 streamz.cc
 streamz.ws
 streamzone.es
@@ -9977,6 +10010,7 @@ swetv.org
 tracker.swifte.space
 swiftnetbd.com
 swiftstream.top
+swopglow.net
 swteam.ws
 bestoflinks.synology.me
 ibksturm.synology.me
@@ -10207,6 +10241,7 @@ tracker.theoks.net
 theoldcomputer.com
 thepeerhub.com
 thepibay.site
+thepinks.site
 thepirate.live
 thepirate-bay.org
 thepirate-bayproxy.com
@@ -10378,6 +10413,7 @@ todayvisionbd.com
 todoilegal.net
 todotorrents.com
 toffeeboba.com
+toflix.sbs
 t1.tokhmi.xyz
 tokis.xyz
 toku.fun
@@ -11421,6 +11457,7 @@ vibes.cc
 victoriancrapper.com
 victorraulrr.net
 viday.icu
+vidbox.dev
 vidby.co
 vidcloud.co
 vidcloud.icu
@@ -11466,6 +11503,8 @@ vidics.com
 vidics.to
 vidify.top
 vidjoy.pro
+vidkw.com
+vidlc.com
 vidlink.org
 vidlox.me
 vidmate.me
@@ -11487,6 +11526,7 @@ vidoza.com
 vidoza.net
 vidoza.org
 vidplay.org
+vidplay.site
 vidplay.tv
 vidspot.net
 vidsrc.me
@@ -12227,6 +12267,7 @@ yts.ws
 yts.yt
 yts-movie.cc
 yts2.com
+ytsauto.pro
 ytsstreaming.com
 ytstorrent.com
 ytstv.me
@@ -12327,6 +12368,7 @@ zerotracker.com
 zetorrents.biz
 zetorrents.io
 zetracker.net
+zhdcdn3.zip
 zhibook.xyz
 zhongzishenqi.com
 tracker.zhuqiy.com
