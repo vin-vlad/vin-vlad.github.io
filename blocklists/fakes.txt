@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-06T18:41:57.906Z
-# Entries: 14356
+# Last updated: 2026-05-07T07:09:41.583Z
+# Entries: 14327
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1382,7 +1382,6 @@ betrendy.site
 betrmode.com
 betrug.law
 betrugs-check.de
-betrugsexperten.de
 betrugsrecht.de
 bettbezugrabatt.com
 bettershifting.com
@@ -1632,7 +1631,6 @@ blumira.shop
 blyss-shop.de
 bmbgreen.com
 bmcloth.com
-bmfflnanzonlinegv.at
 bmpharmacy-official.com
 bmpharmacyofficial.com
 www.crypto2.bnd-group.com
@@ -2588,7 +2586,6 @@ cooho.de
 cook-on-the-bright-side.com
 cookanddinesales.com
 cookskitchen.club
-coolcare.mx
 coolgin.com
 cooling-ace.de
 coolsnow.at
@@ -3125,7 +3122,6 @@ detapetenonline.com
 deteufelde.shop
 detlinkx.works
 detoolsshop.com
-detson.de
 detsound.com
 detty.co
 deuducht.de
@@ -3346,7 +3342,6 @@ dplantz.com
 dptdopni.shop
 dr-estate.com
 dr-kopfhoerer.de
-dr-michael-huss.de
 drachekind.de
 dragonballmerch.de
 dramatice.com
@@ -3700,7 +3695,6 @@ elipolyse.de
 elisabethwien.at
 elisaluna-handel24.de
 elise-schmuck.de
-elisirofficial.com
 eliteai-t.com
 elitepie.com
 elitesafetrading.com
@@ -4364,7 +4358,6 @@ figulax.de
 figurenverkauf.com
 figurinestoys.com
 filamniceent.com
-fillamoda.com
 fillethumn.com
 fillinger.shop
 filloutlet.com
@@ -4541,9 +4534,6 @@ fmarketx.com
 fmi-finance.com
 fmtrader.com
 fniyitegeka.org
-foamr.ch
-foamr.de
-foamr.nl
 fodgramstar.com
 foerdertechniks.com
 fogatoshop.com
@@ -4725,7 +4715,6 @@ fuechsefussball.de
 fuehrungsregister.de
 fuehrungszeugnis.at
 fuelglovet.com
-fuelmeister.de
 fugespace.com
 fugitive.top
 fuhrmann.store
@@ -5665,7 +5654,6 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
-haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -6681,7 +6669,6 @@ jetprofund.net
 jeulia.de
 jewelleryina.com
 jewelryclaire.com
-jewelrymejuri.com
 jewelrynovainc.com
 jgfrqhh.top
 jiajo.com
@@ -6911,10 +6898,7 @@ kanuonlineshop.com
 kanyecharms.store
 kanziii.net
 kanzlei-keller-luers.de
-kanzlei-niva.de
 kanzlei-ra.net
-kanzlei-statz.de
-kanzlei-zimmermann-partner.com
 kaotikofire.shop
 kapackgmbh.com
 kaperes.com
@@ -8057,7 +8041,6 @@ manigliealzavetri.com
 manlyfor.com
 manlyhost.com
 mannerapotheke24.com
-mannheimmodehaus.com
 mansclothes.com
 mansolutionsgroup.com
 user.manson-group.pro
@@ -9087,7 +9070,6 @@ nebula-witch-power.com
 nebulain.com
 necessityi.com
 necklaceh.com
-neclune.com
 neded.de
 needsary.com
 needtohike.com
@@ -9545,8 +9527,6 @@ okbon.de
 adl.okhxm.shop
 okohausplus.com
 okun.shop
-okuracookware.ch
-okuracookware.de
 olangdeutschland.de
 olangsdeutschland.de
 olanzas.de
@@ -9616,7 +9596,6 @@ onkel-nolte.de
 onkmusic.com
 online-apotek.no
 online-arbeit.com
-online-betrugs-hilfe.de
 online-file-converter.com
 online-health-pharm.com
 online-indiegames.de
@@ -11286,7 +11265,6 @@ schraderbilliger.com
 schrank-shop.com
 schrankede.com
 schraubenpro.com
-schreyer-ra.de
 schuhebaer.com
 schuhegiesswein.com
 schuhegunstignice.de
@@ -13248,7 +13226,6 @@ uysnells.shop
 vacamy.com
 vacuumed.de
 vaillantproservice.at
-market.vailmere.com
 vakrin.com
 valeko.de
 valentinocanada.com
@@ -13460,13 +13437,11 @@ videforex.com
 video-markt.com
 videospiel-markt.de
 vider.fun
-vienessa.com
 vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
 viennameerschaum.com
-viennamode.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
@@ -14219,7 +14194,6 @@ zahnpflegerabatt.de
 zainabchemicals.com
 zaladowintersale.shop
 zalandode.com
-zalandode.top
 zalandonline.de
 zalandoonline.de
 zalandora.com
@@ -14228,7 +14202,6 @@ zalori.de
 zaloweb.me
 zaloweb.pro
 zalvori.com
-zaniro.shop
 zanondo.com
 zanvon.com
 zanzea.com
@@ -14306,12 +14279,10 @@ zigoff.de
 zilool.com
 zimmerpflanzens.com
 zimtahorn.de
-zinniafolkartsdeeu.shop
 zinpp.com
 zinsacm.com
 zinsfuchs.com
 zinsmanager.de
-zinzendorf-mode.at
 zipgoat.com
 zirella.de
 zitysports.com

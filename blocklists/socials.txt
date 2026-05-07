@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-05-06T18:41:58.264Z
-# Entries: 889
+# Last updated: 2026-05-07T07:09:43.201Z
+# Entries: 888
 2ch.org
 4cdn.org
 4chan.org
@@ -845,7 +845,6 @@ urbanists.social
 userapi.com
 viewpointsfromfacebook.com
 vine.co
-vk-cdn.me
 vk-cdn.net
 vk-portal.net
 vk.cc
