@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-07T07:09:42.195Z
-# Entries: 12497
+# Last updated: 2026-05-07T18:42:02.257Z
+# Entries: 12496
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -2147,11 +2147,9 @@ cinepulse.ac
 cinepulse.au
 cinepulse.cam
 cinepulse.cc
-cinepulse.ch
 cinepulse.cx
 cinepulse.fr
 cinepulse.info
-cinepulse.live
 cinepulse.lol
 cinepulse.org
 cinepulse.to
@@ -2320,6 +2318,7 @@ crichd.com.ua
 cueclub.com.bd
 digitalbroadband.com.bd
 dizipal1.com.tr
+dizipal2.com.tr
 www.e24.com.bd
 ekino.com.ua
 filmoflix.com.cv
@@ -7265,7 +7264,6 @@ mycima.horse
 mycima.host
 mycima.im
 mycima.kim
-mycima.la
 mycima.live
 mycima.loan
 mycima.lol
@@ -7289,7 +7287,6 @@ mycima.studio
 mycima.study
 mycima.style
 mycima.surf
-mycima.tv
 mycima.us
 mycima.vin
 mycima.ws
@@ -8656,6 +8653,7 @@ realfiles.net
 mail.realliferpg.de
 realstation.live
 realstresser.com
+reanime.to
 rebellyon.tv
 reboot.tube
 receitasone.com
@@ -11073,6 +11071,7 @@ ultracine.net
 ultradownloads.com
 ultraflixhd.net
 ultramovies.net
+cerf.cs.umd.edu
 websites.umich.edu
 ummagurau.com
 umq.me
