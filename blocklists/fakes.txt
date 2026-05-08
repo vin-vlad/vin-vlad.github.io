@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-07T18:42:02.205Z
-# Entries: 14381
+# Last updated: 2026-05-08T06:44:23.837Z
+# Entries: 14384
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -1444,6 +1444,7 @@ bikeambulanz-mobil.de
 bikeauction.de
 bikebabyseatde.com
 bikebitsde.com
+bikebox-salzgitter.de
 bikeboys-onlineshop.de
 bikechainlockde.com
 bikecomponents24.de
@@ -1461,6 +1462,7 @@ bikelovershop.com
 bikemarket.com
 biken-fahrrad.com
 bikenabende.com
+bikenetz.de
 bikepartonline.com
 bikepartsale.com
 bikepartsneu.com
@@ -4922,6 +4924,7 @@ gartenmotor.de
 gartenmotorgerate.com
 gartenobstshop.com
 gartenpflanzende.com
+gartenpflege-in-duisburg.de
 gartenpflegeshop.com
 gartenpicks.de
 gartenplus24.com
