@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-08T06:44:23.837Z
-# Entries: 14384
+# Last updated: 2026-05-08T18:38:03.705Z
+# Entries: 14430
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -94,6 +94,7 @@ abigfishing.com
 abilityne.com
 abilment.com
 abipartyxxl.de
+abl-finance.com
 abm-industrie.com
 abodeare.com
 abodeena.com
@@ -440,6 +441,7 @@ alternative-markets.com
 alternativeplacement.com
 althaus-kredit.com
 altinshop.de
+altior-capital.io
 altitradingltd.com
 altituden.com
 altogelther.com
@@ -818,6 +820,7 @@ atuiomane.de
 atusale.shop
 atvelektro.com
 au-meds.com
+auclimited.cc
 audazza.com
 audelion.de
 audi-services.com
@@ -925,6 +928,7 @@ avenir-crypto.com
 avenly.de
 avenor-hamburg.com
 avex-group.co
+avezzanofahrrad.de
 avorino.com
 avoros.de
 avotrend.com
@@ -1386,6 +1390,7 @@ betrendy.site
 betrmode.com
 betrug.law
 betrugs-check.de
+betrugsexperten.de
 betrugsrecht.de
 bettbezugrabatt.com
 bettershifting.com
@@ -1641,6 +1646,7 @@ blumira.shop
 blyss-shop.de
 bmbgreen.com
 bmcloth.com
+bmfflnanzonlinegv.at
 bmpharmacy-official.com
 bmpharmacyofficial.com
 www.crypto2.bnd-group.com
@@ -2564,6 +2570,7 @@ connecting-trade.com
 conrad-brennstoffe.de
 conrads-elektro.de
 conradthimm.de
+conseil-ltd.com
 conseilcrypto.com
 conservatione.com
 consistorkred.com
@@ -2599,6 +2606,7 @@ cooho.de
 cook-on-the-bright-side.com
 cookanddinesales.com
 cookskitchen.club
+coolcare.mx
 coolgin.com
 cooling-ace.de
 coolsnow.at
@@ -3136,6 +3144,7 @@ detapetenonline.com
 deteufelde.shop
 detlinkx.works
 detoolsshop.com
+detson.de
 detsound.com
 detty.co
 deuducht.de
@@ -3615,6 +3624,7 @@ eiselefahrrad.de
 eisenbahnzubehorde.com
 eisenwarensale-shop.com
 eishockeyangebot.com
+eisner-kollegen.de
 ejdigitalvendas.com
 ekmshp.com
 checkout.ekommmedia.com
@@ -3712,6 +3722,7 @@ elipolyse.de
 elisabethwien.at
 elisaluna-handel24.de
 elise-schmuck.de
+elisirofficial.com
 eliteai-t.com
 elitepie.com
 elitesafetrading.com
@@ -4136,6 +4147,7 @@ fahrradcheck24.de
 fahrradcitat.de
 fahrradco.de
 fahrraddeneurabatt.com
+fahrraddirekt24.de
 fahrradergeschaft.com
 fahrradfreilaufde.com
 fahrradgeschaft-de.com
@@ -4340,6 +4352,7 @@ festberg.de
 festberg-ace.de
 festeinkauf.de
 festgeld-finder.de
+festgeld-profis.de
 festgeld-sofort.de
 festgeld-zinsberatung.de
 festgeld724.de
@@ -4555,6 +4568,9 @@ fmarketx.com
 fmi-finance.com
 fmtrader.com
 fniyitegeka.org
+foamr.ch
+foamr.de
+foamr.nl
 fodgramstar.com
 foerdertechniks.com
 fogatoshop.com
@@ -4736,6 +4752,7 @@ fuechsefussball.de
 fuehrungsregister.de
 fuehrungszeugnis.at
 fuelglovet.com
+fuelmeister.de
 fugespace.com
 fugitive.top
 fuhrmann.store
@@ -4897,6 +4914,7 @@ gartenbillig.com
 gartenbnke.com
 gartendekoprada.de
 gartendo.de
+gartenersatz.de
 gartenesstisch.com
 gartenfarbewelt.com
 gartenflamme24.de
@@ -4959,6 +4977,7 @@ gastryner.com
 gate3londonuk.com
 gawude.shop
 gbgroup.ee
+gbr-office.de
 gbuynix.com
 gcash-casino-ph.com
 gcitrading.com
@@ -5809,6 +5828,7 @@ heizoel-discount.de
 heizoel-easy.de
 heizoel-fast.de
 heizoel-freunde.de
+heizoel-fuchs24.de
 heizoel-held.com
 heizoel-held.de
 heizoel-jetzt.de
@@ -6576,6 +6596,7 @@ investirex.com
 investixcrypto.com
 investkreditbank.at
 investmaza.com
+investproai.fr
 investsecuritiesgroup.com
 invisiblen.com
 invisishieldlab.com
@@ -6699,6 +6720,7 @@ jetprofund.net
 jeulia.de
 jewelleryina.com
 jewelryclaire.com
+jewelrymejuri.com
 jewelrynovainc.com
 jgfrqhh.top
 jiajo.com
@@ -6910,6 +6932,7 @@ kamerarabatt.de
 kameratraum.de
 kamerino.de
 kamextrading.com
+kami-holz.de
 kamingmbh.de
 kaminholz-briketts-holzpellets.eu
 kaminholz-premium.de
@@ -6932,7 +6955,10 @@ kanuonlineshop.com
 kanyecharms.store
 kanziii.net
 kanzlei-keller-luers.de
+kanzlei-niva.de
 kanzlei-ra.net
+kanzlei-statz.de
+kanzlei-zimmermann-partner.com
 kaotikofire.shop
 kapackgmbh.com
 kaperes.com
@@ -7971,6 +7997,7 @@ lynch-care.com
 lynorhome.net
 lynx-ai.pro
 lys-bois.com
+lyveroscentrix.com
 m-b-grosshandel.de
 m3-campus.de
 machicshop.com
@@ -8080,6 +8107,7 @@ manigliealzavetri.com
 manlyfor.com
 manlyhost.com
 mannerapotheke24.com
+mannheimmodehaus.com
 mansclothes.com
 mansolutionsgroup.com
 user.manson-group.pro
@@ -8875,6 +8903,7 @@ mydealz.live
 mydovinia.com
 myeasykit.com
 myelektrocenter.com
+myexness.net
 myfaifo.com
 mpreis-2023.myfreesites.net
 myfurnitureland.com
@@ -8897,6 +8926,7 @@ myonlyshop.de
 myopaline.com
 myperiodproject.com
 mypookino.com
+myquoteswiss.com
 myrrhrituals.shop
 de.mysalights.com
 myselftrade.com
@@ -9113,6 +9143,7 @@ nebula-witch-power.com
 nebulain.com
 necessityi.com
 necklaceh.com
+neclune.com
 neded.de
 needsary.com
 needtohike.com
@@ -9570,6 +9601,8 @@ okbon.de
 adl.okhxm.shop
 okohausplus.com
 okun.shop
+okuracookware.ch
+okuracookware.de
 olangdeutschland.de
 olangsdeutschland.de
 olanzas.de
@@ -9639,6 +9672,7 @@ onkel-nolte.de
 onkmusic.com
 online-apotek.no
 online-arbeit.com
+online-betrugs-hilfe.de
 online-file-converter.com
 online-health-pharm.com
 online-indiegames.de
@@ -9961,6 +9995,7 @@ pardiar.com
 parex-am.com
 parfumly.com
 parfumundkosmetik.com
+paris-titrisation.fr
 parisinpink.com
 parkdesignhome.com
 parkside-uk.com
@@ -10187,6 +10222,7 @@ pinkkola.com
 pinkowien.at
 pinneberg-handel.de
 pintaro.de
+pioneersxs.com
 pipecigardiscount.com
 pipelineroster.com
 piragroup.com
@@ -10274,6 +10310,7 @@ polenboeller-deutschland.com
 polene.at
 polene-deutschland.com
 polene-osterreich.com
+polenegermany.de
 poleneoutlet.de
 poleneoutletdeutschland.com
 polenetasche.de
@@ -10439,6 +10476,7 @@ proevery.com
 profahrradteile.com
 profibaubedarf.com
 profibikes.de
+profibrennde.com
 proficienct.com
 profile-bitstamp.net
 profiofen.com
@@ -10827,6 +10865,8 @@ presale-amswallet.replit.app
 reproccial.com
 repsfuse.com
 repstop.xyz
+trade.republicgestion.cc
+trade.republicgestion.com
 repuhren.de
 resellalcool.com
 resemblancey.com
@@ -11314,6 +11354,7 @@ schraderbilliger.com
 schrank-shop.com
 schrankede.com
 schraubenpro.com
+schreyer-ra.de
 schuhebaer.com
 schuhegiesswein.com
 schuhegunstignice.de
@@ -12483,6 +12524,7 @@ teknohaus.de
 telekom-dresden.de
 telesys-market.com
 teller-store.com
+tellidex.io
 teltow-apotheke-berlin.de
 telttamyyda.com
 temala.de
@@ -13491,11 +13533,13 @@ videforex.com
 video-markt.com
 videospiel-markt.de
 vider.fun
+vienessa.com
 vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
 viennameerschaum.com
+viennamode.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
@@ -13527,6 +13571,7 @@ vintageladies.de
 vintaro.de
 vintedreselling.eu
 vintross.de
+vinvestissement.com
 vinylcollectordepop.shop
 vinylrecordmall.com
 vionicmexico.com
@@ -13537,6 +13582,7 @@ vipbinary.com
 viporama.com
 vipprogrammer.com
 vipsupport-eu.com
+vircominfo.de
 virgoexpress.com
 viri-blue.de
 viroset.store
