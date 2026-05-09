@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-09T06:51:16.590Z
-# Entries: 12511
+# Last updated: 2026-05-09T18:26:23.984Z
+# Entries: 12532
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -357,6 +357,7 @@ admin.52ywp.com
 5play.org
 5tigorsk.ru
 5tv5.ru
+60-fps.org
 6006096.xyz
 61626c.net
 64dd.org
@@ -475,9 +476,11 @@ a2zapk.io
 a2zcrack.com
 a8bt.com
 aarsen.me
+abandon5000.com
 abandonhouse.com
 abbaspc.net
 abcflixbd.com
+crazyhack.abclan.com
 abcmovies.tv
 abcmoviesbd.com
 abcvg.info
@@ -550,6 +553,7 @@ ahoy.one
 ahoylist.net
 9kmovies.ai.in
 skymovieshd.ai.in
+tracker.aibt.xyz
 aidey.io
 aimhaven.com
 aimweb.ru
@@ -640,6 +644,7 @@ alt-torrent.com
 altadefinizione.agency
 altadefinizione.al
 altadefinizione.autos
+altadefinizione.bar
 altadefinizione.beauty
 altadefinizione.bet
 altadefinizione.bond
@@ -653,6 +658,7 @@ altadefinizione.com
 altadefinizione.community
 altadefinizione.cx
 altadefinizione.cyou
+altadefinizione.date
 altadefinizione.dating
 altadefinizione.de
 altadefinizione.eu
@@ -673,6 +679,7 @@ altadefinizione.li
 altadefinizione.life
 altadefinizione.live
 altadefinizione.love
+altadefinizione.ma
 altadefinizione.me
 altadefinizione.navy
 altadefinizione.net
@@ -686,6 +693,7 @@ altadefinizione.ph
 altadefinizione.pink
 altadefinizione.red
 altadefinizione.ru
+altadefinizione.sh
 altadefinizione.solutions
 altadefinizione.tienda
 altadefinizione.tokyo
@@ -716,6 +724,7 @@ altadefinizione01.club
 altadefinizione01.com
 altadefinizione01.email
 altadefinizione01.fm
+altadefinizione01.fyi
 altadefinizione01.games
 altadefinizione01.info
 altadefinizione01.site
@@ -753,6 +762,7 @@ altadefinizionegratis.homes
 altadefinizionegratis.host
 altadefinizionegratis.ink
 altadefinizionegratis.life
+altadefinizionegratis.mom
 altadefinizionegratis.monster
 altadefinizionegratis.news
 altadefinizionegratis.onl
@@ -766,6 +776,7 @@ altadefinizionegratis.skin
 altadefinizionegratis.space
 altadefinizionegratis.store
 altadefinizionegratis.surf
+altadefinizionegratis.today
 altadefinizionegratis.vip
 altadefinizionegratis.watch
 altadefinizionegratis.wiki
@@ -875,6 +886,7 @@ animeholics.org
 animehub.ac
 animeid.cc
 animeid.tv
+animeindex.net
 animekai.to
 animekaizoku.com
 animekayo.com
@@ -899,6 +911,7 @@ animepace.si
 animepahe.com
 animepahe.org
 animepahe.pw
+animepahe.ru
 animepahetv.to
 animepill.com
 animeplex.fun
@@ -965,13 +978,16 @@ ankergames.net
 ankeschwarz.net
 annas-archive.ax
 annas-archive.cc
+annas-archive.ch
 annas-archive.com
 annas-archive.cyou
 annas-archive.gd
 annas-archive.gl
 annas-archive.gs
 annas-archive.icu
+annas-archive.li
 annas-archive.pk
+annas-archive.pm
 annas-archive.su
 annas-archive.sx
 annas-archive.top
@@ -1066,6 +1082,7 @@ apkvision.org
 apkwind.com
 apkzone.net
 embx224539.apl366.me
+app-valley.vip
 appdb.to
 appdoze.com
 applegamingwiki.com
@@ -1092,6 +1109,7 @@ aprilga.beer
 aptoide.com
 apunka.games
 apunkagames.com
+apunkagames.cyou
 apunkagames.net
 apunkasoftware.net
 arabfilms.org
@@ -1164,6 +1182,7 @@ skvtorrent.at.ua
 at123movies.com
 at4re.com
 atarimania.com
+atdhe.pro
 ativadorkmspico.com
 atlas-pro.tv
 atlaspro.tv
@@ -1191,7 +1210,9 @@ audiobooksbee.com
 audiobookss.com
 audionews.org
 audionews.ru
+audiop2p.com
 audiostuff.ro
+audiozonetorrents.com
 aurastresser.com
 auratorrent.pl
 aurorabird6.live
