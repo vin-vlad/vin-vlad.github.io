@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-10T07:02:30.732Z
-# Entries: 12553
+# Last updated: 2026-05-10T18:26:07.024Z
+# Entries: 12583
 003396815.xyz
 004430.xyz
 0123456789nonexistent.com
@@ -940,6 +940,7 @@ animetoon.org
 animetorrents.com
 animetorrents.me
 animetosho.org
+animetosho.xyz
 animeua.club
 animeultima.to
 animevibe.tv
@@ -2306,6 +2307,7 @@ supremetorrents.co.uk
 swimhereford.co.uk
 thepb.co.uk
 thepiratebay.co.com
+trackerzone.co.uk
 warez4ever.co.il
 xalaflix.co.uk
 coalyf.beer
@@ -2316,6 +2318,7 @@ codecanyon.download
 codelist.cc
 watch.coen.ovh
 coexist.biz
+coflix.app
 coflix.bet
 coflix.blog
 coflix.boo
@@ -2326,6 +2329,7 @@ coflix.design
 coflix.fi
 coflix.foo
 coflix.men
+coflix.moe
 coflix.mov
 coflix.nexus
 coflix.ninja
@@ -2404,8 +2408,10 @@ r1a.com.pl
 salamonline.com.bd
 seriezloaded.com.ng
 skynet.com.bd
+slnisp.com.bd
 soap2day.com.co
 starflix.com.br
+startflix.com.br
 steamunlocked.com.br
 streamm4u.com.co
 strimki.com.pl
@@ -2424,9 +2430,11 @@ wormsblast.com.pl
 xalaflix.com.se
 yt1s.com.co
 www.midea123.z-media.com.cn
+zenkimex.com.mx
 comandofilmetorrent.com
 comandohdtorrents.com
 comandotorrenthd.net
+comandotorrents.com
 comandotorrents.org
 comandotorrentshd.net
 mywebpages.comcast.net
@@ -2505,6 +2513,7 @@ cpleft.com
 crack.ms
 crack-cd.com
 crack-cd.net
+crack4patch.com
 crack4soft.com
 crack55.com
 crack81.com
@@ -2784,6 +2793,7 @@ ddos-ip.com
 ddosbreak.com
 ddosclub.com
 ddosforhire.net
+ddosit.net
 ddostheworld.com
 ddownload.com
 tracker.ddunlimited.net
@@ -2821,6 +2831,7 @@ inferno.demonoid.me
 open.demonoid.ch
 open-tracker.demonoid.ch
 open-v6.demonoid.ch
+public.demonoid.ch
 demons-eye.me
 dendox.org
 deporte-libre.click
@@ -2852,6 +2863,7 @@ dezflight-underground.com
 dfast.app
 dfichiers.com
 dflix.live
+em.dfnbd.net
 tube.dfnbd.net
 dfox.it
 mixes.dfx.at
@@ -2883,6 +2895,7 @@ digimoviez39.top
 digimoviez40.top
 diginetbd.net
 digital-eliteboard.com
+digital-zone.xyz
 digitalboots.net
 tracker.digitalcore.club
 www2.digitaldistractions.org
@@ -2978,6 +2991,7 @@ tracker.daydream.dmhy.best
 share.dmhy.org
 u2.dmhy.org
 dna2day.com
+dnbtracker.org
 dnetbd.com
 dnetdrive.com
 dnf24.com
@@ -3004,6 +3018,7 @@ dodear.com
 dodi-repacks.site
 dognzb.cr
 doile378vtt.com
+tracker.doko.moe
 dokumen.pub
 dokumentalne.net
 dolwiz.com
@@ -3045,8 +3060,10 @@ dood.co
 dood.com
 dood.contractors
 dood.cool
+dood.dev
 dood.digital
 dood.fan
+dood.fans
 dood.fun
 dood.host
 dood.ink
@@ -3057,6 +3074,7 @@ dood.lt
 dood.ltd
 dood.lu
 dood.meme
+dood.mov
 dood.mx
 dood.net
 dood.news
@@ -3088,6 +3106,7 @@ dood.wf
 dood.ws
 dood.yt
 dood.zip
+doodcdn.co
 doodcdn.com
 doodcdn.io
 doodd.stream
@@ -3174,6 +3193,7 @@ downtr.cc
 downturk.net
 doxma.com
 dp27.ru
+dpstream.cc
 dpstream.lol
 dpstream.net
 dpstream.rip
@@ -3196,6 +3216,7 @@ dramaday.me
 dramago.com
 dramaqu.app
 dramaqu.cloud
+dramaqu.info
 dramaqu.net
 dramaqu.vip
 dramaqu.website
@@ -9631,6 +9652,8 @@ stagatv.com
 stalker-world.ru
 stanthecaddy.com
 star4m.com
+starckfilmes-v14.com
+starckfilmes-v15.com
 stardiima.top
 starfiles.co
 starflixbd.com
@@ -10089,6 +10112,9 @@ subtracker.net
 sudo-flix.lol
 sudo-flix.rip
 suesupriano.com
+sultansportv0350.com
+sultansportv0470.com
+sultansportv0810.com
 sumorb.com
 sumotorrent.com
 sumotorrent.sx
@@ -10230,6 +10256,9 @@ tapochek.net
 taraftarium24-amp.online
 taraftarium24-hdizle17.vip
 taraftarium24-hdizle19.vip
+taraftarium24-patron33.vip
+taraftarium24bjk.com
+taraftarium24pro10.site
 taringa.net
 tarjetaroja.me
 tarjetarojaenvivo.me
@@ -12225,6 +12254,7 @@ yalla-shootv.live
 yallashoothub.com
 yamgo.com
 yams.tf
+yanime.online
 yaplukon.org
 yaps.cc
 yarrlist.net

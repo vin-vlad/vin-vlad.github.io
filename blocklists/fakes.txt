@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-10T07:02:30.686Z
-# Entries: 14545
+# Last updated: 2026-05-10T18:26:06.989Z
+# Entries: 14590
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
@@ -252,6 +252,7 @@ ahdoftime.com
 ahhaaaa.shop
 ahyokaboutique.com
 ai-energy.net
+ai-horoskope.de
 aiapp2025.com
 aichaintrader.com
 aichecker.club
@@ -1437,6 +1438,7 @@ betrendy.site
 betrmode.com
 betrug.law
 betrugs-check.de
+betrugsexperten.de
 betrugsrecht.de
 bettbezugrabatt.com
 bettershifting.com
@@ -1701,6 +1703,7 @@ blumira.shop
 blyss-shop.de
 bmbgreen.com
 bmcloth.com
+bmfflnanzonlinegv.at
 bmpharmacy-official.com
 bmpharmacyofficial.com
 bnbtrades.com
@@ -2473,6 +2476,7 @@ staud.co.at
 superdry.co.at
 teddith.co.uk
 timbuk2.co.at
+tom-ford.co.za
 uggs.co.at
 vanss.co.at
 wilson.co.at
@@ -2531,6 +2535,7 @@ allbirds.com.de
 apollus24.com.com
 aradia.com.br
 arquetiposhop.com.br
+billabong.com.de
 bose.com.de
 brazuque.com.br
 brivani.com.br
@@ -2687,6 +2692,7 @@ cooho.de
 cook-on-the-bright-side.com
 cookanddinesales.com
 cookskitchen.club
+coolcare.mx
 coolgin.com
 cooling-ace.de
 coolsnow.at
@@ -2760,6 +2766,7 @@ createwithbuy.com
 creativegameplay.com
 creativetoyssales.com
 credoya.com
+cremant.at
 cremevisocorpo.com
 crestviewlamps.com
 crfp8-carrefour.com
@@ -2772,9 +2779,11 @@ crocslietuva.com
 crokdalien.com
 crop-bytes.com
 crossfitsuomi.co
+crown-diamonds.com
 crownet.com
 crownno.com
 crugo.de
+crunchbasenewstoday.com
 crxjik.shop
 cryotoxtrade.com
 cryptex-online.de
@@ -2832,6 +2841,7 @@ curablity.com
 at.curalise.com
 de.curalise.com
 curefip.com
+curiosi.shop
 curosleep.com
 curotoshop.com
 currext.com
@@ -2889,12 +2899,16 @@ daheim-gut.ch
 daheimgut.ch
 dailog.de
 daily-jewelry123.com
+dailyexpressnewstoday.com
 dailygermanshop.com
+dailyheraldnewstoday.com
 dailyjoy.shop
 dailylifeyouth.de
+dailymirrornewstoday.com
 dailyrosy.com
 dailysmilezone.com
 dailystarnewstoday.com
+dailytelegraphnewstoday.com
 dalaline.com
 dalmory.com
 dalsari.com
@@ -2908,6 +2922,7 @@ dampfzentrale.com
 dan-job-de.com
 dana-berlin.de
 dancardi.de
+dando.xyz
 dangelapanelli.com
 danggood.de
 dangotech.de
@@ -2930,6 +2945,7 @@ darasports.de
 darembel.com
 daryeleth.org
 das-feel-natural.de
+das-home.com
 das-kind-world.de
 das-montessori-spielzeug.de
 dasbatteries.com
@@ -2993,6 +3009,7 @@ de-bike.com
 de-fahrradshop.com
 de-filter.com
 de-frilufts.com
+de-gojurist.site
 modellbahn.de-imex.de
 pusheen.de-imex.de
 de-lumelia.com
@@ -3136,6 +3153,7 @@ delicioush.com
 delightsky.store
 delishpetfoodde.com
 parcel.deliv.com
+delphibeauty.de
 delson.de
 delta-stock.com
 deltadraht.de
@@ -3171,6 +3189,7 @@ deparcart.com
 depeople-work.xyz
 depierone.com
 deplacer.com
+depotkraft.com
 depotsnow.com
 der-einblick.de
 der-reiseexperte.de
@@ -3227,6 +3246,7 @@ detapetenonline.com
 deteufelde.shop
 detlinkx.works
 detoolsshop.com
+detson.de
 detsound.com
 detty.co
 deuducht.de
@@ -3310,8 +3330,10 @@ digipulse.online
 digital-starten.com
 digitalakku.de
 digitale-horoskope.de
+digitalerkredit.com
 digitalheizer.de
 digitalkontor24.de
+digitalmarkt.online
 digitalsecurefix.com
 digitax-solutions.de
 digitec-holding.de
@@ -3433,6 +3455,7 @@ dopeeesti.com
 dopeskijacke.at
 dopesnowstore.shop
 dopesnowsuomi.com
+dopesuomi.com
 dorat.de
 dorealis.com
 dormamu.com
@@ -3462,6 +3485,7 @@ dream-cars-it.com
 dreamcigarettes.com
 dreamelegants.com
 dreamfestivalsuisse.com
+dreamhomeoutlet.com
 dreamlightosterreich.com
 dreammenursery.com
 dreamshome.co
@@ -3490,6 +3514,7 @@ drmartensbot.com
 drmartensbotas.com
 drmartensdamen.de
 drmartensportugaloutlet.com
+eu.drmartensr.com
 drmartenssalg.com
 drmartensshoesuk.com
 drnorx.com
@@ -3510,6 +3535,7 @@ drugs247.net
 drugsline.org
 drumcovere.com
 dryredwineshop.com
+dryrosewine.com
 dshpartners.com
 dsmarkt.com
 dsquared2de.de
@@ -3807,6 +3833,7 @@ elipolyse.de
 elisabethwien.at
 elisaluna-handel24.de
 elise-schmuck.de
+elisirofficial.com
 eliteai-t.com
 elitepie.com
 elitesafetrading.com
@@ -4653,6 +4680,9 @@ fmarketx.com
 fmi-finance.com
 fmtrader.com
 fniyitegeka.org
+foamr.ch
+foamr.de
+foamr.nl
 fodgramstar.com
 foerdertechniks.com
 fogatoshop.com
@@ -4834,6 +4864,7 @@ fuechsefussball.de
 fuehrungsregister.de
 fuehrungszeugnis.at
 fuelglovet.com
+fuelmeister.de
 fugespace.com
 fugitive.top
 fuhrmann.store
@@ -5684,6 +5715,7 @@ handtoolworld.com
 handwerker-katalog.net
 handwerkstatt-der-holzgestaltung.de
 handwerkzeugshop.com
+handy-horoskope.de
 handylocate.com
 handyorten.de
 handyprotool.com
@@ -6814,6 +6846,7 @@ jetprofund.net
 jeulia.de
 jewelleryina.com
 jewelryclaire.com
+jewelrymejuri.com
 jewelrynovainc.com
 jgfrqhh.top
 jiajo.com
@@ -7049,7 +7082,10 @@ kanuonlineshop.com
 kanyecharms.store
 kanziii.net
 kanzlei-keller-luers.de
+kanzlei-niva.de
 kanzlei-ra.net
+kanzlei-statz.de
+kanzlei-zimmermann-partner.com
 kaotikofire.shop
 kapackgmbh.com
 kaperes.com
@@ -8200,6 +8236,7 @@ manigliealzavetri.com
 manlyfor.com
 manlyhost.com
 mannerapotheke24.com
+mannheimmodehaus.com
 mansclothes.com
 mansolutionsgroup.com
 user.manson-group.pro
@@ -9239,6 +9276,7 @@ nebula-witch-power.com
 nebulain.com
 necessityi.com
 necklaceh.com
+neclune.com
 neded.de
 needsary.com
 needtohike.com
@@ -9698,6 +9736,8 @@ okbon.de
 adl.okhxm.shop
 okohausplus.com
 okun.shop
+okuracookware.ch
+okuracookware.de
 olangdeutschland.de
 olangsdeutschland.de
 olanzas.de
@@ -9710,6 +9750,7 @@ oliver-schwarzer-shop.de
 olivercabelldeutschland.de
 olivespielzeug.com
 oliviamoreau.de
+olivias-horoskope.de
 olley.ch
 olukaiosterreich.at
 olyava.com
@@ -9766,6 +9807,7 @@ onkel-nolte.de
 onkmusic.com
 online-apotek.no
 online-arbeit.com
+online-betrugs-hilfe.de
 online-file-converter.com
 online-health-pharm.com
 online-indiegames.de
@@ -11455,6 +11497,7 @@ schraderbilliger.com
 schrank-shop.com
 schrankede.com
 schraubenpro.com
+schreyer-ra.de
 schuhebaer.com
 schuhegiesswein.com
 schuhegunstignice.de
@@ -13646,11 +13689,13 @@ videforex.com
 video-markt.com
 videospiel-markt.de
 vider.fun
+vienessa.com
 vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
 viennameerschaum.com
+viennamode.com
 viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
