@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-14T18:44:12.736Z
-# Entries: 12769
+# Last updated: 2026-05-15T07:17:06.114Z
+# Entries: 12773
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -184,6 +184,7 @@ tracker.btcake.com
 tainanleba.btchichi.hair
 t.btcland.xyz
 tracker.btschool.club
+tr.btube3.com
 tracker.btzoo.eu
 tracker.bug38.com
 csite.bugs3.com
@@ -2072,6 +2073,7 @@ altadefinizionegratis.homes
 altadefinizionegratis.host
 altadefinizionegratis.ink
 altadefinizionegratis.life
+altadefinizionegratis.living
 altadefinizionegratis.mom
 altadefinizionegratis.monster
 altadefinizionegratis.news
@@ -2085,6 +2087,7 @@ altadefinizionegratis.shop
 altadefinizionegratis.skin
 altadefinizionegratis.space
 altadefinizionegratis.store
+altadefinizionegratis.study
 altadefinizionegratis.surf
 altadefinizionegratis.today
 altadefinizionegratis.vip
@@ -3989,6 +3992,7 @@ dontorrent.pink
 dontorrent.promo
 dontorrent.racing
 dontorrent.reisen
+dontorrent.rocks
 dontorrents.com
 dontorrents.org
 dood.ac
