@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-16T06:54:45.619Z
-# Entries: 12775
+# Last updated: 2026-05-16T18:25:37.473Z
+# Entries: 12769
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -1784,7 +1784,6 @@ tracker.zum.bi
 9kmovies.pet
 9kmovies.press
 9kmovies.ren
-9kmovies.rip
 9kmovies.sarl
 9kmovies.solar
 9kmovies.space
@@ -1970,7 +1969,6 @@ altadefinizione.community
 altadefinizione.cx
 altadefinizione.cyou
 altadefinizione.date
-altadefinizione.dating
 altadefinizione.de
 altadefinizione.eu
 altadefinizione.exchange
@@ -2085,7 +2083,6 @@ altadefinizionegratis.run
 altadefinizionegratis.sbs
 altadefinizionegratis.shop
 altadefinizionegratis.skin
-altadefinizionegratis.space
 altadefinizionegratis.store
 altadefinizionegratis.study
 altadefinizionegratis.surf
@@ -2137,7 +2134,6 @@ androidrookies.com
 androidtvbox.ru
 andropalace.org
 andyday.tv
-andydayz.lol
 ani-mania.com
 anicloud.domains
 anicloud.io
@@ -2461,7 +2457,6 @@ asmr-300.com
 asnet.pw
 aspirated.xyz
 assistir.biz
-assistiranimes.org
 assistirseriados.online
 assistirseriesflix.net
 assistirtvgratis.online
@@ -2511,7 +2506,6 @@ aurastresser.com
 auratorrent.pl
 aurorabird6.live
 autocadbmjes.com
-autocadgou.com
 autocadtfesvb.com
 autoeq.top
 avantabg.com
