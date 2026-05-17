@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-16T18:25:37.473Z
-# Entries: 12769
+# Last updated: 2026-05-17T07:06:13.451Z
+# Entries: 12764
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -2574,7 +2574,6 @@ batmanstream.watch
 batstream.tv
 bayernstream.com
 bayfiles.com
-bayofpirates.xyz
 bb-tv.org
 bclearning.top
 bd-t.net
@@ -2690,7 +2689,6 @@ bitcomet.com
 bitcorea.org
 bitcountry.com
 bitcq.com
-bitdl.ir
 bitemytorrent.com
 bitenova.org
 bitestreams.net
@@ -2941,7 +2939,6 @@ buffstreams.tv
 bughome.de
 bulextorrent.org
 bulkpeers.com
-bullstresser.com
 bullstresser.net
 bundesliga-streams.net
 bunkr.tv
@@ -3278,7 +3275,6 @@ cineblog01.ws
 cineblog01.wtf
 cineblog01.xn--6frz82g
 cineblog01film.blog
-cineblog02.com
 cinebloom.com
 cinebloom.org
 cinebook.xyz
@@ -3307,9 +3303,7 @@ cinefreak.ch
 cinefreak.my
 cinefreak.net
 cinefreak.top
-cinefreak.tv
 cinefun.co
-cinego.tv
 cinehd.app
 cinehub24.com
 cinema24.tv
@@ -3325,7 +3319,6 @@ cinemagratis.vg
 cinemagratis.ws
 cinemagratis.xyz
 cinemahd.work
-cinemahdv2.io
 cinemaindo.net
 cinemalibero.cafe
 cinemalux.cfd
@@ -7056,6 +7049,7 @@ livesx.eu
 livetv.asia
 livetv.ru
 livetv.sx
+livetv-en.com
 livetv786.pro
 livetv802.me
 livetv806.me
@@ -7375,6 +7369,7 @@ megakino3.com
 megakino3.org
 megakino3.to
 megakino4.com
+megakino4.org
 megakinox.top
 megamanmaker.com
 megamodapk.com
