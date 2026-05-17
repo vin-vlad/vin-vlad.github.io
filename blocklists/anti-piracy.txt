@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-17T07:06:13.451Z
-# Entries: 12764
+# Last updated: 2026-05-17T18:29:06.036Z
+# Entries: 12750
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -315,7 +315,6 @@ soap2day.com.co
 starflix.com.br
 startflix.com.br
 steamunlocked.com.br
-streamm4u.com.co
 strimki.com.pl
 thepiratebays.com.se
 tnetwork.com.bd
@@ -353,7 +352,6 @@ tracker3.ctix.cn
 tracker.cubonegro.lol
 tracker.cubonegro.xyz
 tracker.cutie.dating
-tracker-de-2.cutie.dating
 tracker.cyberia.is
 tracker.cypherpunks.ru
 proxy-cool-n-forex-hot-list.cz.cc
@@ -2112,6 +2110,7 @@ amcomputers.org
 amedia.biz
 amedia.so
 amelia-movie.com
+amenzb.moe
 amildar.beer
 amrbd.com
 amyflix.com
@@ -3621,7 +3620,6 @@ crichd.to
 crichd.tv
 crichd.vip
 crichd.watch
-crichd.world
 crichd-player.top
 crichdplayer.com
 crickfree.be
@@ -3696,10 +3694,8 @@ d123movies.to
 d4download.com
 daddylive.sx
 daddylive3.com
-daddylive5.top
 daddylivehd1.click
 daddylivestream.com
-daddyny.com
 dadyflix.co
 dafunda.com
 dags43jh.com
@@ -3734,7 +3730,6 @@ darwine.fr
 dashflix.top
 data-bg.net
 data-force.net
-data-load.in
 databasegdriveplayer.co
 databooter.com
 datafilehost.com
@@ -3804,7 +3799,6 @@ demonoid.ph
 demonoid.pw
 demons-eye.me
 dendox.org
-deporte-libre.click
 derechosmadretierra.org
 descargaapk.com
 descargagame.com
@@ -3817,7 +3811,6 @@ desibbrg.com
 desihdmovies.me
 desirulez.me
 desitorrents.com
-desmaxgo.com
 desuwa.me
 detroitlakes.org
 deutschekanale.com
@@ -3927,12 +3920,10 @@ dle-news.ru
 dle-shablons.ru
 dler.org
 dlhd.click
-dlhd.dad
 dlhd.link
 dlpsgame.com
 dlstream.com
 dlstreams.com
-dlstreams.top
 dlxbgame.com
 dmfk.org
 dna2day.com
@@ -3985,7 +3976,6 @@ dontorrents.org
 dood.ac
 dood.al
 dood.art
-dood.at
 dood.bar
 dood.beauty
 dood.biz
@@ -4002,7 +3992,6 @@ dood.com
 dood.contractors
 dood.cool
 dood.dev
-dood.digital
 dood.fan
 dood.fans
 dood.fun
@@ -4097,7 +4086,6 @@ dotmovies.bayern
 dotmovies.cat
 dotmovies.cl
 dotriv.com
-dotsport.live
 doubledouble.top
 down-movies.ws
 downarchive.org
@@ -4183,7 +4171,6 @@ dslrmovie.net
 dsvplay.com
 dtvd.net
 dubbedanime.net
-dubbedanime.vip
 duboku.co
 duboku.com
 duboku.fun
@@ -4327,7 +4314,6 @@ entrelesnuages.fr
 enxf.net
 eogli.org
 eolbd.com
-eonmovies.biz
 eonmovies.fit
 eonmovies.fun
 eonmovies.live
@@ -4337,7 +4323,6 @@ episodes-tv.com
 epnetbd.com
 eppicinema-app.com
 eprojectfreetv.com
-eprojectfreetv.us
 epublibre.org
 erai-raws.info
 erc7q8w6.com
@@ -4402,7 +4387,6 @@ eurostreaming.info
 eurostreaming.ink
 eurostreaming.it
 eurostreaming.live
-eurostreaming.loans
 eurostreaming.lol
 eurostreaming.love
 eurostreaming.makeup
@@ -6356,6 +6340,7 @@ iptv-web.app
 iptv4me.net
 iptvcanarias.tv
 iptvguard.app
+iptvmap.com
 iptvonly.tv
 iptvprova.com
 iptvs.pw
@@ -6467,6 +6452,7 @@ jomo.tv
 jopa.cz
 journeyman.tv
 joyra380som.com
+jp-animenities.com
 jpmangas.co
 jpopsuki.eu
 jpxjpg2.top
