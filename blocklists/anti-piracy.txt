@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-18T07:35:49.263Z
-# Entries: 12961
+# Last updated: 2026-05-18T18:44:00.235Z
+# Entries: 12932
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -68,6 +68,7 @@ willow.arlen.icu
 mail.artixlinux.org
 torrents.artixlinux.org
 tracker.artixlinux.org
+tracker.aruku.ovh
 filmvizyon.at.ua
 skvtorrent.at.ua
 tracker.auctor.tv
@@ -691,7 +692,6 @@ tracker.kawaii.id
 0d.kebhana.mx
 tracker.keepfrds.com
 data.kenecolor.com
-open.kickasstracker.com
 tracker.0day.kiev.ua
 max2wwe.kilu.de
 tracker.kitaujisub.site
@@ -699,6 +699,7 @@ tracker.home.kmzs123.cn
 tracker.kmzs123.cn
 tracker.kmzs123.top
 home.kray.pw
+anime-tracker.aruku.kro.kr
 bt.ktrackers.com
 tracker.kuroy.me
 ts.kurtubba.com
@@ -740,7 +741,6 @@ tp.m-team.cc
 tracker.m-team.cc
 tracker.m-team.io
 tk.mabo.ltd
-ww13.manga-zip.info
 bubu.mapfactor.com
 tracker.marshyonline.net
 down.mdiaload.com
@@ -2647,6 +2647,7 @@ bestdjmix.com
 bestfilez.net
 bestfreestreaming.com
 bestfriends.hu
+besthdmoviespoint.com
 bestkoditips.com
 bestmmatorrents.com
 bestmp4movies.com
@@ -2783,6 +2784,7 @@ bloodsuckerz.cx
 blu-bits.com
 blu-torrents.net
 bludv.com
+bludv2.xyz
 blue-whitegt.com
 bluebird-hd.org
 bluehorizon4.site
@@ -4198,6 +4200,7 @@ dreamorabt.com
 dreamsite.pro
 dreamteamdownloads1.com
 drivec.ru
+drmcolhd.buzz
 drop.download
 dropapk.to
 dropcdn.io
@@ -4375,6 +4378,7 @@ erdoflix.com
 ero-torrent.net
 erotixxx.net
 eshiel.com
+esmeraldatorrent.com
 estrenoslatinos.com
 esubmovie.net
 ethor.net
@@ -5596,6 +5600,7 @@ graphicex.com
 gratfilm.com
 gratflix.net
 greatmodapk.com
+greedscans.org
 greek-tracker.com
 greencracks.com
 greetingsonlinebd.com
@@ -6087,7 +6092,6 @@ hdstar.org
 hdtoday.cc
 hdtoday.one
 hdtoday.tv
-hdtoday-tv.lol
 hdtoday-tv.online
 hdtoday-tv.us
 hdtodaytv.icu
@@ -6150,41 +6154,29 @@ highteahop.top
 hikarinoakariost.info
 hikaritv.xyz
 himovies.app
-himovies.autos
 himovies.beauty
 himovies.biz
 himovies.boats
-himovies.bond
 himovies.bz
 himovies.casa
 himovies.cloud
-himovies.fun
 himovies.gd
 himovies.homes
 himovies.icu
-himovies.ir
 himovies.live
 himovies.monster
 himovies.net
 himovies.one
 himovies.online
-himovies.pics
 himovies.pl
-himovies.plus
-himovies.pro
 himovies.run
 himovies.site
-himovies.store
 himovies.sx
-himovies.top
 himovies.tv
-himovies.watch
-himovies-official.site
 himovies-sx.cyou
 himovies-to.com
 himovies-to.lat
 himovies-to.live
-himovies-to.xyz
 himoviesto.cc
 himoviestv.lat
 himoviestv.lol
@@ -6313,7 +6305,6 @@ ilgeniodellostreaming.be
 ilgeniodellostreaming.bet
 ilgeniodellostreaming.black
 ilgeniodellostreaming.boo
-ilgeniodellostreaming.cloud
 ilgeniodellostreaming.com
 ilgeniodellostreaming.de
 ilgeniodellostreaming.eu
@@ -6363,7 +6354,6 @@ imoim.app
 imojado.org
 imost.com
 imovie24hd.com
-imovies.cc
 imovietube.com
 imperiofilmes.com
 imperiofilmes.org
@@ -6532,7 +6522,6 @@ jetanimes.com
 jetload.net
 jhakkas.live
 jhalmuri.com
-jhalmuri.xyz
 jimmyr.com
 jinpinxm.com
 jkanime.net
@@ -6593,7 +6582,6 @@ kaitovault.com
 kaizoku-fansubs.com
 kanava.org
 kanjiku.net
-kankan35.top
 kannadatorrents.com
 kaoskrew.org
 kapitalsin.com
@@ -6699,7 +6687,6 @@ kinoger.fun
 kinoger.icu
 kinoger.my
 kinoger.pics
-kinoger.pw
 kinoger.re
 kinoger.ru
 kinoger.to
@@ -6707,7 +6694,6 @@ kinoger.vip
 kinoger-to.com
 kinoger-to.online
 kinogermanynow.com
-kinogerto.de
 kinogo.biz
 kinogo.ec
 kinogo.eu
@@ -6744,7 +6730,6 @@ kinorun.com
 kinorun.top
 kinos.to
 kinotochka.org
-kinotracker.org
 kinotron.top
 kinoua.pro
 kinoua.tv
@@ -6809,7 +6794,6 @@ kinox.gr
 kinox.group
 kinox.haus
 kinox.id
-kinox.ink
 kinox.io
 kinox.it
 kinox.lat
@@ -6830,7 +6814,6 @@ kinox.sh
 kinox.si
 kinox.social
 kinox.space
-kinox.style
 kinox.su
 kinox.sx
 kinox.tattoo
@@ -7004,6 +6987,7 @@ laroza.today
 laroza.work
 laroza1.com
 larozaa.com
+larozaa.lat
 larozaa.net
 larozaa.website
 larozaa.xyz
@@ -7096,7 +7080,6 @@ ligg.org
 lightdl.xyz
 lightmist83.live
 limetor.com
-limetor.pro
 limetorrent.cc
 limetorrent.ws
 limetorrent.xyz
@@ -7118,7 +7101,6 @@ limetorrents.zone
 limetorrentx.cc
 limontorrents.club
 line-net.ru
-link-base.org
 linkbucks.com
 linkomanija.net
 linkseed.net
@@ -7171,7 +7153,6 @@ lk21.org
 lk21official.cc
 lk21official.info
 lk21official.vip
-lk21tv.com
 ll1.my
 lmanime.com
 lnx-bbc.org
@@ -7336,7 +7317,6 @@ mangapill.com
 mangapoisk.io
 mangareader.tv
 mangasee123.com
-mangasukuna.top
 mangogamers.com
 mania-torrent.org
 manicomio-share.com
@@ -7448,7 +7428,6 @@ megakino.plus
 megakino.pw
 megakino.red
 megakino.rip
-megakino.style
 megakino.team
 megakino.video
 megakino.vin
@@ -7865,7 +7844,6 @@ moviesmod.blue
 moviesmod.build
 moviesmod.cafe
 moviesmod.cards
-moviesmod.chat
 moviesmod.city
 moviesmod.cloud
 moviesmod.cool
@@ -7878,7 +7856,6 @@ moviesmod.fyi
 moviesmod.kim
 moviesmod.mom
 moviesmod.onl
-moviesmod.pink
 moviesmod.plus
 moviesmod.red
 moviesmod.rip
@@ -7886,13 +7863,10 @@ moviesmod.singles
 moviesmod.space
 moviesmod.store
 moviesmod.team
-moviesmod.town
-moviesmod.tube
 moviesmod.video
 moviesmod.vip
 moviesmod.wtf
 moviesmod1.com
-moviesmod3.shop
 moviesmod4u.com
 moviesmode.org
 moviesmode.town
@@ -7943,7 +7917,6 @@ moviewatcher.is
 movieworld.pl
 movieworld.to
 moviexk.biz
-moviezona593.com
 moviezone.ws
 moviful.com
 moviplus.net
@@ -8020,7 +7993,6 @@ multiapkclub.com
 multicanais.cl
 multicanais.com
 multicanais.fans
-multicanais.live
 multicanais.today
 multicanaishd.online
 multimovies.center
@@ -8134,12 +8106,9 @@ mycima-my.com
 mycima-tv.com
 mycima1.click
 mycima1.com
-mycima1.xyz
 mycimaa.bond
 mycimaa.com
 mycimaa.xyz
-mycimaaa.xyz
-mycimalive.com
 mycricketlive.live
 mycujoo.tv
 mycybernest.com
@@ -9173,6 +9142,7 @@ puzo.org
 pwtorrents.net
 qatarstreams.me
 qbittorrent.org
+qeseh3sk.com
 qimanhwa.com
 qiq.ws
 qmovies.net
@@ -9573,6 +9543,7 @@ scnsrc.me
 scooter-repacks.site
 scr.cr
 scrapetorrent.com
+screenfetch4.cyou
 scubenetworkbd.com
 sdbits.org
 sdcv.pl
@@ -10018,6 +9989,7 @@ solarmovies.cc
 solarmovies.co
 solarmovies.win
 solarmovies-sc.lol
+solarmoviewatch.com
 solarmoviez.ru
 solarmoviez.to
 solartv.to
@@ -12158,6 +12130,7 @@ vipdeq.site
 viperplay.net
 viperplay.online
 viperplayhd.com
+vipguru.online
 vipleague.app
 vipleague.im
 vipleague.lc
@@ -12510,6 +12483,7 @@ wowhdmovie.com
 wowroms.com
 wpp-fansubs.com
 wqsky.com
+wqsteamcommunity.com
 wtfnzb.pw
 wtftrackr.pw
 wunza.ws
@@ -12651,16 +12625,11 @@ yallashoothub.com
 yamgo.com
 yams.tf
 yanime.online
-yaoiflix.art
 yaoiflix.bar
 yaoiflix.fit
-yaoiflix.kim
 yaoiflix.lat
-yaoiflix.my
 yaoiflix.org
-yaoiflix.run
 yaoiflix.site
-yaoiflix.top
 yaplukon.org
 yaps.cc
 yarrlist.net
@@ -12926,7 +12895,6 @@ zonaplus.ru
 zonatorrent.org
 zonatorrent.tv
 zond.org
-zone-annuaire.cx
 zone-ebook.com
 zone-stream.net
 zone-streaming.fr
@@ -12935,7 +12903,6 @@ zone-telechargement.com
 zone-telechargement.diy
 zone-telechargement.lol
 zone-telechargement.me
-zone-telechargement.re
 zone-telechargement.today
 zone-telechargement.win
 zone-telechargement.ws
@@ -12948,6 +12915,10 @@ zonestreaming.info
 zonestreaming.rip
 zonetelechargement.to
 zonetelechargement1.buzz
+zonetelechargement1.cfd
+zonetelechargement1.click
+zonetelechargement1.lol
+zonetelechargement1.sbs
 zoomonlinebd.net
 zooqle.com
 zoozle.org
