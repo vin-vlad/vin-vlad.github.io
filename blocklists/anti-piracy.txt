@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-21T07:28:08.698Z
-# Entries: 12904
+# Last updated: 2026-05-21T18:45:16.737Z
+# Entries: 12905
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -2278,6 +2278,7 @@ animeyt.es
 animeyt.moe
 animeyume.org
 animez.org
+animez.to
 animezia.com
 animixplay.com
 animixplay.to
