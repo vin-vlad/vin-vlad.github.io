@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-22T07:24:24.034Z
-# Entries: 12906
+# Last updated: 2026-05-22T18:44:07.252Z
+# Entries: 12909
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -2266,6 +2266,7 @@ animeua.club
 animeultima.to
 animevibe.tv
 animevostfr.tv
+animeworld.me
 animeworld.so
 animeworld.tv
 animex.click
@@ -7783,6 +7784,7 @@ movierulz.yachts
 movierulzhd.gold
 movierulznet.com
 movierulzonline.com
+movierulzpl.com
 movierulzzplz.com
 movies.cab
 movies-d.com
@@ -8283,6 +8285,7 @@ newhdmovie2.art
 newhdmovie2.com
 newhdmovie2.net
 newhdmovie2.one
+newhdmovie2.pro
 newhdmovies.org
 newhdmovies.top
 newhdmovies24.net
