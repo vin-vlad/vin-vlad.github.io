@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-21T18:45:16.344Z
-# Entries: 15751
+# Last updated: 2026-05-22T07:24:23.990Z
+# Entries: 15747
 eoutlet.2023shoponline.com
 trader.212group.de
 eu.2bagsvalley.cn
@@ -209,7 +209,6 @@ h5.ecoinf.vip
 at.eeelgnte.shop
 heimwuq.einfachykfe.cyou
 checkout.ekommmedia.com
-adlz.ekyyq.shop
 de.emmiol.com
 unser-eshop.shop.epages.de
 sovkonc.ept.se
@@ -2015,7 +2014,6 @@ berlinermode.com
 berlinermode.shop
 berlinessence.com
 berlinfog.com
-berlinglamour.de
 berlinherren.de
 berlinmedz.com
 berlinmoon.com
@@ -2028,7 +2026,6 @@ berlinsprime.de
 berlinstil.de
 berlinwoch.com
 berluxe.de
-bermar-shop.com
 bermuda-musicshop.de
 bernardes.de
 bernhardthome.com
@@ -13140,7 +13137,6 @@ spiegellhaus.de
 spielbank-badenwurttemberg.de
 spielburgen.com
 spiele-grotte.de
-spieleboxdek.com
 spielewelt.shop
 spielsmodelle.com
 spielwaren-tonies.com
