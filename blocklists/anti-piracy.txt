@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-23T07:03:17.697Z
-# Entries: 12909
+# Last updated: 2026-05-23T18:27:15.752Z
+# Entries: 12910
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -1926,6 +1926,7 @@ allmodapk.de
 allmovieland.one
 allmovieland.you
 allmoviesforyou.co
+allmovieshub.agency
 allmovieshub.win
 allmyroms.net
 allmyvideos.net
