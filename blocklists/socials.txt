@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-05-23T18:27:16.580Z
-# Entries: 888
+# Last updated: 2026-05-24T07:15:11.208Z
+# Entries: 889
 2ch.org
 4cdn.org
 4chan.org
@@ -819,6 +819,7 @@ toot.io
 toot.wales
 toplayerserver.com
 troet.cafe
+truthsocial.com
 ttlivecdn.com.c.bytefcdn-oversea.com
 ttlivecdn.com
 tumblr.com
