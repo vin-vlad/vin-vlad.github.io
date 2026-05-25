@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-24T18:29:18.565Z
-# Entries: 12765
+# Last updated: 2026-05-25T07:46:06.161Z
+# Entries: 12779
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -4443,6 +4443,7 @@ eurostreamings.casa
 eurostreamings.cfd
 eurostreamings.click
 eurostreamings.com
+eurostreamings.fit
 eurostreamings.fun
 eurostreamings.hair
 eurostreamings.homes
@@ -6015,8 +6016,15 @@ hdmovieshub.nl
 hdmoviesnxt.com
 hdmoviespark.com
 hdmoviesverse.xyz
+hdmovif2.com
 hdmovil.xyz
 hdmovil2.com
+hdmovin2.ceo
+hdmovin2.com
+hdmovin2.fail
+hdmovin2.farm
+hdmovin2.ing
+hdmovin2.irish
 hdmovit2.com
 hdmoviz2.xyz
 hdo.app
@@ -7395,6 +7403,7 @@ megakino3.org
 megakino3.to
 megakino4.com
 megakino4.org
+megakino4.to
 megakinox.top
 megamanmaker.com
 megamodapk.com
@@ -11474,6 +11483,7 @@ uhdmovies.net
 uhdmovies.online
 uhdmovies.pink
 uhdmovies.rip
+uhdmovies.rodeo
 uhdmovies.shop
 uhdmovies.skin
 uhdmovies.store
@@ -11665,6 +11675,7 @@ vedek.pro
 vediq.fun
 veev.to
 veevcdn.co
+vegamoveis.guru
 vegamovies.ad
 vegamovies.ae
 vegamovies.agency
@@ -11706,6 +11717,7 @@ vegamovies.cv
 vegamovies.dad
 vegamovies.dating
 vegamovies.degree
+vegamovies.diamonds
 vegamovies.directory
 vegamovies.diy
 vegamovies.dog
@@ -11840,6 +11852,8 @@ vegamovies.zip
 vegamovies6.com
 vegamoviesa.diy
 vegamoviesog.site
+vegamovis.club
+vegamovles.bond
 vegamovles.com
 vegamovles.pics
 veidtr.com

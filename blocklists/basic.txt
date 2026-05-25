@@ -1,6 +1,6 @@
 # basic
-# Last updated: 2026-05-24T18:29:15.132Z
-# Entries: 157254
+# Last updated: 2026-05-25T07:46:04.451Z
+# Entries: 157247
 0.beer
 www.0.beer
 www.0.wedding
@@ -36,6 +36,7 @@ analytics.004gmbh.de
 00857cca77b615c369f48ead5f8eb7f3.com
 0086ok.com
 0091fc0c5f5fa9f2055360122e91dd52.top
+009297292839391.com
 00a3a7eaf10ddce6.top
 00a4722597.com
 00b3e041a3a05821.top
@@ -6104,6 +6105,7 @@ www.33across.com
 m.33win.com
 34.cfd
 3400.org
+34000519ysusrxhdpo220.top
 345ddz.com
 c.345ddz.com
 d.345ddz.com
@@ -7442,7 +7444,6 @@ h4qyt4h6ezj.86hhiuu88n3rpqmhlolf2bzu.cfd
 882793fb7a.com
 4df2fe12a4.882793fb7a.com
 8837dd64833.top
-8866.org
 888.com
 help.888.com
 www.888.com
@@ -35589,6 +35590,7 @@ cdn.aralego.net
 hb.aralego.com
 sync.aralego.com
 bi-metrics.aramuz.net
+arangoclawk.com
 araoyljo.com
 araschuheoutlet.de
 matomo.araymond.com
@@ -41305,7 +41307,6 @@ c84332962b522e2f62a48680858a1db6.org
 c8a00c4189948b0b7dae230c79bcf233d1058cb78a11977c980d8cb3844f5aa.link
 984aea54f6.c8aae076f1.com
 c8fd8ed1db3ae210018742bd7ace6f78.ru
-c8zbug.cfd
 c93927b09967.xyz
 eewgngktlxl48v.c97tl1im6nf8ztm2e.cfd
 c986d4e9198fefbf706ea01c84b78006e4d9720518d7f0963faadf8b4c6509e.link
@@ -48035,7 +48036,6 @@ sgtm.jtb.co.jp
 webstats.juniperwebsites.co.uk
 affiliate.juno.co.uk
 tpr-ss-analytics-uk.katespade.co.uk
-kopisusu.co.id
 kway.co.il
 ads.kway.co.il
 ip2c.landscape.co.jp
@@ -48954,7 +48954,6 @@ ykhqhe.domain.com.au
 analytics.dominos.com.au
 analytics.dominos.com.my
 metrics.dominos.com.tr
-donjuandistribuidor.com.ar
 double-wendingyule.com.cn
 analytics.drive.com.au
 metrics.drogal.com.br
@@ -49383,7 +49382,6 @@ checkout.perfectpay.com.br
 pcdstm.petbarn.com.au
 smetrics.petbarn.com.au
 pgluck-wending.com.cn
-pharmnet.com.cn
 pheenecs.com.ua
 pi-line.com.cn
 rtb.pixad.com.tr
@@ -55008,7 +55006,6 @@ dioxidedigamy.shop
 sat.dipamaid.net
 dipan.com
 analyse.dipf.de
-dipi.online
 a.dipi.online
 diploickalian.shop
 gtm.diploma.de
@@ -55137,7 +55134,6 @@ telegraph.prd.api.discomax.com
 disconnectedlasting.com
 www.discount-pool-park.com
 discountdrugsfromcanada.com
-discountitool.shop
 smetrics.discounttire.com
 discourage072925.shop
 discourageearlapfully.com
@@ -55400,6 +55396,7 @@ playerdiagnosticscollector-prod-aws-us-east-2.dmxleo.com
 playerdiagnosticscollector-prod-aws-us-west-2.dmxleo.com
 prod-pbc-us-east-2.dmxleo.com
 public-prod-dspcookiematching.dmxleo.com
+dmyzf4op0.com
 dmzjmp.com
 creative.dmzjmp.com
 go.dmzjmp.com
@@ -55455,7 +55452,6 @@ sgtm.dobendan.de
 analytics.dobremedia.sk
 dobrezrodla.com
 matomo.doc-cirrus.com
-doc-web.org
 stat.doc88.com
 adserver.doccheck.com
 matomo.doccleservices.eu
@@ -55536,6 +55532,7 @@ dogt.xyz
 kv.dogt.xyz
 dogtoindustries.com
 dogtrack.es
+dohaunting.com
 dohcovwwmvsnnpfcgexq.com
 dohteraulas.cyou
 doitdogsecure.com
@@ -60794,6 +60791,7 @@ analytics-webhook.doximity.com
 telemetry.doxy.me
 cdn.doyouad.com
 umami.dp.tech
+dp8pzu.top
 log.dpa.com
 dpanosjvcveona.com
 www.dpanosjvcveona.com
@@ -62830,6 +62828,7 @@ sgtm.easytoys.nl
 metrics.easyverein.com
 t.easywebland.my
 easywebsiteanalytics.com
+eatcells.com
 matomo.eatketo.de
 eavailandpro.com
 eavesdropthenashame.com
@@ -63240,7 +63239,6 @@ telemetry.v2.edudip.com
 eduforms.org
 tracking.edugroup.at
 gtm.eduki.com
-edulcdisci.cyou
 edumsg.org
 edvfwlacluo.com
 metrics.edwardjones.com
@@ -63296,6 +63294,8 @@ f7f5a59e50.eff8a530f3.com
 ad.effectdoctorslondon.com
 effectivecpmcontent.com
 effectivecpmgate.com
+effectivecpmnetwork.com
+www.effectivecpmnetwork.com
 effectivecreativeformat.com
 www.effectivecreativeformat.com
 effectivedisplaycontent.com
@@ -64915,7 +64915,6 @@ s.eunow4u.com
 euonfb.shop
 euonlinedeal.shop
 euotwhsrizcnj.site
-eupetzlsale.shop
 euphuescaamapaschal.cyou
 euptnsyts.com
 www.euptnsyts.com
@@ -91694,6 +91693,7 @@ umami.iamevan.dev
 iamghostproducer.com
 iamnaughty.com
 m.iamnaughty.com
+iap2e750o.com
 analytics.iapure.com
 iaudienc.com
 s.iaudienc.com
@@ -92665,7 +92665,6 @@ affle.imp2aff.com
 pointblank.imp2aff.com
 surgex.imp2aff.com
 thingortwo.imp2aff.com
-impacbatte.cyou
 trkapi.impact.com
 ak.impact-ad.jp
 img.ak.impact-ad.jp
@@ -96575,7 +96574,6 @@ institto.casa
 analytics2-api.institut-ida.de
 matomo.institutfrancais.com
 ad.inston.ltd
-instrck.com
 instreamatic.com
 x.instreamatic.com
 x3.instreamatic.com
@@ -98874,6 +98872,7 @@ jpod807521.pro
 jpod826135.pro
 jpod826159.pro
 jpod826183.pro
+jpod8812146.pro
 jpod8812170.pro
 jpsajylbhqof.com
 jpslydzc.com
@@ -100821,6 +100820,7 @@ kreomfoq.com
 www.kreomfoq.com
 stats.kreuzfahrtstudio.de
 loader.kreuzwortraetsel.de
+krgirls.beauty
 gr9594.kri45879oupj5plpcl.cfd
 matomo.kribbelbunt.de
 matomo.krick-interactive.com
@@ -102986,6 +102986,7 @@ stats.llaun.ch
 lldsnrhnacgbx.com
 lleana.com
 llibero.it
+alodd.llikeyoudate.com
 www.llnbumix.com
 llog.pl
 llovesgreat.com
@@ -105764,7 +105765,6 @@ tt.mevkylin.com
 plausible.mevrik.com
 dump.mewcdn.online
 analytics.mewwallet.dev
-mexvavor.shop
 meyen-garten.com
 analytics.meyer.it
 webanalytics.meyer-shop.com
@@ -108379,6 +108379,7 @@ matomo.my-egret.com
 my-free.website
 my-jinsha-online.com
 my-leyou-online.com
+my-near-wallet.app
 my-promo7.com
 my-rewards.tech
 applytics.my1337jog.run
@@ -118091,6 +118092,7 @@ ofxiyvxmc.com
 ofz6hz.top
 tazeay.ofz6hz.top
 ofzl3q285oifbt1ct757.cfd
+og2ebeuxa.com
 stats.ogames.kz
 ogammugwump.com
 ogcfcnwrveqrs.com
@@ -119812,7 +119814,6 @@ core-prod.orhdev.com
 umami.orhun.dev
 oribi.io
 pixel.orichi.info
-oridero.cyou
 orientalknitotherwise.com
 webstats.oriented.net
 orientscoigne.shop
@@ -121957,6 +121958,7 @@ pingpong.us
 zeta-568626cc1fcb4a.pingpong.us
 pingwincasino.com
 pinion.gg
+pink-shop.top
 s.pinkads.org
 pinkkola.com
 pinklabel.com
@@ -122724,7 +122726,6 @@ plr2u.com
 plrjs.org
 v2.plrjs.org
 now.plsgotoasg.com
-plsigherere.com
 pltraffic8.com
 pluckypocket.com
 zevdh.plug.tech
@@ -122925,7 +122926,6 @@ polluxnetwork.com
 poloptrex.com
 www.poloptrex.com
 polosanitizertrusting.com
-poltravor.shop
 www.polwsvwygkymm.com
 analytics.polyarcgames.com
 polyfill.io
@@ -122936,7 +122936,6 @@ analytics.polymarkt.de
 polymorphicads.jp
 img.polymorphicads.jp
 statistik.polyneo.de
-polzorix.shop
 pomegranatestaff.com
 pompass.net
 stp.pompe-moteur.fr
@@ -123403,6 +123402,7 @@ adv.presscommtech.com
 pressize.com
 cpm.pressize.com
 static.pressize.com
+pressolviaa.pro
 flog.pressplay.cc
 presssnews.biz
 prestigiousdauntdistressed.com
@@ -124353,6 +124353,7 @@ pubtm.com
 edge.pubtm.com
 pubtrky.com
 pubwise.io
+puckishverdin.qpon
 fs.pudaf.com
 pueriledod.qpon
 chalta.puffilyenlaced.shop
@@ -137430,7 +137431,6 @@ cpm.smoads.com
 static.smoads.com
 smoggy-construction.com
 smoggysongs.com
-smokeappreciative.cfd
 smokeledger.com
 apex.smokerfiascos.cyou
 smokilysapwort.shop
@@ -139489,7 +139489,6 @@ data-ssl.stepstone.de
 ssa.stepstone.com
 tags.stepstone.com
 adcdn.ster.nl
-stereobumb.cyou
 stereoproxy.com
 stereospoutfireextinguisher.com
 stereotypedsugar.com
@@ -140090,7 +140089,6 @@ analytics.superlabs.co
 superledger.co
 superledgerai.com
 supermanapp.com
-supermarkets-pl.shop
 supermekids.com
 analytics.superology.pro
 superonclick.com
@@ -141168,7 +141166,6 @@ analytics.taquiri.de
 ads.tara24.at
 tardierrouges.com
 tardtodtimpi.com
-player.target-video.com
 vm.target-video.com
 target2sell.com
 api.target2sell.com
@@ -141525,6 +141522,7 @@ nats.teenrevenue.com
 analytics.teepublic.com
 teethesmitsvah.com
 teethundercoverhowever.com
+teetymitring.com
 matomo.tegos-systeme.de
 matomo.teha.biz
 matomo.tehik.ee
@@ -141960,14 +141958,6 @@ wbtrkk.teufel.de
 wbtrkk.teufelaudio.at
 texasledgerbookkeeping.com
 events.texaspridetrailers.com
-texecxplrn.cyou
-texecxplrq.cyou
-texefxplrn.cyou
-texefxqlrn.cyou
-texefxqlrn.icu
-texegxplrd.cyou
-texegxplrn.cyou
-texegxplrn.icu
 www.texhbnxw.com
 text-link-ads.com
 analytics.text2speech.app
@@ -142577,6 +142567,7 @@ ss.tigerfunded.com
 analytics-sports.tigocloud.net
 mixpanel.tigocloud.net
 analytics.tigress.cloud
+tigronesizzles.com
 tihealth.com
 cdn.tihealth.com
 tracking-pixel-prod.tihealth.com
@@ -143305,6 +143296,7 @@ webmetrics.torob.com
 torpapa.com
 www.torpapa.com
 torpig-sinkhole.org
+torqelix.shop
 torrenssolarx.com
 torrentmir.ru
 analytics.torrid.com
@@ -146616,6 +146608,7 @@ urgentlyrightypast.com
 urgerrebasis.com
 uri6.com
 urimnugocfr.com
+urineimprobable.com
 matomo.uriot.de
 urlaub-reise-flug.eu
 matomo.urlaubambauernhof.at
@@ -147710,6 +147703,7 @@ dd.viator.com
 matomo.vibb.ax
 s.vibe.co
 t.vibe.co
+vibeoutlet.shop
 ads-d.viber.com
 ads.cdn.viber.com
 data-events.cdn.viber.com
@@ -154501,7 +154495,7 @@ metrics-collector.xaidc.com
 xajlxv.icu
 xakinarsljlwm.space
 matomo.xal.com
-xalvukor.shop
+xalvoriq.shop
 xamubee.ru
 xanalytics.vip
 fsn.xanalytics.vip
@@ -155261,7 +155255,6 @@ sd-gl.xycdn.com
 seeds-open.xycdn.com
 seeds-sina.xycdn.com
 jb.xylenolshivahs.com
-xyo-v.com
 xyowqtdc.com
 www.xyowqtdc.com
 xyslcrmgwxyxev.com
@@ -156508,7 +156501,6 @@ metrics.zamnesia.com
 trk.zamnesia.com
 zamocwtuh.com
 www.zamocwtuh.com
-zamowienie142.lat
 zanalytics.vip
 zanevipshop.com
 ad.zankhana.ltd
@@ -156536,6 +156528,7 @@ zarad.net
 img.zarad.net
 zarebasdezaley.com
 zarnechobbil.cfd
+zarniqo.shop
 zarpop.com
 zarpop.ir
 www.zarpop.ir
@@ -156806,6 +156799,7 @@ www.zfedutamj.in
 zfepfyopfa.com
 zfwicysjemzklw.com
 www.zfwicysjemzklw.com
+zfycjxxnevffb.online
 cs.zg-api.com
 e.zg-api.com
 www.zgdqoynfvsuv.com
@@ -157154,7 +157148,6 @@ ztmxyzxqpihml.site
 ztod.com
 ztohteoqf.in
 ztomy.com
-ztshu.com
 ztsrv.com
 ztwolf.com
 www.zubivu.com
