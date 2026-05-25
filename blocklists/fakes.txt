@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-25T07:46:06.126Z
-# Entries: 15671
+# Last updated: 2026-05-25T18:41:06.371Z
+# Entries: 15689
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -669,6 +669,7 @@ ger.zoibakii.com
 3beauty-gym.com
 3d-printing.store
 3racingparts.com
+3sixteenonline.org
 4803967.info
 4rxofficial.com
 52magicdownload.com
@@ -686,6 +687,7 @@ ger.zoibakii.com
 7dealdays.de
 7econds.com
 7k9lod.com
+7tup-shop.com
 81ex.com
 85-bktrade.com
 8lots.com
@@ -2789,6 +2791,7 @@ candybeautyproducts.com
 candykeysangebotes.com
 canillogermany.com
 canmidy.com
+cannibeauty.shop
 canoefans.com
 cantheme.com
 cantinadautoress.com
@@ -3265,6 +3268,7 @@ controllerkunst.com
 convergek.com
 converse-finland.com
 converseshoesmalaysia.com
+convertmitiondocmentinsationonlinevralidsion.org
 convertquick.net
 convita-apotheke.de
 conymonika.de
@@ -3714,6 +3718,7 @@ deinenergieplan.de
 deinetierliebe.de
 deinhandwerkershop.de
 deinheizoel.de
+deini.com
 deinliebesmensch.de
 deinlieblingstier.co
 deinmodetrends.com
@@ -4097,6 +4102,7 @@ dressnik.com
 dressshirtsblouses.com
 dresswithsoul.com
 drezia.com
+drgglobalbeauty.shop
 drgillmaier.de
 drheimer.com
 drink-horizon.com
@@ -4247,6 +4253,7 @@ ebikesgeschaft.com
 ebiketeilekauf.com
 ebiketeileverkaufe.com
 ebikezubehoer.com
+ebonylinebeauty.shop
 ebooklyn.net
 eburpat.com
 echers.com
@@ -5050,6 +5057,7 @@ felgenprada.de
 felgenwelt.com
 felino-sport.de
 felira.de
+felsquellgarten.de
 feltbicycleshop.com
 female-house.com
 fembeck-finanzen.de
@@ -5892,6 +5900,7 @@ get4u.eu
 getalliny.com
 getanswers.net
 geteasygroup.com
+getebikeshop.shop
 getecodriver.com
 getecomac.com
 getecotex.com
@@ -5996,6 +6005,7 @@ glasermodehaus.de
 glassesde.com
 glassesify.com
 glassesstoreshop.com
+glassybabyofficial.shop
 glaswarenrabatt.com
 glb-finance.com
 gleane.de
@@ -6177,7 +6187,6 @@ grazmodehaus.at
 great-market.com
 greatescapery.com
 greatestpod.com
-greatpillsshops.com
 greattioa.com
 greecefarmakeio.com
 greenbird-shop.com
@@ -6503,7 +6512,6 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
-haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -6532,7 +6540,6 @@ healthcarebanker.com
 healthful-pills.com
 healthlifereport.com
 healthonlineshop24.com
-healthpillsonline.com
 healthroutine.com
 healththrivewith.com
 healthybear.io
@@ -6851,6 +6858,7 @@ hirobikegmbh.de
 hirsefeltshop.com
 hisensepower.shop
 hitech-shop.com
+hitenergysolar.online
 hithertoh.com
 hiwered.com
 hiziel.de
@@ -8041,7 +8049,6 @@ kithery.com
 kitomagazine.com
 kitsolairerabais.com
 kittinis.de
-kiwidrug.com
 kiwifunk.com
 kizaro.de
 kizwnbbm.shop
@@ -8375,6 +8382,7 @@ lauradiva.de
 lauradiva.shop
 lauramunchen.com
 lautenberg-mode.de
+lautisbikeshop.de
 lautsprechersale.com
 lavacucina.com
 lavendersshop.com
@@ -10577,6 +10585,7 @@ online-apotek.no
 online-apotheke-westbevern.de
 online-arbeit.com
 online-betrugs-hilfe.de
+online-casino-ohne-lizenz.de
 online-closed-gmbh.top
 online-dealse.shop
 online-douyin.com
@@ -10675,6 +10684,7 @@ oofos--canada.com
 oofos-sandals.net
 oofossingaporestore.com
 oolongtime.com
+oopbuyshop.de
 opabitcoin.com
 opcte.com
 openwatershop.de
@@ -11156,6 +11166,7 @@ physicisti.com
 phytrix1.com
 pianidicotturascontato.com
 pibok.de
+piccu.org
 pickleballoffer.com
 pickledfoodonline.com
 picom-nfz.de
@@ -12354,6 +12365,7 @@ scharfemesser.de
 scharfeprofession.com
 schaugarten-hamilton.at
 sche.de
+scheller-lanz-ersatzteile.de
 schellkredit.com
 scherenrabatt.com
 schickercamping.com
@@ -12672,6 +12684,7 @@ shoplostfounde.shop
 shopluckyduckclub.com
 shoplunerose.com
 shopluviva.de
+shoplyo-deal.site
 shoplyt.store
 shopmacher-de.com
 shopmaincharacterpress.com
@@ -12957,6 +12970,7 @@ solar4uhouston.online
 solara-financelimited.com
 solara-finltd.net
 solara-tech-groupe.com
+solaragentuk.online
 solaranlage-lausitz.de
 solarasys.com
 solarbundesliga.at
@@ -14851,6 +14865,7 @@ vivabikes.de
 vivagopro.com
 vivaia-schuhe.de
 vivaiabuty.pl
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -14929,6 +14944,7 @@ voroda.de
 voroly.de
 vorsorge-karte.com
 vortehair.de
+vortexashop.net
 vorwerk-com.de
 vorwerk-de.com
 vorwerk-deutschland.de
@@ -14976,6 +14992,7 @@ wagner-mode.com
 wagnerzurich.ch
 wahlstern.de
 wahrekatzenliebe.com
+wakato-online.net
 wakesportsshop.com
 waldgewandt.de
 waldorfmode.com
@@ -15379,6 +15396,7 @@ wwllan.com
 wwmode.de
 wwwhamsterkiste.de
 wynnvest.com
+wyrmkinsolar.shop
 x-clarity.com
 x-wallart.com
 x-watches.co
