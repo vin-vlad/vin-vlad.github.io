@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-25T18:41:06.616Z
-# Entries: 12788
+# Last updated: 2026-05-26T07:23:16.494Z
+# Entries: 12790
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -3897,6 +3897,7 @@ dizipal1543.com
 dizipal1544.com
 dizipal1550.com
 dizipal1553.com
+dizipal1554.com
 dizipal1936.com
 dizipal2062.com
 dizipal2063.com
@@ -11018,6 +11019,7 @@ toorgle.com
 top-flix.homes
 top-serie.org
 top123movies.com
+top123movies.xyz
 topanalyse.org
 topbytes.net
 topcartoons.tv

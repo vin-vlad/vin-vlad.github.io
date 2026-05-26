@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-25T18:41:06.371Z
-# Entries: 15689
+# Last updated: 2026-05-26T07:23:16.394Z
+# Entries: 15690
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -6512,6 +6512,7 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
+haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
