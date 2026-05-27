@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-27T07:37:08.826Z
-# Entries: 15706
+# Last updated: 2026-05-27T18:55:04.354Z
+# Entries: 15734
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -201,6 +201,7 @@ handschellen.deveri.de
 mpso.deveri.de
 shop.deveri.de
 cfd.diamond-tradeltd.com
+portal.digital-dgigmbh.de
 adl.dimelux.top
 shop.drcherylkam.com
 eu.drmartensr.com
@@ -253,6 +254,7 @@ fr.grandcapital.net
 www.quantum.groupe.com
 account.gruppesoumerax.com
 de.gvgmall.com
+adl.gwrxbt.shop
 rzycucbupk.gyhjjifm.beauty
 regina-hotel-vienna.h-rez.com
 ruckgabe.heidi-mode.de
@@ -602,6 +604,7 @@ shop.xotufh.top
 fr.xpoken.com
 de.xynapay.com
 store.yeelight.com
+store.yorlanda.com
 life.yuomyt.com
 wwujiao2w.x.yupoo.com
 lux-clubx.za.com
@@ -1047,6 +1050,7 @@ alpenapothekebgl.de
 alpenfluss.at
 alpenlinie.at
 alpennord.de
+alpenpellets.pro
 alpenrose-mode.com
 alpenwien.com
 alpenwolken.de
@@ -2756,6 +2760,7 @@ camping-bewegung.com
 camping-de.com
 campingandsurf.com
 campingangebote-de.com
+campingdebarf.com
 campingkuche.de
 campinglagern.com
 campingmarkise.com
@@ -2849,6 +2854,7 @@ carnaconlineworld.com
 carni-shop.com
 carolinebeck.org
 carolyndozier.com
+carpartlabflow.com
 carportsonshop.com
 carqiwireless.com
 carriageglobal.com
@@ -3777,6 +3783,7 @@ demoniaromania.com
 demoniashoesnorge.com
 demoniastiefel.de
 demoniasuomi.com
+demontagedesgetriebes.com
 den-home.com
 denaturkosmetik.com
 dennisbecker-ra.de
@@ -4466,6 +4473,7 @@ elitepie.com
 elitesafetrading.com
 elitesneakers.store
 elitestayzio2u.com
+elitetcgglobalsupply.com
 elkhartrvparts.shop
 ellabelle.de
 ellada-farmakeio.com
@@ -4608,6 +4616,7 @@ ergobackpacks.com
 erinnersegel.com
 erjteroerp.xyz
 erleseneweine24.com
+ermatransport.com
 ernstshop.com
 eroadstore.com
 erotikbedarffachhandel.com
@@ -4632,6 +4641,7 @@ eshop-univers.de
 eshopkamagra.sk
 esn-eu.com
 esn-fitness.com
+esneuroutlet.com
 esotecs.com
 espacedblc.com
 espaceverts.com
@@ -6020,6 +6030,7 @@ glb-finance.com
 gleane.de
 gleisslutz-deutschland.de
 glenfordcap.com
+glenkbaustoffe.com
 gletta.com
 glindo.de
 globalcim.com
@@ -6309,6 +6320,7 @@ gundipellet.at
 gundipellet.com
 gunstigeskaufhaus.com
 guru4invest.com
+gurudehub.com
 gut-daheim.ch
 gut-werkzeug.com
 guteapotheke.org
@@ -7395,6 +7407,7 @@ insightberichte.de
 insightfulyou.net
 insolesgeeks.com
 insolvenz-veit.de
+insolvenz-verkauf.net
 inspectiony.com
 inspirelf.com
 insta-trading.com
@@ -7696,6 +7709,7 @@ juma-finanzen.de
 jumaartshop.de
 junaberlin.de
 junctionh.com
+jungbauermodellbau.de
 junge-dailyshop.com
 jungle-shoes.com
 jungleknnt.de
@@ -8208,6 +8222,7 @@ kreditfuralle.com
 kredithaus24.eu
 kreditwizard.com
 kremer-mode.de
+kremmling-moebel.com
 kriddoshop.com
 krimisthriller.com
 kristall-klares.de
@@ -9029,6 +9044,7 @@ malojarabatt.com
 malpaso-bikes.de
 malschule-wetzlar.de
 maltanewstime.com
+maltua.shop
 malzkaffee.de
 mambojamboaruba.com
 mammabump.de
@@ -10307,6 +10323,7 @@ nova-eu.com
 nova-finance.net
 nova-lekarna.com
 nova-mia.de
+nova-versand.de
 nova-zurich.com
 novadeal.de
 novafinanz.de
@@ -10533,6 +10550,7 @@ oldcrow.net
 oldestteabrand.com
 oldmoneylondon.com
 oldvillagepresale.com
+ole-handel.de
 oliver-schwarzer-shop.de
 olivercabelldeutschland.de
 olivespielzeug.com
@@ -10717,6 +10735,7 @@ optimalattire.com
 optimaltackle.com
 optimarkets.com
 optimia.top
+optimumnutritionosterreich.at
 optinomic.co
 option-bank.com
 optionbanking.com
@@ -11011,6 +11030,7 @@ pd99.cc
 pdfadm.shop
 pdfgo.co
 pdfmaster.app
+pdkosmetik.de
 peachbruh.com
 peachossom.com
 peachyxchic.co
@@ -12447,6 +12467,7 @@ schuhebaer.com
 schuhegiesswein.com
 schuhegunstignice.de
 schuhehoka.de
+schuhescarpa.com
 schuheverkauf-de.com
 schuhewienshoponline.com
 schuhhaus-greten.de
@@ -12552,6 +12573,7 @@ senvix.fr
 senzza.de
 separaten.com
 sepgoal.com
+sepkicks.com
 seprun.com
 serendiplty.com
 sereneify.com
@@ -12577,6 +12599,7 @@ sevatrix.com
 sevenfiguresolar.com
 seveninter.com
 seventeenk.com
+sexicats.com
 sexpuppenkaufen.at
 seyjoy.shop
 seylab.shop
@@ -12909,6 +12932,7 @@ smartlightingshop.com
 smartmarket26.com
 smartpills.io
 smartplantivy.com
+smartsolve.ai
 smartsteamershop.com
 smartundgeizig.de
 smartwaerme.com
@@ -14279,6 +14303,7 @@ triptistore.de
 triton-online.com
 tritoncapitalmarkets.com
 trivanode.com
+trivio-handel.de
 trivona.de
 trixupmysleeve.com
 trockenesholz.de
@@ -14791,6 +14816,7 @@ videospiel-markt.de
 vider.fun
 vidiofy.co
 vidmason.com
+vielfaltdepot.com
 vienessa.com
 vienna-modehaus.at
 vienna-stil.at
@@ -15238,6 +15264,7 @@ whereverk.com
 whiskertails.com
 whisky-prestige.com
 whiskybests.com
+whiskyrabatt.com
 whiskysorten.com
 whiteacehealthcare.uk
 whiteboxgarten.com
@@ -15332,6 +15359,7 @@ wolant.com
 wolf-juergen.de
 wolffashion.de
 wolffashiondeutschland.com
+wolfgangcontainers.de
 wolfmode.de
 wolke-hundebett.de
 wolkenfreund.de
