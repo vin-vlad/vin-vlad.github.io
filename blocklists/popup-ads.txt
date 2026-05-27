@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-05-26T18:55:19.028Z
-# Entries: 50260
+# Last updated: 2026-05-27T07:37:08.952Z
+# Entries: 50279
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -455,6 +455,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1911,6 +1914,21 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
+app-google-zh.hl.cn
+cnzh-google-apps.hl.cn
+go-todesk.hl.cn
+googgle-chrrome.hl.cn
+google-chrrome-zh.hl.cn
+google-google-chrome-google-com.hl.cn
+line-go.hl.cn
+office-wps-hl.hl.cn
+qh-qishuiyinyue.hl.cn
+qishuimusic-cn.hl.cn
+qishuiyinyue-music.hl.cn
+todesk-web.hl.cn
+todesk-zh.hl.cn
+zh-todesk-cn.hl.cn
+zhcn-googele.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2177,6 +2195,8 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
+lc.krgirls.beauty
+me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -7426,7 +7446,6 @@ businesslnstagram.zya.me
 1wzwbc.top
 1x001.com
 1x1x4.com
-1x1x5.com
 1x1x7.com
 1x1x9.com
 1xbeat.com
@@ -13067,7 +13086,6 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -20355,6 +20373,7 @@ duringherenurew.com
 duros.lol
 dusioknopper.com
 duskedaruac.com
+duskwander.com
 dustersaying.com
 dustexhibition.com
 dustinga.com
@@ -26293,7 +26312,6 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -29698,7 +29716,6 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
-krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
@@ -34887,6 +34904,7 @@ oepahvkqvihnh.space
 oerxzdstepphr.store
 oesterholm.com
 oestpq.com
+oestrumbaure.shop
 oestrumbogging.shop
 oeswosbird.top
 oeu3it2m.xyz
@@ -46250,6 +46268,7 @@ unwittingbag.pro
 unwomanallude.com
 unworthysoundsinsinuate.com
 unwrapsbunkum.com
+unwrapsstow.cyou
 unwritmirific.com
 unwritten-cash.com
 unwritten-indication.pro
