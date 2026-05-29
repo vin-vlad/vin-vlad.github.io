@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-05-28T19:00:11.809Z
-# Entries: 50287
+# Last updated: 2026-05-29T07:31:02.216Z
+# Entries: 50256
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -455,9 +455,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -937,7 +934,6 @@ aisi-zhi.com.cn
 aisiapp.com.cn
 allywll.com.cn
 andertonindustries.com.cn
-apps-wps-offce.com.cn
 artistrylab.com.cn
 as-i4.com.cn
 australissystems.com.au
@@ -1914,21 +1910,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-cnzh-google-apps.hl.cn
-go-todesk.hl.cn
-googgle-chrrome.hl.cn
-google-chrrome-zh.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-office-wps-hl.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-qishuiyinyue-music.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
-zhcn-googele.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2195,8 +2176,6 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -2755,7 +2734,6 @@ kmspicofficial.pages.dev
 lookblock.pages.dev
 mail-cytanet.pages.dev
 miles-plume-network.pages.dev
-officialgithubweb3.pages.dev
 pepecoinsuper-airdrop.pages.dev
 pink-sale.pages.dev
 pink-sales.pages.dev
@@ -9086,7 +9064,6 @@ a-ads.com
 a-mo.net
 a-mx.com
 a-new86.com
-a-ro-ma.com
 a-static.com
 a-tok.com
 a00s.net
@@ -9359,7 +9336,6 @@ acacdn.com
 acaciafilterfrantically.com
 academic-newspaper.pro
 academicexperimental.com
-academicsingles.jp
 academyblocked.com
 acam-2.com
 acanthishoving.com
@@ -10585,7 +10561,6 @@ afrikad.com
 afront.io
 after-7.net
 after-noon.jp
-after-pop-abc.com
 afterdark0725.click
 afterdownload.com
 afterdownloads.com
@@ -13085,6 +13060,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -14035,6 +14011,7 @@ blinkedlanentablelanentableunavailable.com
 blinkflows.com
 blinkjork.com
 blinkogold.ru
+blinkpledgeancient.com
 blinksbobblepadding.com
 blinktowel.com
 bliqjhstabiqd.space
@@ -21163,7 +21140,6 @@ encasehighlight.com
 enchantbackfire.com
 enchanted-idea.com
 enchanted-issue.pro
-enchantedfruit.com
 enchantedskyline.com
 enchantedtelevision.pro
 enchanting-university.pro
@@ -26314,6 +26290,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -28084,7 +28061,6 @@ irhsymtcvduze.website
 iridescentdusk.com
 iridia.me
 irie3.net
-iris-making.com
 irishriverhouse.com
 irj2vs6p.xyz
 irksomegrateindustrious.com
@@ -29553,7 +29529,6 @@ kncecafvdeu.info
 kncecafvdeu.org
 kneadourselves.com
 kneeansweras.com
-kneelmodernism.com
 kneesgasolinetook.com
 kneesstrictforthcoming.com
 kneltopeningfit.com
@@ -29718,6 +29693,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
@@ -30793,7 +30769,6 @@ llxqcrbjflbop.online
 llyighaboveth.com
 llykjmzkqvvqy.top
 llzlbnvv.work
-lm-mousey-happy.com
 lmaarwdqraeak.online
 lmacau303.biz
 lmalyjyojjvjm.top
@@ -41770,7 +41745,6 @@ simplemission.pro
 simplemoneylyfe.com
 simplereservationpickup.com
 simplestar.com
-simpleswap.at
 simpleswap.ltd
 simpleswap.to
 simpleswap-io.at
@@ -42464,7 +42438,6 @@ sotomistel.com
 soughstreek.com
 soughtnicefoe.com
 sougoapha.com
-sougoucom.cn
 soul-of-compass.com
 soulereserve.com
 soulful-contact.com
@@ -42572,7 +42545,6 @@ spectkuchean.com
 speeb.com
 speechcleopatraadmiral.com
 speededwhiners.shop
-speeds5-mmiliked.com
 speedtestnow.site
 speedyfailure.com
 speedyswim.com
@@ -44839,7 +44811,6 @@ tootsykyklops.com
 toourmarketingef.com
 toourmarketingef.org
 top-best.com
-top-official-app.com
 top-performance.work
 top10canadabet.com
 topadbid.com
@@ -46998,7 +46969,6 @@ viettelgroup.com
 vieva.xyz
 viewablemedia.net
 viewclc.com
-viewer-howdy.com
 viewlnk.com
 viewpath.xyz
 viewplus.vn
@@ -48294,7 +48264,6 @@ wixnm.com
 wixstats.com
 wizardsbd.com
 wizardunstablecommissioner.com
-wizensbuphaga.sh
 wizesisidore.top
 wizmojo.com
 wjbcr.com
