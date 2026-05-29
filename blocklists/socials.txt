@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-05-29T07:31:02.529Z
-# Entries: 889
+# Last updated: 2026-05-29T18:59:58.599Z
+# Entries: 890
 2ch.org
 4cdn.org
 4chan.org
@@ -105,6 +105,7 @@ douyinvod.com
 draftjs.org
 dtf.ru
 dzen.ru
+eksisozluk.com
 expresswifi.com
 f8.com
 faacebok.com
