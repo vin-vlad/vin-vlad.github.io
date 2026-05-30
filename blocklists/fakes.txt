@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-30T07:09:48.479Z
-# Entries: 15821
+# Last updated: 2026-05-30T18:29:55.306Z
+# Entries: 15827
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -488,6 +488,7 @@ de.puppylove.com
 fr.puprime.net
 at.qfmiceden.shop
 weichrn.qualitatmv.click
+fatfax.ratewell.shop
 at.rattaay.com
 presale-amswallet.replit.app
 trade.republicgestion.cc
@@ -951,6 +952,7 @@ alessandrozavettijas.com
 alessandrozavettiweste.de
 alessoria.de
 alex-deals.com
+alexitemsdemir.shop
 alfa-aesar.fr
 alfakherstore.de
 alfcasino1.com
@@ -1353,6 +1355,7 @@ aquagenie-installationen.com
 aquamarinashopde.com
 aquarienbedarf.com
 aquarisonlineshop.de
+aquaristikteichstore.com
 aquariumopt.com
 aquariumzubehor24.com
 aquascapers-galerie.com
@@ -4262,6 +4265,7 @@ earlynoon.com
 earnavioat.works
 earringtset.com
 eartischleuchten.com
+easeviro.com
 easies.de
 east-tek.com
 eastcapitalmarkets.com
@@ -4386,6 +4390,7 @@ einfach-oel.com
 einfacherkredit.com
 einfachknorke.de
 einfachlagerverwaltung.de
+einfahbacken.de
 eintrachtfrankfurttrikots.de
 einzigartigehaustiere.com
 einzigartigetaschen.com
@@ -5805,6 +5810,7 @@ gawude.shop
 gbgroup.ee
 gbr-office.de
 gbsshopp.com
+gbt.solutions
 gbuynix.com
 gcash-casino-ph.com
 gcitrading.com
@@ -5948,7 +5954,6 @@ get-omnihear.com
 get-purisaki.com
 get-rc.to
 get-teralin.site
-get1stbridge.com
 get4u.eu
 getalliny.com
 getanswers.net
@@ -10340,7 +10345,6 @@ nordikb.com
 nordoil.de
 nordoutlets.com
 nordspur.de
-nordstate.org
 nordvian.com
 norfolkhotels24.com
 norge-apt.com
@@ -10794,7 +10798,6 @@ opongo.shop
 oppermann-versand.de
 oppositen.com
 opt-toysbase.com
-opte-grup.com
 optessentialoils.com
 optimalattire.com
 optimaltackle.com
@@ -10954,6 +10957,7 @@ outlethikingtentde.com
 outletjoma.com
 outletlivingstore.com
 outletnewin.com
+outletpc.de
 outletpickleball.com
 outletrevel.com
 outletsadv.com
@@ -12646,6 +12650,7 @@ senvix.fr
 senzza.de
 separaten.com
 sepgoal.com
+sepkicks.com
 seprun.com
 serendiplty.com
 sereneify.com
@@ -14989,6 +14994,7 @@ vivabikes.de
 vivagopro.com
 vivaia-schuhe.de
 vivaiabuty.pl
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
