@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-30T18:29:55.400Z
-# Entries: 21039
+# Last updated: 2026-05-31T07:27:18.956Z
+# Entries: 21036
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -2661,6 +2661,8 @@ apkpanda.com
 apkpapi.com
 apkprime.org
 apkpromaster.com
+apkpure.com
+apkpure.net
 apkremix.com
 apkshub.com
 apksim.com
@@ -7442,7 +7444,6 @@ hdmovie2.lt
 hdmovie2.ltd
 hdmovie2.ltda
 hdmovie2.luxury
-hdmovie2.makeup
 hdmovie2.marketing
 hdmovie2.markets
 hdmovie2.media
@@ -11513,7 +11514,6 @@ lordfilmpoz.lat
 lordfilmpp.monster
 lordfilmpqu.vu
 lordfilmpr.monster
-lordfilmprevue.top
 lordfilmpri.lol
 lordfilmprotean.lat
 lordfilmprovide.lol
@@ -11933,7 +11933,6 @@ lordfilmshz.lat
 lordfilmsi.casa
 lordfilmsij.lat
 lordfilmsin.top
-lordfilmsjak4.online
 lordfilmsjd.lat
 lordfilmsjf.lat
 lordfilmsjh.lat
@@ -12749,7 +12748,6 @@ lordfilmy-25.ru
 lordfilmy-novinki26.ru
 lordfilmy-smotret.ru
 lordfilmy23.online
-lordfilmy52.online
 lordfilmyag.life
 lordfilmyam.lol
 lordfilmyaro.icu
@@ -18758,7 +18756,6 @@ torrentek.hu
 torrenteloraelena.com
 torrentembergroup.com
 torrenteresidences.com
-torrentesolena.com
 torrentesx.com
 torrentfactory.com
 torrentfile.net

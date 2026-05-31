@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-05-30T18:29:55.306Z
-# Entries: 15827
+# Last updated: 2026-05-31T07:27:18.878Z
+# Entries: 15826
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -952,7 +952,6 @@ alessandrozavettijas.com
 alessandrozavettiweste.de
 alessoria.de
 alex-deals.com
-alexitemsdemir.shop
 alfa-aesar.fr
 alfakherstore.de
 alfcasino1.com
