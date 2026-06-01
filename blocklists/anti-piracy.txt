@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-05-31T18:31:53.315Z
-# Entries: 21872
+# Last updated: 2026-06-01T07:59:44.598Z
+# Entries: 21863
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -4588,6 +4588,7 @@ diakov.net
 diamondsrooms.com
 diana-salasar-lordfilm.lol
 diavol-nosit-prada-lordfilm.sbs
+dibamoviez.org
 dici-filmi-lordfilm.ru
 dici-filns-lordfilm.ru
 didarit.com
@@ -6441,6 +6442,7 @@ freeky.to
 freeline.ws
 freemediabd.com
 freemovie-sites.net
+freemovies.lol
 freemovies.media
 freemovies360.com
 freemoviesfull.com
@@ -9680,7 +9682,6 @@ lordfilmbkw.lol
 lordfilmbkw.my
 lordfilmbl.monster
 lordfilmbla.lol
-lordfilmblimp.sbs
 lordfilmbll.lat
 lordfilmbll.life
 lordfilmbll.lol
@@ -11197,7 +11198,6 @@ lordfilmjuuhy6.icu
 lordfilmjuv.life
 lordfilmjuy.icu
 lordfilmjvq.lat
-lordfilmjvsb.lat
 lordfilmjvvp.lat
 lordfilmjvy.lol
 lordfilmjvz.lat
@@ -11591,7 +11591,6 @@ lordfilmmn.monster
 lordfilmmnb.lat
 lordfilmmne.lol
 lordfilmmnfbff.icu
-lordfilmmnnn.lat
 lordfilmmoa.lol
 lordfilmmof.life
 lordfilmmoo.icu
@@ -11724,7 +11723,6 @@ lordfilmnkvw.lat
 lordfilmnkw.lol
 lordfilmnkx.buzz
 lordfilmnle.cfd
-lordfilmnlqs.lat
 lordfilmnlr.life
 lordfilmnlr.shop
 lordfilmnm.monster
@@ -11800,7 +11798,6 @@ lordfilmnxz.lat
 lordfilmny.monster
 lordfilmnyb.lat
 lordfilmnyc.cfd
-lordfilmnyle.lat
 lordfilmnyyte4.icu
 lordfilmnzd.life
 lordfilmnzm.live
@@ -12109,7 +12106,6 @@ lordfilmqh.monster
 lordfilmqhf.life
 lordfilmqhi.cfd
 lordfilmqht.bond
-lordfilmqhvq.lat
 lordfilmqhy.icu
 lordfilmqi.monster
 lordfilmqik.cfd
@@ -12319,7 +12315,6 @@ lordfilmrus.help
 lordfilmrus.mom
 lordfilmrus.pics
 lordfilmrus.vu
-lordfilmrutq.lat
 lordfilmruvnn.icu
 lordfilmrux.life
 lordfilmruxa.icu
@@ -12563,7 +12558,6 @@ lordfilmsmart.icu
 lordfilmsmobile.lat
 lordfilmsmp.lat
 lordfilmsmr.lat
-lordfilmsmtq.lat
 lordfilmsn.monster
 lordfilmsnb.lat
 lordfilmsnc.lat
@@ -12798,7 +12792,6 @@ lordfilmtob.lol
 lordfilmtod.live
 lordfilmtog.lol
 lordfilmtokis.icu
-lordfilmtolw.lat
 lordfilmtos.lol
 lordfilmtow.pro
 lordfilmtox.lol
@@ -13304,7 +13297,6 @@ lordfilmwwt.lol
 lordfilmwxb.lat
 lordfilmwxj.lat
 lordfilmwxm.vu
-lordfilmwxof.lat
 lordfilmwxpb.lol
 lordfilmwxr.life
 lordfilmwya.lat
@@ -16013,7 +16005,6 @@ pelisflix1.onl
 pelisflix1.press
 pelisflix1.rest
 pelisflix2.auction
-pelisflix2.cyou
 pelisflix2.email
 pelisflix20.at
 pelisflix20.bio
