@@ -1,5 +1,5 @@
 # basic
-# Last updated: 2026-06-01T19:43:50.801Z
+# Last updated: 2026-06-02T07:49:51.923Z
 # Entries: 144945
 0.beer
 www.0.beer

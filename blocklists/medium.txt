@@ -1,5 +1,5 @@
 # medium
-# Last updated: 2026-06-01T19:43:52.586Z
+# Last updated: 2026-06-02T07:49:52.548Z
 # Entries: 520123
 0.beer
 0.club
