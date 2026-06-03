@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-02T19:23:43.950Z
-# Entries: 22463
+# Last updated: 2026-06-03T07:53:36.960Z
+# Entries: 22457
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -2745,7 +2745,6 @@ arena-tr.com
 arenabg.ch
 arenabg.com
 arenahd.com
-arenascanscomic.com
 argenteam.net
 argentinawarez.com
 argontv.nl
@@ -2798,7 +2797,6 @@ astroddl.com
 astroeggs.com
 astrostress.com
 astrotheque.net
-astrr.ru
 asttrral-lordfilms.ru
 at123movies.com
 at4re.com
@@ -2868,7 +2866,6 @@ avstrallia-lordfilm.ru
 avvatar-lordfilms.ru
 avxhm.se
 awesome-hd.me
-awtdg.site
 awtsport.com
 axxo.me
 axxomovies.org
@@ -3033,7 +3030,6 @@ best-movies.watch
 best-moviez.ws
 best-series.me
 best-soft.net
-best-v1deos-and-m0vies.best
 best123movies.com
 best4stremio.space
 bestdjmix.com
@@ -3283,7 +3279,6 @@ bollyflix.frl
 bollyflix.ist
 bollyflix.miami
 bollyflix.online
-bollyflix.party
 bollyflix.pet
 bollyflix.promo
 bollyflix.pub
@@ -14909,7 +14904,6 @@ motchillc.net
 motchillc.one
 motchillc.onl
 motchillc.xyz
-motchillco.mom
 motchillco.net
 motchillcs.net
 motchilldn.net
