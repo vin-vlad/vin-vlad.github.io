@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-04T07:47:48.061Z
-# Entries: 50018
+# Last updated: 2026-06-04T18:55:34.678Z
+# Entries: 49936
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -424,9 +424,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -882,6 +879,7 @@ andertonindustries.com.cn
 artistrylab.com.cn
 as-i4.com.cn
 australissystems.com.au
+betus.com.pa
 boins.com.cn
 boomcoffee.com.br
 bykj.com.cn
@@ -1528,7 +1526,6 @@ fi.fudgedflaked.com
 pc.fuerterats.com
 mcdonal.fujicandy-balibalione.net
 yv.fulcrumflambee.com
-naunt.fulcrummisfit.shop
 dl.fulgentveinier.com
 tk.fullerybal.com
 sp.fundaljawbone.com
@@ -1653,9 +1650,7 @@ validacionesoutlookmailwebadmin.glitch.me
 vvetransfer-lo-web-online.glitch.me
 jh.gloamsenceint.com
 secure.globalultracdn.com
-ts.globtube.com
 lb.gloeasilurus.com
-pf.gloggsbursula.top
 elbmme.glorlousdates.net
 uv.glucinasatori.com
 xi.glucosesalique.com
@@ -1694,7 +1689,6 @@ wazmdm.golldendates.com
 lq.gonakiecullies.com
 dj.gonerilinstr.com
 od.gongenic.com
-ww.goniumweblike.com
 tp.gooddemands.com
 fs.goofdiam.com
 partner.googleadservices.com
@@ -1703,7 +1697,6 @@ partner.googleadservices.com
 af.goonyzingara.com
 content.gorapidcdn.com
 me.gorbsubsalt.com
-jm.gorgiomanxman.top
 lb.gorhensambaree.com
 wv.gossipshoho.com
 jnkljo.gosweetygirl.net
@@ -1731,7 +1724,6 @@ fq.guffernewport.com
 zq.guilegobiid.qpon
 ff.guimpefesses.com
 ty.gulashtympans.com
-ho.gulgultamarix.com
 wt.gunnerhotcake.com
 record.guts.com
 ia.hackingskye.com
@@ -1755,7 +1747,6 @@ www.zbkkrb.harmonydatess.com
 tv.harpingargling.com
 df.harpinmorae.com
 vl.hatcherplume.top
-ik.hatcheskoeri.shop
 kn.hatressstunk.com
 lr.hattismlarree.shop
 mz.haunchypretest.shop
@@ -1768,12 +1759,10 @@ fi.haylagepotlike.com
 uy.haywirewooled.com
 qh.hazingparate.com
 siri.hboin.com
-misjoin.hcfpiss.top
 s.hdpornblue.lol
 dating.hdxvideos.ru
 kn.healfultwifold.com
 jq.heallinolin.com
-ff.heartbeats.space
 bgqwbb.heartconneccts.com
 llozqb.heartdatiing.com
 nroveq.heartsomee.com
@@ -1794,7 +1783,6 @@ www.yxrge.heretopgiirl.com
 dgkmlo.heretopgirll.com
 tv.hermsdhan.com
 jr.heroicssethite.com
-ff.herospan.store
 fr.herpetunwelde.com
 cy.hexereisellout.shop
 ya.hexingteeting.com
@@ -1810,26 +1798,11 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-cnzh-google-apps.hl.cn
-go-todesk.hl.cn
-googgle-chrrome.hl.cn
-google-chrrome-zh.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-office-wps-hl.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
-zhcn-googele.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
 yy.hogacotset.com
 a.holimsishoe.click
-dx.hollyhopsack.shop
 rh.holmsespace.com
 linelife.home-chat.jp
 1litteno.home-walil1.jp
@@ -2090,8 +2063,6 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -12937,6 +12908,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -17785,6 +17757,7 @@ csjggncfpbhnq.space
 csjokezuqdbdy.online
 csjzaj.cn
 cskcnipgkq.club
+cskscenery.com
 cskvctbhfzfxn.online
 cslxseal.com
 csoaedqbdzjme.site
@@ -20439,6 +20412,7 @@ eclkmpsa.com
 eclnqdlbtgokj.site
 eclvgswxvthwx.space
 ecoedgeinnovations.xyz
+ecomicrolab.com
 ecommercecall.com
 economicalathlete.com
 economicaldashcentral.com
@@ -23379,7 +23353,6 @@ fudzceoandzhm.website
 fuelburns.com
 fuglaizid.net
 fugsslosher.com
-fugsunbelt.com
 fuhcoupnmivfn.site
 fuhrerstanking.com
 fuilofluck.com
@@ -23455,7 +23428,6 @@ furjoyfdoumka.site
 furnishedbuilding.com
 furnisheddependedairliner.com
 furnishedsawlowered.com
-furniturehurt.com
 furnitureinventoryshipping.com
 furoleevehood.cyou
 furorshahdon.com
@@ -23486,7 +23458,6 @@ future-marvellous.com
 futureads.io
 futurecoders.com
 futureus.com
-fuvvgziqxmsrg.rocks
 fuwin.sbs
 fuwoklarmoff.com
 fuzzyconfoundsworn.com
@@ -23537,7 +23508,6 @@ fyhzrdxl885dfttt.com
 fyiqplqdkhdgl.site
 fyiygeowufqxk.site
 fympiumlrnotc.space
-fynil.site
 fynox.xyz
 fyobbmzhbftmsa.com
 fytbadthewihr.store
@@ -23575,7 +23545,6 @@ gabbaprivatehospital.com
 gabbartmiotics.top
 gabbingvending.com
 gabfbnaqodnvfafnj.com
-gablabiereigas.com
 gabomrqaxnu.com
 gadgetoutcome.com
 gadlralwoa.com
@@ -23663,7 +23632,6 @@ gamesgeneralize.com
 gamesims.ru
 gamesirs.com
 gamesluck.com
-gamesofsportsandtoto44.xyz
 gamesrevenue.com
 gamesyour.com
 gameunity.ru
@@ -23795,7 +23763,6 @@ gcxjczooe.com
 gcxqfqykhnzai.online
 gcydzxkkrkpfb.space
 gczhqusagsfps.space
-gdajuytgupptx.world
 gdasaasnt.com
 gdchkj.com
 gdecordingholo.info
@@ -23887,7 +23854,6 @@ genuine-crash.com
 genuine-machine.com
 genuine-sister.pro
 genuineice.com
-genuinelyunacceptableweep.com
 genuinelyunfit.com
 genusconfirmed.com
 geoaddicted.net
@@ -23930,7 +23896,6 @@ get-express-vpns.com
 get-gx.net
 get-kmspico.com
 get-link.xyz
-get-partner.life
 getadzuki.com
 getappwiz.ru
 getappwizard.ru
@@ -23940,7 +23905,6 @@ getchinajiasuqi.com
 getcloserfast.com
 getcoolstuffs.com
 getcouponsearch.com
-getcrypto.exchange
 getdownloadstudio.net
 getdstudio.app
 getdstudio.com
@@ -24090,7 +24054,6 @@ giganticweekend.pro
 gigglegrowlworrisome.com
 giggleostentatious.com
 gigicinjinsyf.website
-gigladithe.com
 gigroocickax.net
 gigsmanhowls.top
 giguenestle.com
@@ -24106,7 +24069,6 @@ gilarditus.com
 gillspaste.com
 gillsturner.com
 gillsunkindstretched.com
-gimea.site
 gimfrxstiodmt.space
 gimp.es
 gimpedbrl.com
@@ -24175,7 +24137,6 @@ gizokraijaw.net
 gjfyeghpsuxmx.space
 gjigle.com
 gjiruqrsnzrsi.store
-gjjaefsketwgi.tech
 gjlkzltqvdjeo.site
 gjmqzcxfbihuw.store
 gjogvvpsf.biz
@@ -24211,7 +24172,6 @@ glamoroustangiblematching.com
 glancediskrebuke.com
 glancedsecretion.com
 glandlabel.com
-glandswelling.com
 glaring-fire.com
 glaring-page.pro
 glaringregister.com
@@ -24278,7 +24238,6 @@ glitter-2025.com
 glittering-rest.com
 glitteringbrook.com
 glitteringkitchen.pro
-glitteringobsessionchanges.com
 glitteringovernightflea.com
 glitteringsinkingdefense.com
 glizauvo.net
@@ -24286,7 +24245,6 @@ glizoakri.net
 gljsw.com
 glkbqoypclywz.space
 gllow.com
-gloahoare.com
 gloaphoo.net
 global-adblocker.com
 global-riward77.com
@@ -24480,7 +24438,6 @@ gohere.pl
 gohitstraffic.com
 gohuw.com
 goilquccyl.com
-goingbicyclepolitically.com
 goingcliffsfixes.com
 goingsrosehip.com
 goingtabific.com
@@ -24520,7 +24477,6 @@ golfobot.com
 gollopsweens.space
 golloving.com
 golnkz.com
-goluckytiming.com
 gomabalerainc.top
 gomain.pro
 gomain2.pro
@@ -24555,7 +24511,6 @@ goodnightpawnmossy.com
 goodnightsurveys.com
 goodnika.com
 goodsforyour.com
-goodsloosendisquiet.com
 goodsshake.com
 goodsstor.vip
 goodstatorone.com
@@ -24672,7 +24627,6 @@ graciousprofit.pro
 graciousunique.com
 gradax.com
 graduate472.fun
-graduatedgroan.com
 graduatewindow.com
 graduationcanyonsting.com
 graduationpaltryherbal.com
@@ -24746,7 +24700,6 @@ gravenesswomanlesszestfully.com
 graveuniversalapologies.com
 gravitykick.com
 gravyhuman.com
-grayfelicity.com
 grayvillain.com
 grazingmarrywomanhood.com
 grblaenalkdnn.site
@@ -24879,7 +24832,6 @@ groostaupy.net
 grootcam.shop
 grootcho.com
 groovefreelancepersecute.com
-grooveiron.com
 groovinads.com
 groovinews.com
 grortalt.xyz
@@ -24924,7 +24876,6 @@ grownwrecking.com
 growoutlier.com
 growthbuddy.app
 growthhomelessprediction.com
-growtrack.co
 growup-inpp-code.com
 grqdkqvxbburi.site
 grquadonaxobq.site
@@ -24967,7 +24918,6 @@ gsbnymvxzcgku.today
 gsbskecojgcwm.website
 gsbuvygko.xyz
 gscontxt.net
-gsecurecontent.com
 gsfpdvjkpishb.website
 gshtgmb.com
 gsi3t.com
@@ -24979,13 +24929,11 @@ gspkethascafr.online
 gspo.jp
 gspubterc.site
 gsrctroclqloz.tech
-gssdlc.com
 gstudynet.org
 gsurl.in
 gsurl.me
 gsxkyty.com
 gt5tiybvn.com
-gtarakgujaz.com
 gtbbgjo.art
 gtbdhr.com
 gtbvzopahlyts.website
@@ -24995,7 +24943,6 @@ gtghsgrneexou.website
 gtiacba3s0em.top
 gtithiojf.com
 gtlook.com
-gtlpaj.com
 gtosmdjgn.xyz
 gtrem.site
 gtrlhbeizihyy.site
@@ -25018,7 +24965,6 @@ gudameiotas.space
 gudaoyunhz.com
 guddledberith.com
 gudoobit.shop
-guelfohmic.com
 guessdetail.com
 guessingforeword.com
 guesswhatnews.com
@@ -25065,7 +25011,6 @@ gullyending.com
 gulpcaptivate.com
 gulpedimpresa.shop
 gulphydrogen.com
-gulsachbevil.com
 gulsyangtao.guru
 gumlahdeprint.com
 gumlessinfall.shop
@@ -25094,7 +25039,6 @@ gusoclji.com
 gussame.com
 gussbkpr.website
 gustappearancefairness.com
-gutobtdagruw.com
 gutphewlittleoddly.com
 guttercollege.com
 gutterjavgg124.fun
@@ -25136,7 +25080,6 @@ gxbrh.com
 gxdowell.cn
 gxetowrzlnqbf.online
 gxfuqntda.xyz
-gxiacapeptyos.club
 gxlyxvjvwmbff.store
 gxmyi.com
 gxordgtvjr.com
@@ -25153,7 +25096,6 @@ gygplfimptkaj.website
 gyipdlomyttqb.online
 gylavpnvbaacd.online
 gylor.xyz
-gymnasiumfilmgale.com
 gynietrooe.com
 gyooocelofurv.store
 gypjdmigbouth.website
@@ -25163,7 +25105,6 @@ gypsyproducing.com
 gyrocarkluck.com
 gys5.com
 gyspsffbmfefx.space
-gystqpfwfxqno.global
 gywamype.com
 gywwzmejfzkrs.site
 gyxhwdysotvbj.store
@@ -25177,7 +25118,6 @@ gzcankao.com
 gzclatfhwvpsk.space
 gzefeydgsckbj.online
 gzehixpheoz.com
-gzfuze.com
 gzgejhwjeoufd.store
 gzghpg.com
 gzhyhd.com
@@ -25284,7 +25224,6 @@ halt789-enraged1.com
 haltingdivision.com
 haltinggold.com
 haltlankasking.com
-halveimpendinggig.com
 halvemanslaughtergild.com
 hamamelprincessa.com
 hambercystic.com
@@ -25444,13 +25383,11 @@ harvesttraffic.com
 harzfriends.de
 hascleaninginc.com
 hascommodities.com
-hasdrs.com
 hasebaty.com
 hashbitewarfare.com
 hashisa.com
 haslocktyphia.com
 hasswept.com
-hasteinternaladulatory.com
 hasteninto.com
 hastyspecialist.pro
 hastytumblecounterfeit.com
@@ -25499,7 +25436,6 @@ havingartistictastesn.org
 havingjoyfellow.com
 havingunderwear.com
 havludantel.com
-hawanted.com
 hawkabsurd.com
 hawkstocky.com
 hawpeaceablesenate.com
@@ -25571,7 +25507,6 @@ hduwzmmomocze.store
 hdvcode.com
 hdyfhpoi.com
 hdylm.com
-he2325.com
 he7ll.com
 headacheaim.com
 headbidder.net
@@ -25700,7 +25635,6 @@ helpfulcloister.com
 helpfulopposite.com
 helpless-solution.com
 helplessdanpavilion.com
-helplive-ledger.com
 hem41xm47.com
 hemenkapindacom.com
 hemineedunks.com
@@ -25722,11 +25656,9 @@ hentaixxxxaz.shop
 henwisedug.top
 henzxztnnwmhp.website
 hepsibiryerde.com
-hepsigross.com
 heptix.net
 herbalraising.com
 herbalssnarled.top
-herbarahsia.xyz
 herbwheelsobscure.com
 herdpiteousextensive.com
 herebygreedyrivers.com
@@ -25781,7 +25713,6 @@ heysholay.com
 heyuhzdhoxcms.online
 heyunda.com
 heywesty.com
-hezeup.com
 hezuo999.com
 hf5rbejvpwds.com
 hf69.com
@@ -25795,7 +25726,6 @@ hffxc.com
 hfihifxagw.com
 hfizzakurv.com
 hflflbargcuje.website
-hfopewkdgmcal.site
 hfopteyhgqeas.online
 hfqxrivbvubyz.store
 hfr67jhqrw8.com
@@ -25875,7 +25805,6 @@ hidecatastropheappend.com
 hideous-organization.com
 hideparanoia.com
 hidkidnappingdetermined.com
-hidlessonana.com
 hidwnatidokyl.online
 hidxuqozdopk.com
 hiend.xyz
@@ -25952,7 +25881,6 @@ himosteg.xyz
 himselfencouraged.com
 himselffunguspolitical.com
 himunpractical.com
-hinaudeject.com
 hindhent.shop
 hindikhoji.net
 hindranceretort.com
@@ -26027,6 +25955,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -26041,7 +25970,6 @@ hlmiq.com
 hlmpjd.com
 hloontleulrrx.site
 hlserve.com
-hltvorg.com
 hlufsqadxupgr.website
 hlxyidqacaivu.site
 hlyrecomemum.info
@@ -26204,7 +26132,6 @@ hooligs.app
 hooliredir.com
 hoomigri.com
 hoondeecrabber.shop
-hoonjete.com
 hoood.info
 hoopoereeper.com
 hoopoesredone.com
@@ -26239,7 +26166,6 @@ hopovenwar.com
 hoppedobscurefame.com
 hopperdiagnose.com
 hoppermalachi.life
-hoppershortercultivate.com
 hopsysdhmstab.online
 hoptopboy.com
 hoqodd.com
@@ -26364,9 +26290,7 @@ how-to-wtch.net
 howboxmaa.site
 howextensionbleed.com
 howhow.cl
-howlexhaust.com
 howsliferightnow.com
-hoxujugi.com
 hoyaga.xyz
 hp-dy.net
 hpeavfrfok.com
@@ -26406,7 +26330,6 @@ hr-systemmet.dk
 hra.am
 hramb.site
 hrbaal0z.xyz
-hreso.site
 hrient.xyz
 hrijiqwroalg.com
 hrknqbbxmyvyo.site
@@ -26523,7 +26446,6 @@ humongousguide.pro
 humongoustemporary.com
 humongouswoman.pro
 humoristshamrockzap.com
-humpasylum.com
 humpdecompose.com
 humpyregime.top
 humro.site
@@ -26562,7 +26484,6 @@ hurarwjrirti.com
 hurkarubypaths.com
 hurldroopeasygoing.com
 hurlmedia.design
-hurlybegaud.top
 hurricanegus.com
 hurriedknowing.com
 hurriedlyslumremiss.com
@@ -26600,8 +26521,6 @@ hvggraphics.com
 hvistendahl.xyz
 hvkxpsvlmrvwn.store
 hvooyieoei.com
-hvpsfsuruamnc.icu
-hvywllhiwgbjj.icu
 hwaoshxrov.com
 hwcnmtu.top
 hwithyouryrety.org
@@ -26655,11 +26574,9 @@ hypervre.com
 hypnosservices.com
 hypnotizebaseballjesus.com
 hypnotizesqueegeetricolor.com
-hypocrisypreliminary.com
 hypocrisywaistenthusiasm.com
 hypocrisyyard.com
 hypocritearrangementusual.com
-hypocritevarieties.com
 hypollsteceful.com
 hypothesistractorupset.com
 hysoctring.com
@@ -29429,6 +29346,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
