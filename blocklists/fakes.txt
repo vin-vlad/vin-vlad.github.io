@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-04T18:55:34.635Z
-# Entries: 15843
+# Last updated: 2026-06-05T07:39:55.995Z
+# Entries: 15823
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -7159,7 +7159,6 @@ idolpanion.com
 idproof.de
 idsaled.de
 ie-audit.com
-ieblingskind.com
 ielaf.shop
 iemakluck.com
 ifanze.net
@@ -7251,7 +7250,6 @@ importstoree.com
 improbuehne.de
 impruneta.de
 impulsa.shop
-imregen.de
 imtisaltradersltd.com
 imtrend.at
 inador.com
@@ -7306,9 +7304,7 @@ inkjet.de
 inktv-hengels.com
 innentapete.com
 innerekraft.at
-innerpharmacy.org
 innet24.de
-innomarkt.de
 innomodelcar.com
 innovationtrdng.com
 innovativesales.org
@@ -7325,7 +7321,6 @@ inovekt.com
 insanibadshop.com
 insektnotdienst.at
 insiderlx.com
-insightberichte.de
 insightfulyou.net
 insolesgeeks.com
 insolvenz-veit.de
@@ -7353,7 +7348,6 @@ instocks.shop
 instructionk.com
 instrumentak.com
 instrumentbest.com
-instrumentemusic.com
 integisok.com
 integralbroker.com
 integralz.com
@@ -7375,7 +7369,6 @@ intermaschineauktion.com
 interpellet.at
 interstatesavings.us
 intertradesfx.com
-interwood-holz.com
 intesa-gestion.com
 intialrmost.com
 intimewatches.de
@@ -7442,7 +7435,6 @@ irsolution.io
 isabel-modehaus.de
 isabellazce.de
 iscop.it
-ishibashifoodstore.com
 isipisi.online
 iskenderunsolarenerji.com
 ism-capital.com
@@ -7508,7 +7500,6 @@ jdbr-investissements.com
 jdflmportexport.de
 jdrmoveis.online
 jdsportsoutlet.de
-je-decouvre.fr
 jean-weis.com
 jeans-fashion.com
 jeansniedrigerpreis.com
@@ -7558,7 +7549,6 @@ jmilyshop.com
 jn-recruitment.at
 jncojeans.de
 jo-joshop.com
-joanoks.com
 joaostoreoficial.com
 jobam.shop
 jobdreamonline.com
@@ -7567,7 +7557,6 @@ jobparadies.de
 jobpool.ch
 jobprofis24.de
 jobs-consulting.de
-jobs-im-homeoffice.com
 jobschmiede.com
 jobskompass.com
 joesboardandtimberonline.com
@@ -7637,7 +7626,6 @@ jungbauermodellbau.de
 junge-dailyshop.com
 jungle-shoes.com
 jungleknnt.de
-juniq-tech.de
 juntacomercialleiloeiros.com
 juretro.com
 justdance-events.nl
@@ -7762,10 +7750,8 @@ kamagrashop.sk
 kamagrastore24.org
 kamagratrade.com
 kamagratrade.net
-kamagratrade.shop
 kamagry.sk
 kamalpoolconstruction.com
-kamashop.org
 kamera89.com
 kamerarabatt.de
 kamerasecure.de
@@ -7799,7 +7785,6 @@ kanuonlineshop.com
 kanyecharms.store
 kanziii.net
 kanzlei-helmut-kuhn.de
-kanzlei-keller-luers.de
 kanzlei-neudeck.de
 kanzlei-niva.de
 kanzlei-ra.net
@@ -7893,7 +7878,6 @@ kedros-zeklant.de
 kedsfactoryoutlet.com
 kedsgermany.com
 kedsschuhe.de
-kedsschuheschweiz.com
 kedssuomi.com
 kedssuomishop.com
 keen--shoes.com
@@ -7942,7 +7926,6 @@ kia-shop.com
 kibekde.com
 kickarea.cn
 kickcultureco.com
-kickersberlin.de
 kickersschuhe.at
 kicksdunk.com
 kickswelt.at
@@ -7964,7 +7947,6 @@ kimperuecken.de
 kincorybeauty.com
 kindduckling.com
 kindergarten-supplies.com
-kindergartengeschenke.de
 kindergartenpaedergogik.de
 kinderglitzern.de
 kinderlichtblicke.de
@@ -8002,7 +7984,6 @@ kitchenchef.club
 kitchendrop.de
 kitchenmasters.net
 kitchenpeace.com
-kitchenstar24.de
 kitchenyummy.com
 kiteleaf.com
 kithery.com
@@ -8015,7 +7996,6 @@ kizwnbbm.shop
 kjbeautysalon.com
 kjsr-radeberg.de
 kjtbestov.click
-kjw-garten.de
 kkrde-api.com
 kkz-insolvenz.de
 kkzon.com
@@ -8104,7 +8084,6 @@ kommodende.com
 komono-uk.com
 kompens.de
 kompetenzworkshops.de
-komplettanschlussangebote.de
 komponentende.com
 konditorei-mohrholz.de
 konigmode.de
@@ -8127,7 +8106,6 @@ korummainlinebait.com
 kosecikva.com
 kosmetik-loxstedt.de
 kostuemfest.com
-kostummode.com
 kostumparty.com
 koucy.com
 koupit-kamagra-viagra.online
@@ -8148,6 +8126,7 @@ kraftwerk-solar.com
 krahl-container.eu
 krakenaccess.com
 kraus-anwaelte.de
+krause-winter.com
 krausmode.de
 kreative-zukunft.com
 kredit-finanzen.com
@@ -14783,6 +14762,7 @@ velanoshop.com
 velaro-plus.com
 velencia.de
 velenza.de
+velinaboutiquewien.com
 velionpartner.net
 velo-nation.com
 velocityh.com
