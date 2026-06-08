@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-08T07:55:48.406Z
-# Entries: 15709
+# Last updated: 2026-06-08T18:57:41.276Z
+# Entries: 15708
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -1641,6 +1641,7 @@ avyara.de
 awaisms.com
 awanzi.com
 awc-of-berlin.de
+awesomeartifact.com
 awirer.com
 awishday.com
 awo-baumarkt.de
@@ -6810,7 +6811,6 @@ heyewall.de
 hezoposo.com
 hi-goeedoo.com
 hibote.de
-hicity.de
 hiddenbarandgrill.com
 hiddenhertz.com
 hidra-pool.com
@@ -9621,7 +9621,6 @@ modern-technik.de
 modernbedshop.com
 modernnestliving.shop
 modernoutdoorstandard.de
-moderwear.shop
 modeschulte.de
 modetalente.com
 modethermoskanne.com
@@ -14324,6 +14323,7 @@ trustedallovertheworld.com
 trustedconsumerreview.online
 trustedmedstore24.com
 trustednorx.com
+trustedrxsolutions.com
 trustedshops.store
 trustedtablets.online
 trustedxshop.com
@@ -15088,7 +15088,6 @@ waworld.de
 waxify.de
 wayofwade.at
 wayofwadeshoesuk.com
-wayrates.com
 wbecrisfro.com
 wbymall.store
 wealth-phantom.com
