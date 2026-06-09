@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-09T07:25:04.495Z
-# Entries: 49611
+# Last updated: 2026-06-09T18:51:58.222Z
+# Entries: 49612
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -18459,6 +18459,7 @@ deanowens.com
 dear-soil.com
 dearest-arrival.pro
 dearestastray.com
+dearestfunny.pro
 dearesthydrogen.com
 deathautosailing.com
 deathdetectives.com
