@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-09T18:51:58.238Z
-# Entries: 24473
+# Last updated: 2026-06-10T07:39:54.242Z
+# Entries: 24474
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -771,6 +771,7 @@ abufinzio.monocul.us
 zephir.monocul.us
 tracker.morethantv.me
 wg.mortis.me
+tracker.moviesdb.top
 mycima.movnet.site
 tracker.moxing.party
 bestsoft.moy.su
@@ -6389,6 +6390,7 @@ filmy4play.xyz
 filmy4wap.de
 filmyblend.com
 filmyentry.com
+filmyfly.cafe
 filmyfly.deals
 filmyfly.how
 filmyfly.republican
@@ -23618,7 +23620,6 @@ watchmovie.me
 watchmovierulz.army
 watchmovierulz.co
 watchmovierulz.dog
-watchmovierulz.fund
 watchmovierulz.haus
 watchmovierulz.kim
 watchmovierulz.lc

@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-09T18:51:58.222Z
-# Entries: 49612
+# Last updated: 2026-06-10T07:39:53.906Z
+# Entries: 49606
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -424,9 +424,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1801,15 +1798,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-go-todesk.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2065,8 +2053,6 @@ rq.kolhozclarain.com
 hh.koloaller.com
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -11993,6 +11979,7 @@ assignedtwentiesmarshy.com
 assignlabor.com
 assignmentlonesome.com
 assimilatecigarettes.com
+assistedtogether.com
 assistimplemented.com
 assistirfilmes.org
 asslfeqadv.com
@@ -12873,6 +12860,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -25931,6 +25919,7 @@ hkpjnieraypcn.site
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -29271,6 +29260,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krigiamisdeal.click
 krisydark.com
@@ -31204,6 +31194,7 @@ manhuan.com
 manifestoctavianapostrophe.com
 manipulationabolishmentblameless.com
 manipulationdisposal.com
+manipulativecommitment.com
 manjackphenol.com
 mankinddemocrat.com
 mankindflatten.com
@@ -41219,6 +41210,7 @@ singlewomenmeet.com
 singlyairview.com
 singtelmyconnect.com
 sinisterbatchoddly.com
+sinisterblare.com
 sinistercokeservice.com
 sinkagepandit.com
 sinmufar.com
@@ -42666,6 +42658,7 @@ studiouspresence.com
 studiousspareinfinite.com
 studiousyesterday.com
 studtwice.com
+studyingiodineproposal.com
 studyingmargaritacommunicated.com
 studyunharmedupscale.com
 stuffedbeforehand.com
@@ -46337,6 +46330,7 @@ videocdnmetrika.com
 videocdnmetrika60.com
 videocdnshop.com
 videochat-fan.com
+videoespece.com
 videoo.tv
 videoreal.org
 videoroll.net
