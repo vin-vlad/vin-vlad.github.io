@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-10T19:01:26.543Z
-# Entries: 24715
+# Last updated: 2026-06-11T07:52:27.479Z
+# Entries: 24720
 hichemtigsetorgy.0fees.net
 tracker.0x7c0.com
 weedy.1.vg
@@ -436,6 +436,7 @@ tracker.dutchtracking.com
 cloudstream-on-fleek-co.ipns.dweb.link
 irrenhaus.dyndns.dk
 tracker.dyne.org
+aam-bt.dyns.cx
 thitgaluoc.dynu.net
 bt.e-burg.org
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -2197,6 +2198,7 @@ ad-nakolesakh-lordfilm.lol
 adams-familias-lordfilm.ru
 adams-familiau-lordfilm.ru
 adamsfile.com
+adboost.ro
 add0n.com
 addanetwork.net
 addone.ru
@@ -2217,7 +2219,9 @@ aeroinsta.app
 aerolite.dev
 aeromods.app
 aerotwitter.com
+aerowa.cc
 afdah.com
+afdah.info
 afdah.live
 afdah.org
 afdah.to
@@ -24384,6 +24388,7 @@ young-sheldonn-lordfilm.ru
 young-sheldons-lordfilm.ru
 youplex.site
 youpornbook.com
+youranimerank.com
 yourbittorrent.com
 youreasyip.tv
 yournetcommunications.net
