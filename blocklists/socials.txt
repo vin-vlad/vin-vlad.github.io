@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-06-12T18:47:52.684Z
-# Entries: 890
+# Last updated: 2026-06-13T07:27:47.966Z
+# Entries: 899
 2ch.org
 4cdn.org
 4chan.org
@@ -63,6 +63,9 @@ clubhouseapi.com
 cms-twdigitalassets.com
 como-hackearfacebook.com
 componentkit.org
+crowdtangle.com
+cs1404.wpc.epsiloncdn.net
+cs767.wpc.epsiloncdn.net
 cupoftea.social
 cyberplace.social
 dacebook.com
@@ -160,6 +163,7 @@ facebooik.com
 facebooik.org
 facebooj.com
 facebook-corp.com
+facebook-covid-19.com
 facebook-ebook.com
 facebook-forum.com
 facebook-hardware.com
@@ -213,6 +217,7 @@ facebookclub.com
 facebookcom.com
 facebookconnect.com
 facebookconsultant.org
+facebookcoronavirus.com
 facebookcovers.org
 facebookcredits.info
 facebookdating.net
@@ -366,6 +371,7 @@ fbbmarket.com
 fbboostyourbusiness.com
 fbcdn.com
 fbcdn.net
+fbf8.com
 fbfeedback.com
 fbhome.com
 fbidb.io
@@ -376,10 +382,14 @@ fblitho.com
 fbmarketing.com
 fbmessenger.com
 fbredex.com
+fbreg.com
 fbrell.com
+fbrpms.com
 fbsbx.com
 fbsbx.net
+fbsupport-covid.net
 fbthirdpartypixel.com
+fbthirdpartypixel.net
 fbthirdpartypixel.org
 fburl.com
 fbwat.ch
@@ -460,6 +470,7 @@ hessen.social
 hhvm.com
 hifacebook.info
 hostux.social
+howtohackfacebook-account.com
 hsfacebook.com
 httpfacebook.com
 httpsfacebook.com
@@ -470,7 +481,9 @@ huoshanzhibo.com
 i.org
 ieji.de
 ig.me
+igcdn.com
 igsonar.com
+igtv.com
 imgsmail.ru
 impala-media-production.s3.amazonaws.com
 imstagram.com
@@ -669,14 +682,10 @@ p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 p16-tiktok-dm-sticker-sign-useast2a.ibyteimg.com
 p16-tiktok-dm-sticker-sign-va.ibyteimg.com
 p16-tiktok-group-icon-sign-sg.ibyteimg.com
-p16-tiktok-group-icon-sign-va.ibyteimg.com
 p16-tiktok-livestudio-asset-sg.ibyteimg.com
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
-p16-tiktok-ls-product-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
-p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com
 p16-tiktok-va.ibyteimg.com
-p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 parse.com
 periscope.tv
