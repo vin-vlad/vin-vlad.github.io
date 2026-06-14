@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-13T18:36:30.887Z
-# Entries: 16350
+# Last updated: 2026-06-14T07:45:13.353Z
+# Entries: 16374
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -8317,6 +8317,7 @@ karate-innsbruck.at
 karawane-handel24.de
 karcher.work
 kare-de.com
+karedeutschland.com
 karenmillendeutschland.de
 karenmillenslovensko.sk
 karhusneakersnorge.net
@@ -11116,6 +11117,7 @@ ojoro-tech.de
 okatode.com
 okbon.de
 okohausplus.com
+okun.shop
 okuracookware.ch
 okuracookware.de
 olangdeutschland.de
@@ -11139,6 +11141,7 @@ olxbg.com
 olyava.com
 olympis.de
 omecyer.com
+omega-cap.com
 omega-technik.de
 omegafxoptions.com
 omegainvestment.de
@@ -11152,19 +11155,23 @@ on-on.co
 on-osterreich.at
 on-outlet.shop
 on-runningdeutschland.de
+on-runningschweiz.com
 on-schuhe-de.shop
 on-sneakers.com
 onavira.com
 onbestsellprods.com
 onceupontim.com
 oncloud-sneakers.com
+oncloud-turkey.com
 oncloudboty.cz
+onclouddeutschlande.com
 onclouddubai.com
 oncloudoutlet.at
 oncloudschuhe.at
 oncloudschuhe.shop
 oncloudshoes.de
 oncloudsneaker.shop
+oncloudsneakers.com
 oncloudturnschuhe.com
 oncloudxoutletmall.com
 one-clean.de
@@ -11207,6 +11214,7 @@ online-indiegames.de
 online-indiespiele.de
 online-jobs.pro
 online-kreditangebot.com
+online-monlnverlfricationsarciving837817188292.com
 online-ph.com
 online-pharmacy365.com
 online-pills.com
@@ -11235,12 +11243,14 @@ onlinecasinosohneverifizierung.de
 onlinedamen.de
 onlinedrugsnorx.com
 onlineforyou.net
+onlinegearwrench.com
 onlinegoodshub.com
 onlinehealthworldtrust.com
 onlinehotsale.shop
 onlineindiespiele.de
 onlinekamagra.com
 onlinekamagrastore.org
+onlinekohler.com
 onlinelearningquality.org
 onlinelekarna24.com
 onlineleki.com
@@ -11277,6 +11287,7 @@ onsale-lampen.com
 onsaleapparels.com
 onsalecarparts.com
 onschuhe.net
+onschuhedeutschland.de
 onschuhefabrikverkaufschweiz.com
 onschuhen.shop
 onschuheoutlet.at
@@ -11296,6 +11307,7 @@ oolongtime.com
 oopbuyshop.de
 opabitcoin.com
 opcte.com
+openai-trips-reserve.com
 openwatershop.de
 operakuechen.de
 operar.xyz
@@ -11307,6 +11319,7 @@ opongo.shop
 oppermann-versand.de
 oppositen.com
 opt-toysbase.com
+opte-grup.com
 optessentialoils.com
 optimalattire.com
 optimaltackle.com
@@ -11322,6 +11335,7 @@ optionsmarter.com
 optionsxo.com
 opyiazki.shop
 oralb-austria.com
+orange-ltd.org
 orba24.de
 orbi-mount.com
 orbisolyx.com
@@ -11385,6 +11399,7 @@ oskarzebedeus.com
 osmodeutschland.de
 ospharma.com
 osprey-suomi.com
+ospreysuomi.com
 ospreysuomi.net
 osteopathiehamburgterminonline.de
 ostergartenhermesdorf.de
@@ -11489,6 +11504,7 @@ ovens-onsale.com
 overbuyi.com
 overseask.com
 overthebordermeds.com
+overthecounterstore.com
 overtheworldmdseller.com
 ovrise.com
 ovrtkbndit.com
@@ -11518,6 +11534,7 @@ ozempic-shop.com
 ozempicbezreceptu.com
 ozempickaufenn.com
 ozempickaufenohnerezept.com
+ozkeas.shop
 ozpillsdirect.com
 p-bau.at
 p1-markt.de
@@ -11525,10 +11542,12 @@ pacificgroup.ltd
 packlogistic.com
 packmanvape.de
 paddlegrill.com
+paffeholz.com
 paganidesignstore.com
 painthotsale.com
 paito-hkpools.store
 paitohkpools.site
+paket-de.com
 paletten-pellets-dienstleistung.de
 paliodisiena.net
 palladiumargentina.com
@@ -11559,6 +11578,7 @@ papagei-papageieneier.de
 papageienzuchtheim.de
 papajule.com
 papershredder-store.com
+parabound.de
 paraduse.com
 parakonz.de
 paramdionline.com
@@ -11580,14 +11600,18 @@ pasoraseasons.de
 pasqu.com
 passendenschuhe.com
 passieveld.com
+passion-fotos.de
 pastateller-shop.com
 patagoniasat.at
 patakhay.com
 pathappiy.com
+pathe-box.com
+pative.shop
 patrickvetter.de
 patrimoine-partenaires.com
 patrioticy.com
 patrisor.com
+paulgreenosterreich.com
 paulinacasmur.com
 paulinasinger.com
 paulmachtenergiewende.de
