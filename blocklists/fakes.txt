@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-15T19:25:22.694Z
-# Entries: 16897
+# Last updated: 2026-06-16T08:08:44.095Z
+# Entries: 16899
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -4486,6 +4486,7 @@ dutut.com
 dutztechh.shop
 duzeces.com
 dvdsblurays.com
+dvepare.com
 dw-energieholz.de
 dwelldome.com
 dwellingix.com
@@ -7572,7 +7573,6 @@ hotelladen.com
 hotels-colombo.com
 hotels-inform4281.com
 hotelsinperm.ru
-hotelsinvienna.org
 hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
@@ -9631,6 +9631,7 @@ madelor.com
 madgamings.de
 madinp.com
 madridno94.com
+maehrobot.shop
 maerkischeskinderdorf.de
 magag.de
 magalistore.com
@@ -12371,6 +12372,7 @@ promomarkt.store
 promoprism.com
 promorin.com
 promusicgearstore.com
+pronetivaro.com
 pronutrition.de
 proofsagen.com
 prooplitecommunity.shop
