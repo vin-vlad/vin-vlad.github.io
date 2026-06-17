@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-16T19:18:35.615Z
-# Entries: 16899
+# Last updated: 2026-06-17T08:03:03.627Z
+# Entries: 16912
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -414,6 +414,7 @@ mrsoda.myshopify.com
 mutterkissen.myshopify.com
 neptuneiva.myshopify.com
 nordheimhausgmbh.myshopify.com
+novarellahomegmbh.myshopify.com
 nsk-gmbh.myshopify.com
 oasenlicht.myshopify.com
 oonowa.myshopify.com
@@ -570,6 +571,7 @@ ge.thebloomcar.com
 trd.titan-capital-partners.com
 adl.tlhqca.shop
 kino.tolle-nachrichten.com
+get-epicooler.topashopo.com
 kayh.tovy.shop
 rafso.tovy.shop
 gwcsale.towncabco.com
@@ -8679,6 +8681,7 @@ klarsonne.de
 klarsteinhaushaltspar.com
 klarsteinkuche.com
 klarvi.de
+klarwise.de
 klassischesfahrradneu.com
 klaudora.com
 klauenpflegeschmid.de
@@ -9014,6 +9017,7 @@ lasportivaschuhe.at
 lasportivaworld.com
 lassola.de
 lassola.it
+lasten-anhanger.com
 lasuperhousse.com
 lasylife.top
 latello.de
@@ -9717,6 +9721,7 @@ maltua.shop
 malzkaffee.de
 mambojamboaruba.com
 mammabump.de
+mammutsale.at
 mammutwien.at
 man-investments.com
 man-zone.cz
@@ -12473,6 +12478,7 @@ qidjrs.shop
 qidjrsgroup.shop
 qihaobuy.com
 qinero.com
+qisbysji.shop
 qlepy.com
 qnesz.shop
 qnfreerypc.click
@@ -13458,6 +13464,7 @@ seemyshopp.com
 seepalm.de
 seforimdealsho.shop
 segurofx.com
+seidenblumen-ross.com
 seidl-mode.com
 seidlmodehaus.com
 seifenbrause.de
@@ -13751,6 +13758,7 @@ silkbers.com
 silkstocking.de
 silkysmoothhobbeautyandbabershop.com
 silnymuz.com
+silveraureus.com
 simikj.com
 simonbois.de
 simpfit.com
@@ -13802,6 +13810,7 @@ skims-deutschland.com
 skims-polska.pl
 skims-suomi.com
 skimsromania.com
+skimss.at
 skimssuomi.com
 skina.nu
 skincarelimit.com
@@ -14716,6 +14725,7 @@ teameffekt.de
 teamlevelsix.com
 teampandafilms.com
 teamstryk.de
+tech-outlet.site
 tech-solutions.store
 tech-vitals.com
 techdachs.de
@@ -14753,6 +14763,7 @@ teichfilterelektro.com
 teichwunder.com
 teiip.com
 teilrad24.de
+teilradln.de
 teilwerkstatt.com
 teknohaus.de
 telecarsten-shop.de
@@ -14907,6 +14918,7 @@ themetronewstoday.com
 themirrornewstoday.com
 thenetfarmacia.com
 thenorth-face.de
+thenorthface-outlet.de
 thenorthfacedeutschland.com
 theodore-furniture.com
 theolufunmico.com
@@ -15003,6 +15015,7 @@ thursdaycanada.com
 tiagocarlosdultrary.shop
 tickgreen.net
 tierbedarfshop.com
+tierewelpenhaus.de
 tierfreundeonline.com
 tierfuttergeschaft.com
 tierhandlungszuchter.com
@@ -15072,7 +15085,6 @@ todaytoneshop.com
 todo-para-camping-caravans.es
 todo-para-embarcaciones.com
 toffifeeaktion.de
-togelhongkongpools1.com
 togelsydneypools.org
 togetherrxacces.com
 tojo-heizoel.de
@@ -16129,6 +16141,7 @@ vynox.de
 vynxaria.com
 vytor.de
 vzbuch.shop
+wachautoteile.com
 wachstumsworkshop.de
 waco-logistics.com
 wacoo.de
