@@ -1,5 +1,53 @@
+User-agent: Googlebot
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
+Allow: /app-ads.txt$
+Allow: /llms.txt$
+
+User-agent: GPTBot
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
+Allow: /app-ads.txt$
+Allow: /llms.txt$
+
+User-agent: OAI-SearchBot
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
+Allow: /app-ads.txt$
+Allow: /llms.txt$
+
+User-agent: PerplexityBot
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
+Allow: /app-ads.txt$
+Allow: /llms.txt$
+
+User-agent: ClaudeBot
+Disallow: /
+Allow: /$
+Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
+Allow: /app-ads.txt$
+Allow: /llms.txt$
+
 User-agent: *
 Disallow: /
 Allow: /$
 Allow: /index.html$
+Allow: /license$
+Allow: /privacy$
 Allow: /app-ads.txt$
+Allow: /llms.txt$
