@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-17T18:58:05.818Z
-# Entries: 16912
+# Last updated: 2026-06-18T07:52:37.313Z
+# Entries: 16910
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -571,7 +571,6 @@ ge.thebloomcar.com
 trd.titan-capital-partners.com
 adl.tlhqca.shop
 kino.tolle-nachrichten.com
-get-epicooler.topashopo.com
 kayh.tovy.shop
 rafso.tovy.shop
 gwcsale.towncabco.com
@@ -2280,7 +2279,6 @@ bestwear.club
 bestwerkzeugeshop.com
 besvip.top
 betashop-gmbh.com
-bethanystore.com
 beti-digital.de
 betonruttler.com
 betonspot.com

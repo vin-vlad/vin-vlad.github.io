@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-17T18:58:05.843Z
-# Entries: 58435
+# Last updated: 2026-06-18T07:52:37.397Z
+# Entries: 58428
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -434,9 +434,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1860,15 +1857,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-go-todesk.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
 map.hnchj.com
 dciclc.hnwuamu.top
 m10.hoes.tube
@@ -2141,8 +2129,6 @@ hh.koloaller.com
 vg.konigakeyset.top
 mf.kotocolmar.com
 hl.koumyscampana.com
-lc.krgirls.beauty
-me.krgirls.beauty
 ym.kronionsuttas.com
 kp.kueunpick.com
 ms.kuugo.cc
@@ -2385,6 +2371,7 @@ xodrev.meetnoow.com
 wewnmm.meetonlive.com
 cms.meettoday.net
 nrjbow.meettoday.net
+i.meetu.best
 nkkwr.meeturlove.com
 store.megads.store
 wc.meharitames.com
@@ -13673,6 +13660,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -20756,6 +20744,7 @@ dicqhood.com
 dictateirriplaceableirriplaceable.com
 dictationoverlapcooler.com
 dictatorgrimly.com
+dictumforgivedesist.com
 diddledleveret.com
 didpebbletouchdown.com
 didspack.com
@@ -29102,6 +29091,7 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -33334,6 +33324,7 @@ krenkzfiuzryw.store
 kreomfoq.com
 kreps.xyz
 krfqlrxvmoyrj.online
+krgirls.beauty
 krhmtdzuxxmsc.space
 krible-krable-bums.com
 krigiamisdeal.click
@@ -34887,6 +34878,7 @@ lottery37-fct.com
 lotteryaffiliates.com
 lotterytruth.com
 louchees.net
+loud-hall.com
 loud-student.com
 loudairborneteaspoon.com
 loudermeaning.com
@@ -37943,6 +37935,7 @@ natregs.com
 natsdk.com
 natsudream.com
 natterresail.com
+nattytrouty.cfd
 natural-go.pro
 naturalbrain.pro
 naturalcapitalsystem.com

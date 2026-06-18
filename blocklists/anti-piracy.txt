@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-17T18:58:05.861Z
-# Entries: 27360
+# Last updated: 2026-06-18T07:52:37.431Z
+# Entries: 27359
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -2154,7 +2154,6 @@ tracker.zum.bi
 6box.me
 6stream.xyz
 70-lordfilm.ru
-720-lordfilm.online
 720p-izlet.com
 720pstream.me
 720pstream.se
