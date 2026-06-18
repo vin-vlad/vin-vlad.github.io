@@ -4,8 +4,136 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <title>Nomoads – DNS Ad Blocker App for Android & iOS</title>
-  <meta name="description" content="Nomoads is a DNS-based ad blocker app for Android and iOS that blocks ads, trackers, and malware system-wide. 100% on-device processing, no cloud VPN, no logs.">
+  <title>Nomoads – On-Device Ad Blocker for iOS and Android</title>
+  <meta name="description" content="Nomoads is a mobile ad blocker for iPhone and Android that filters ads, trackers, and malware across every app using on-device DNS blocking. No account required. Free Basic plan; Premium from $2.99/month.">
+  <link rel="canonical" href="https://nomoads.com/">
+  <meta property="og:title" content="Nomoads – On-Device Ad Blocker for iOS and Android">
+  <meta property="og:description" content="Nomoads filters ads and trackers in every app on your phone. All DNS filtering runs locally on your device—your browsing data never leaves your phone.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nomoads.com/">
+  <meta property="og:site_name" content="Nomoads">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Nomoads – On-Device Ad Blocker for iOS and Android">
+  <meta name="twitter:description" content="Nomoads filters ads and trackers in every app on your phone. All DNS filtering runs locally on your device.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://nomoads.com/#organization",
+        "name": "Nomoads",
+        "url": "https://nomoads.com/",
+        "logo": "https://nomoads.com/logo.png",
+        "description": "Nomoads develops privacy-first mobile ad blocking software for iOS and Android.",
+        "sameAs": []
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://nomoads.com/#website",
+        "url": "https://nomoads.com/",
+        "name": "Nomoads",
+        "description": "Official website for Nomoads, an on-device ad blocker for iOS and Android.",
+        "publisher": { "@id": "https://nomoads.com/#organization" },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://nomoads.com/#app",
+        "name": "Nomoads",
+        "applicationCategory": "SecurityApplication",
+        "operatingSystem": "iOS, Android",
+        "description": "Nomoads is a mobile ad blocker that uses on-device DNS filtering to block ads, trackers, and malware across every app on your phone. Filtering runs locally via a local VPN—no traffic is sent to external servers.",
+        "offers": [
+          {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "description": "Basic plan with essential ad blocking"
+          },
+          {
+            "@type": "Offer",
+            "price": "2.99",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "2.99",
+              "priceCurrency": "USD",
+              "billingDuration": "P1M"
+            },
+            "description": "Premium plan with advanced blocklists and per-app controls"
+          }
+        ],
+        "downloadUrl": [
+          "https://play.google.com/store/apps/details?id=com.crowstar.nomoads",
+          "https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049"
+        ],
+        "featureList": [
+          "System-wide DNS ad blocking across all apps",
+          "On-device filtering with no cloud proxy",
+          "Multiple protection levels and custom blocklists",
+          "Per-app exclusions and domain allowlists",
+          "Block statistics stored on device"
+        ],
+        "publisher": { "@id": "https://nomoads.com/#organization" }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://nomoads.com/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Nomoads?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nomoads is a mobile ad blocker for iOS and Android that filters ads and trackers at the DNS level across every app on your device. It uses a local VPN to intercept DNS requests and block known ad and tracker domains on-device."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Nomoads send my browsing data to a server?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. All DNS filtering and blocklist matching happen on your phone. Your DNS queries are not forwarded to Nomoads or any third-party server for filtering."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does Nomoads need VPN permission?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "iOS and Android require VPN permission for any app that filters DNS traffic system-wide. Nomoads uses the local VPN channel only—it does not route traffic through a remote VPN server."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Nomoads block ads inside apps, not just browsers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between Basic and Premium?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Nomoads available on iPhone?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Nomoads is available on the App Store for iPhone and on Google Play for Android."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -33,6 +161,7 @@
 
     html {
       scroll-behavior: smooth;
+      scroll-padding-top: 88px;
     }
 
     body {
@@ -49,8 +178,8 @@
       padding: 0 24px;
     }
 
-    /* Header */
-    header {
+    /* Site header (nav bar only — not section headers inside main) */
+    body > header {
       position: fixed;
       top: 0;
       left: 0;
@@ -99,15 +228,16 @@
     nav {
       display: flex;
       align-items: center;
-      gap: 32px;
+      gap: 20px;
     }
 
     nav a {
       color: var(--text-secondary);
       text-decoration: none;
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 500;
       transition: color 0.2s;
+      white-space: nowrap;
     }
 
     nav a:hover {
@@ -192,22 +322,23 @@
     }
 
     .hero h1 {
-      font-size: clamp(40px, 8vw, 72px);
+      font-size: clamp(28px, 4.5vw, 48px);
       font-weight: 800;
-      line-height: 1.1;
-      letter-spacing: -2px;
-      margin-bottom: 24px;
-      background: linear-gradient(135deg, var(--text-primary) 0%, var(--text-secondary) 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      line-height: 1.25;
+      letter-spacing: -1px;
+      margin-bottom: 20px;
+      color: var(--text-primary);
+      -webkit-text-fill-color: unset;
+      background: none;
     }
 
-    .hero h1 span {
-      background: linear-gradient(135deg, var(--gradient-1), var(--gradient-2));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+    .hero-lead {
+      font-size: clamp(17px, 2.2vw, 20px);
+      color: var(--text-secondary);
+      max-width: 680px;
+      margin: 0 auto 16px;
+      line-height: 1.6;
+      font-weight: 500;
     }
 
     .hero p {
@@ -265,28 +396,10 @@
       height: 20px;
     }
 
-    .app-store-badge-link {
-      display: inline-flex;
-      align-items: center;
-      line-height: 0;
-      border-radius: 8px;
-      transition: opacity 0.2s, transform 0.2s;
-    }
-
-    .app-store-badge-link:hover {
-      opacity: 0.92;
-      transform: translateY(-1px);
-    }
-
-    .app-store-badge-link:focus-visible {
-      outline: 2px solid var(--primary);
-      outline-offset: 4px;
-    }
-
-    .app-store-badge-link svg {
-      width: auto;
-      height: 40px;
-      display: block;
+    .btn-disabled {
+      opacity: 0.6;
+      cursor: default;
+      pointer-events: none;
     }
 
     .hero-stats {
@@ -302,19 +415,31 @@
       text-align: center;
     }
 
-    .hero-stat-value {
+    .hero-stat-value,
+    .hero-stat dt {
       font-size: 32px;
       font-weight: 700;
       color: var(--primary);
       margin-bottom: 4px;
     }
 
-    .hero-stat-label {
+    .hero-stat-label,
+    .hero-stat dd {
       font-size: 14px;
       color: var(--text-tertiary);
+      margin: 0;
     }
 
     /* Features Section */
+    .features,
+    .how-it-works,
+    .comparison,
+    .faq,
+    .privacy,
+    .cta {
+      scroll-margin-top: 88px;
+    }
+
     .features {
       padding: 120px 0;
       position: relative;
@@ -337,10 +462,11 @@
     }
 
     .section-title {
-      font-size: clamp(32px, 5vw, 48px);
+      font-size: clamp(28px, 4vw, 40px);
       font-weight: 700;
-      letter-spacing: -1px;
+      letter-spacing: -0.5px;
       margin-bottom: 20px;
+      line-height: 1.2;
     }
 
     .section-desc {
@@ -410,6 +536,8 @@
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 32px;
       margin-top: 64px;
+      list-style: none;
+      padding: 0;
     }
 
     .step {
@@ -742,7 +870,7 @@
       }
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 1100px) {
       nav {
         position: fixed;
         top: 0;
@@ -773,6 +901,7 @@
       nav a {
         font-size: 24px;
         font-weight: 600;
+        white-space: normal;
       }
 
       nav .nav-cta {
@@ -797,7 +926,9 @@
       .mobile-menu-btn .menu-icon-close {
         display: none;
       }
+    }
 
+    @media (max-width: 768px) {
       .hero {
         padding: 100px 0 60px;
       }
@@ -825,19 +956,138 @@
         text-align: center;
       }
     }
+
+    /* FAQ Section */
+    .faq {
+      padding: 120px 0;
+    }
+
+    .faq-list {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .faq-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 28px;
+    }
+
+    .faq-item h3 {
+      font-size: 17px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      letter-spacing: -0.2px;
+      line-height: 1.35;
+    }
+
+    .faq-short-answer {
+      font-size: 15px;
+      color: var(--text-primary);
+      margin-bottom: 10px;
+      font-weight: 500;
+      line-height: 1.5;
+    }
+
+    .faq-explanation {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+
+    /* Comparison Section */
+    .comparison {
+      padding: 120px 0;
+      background: linear-gradient(180deg, transparent, rgba(77, 61, 255, 0.02), transparent);
+    }
+
+    .comparison-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .comparison-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 28px;
+    }
+
+    .comparison-card h3 {
+      font-size: 17px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      line-height: 1.35;
+    }
+
+    .comparison-card ul {
+      list-style: none;
+    }
+
+    .comparison-card li {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 8px 0;
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    .comparison-card li svg {
+      width: 18px;
+      height: 18px;
+      color: var(--primary);
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .comparison-highlight {
+      border-color: rgba(0, 255, 102, 0.3);
+      background: linear-gradient(135deg, rgba(0, 255, 102, 0.06), rgba(77, 61, 255, 0.06));
+    }
+
+    .faq-explanation a,
+    .step-desc a {
+      color: var(--primary);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .faq-explanation a:hover,
+    .step-desc a:hover {
+      color: var(--text-primary);
+    }
+
+    @media (max-width: 900px) {
+      .comparison-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .faq-item {
+        padding: 20px 22px;
+      }
+    }
   </style>
 </head>
 <body>
   <!-- Header -->
   <header>
     <div class="container header-inner">
-      <a href="#" class="logo">
+      <a href="https://nomoads.com/" class="logo">
         <div class="logo-icon">N</div>
         <span class="logo-text">Nomoads</span>
       </a>
-      <nav>
+      <nav aria-label="Main navigation">
         <a href="#features">Features</a>
         <a href="#how-it-works">How It Works</a>
+        <a href="#comparison">Compare</a>
+        <a href="#faq">FAQ</a>
         <a href="#privacy">Privacy</a>
         <a href="#download" class="nav-cta">Download</a>
       </nav>
@@ -852,218 +1102,299 @@
     </div>
   </header>
 
+  <main id="main-content">
+
   <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-bg"></div>
+  <section class="hero" aria-labelledby="hero-heading">
+    <div class="hero-bg" aria-hidden="true"></div>
     <div class="container">
       <div class="hero-content">
         <div class="hero-badge">
-          <span class="hero-badge-dot"></span>
-          DNS ad blocker app for Android &amp; iOS
+          <span class="hero-badge-dot" aria-hidden="true"></span>
+          Available on iOS &amp; Android
         </div>
-        <h1>System-wide <span>DNS Ad Blocker</span> for Android &amp; iOS</h1>
-        <p>Nomoads is a DNS-based ad blocker app that filters ads, trackers, and malware at the network level on Android and iOS. All processing happens locally on your device — no traffic is proxied or sent to external VPN servers.</p>
+        <h1 id="hero-heading">Nomoads: on-device ad blocker for iPhone and Android</h1>
+        <p class="hero-lead">Nomoads stops ads and trackers in every app on your phone—without sending your browsing data to the cloud.</p>
+        <p>It uses a local VPN to filter DNS requests on your device. Blocklists run entirely on your phone, so ad domains are blocked in Safari, Chrome, games, and social apps alike. No account is required to start.</p>
         <div class="hero-buttons">
-          <a href="https://apps.apple.com/es/app/nomoads/id6759786049" class="app-store-badge-link" target="_blank" rel="noopener noreferrer" aria-label="Download on the App Store">
-            <svg xmlns="http://www.w3.org/2000/svg" width="119.66407" height="40" viewBox="0 0 119.66407 40" role="img" aria-hidden="true">
-              <g>
-                <g>
-                  <g>
-                    <path d="M110.13477,0H9.53468c-.3667,0-.729,0-1.09473.002-.30615.002-.60986.00781-.91895.0127A13.21476,13.21476,0,0,0,5.5171.19141a6.66509,6.66509,0,0,0-1.90088.627A6.43779,6.43779,0,0,0,1.99757,1.99707,6.25844,6.25844,0,0,0,.81935,3.61816a6.60119,6.60119,0,0,0-.625,1.90332,12.993,12.993,0,0,0-.1792,2.002C.00587,7.83008.00489,8.1377,0,8.44434V31.5586c.00489.3105.00587.6113.01515.9219a12.99232,12.99232,0,0,0,.1792,2.0019,6.58756,6.58756,0,0,0,.625,1.9043A6.20778,6.20778,0,0,0,1.99757,38.001a6.27445,6.27445,0,0,0,1.61865,1.1787,6.70082,6.70082,0,0,0,1.90088.6308,13.45514,13.45514,0,0,0,2.0039.1768c.30909.0068.6128.0107.91895.0107C8.80567,40,9.168,40,9.53468,40H110.13477c.3594,0,.7246,0,1.084-.002.3047,0,.6172-.0039.9219-.0107a13.279,13.279,0,0,0,2-.1768,6.80432,6.80432,0,0,0,1.9082-.6308,6.27742,6.27742,0,0,0,1.6172-1.1787,6.39482,6.39482,0,0,0,1.1816-1.6143,6.60413,6.60413,0,0,0,.6191-1.9043,13.50643,13.50643,0,0,0,.1856-2.0019c.0039-.3106.0039-.6114.0039-.9219.0078-.3633.0078-.7246.0078-1.0938V9.53613c0-.36621,0-.72949-.0078-1.09179,0-.30664,0-.61426-.0039-.9209a13.5071,13.5071,0,0,0-.1856-2.002,6.6177,6.6177,0,0,0-.6191-1.90332,6.46619,6.46619,0,0,0-2.7988-2.7998,6.76754,6.76754,0,0,0-1.9082-.627,13.04394,13.04394,0,0,0-2-.17676c-.3047-.00488-.6172-.01074-.9219-.01269-.3594-.002-.7246-.002-1.084-.002Z" style="fill: #a6a6a6"/>
-                    <path d="M8.44483,39.125c-.30468,0-.602-.0039-.90429-.0107a12.68714,12.68714,0,0,1-1.86914-.1631,5.88381,5.88381,0,0,1-1.65674-.5479,5.40573,5.40573,0,0,1-1.397-1.0166,5.32082,5.32082,0,0,1-1.02051-1.3965,5.72186,5.72186,0,0,1-.543-1.6572,12.41351,12.41351,0,0,1-.1665-1.875c-.00634-.2109-.01464-.9131-.01464-.9131V8.44434S.88185,7.75293.8877,7.5498a12.37039,12.37039,0,0,1,.16553-1.87207,5.7555,5.7555,0,0,1,.54346-1.6621A5.37349,5.37349,0,0,1,2.61183,2.61768,5.56543,5.56543,0,0,1,4.01417,1.59521a5.82309,5.82309,0,0,1,1.65332-.54394A12.58589,12.58589,0,0,1,7.543.88721L8.44532.875H111.21387l.9131.0127a12.38493,12.38493,0,0,1,1.8584.16259,5.93833,5.93833,0,0,1,1.6709.54785,5.59374,5.59374,0,0,1,2.415,2.41993,5.76267,5.76267,0,0,1,.5352,1.64892,12.995,12.995,0,0,1,.1738,1.88721c.0029.2832.0029.5874.0029.89014.0079.375.0079.73193.0079,1.09179V30.4648c0,.3633,0,.7178-.0079,1.0752,0,.3252,0,.6231-.0039.9297a12.73126,12.73126,0,0,1-.1709,1.8535,5.739,5.739,0,0,1-.54,1.67,5.48029,5.48029,0,0,1-1.0156,1.3857,5.4129,5.4129,0,0,1-1.3994,1.0225,5.86168,5.86168,0,0,1-1.668.5498,12.54218,12.54218,0,0,1-1.8692.1631c-.2929.0068-.5996.0107-.8974.0107l-1.084.002Z"/>
-                  </g>
-                  <g data-name="&lt;Group&gt;">
-                    <g data-name="&lt;Group&gt;">
-                      <g data-name="&lt;Group&gt;">
-                        <path data-name="&lt;Path&gt;" d="M24.76888,20.30068a4.94881,4.94881,0,0,1,2.35656-4.15206,5.06566,5.06566,0,0,0-3.99116-2.15768c-1.67924-.17626-3.30719,1.00483-4.1629,1.00483-.87227,0-2.18977-.98733-3.6085-.95814a5.31529,5.31529,0,0,0-4.47292,2.72787c-1.934,3.34842-.49141,8.26947,1.3612,10.97608.9269,1.32535,2.01018,2.8058,3.42763,2.7533,1.38706-.05753,1.9051-.88448,3.5794-.88448,1.65876,0,2.14479.88448,3.591.8511,1.48838-.02416,2.42613-1.33124,3.32051-2.66914a10.962,10.962,0,0,0,1.51842-3.09251A4.78205,4.78205,0,0,1,24.76888,20.30068Z" style="fill: #fff"/>
-                        <path data-name="&lt;Path&gt;" d="M22.03725,12.21089a4.87248,4.87248,0,0,0,1.11452-3.49062,4.95746,4.95746,0,0,0-3.20758,1.65961,4.63634,4.63634,0,0,0-1.14371,3.36139A4.09905,4.09905,0,0,0,22.03725,12.21089Z" style="fill: #fff"/>
-                      </g>
-                    </g>
-                    <g>
-                      <path d="M42.30227,27.13965h-4.7334l-1.13672,3.35645H34.42727l4.4834-12.418h2.083l4.4834,12.418H43.438ZM38.0591,25.59082h3.752l-1.84961-5.44727h-.05176Z" style="fill: #fff"/>
-                      <path d="M55.15969,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H48.4302v1.50586h.03418a3.21162,3.21162,0,0,1,2.88281-1.60059C53.645,21.34766,55.15969,23.16406,55.15969,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C52.30227,29.01563,53.24953,27.81934,53.24953,25.96973Z" style="fill: #fff"/>
-                      <path d="M65.12453,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H58.395v1.50586h.03418A3.21162,3.21162,0,0,1,61.312,21.34766C63.60988,21.34766,65.12453,23.16406,65.12453,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C62.26711,29.01563,63.21438,27.81934,63.21438,25.96973Z" style="fill: #fff"/>
-                      <path d="M71.71047,27.03613c.1377,1.23145,1.334,2.04,2.96875,2.04,1.56641,0,2.69336-.80859,2.69336-1.91895,0-.96387-.67969-1.541-2.28906-1.93652l-1.60937-.3877c-2.28027-.55078-3.33887-1.61719-3.33887-3.34766,0-2.14258,1.86719-3.61426,4.51855-3.61426,2.624,0,4.42285,1.47168,4.4834,3.61426h-1.876c-.1123-1.23926-1.13672-1.9873-2.63379-1.9873s-2.52148.75684-2.52148,1.8584c0,.87793.6543,1.39453,2.25488,1.79l1.36816.33594c2.54785.60254,3.60645,1.626,3.60645,3.44238,0,2.32324-1.85059,3.77832-4.79395,3.77832-2.75391,0-4.61328-1.4209-4.7334-3.667Z" style="fill: #fff"/>
-                      <path d="M83.34621,19.2998v2.14258h1.72168v1.47168H83.34621v4.99121c0,.77539.34473,1.13672,1.10156,1.13672a5.80752,5.80752,0,0,0,.61133-.043v1.46289a5.10351,5.10351,0,0,1-1.03223.08594c-1.833,0-2.54785-.68848-2.54785-2.44434V22.91406H80.16262V21.44238H81.479V19.2998Z" style="fill: #fff"/>
-                      <path d="M86.065,25.96973c0-2.84863,1.67773-4.63867,4.29395-4.63867,2.625,0,4.29492,1.79,4.29492,4.63867,0,2.85645-1.66113,4.63867-4.29492,4.63867C87.72609,30.6084,86.065,28.82617,86.065,25.96973Zm6.69531,0c0-1.9541-.89551-3.10742-2.40137-3.10742s-2.40039,1.16211-2.40039,3.10742c0,1.96191.89453,3.10645,2.40039,3.10645S92.76027,27.93164,92.76027,25.96973Z" style="fill: #fff"/>
-                      <path d="M96.18606,21.44238h1.77246v1.541h.043a2.1594,2.1594,0,0,1,2.17773-1.63574,2.86616,2.86616,0,0,1,.63672.06934v1.73828a2.59794,2.59794,0,0,0-.835-.1123,1.87264,1.87264,0,0,0-1.93652,2.083v5.37012h-1.8584Z" style="fill: #fff"/>
-                      <path d="M109.3843,27.83691c-.25,1.64355-1.85059,2.77148-3.89844,2.77148-2.63379,0-4.26855-1.76465-4.26855-4.5957,0-2.83984,1.64355-4.68164,4.19043-4.68164,2.50488,0,4.08008,1.7207,4.08008,4.46582v.63672h-6.39453v.1123a2.358,2.358,0,0,0,2.43555,2.56445,2.04834,2.04834,0,0,0,2.09082-1.27344Zm-6.28223-2.70215h4.52637a2.1773,2.1773,0,0,0-2.2207-2.29785A2.292,2.292,0,0,0,103.10207,25.13477Z" style="fill: #fff"/>
-                    </g>
-                  </g>
-                </g>
-                <g data-name="&lt;Group&gt;">
-                  <g>
-                    <path d="M37.82619,8.731a2.63964,2.63964,0,0,1,2.80762,2.96484c0,1.90625-1.03027,3.002-2.80762,3.002H35.67092V8.731Zm-1.22852,5.123h1.125a1.87588,1.87588,0,0,0,1.96777-2.146,1.881,1.881,0,0,0-1.96777-2.13379h-1.125Z" style="fill: #fff"/>
-                    <path d="M41.68068,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C44.57522,13.99463,45.01369,13.42432,45.01369,12.44434Z" style="fill: #fff"/>
-                    <path d="M51.57326,14.69775h-.92187l-.93066-3.31641h-.07031l-.92676,3.31641h-.91309l-1.24121-4.50293h.90137l.80664,3.436h.06641l.92578-3.436h.85254l.92578,3.436h.07031l.80273-3.436h.88867Z" style="fill: #fff"/>
-                    <path d="M53.85354,10.19482H54.709v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915h-.88867V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
-                    <path d="M59.09377,8.437h.88867v6.26074h-.88867Z" style="fill: #fff"/>
-                    <path d="M61.21779,12.44434a2.13346,2.13346,0,1,1,4.24756,0,2.1338,2.1338,0,1,1-4.24756,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C64.11232,13.99463,64.5508,13.42432,64.5508,12.44434Z" style="fill: #fff"/>
-                    <path d="M66.4009,13.42432c0-.81055.60352-1.27783,1.6748-1.34424l1.21973-.07031v-.38867c0-.47559-.31445-.74414-.92187-.74414-.49609,0-.83984.18213-.93848.50049h-.86035c.09082-.77344.81836-1.26953,1.83984-1.26953,1.12891,0,1.76563.562,1.76563,1.51318v3.07666h-.85547v-.63281h-.07031a1.515,1.515,0,0,1-1.35254.707A1.36026,1.36026,0,0,1,66.4009,13.42432Zm2.89453-.38477v-.37646l-1.09961.07031c-.62012.0415-.90137.25244-.90137.64941,0,.40527.35156.64111.835.64111A1.0615,1.0615,0,0,0,69.29543,13.03955Z" style="fill: #fff"/>
-                    <path d="M71.34816,12.44434c0-1.42285.73145-2.32422,1.86914-2.32422a1.484,1.484,0,0,1,1.38086.79h.06641V8.437h.88867v6.26074h-.85156v-.71143h-.07031a1.56284,1.56284,0,0,1-1.41406.78564C72.0718,14.772,71.34816,13.87061,71.34816,12.44434Zm.918,0c0,.95508.4502,1.52979,1.20313,1.52979.749,0,1.21191-.583,1.21191-1.52588,0-.93848-.46777-1.52979-1.21191-1.52979C72.72121,10.91846,72.26613,11.49707,72.26613,12.44434Z" style="fill: #fff"/>
-                    <path d="M79.23,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C82.12453,13.99463,82.563,13.42432,82.563,12.44434Z" style="fill: #fff"/>
-                    <path d="M84.66945,10.19482h.85547v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915H87.605V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
-                    <path d="M93.51516,9.07373v1.1416h.97559v.74854h-.97559V13.2793c0,.47168.19434.67822.63672.67822a2.96657,2.96657,0,0,0,.33887-.02051v.74023a2.9155,2.9155,0,0,1-.4834.04541c-.98828,0-1.38184-.34766-1.38184-1.21582v-2.543h-.71484v-.74854h.71484V9.07373Z" style="fill: #fff"/>
-                    <path d="M95.70461,8.437h.88086v2.48145h.07031a1.3856,1.3856,0,0,1,1.373-.80664,1.48339,1.48339,0,0,1,1.55078,1.67871v2.90723H98.69v-2.688c0-.71924-.335-1.0835-.96289-1.0835a1.05194,1.05194,0,0,0-1.13379,1.1416v2.62988h-.88867Z" style="fill: #fff"/>
-                    <path d="M104.76125,13.48193a1.828,1.828,0,0,1-1.95117,1.30273A2.04531,2.04531,0,0,1,100.73,12.46045a2.07685,2.07685,0,0,1,2.07617-2.35254c1.25293,0,2.00879.856,2.00879,2.27V12.688h-3.17969v.0498a1.1902,1.1902,0,0,0,1.19922,1.29,1.07934,1.07934,0,0,0,1.07129-.5459Zm-3.126-1.45117h2.27441a1.08647,1.08647,0,0,0-1.1084-1.1665A1.15162,1.15162,0,0,0,101.63527,12.03076Z" style="fill: #fff"/>
-                  </g>
-                </g>
-              </g>
-            </svg>
+          <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+            App Store
           </a>
           <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
+            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
             Google Play
           </a>
         </div>
-        <div class="hero-stats">
+        <dl class="hero-stats">
           <div class="hero-stat">
-            <div class="hero-stat-value">100K+</div>
-            <div class="hero-stat-label">Domains Blocked</div>
+            <dt class="hero-stat-value">100K+</dt>
+            <dd class="hero-stat-label">Domains in blocklists</dd>
           </div>
           <div class="hero-stat">
-            <div class="hero-stat-value">100%</div>
-            <div class="hero-stat-label">On-Device Processing</div>
+            <dt class="hero-stat-value">100%</dt>
+            <dd class="hero-stat-label">On-device DNS filtering</dd>
           </div>
           <div class="hero-stat">
-            <div class="hero-stat-value">Zero</div>
-            <div class="hero-stat-label">Data Collected</div>
+            <dt class="hero-stat-value">Zero</dt>
+            <dd class="hero-stat-label">Browsing data sent to servers</dd>
           </div>
-        </div>
+        </dl>
       </div>
     </div>
   </section>
 
   <!-- Features Section -->
-  <section class="features" id="features">
+  <section class="features" id="features" aria-labelledby="features-heading">
     <div class="container">
       <div class="section-header">
         <span class="section-label">Features</span>
-        <h2 class="section-title">Everything you need to browse privately</h2>
-        <p class="section-desc">Powerful ad and tracker blocking with complete transparency. No hidden servers, no data collection.</p>
+        <h2 class="section-title" id="features-heading">What Nomoads does on your phone</h2>
+        <p class="section-desc">Nomoads blocks ad and tracker domains at the DNS level across every app. Each feature below describes a specific capability, who it helps, and a concrete example.</p>
       </div>
       <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon">
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
           </div>
-          <h3 class="feature-title">System-Wide Protection</h3>
-          <p class="feature-desc">Blocks ads and trackers across all apps and browsers on your device using local VPN filtering.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">
+          <h3 class="feature-title">System-wide ad blocking</h3>
+          <p class="feature-desc">Intercepts DNS requests from all apps via a local VPN and blocks known ad domains. Useful for mobile gamers and social media users who see ads inside apps, not just browsers—for example, blocking in-game ad network requests in a free puzzle app.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/></svg>
           </div>
-          <h3 class="feature-title">Privacy First</h3>
-          <p class="feature-desc">No logging, no analytics, no data leaves your device. Everything is processed locally.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">
+          <h3 class="feature-title">On-device privacy</h3>
+          <p class="feature-desc">DNS filtering and blocklist matching happen entirely on your phone—no proxy server receives your traffic. Privacy-conscious users can browse without a third party logging domain lookups; your DNS queries never leave the device for filtering.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg>
           </div>
-          <h3 class="feature-title">Multiple Blocklists</h3>
-          <p class="feature-desc">Choose from pre-configured protection levels or add your own custom blocklists.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">
+          <h3 class="feature-title">Adjustable protection levels</h3>
+          <p class="feature-desc">Pick from Basic through Ultimate blocklist presets, or add custom blocklist URLs. Parents can switch to a stricter level to block gambling or adult-content domains; casual users can stay on Basic for standard ad blocking.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"/></svg>
           </div>
-          <h3 class="feature-title">Per-App Control</h3>
-          <p class="feature-desc">Exclude specific apps from protection when needed. Full control at your fingertips.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">
+          <h3 class="feature-title">Per-app exclusions</h3>
+          <p class="feature-desc">Exclude specific apps from DNS filtering when a service breaks under blocking. Banking app users, for example, can exclude their bank's app so login flows are unaffected while ads stay blocked everywhere else.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
           </div>
-          <h3 class="feature-title">Allowlist Support</h3>
-          <p class="feature-desc">Whitelist domains you trust. Perfect for sites that require disabling ad blockers.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">
+          <h3 class="feature-title">Domain allowlist</h3>
+          <p class="feature-desc">Whitelist trusted domains that should never be blocked. News readers who support ad-funded sites can allowlist a publisher's domain so paywalled content loads while trackers on other sites stay blocked.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
           </div>
-          <h3 class="feature-title">Fast & Efficient</h3>
-          <p class="feature-desc">Optimized hash-based engine for minimal battery impact and instant DNS lookups.</p>
-        </div>
+          <h3 class="feature-title">Low-overhead DNS engine</h3>
+          <p class="feature-desc">Uses a hash-based domain lookup engine designed for fast DNS resolution with minimal battery use. Daily phone users notice fewer ad loads without the slowdown that heavier content filters can cause.</p>
+        </article>
       </div>
     </div>
   </section>
 
   <!-- How It Works -->
-  <section class="how-it-works" id="how-it-works">
+  <section class="how-it-works" id="how-it-works" aria-labelledby="how-heading">
     <div class="container">
       <div class="section-header">
         <span class="section-label">How It Works</span>
-        <h2 class="section-title">Simple setup, powerful protection</h2>
-        <p class="section-desc">Get started in seconds with just a few taps.</p>
+        <h2 class="section-title" id="how-heading">How to set up Nomoads in three steps</h2>
+        <p class="section-desc">Nomoads activates as a local VPN that filters DNS requests. Setup takes about one minute and does not require creating an account.</p>
       </div>
-      <div class="steps">
-        <div class="step">
-          <div class="step-number">1</div>
-          <h3 class="step-title">Download the App</h3>
-          <p class="step-desc">Get Nomoads from the App Store or Google Play Store. It's free to download.</p>
-        </div>
-        <div class="step">
-          <div class="step-number">2</div>
-          <h3 class="step-title">Enable Protection</h3>
-          <p class="step-desc">Tap the power button and allow VPN configuration. No account needed.</p>
-        </div>
-        <div class="step">
-          <div class="step-number">3</div>
-          <h3 class="step-title">Browse Freely</h3>
-          <p class="step-desc">Enjoy ad-free browsing across all your apps. Watch your block count grow.</p>
-        </div>
+      <ol class="steps">
+        <li class="step">
+          <div class="step-number" aria-hidden="true">1</div>
+          <h3 class="step-title">Download the app</h3>
+          <p class="step-desc">Install Nomoads from the <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049">App Store</a> (iOS) or <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads">Google Play</a> (Android). The Basic ad-blocking plan is free.</p>
+        </li>
+        <li class="step">
+          <div class="step-number" aria-hidden="true">2</div>
+          <h3 class="step-title">Enable protection</h3>
+          <p class="step-desc">Tap the toggle and approve the local VPN permission when prompted. Nomoads only uses the VPN interface to filter DNS—it does not route your traffic through a remote server.</p>
+        </li>
+        <li class="step">
+          <div class="step-number" aria-hidden="true">3</div>
+          <h3 class="step-title">Use your phone normally</h3>
+          <p class="step-desc">Open any app or browser. Nomoads blocks ad and tracker domains automatically and shows a running count of blocked requests on the protection screen.</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- Comparison Section -->
+  <section class="comparison" id="comparison" aria-labelledby="comparison-heading">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Compare</span>
+        <h2 class="section-title" id="comparison-heading">Why choose Nomoads over other ad blockers</h2>
+        <p class="section-desc">Nomoads is a mobile DNS ad blocker with on-device filtering. Here is how it differs from common alternatives.</p>
+      </div>
+      <div class="comparison-grid">
+        <article class="comparison-card comparison-highlight">
+          <h3>Nomoads (on-device DNS blocker)</h3>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Blocks ads in every app on your phone, not just one browser
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Filters DNS locally—your domain lookups are not sent to a cloud service for blocking
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Free Basic tier with optional Premium ($2.99/month) for advanced blocklists
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Per-app exclusions and domain allowlists included
+            </li>
+          </ul>
+        </article>
+        <article class="comparison-card">
+          <h3>Browser extensions (uBlock Origin, AdBlock)</h3>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+              Only block ads inside the browser where the extension is installed
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+              Do not affect in-app ads in games, social apps, or news readers
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Can remove page elements that DNS blocking cannot reach
+            </li>
+          </ul>
+        </article>
+        <article class="comparison-card">
+          <h3>Cloud DNS blockers (NextDNS, AdGuard DNS)</h3>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Block ads system-wide by routing DNS through a remote resolver
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+              Send every DNS query to their servers for filtering decisions
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Nomoads keeps filtering on your phone instead, so no third party sees your DNS lookups
+            </li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="faq" id="faq" aria-labelledby="faq-heading">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">FAQ</span>
+        <h2 class="section-title" id="faq-heading">Nomoads FAQ</h2>
+        <p class="section-desc">Answers to common questions about how Nomoads works, what it blocks, and how it handles your data.</p>
+      </div>
+      <div class="faq-list">
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">What is Nomoads?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Nomoads is a mobile ad blocker for iOS and Android that filters ads and trackers at the DNS level across every app on your device.</span></p>
+          <p class="faq-explanation">Unlike browser-only extensions, Nomoads uses a local VPN to intercept DNS requests from all apps. When an app tries to reach a known ad or tracker domain, Nomoads blocks the lookup before the connection is made.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">Does Nomoads send my browsing data to a server?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">No. All DNS filtering and blocklist matching happen on your phone.</span></p>
+          <p class="faq-explanation">Nomoads uses a local VPN interface only to access DNS traffic on your device. Your queries are checked against on-device blocklists—they are not forwarded to Nomoads or any third-party server for filtering.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">Why does Nomoads need VPN permission?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">iOS and Android require VPN permission for any app that filters DNS traffic system-wide.</span></p>
+          <p class="faq-explanation">The VPN permission lets Nomoads inspect DNS requests from every app. Nomoads does not route your internet traffic through a remote VPN server—it only uses the local VPN channel to block ad domains on-device.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">What types of content does Nomoads block?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Nomoads blocks ad networks, trackers, and malware domains listed in its blocklists.</span></p>
+          <p class="faq-explanation">The Basic plan includes a standard ad-blocking list. Premium adds protection levels for gambling, social media trackers, NSFW content, and the ability to import custom blocklist URLs. You can also allowlist specific domains you want to keep accessible.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">Can Nomoads block ads inside apps, not just browsers?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network.</span></p>
+          <p class="faq-explanation">Browser extensions only work inside one browser. Nomoads intercepts DNS requests from all apps, so in-game ad networks and in-app banner trackers are blocked the same way as web ads.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">What is the difference between Basic and Premium?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions.</span></p>
+          <p class="faq-explanation">Basic covers everyday ad and tracker blocking for most users. Premium is for people who want stricter filtering (e.g., blocking gambling sites), custom lists, or fine-grained control over which apps are filtered.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">Will Nomoads break my banking or work apps?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Most apps work normally. If an app has issues, you can exclude it from filtering in Premium settings.</span></p>
+          <p class="faq-explanation">Some apps with strict network checks may behave differently under DNS filtering. Nomoads lets Premium users exclude specific apps so those apps bypass the filter while protection stays active everywhere else.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">Is Nomoads available on iPhone?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Yes. Nomoads is available on the App Store for iPhone and on Google Play for Android.</span></p>
+          <p class="faq-explanation">Download Nomoads from the <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads">Google Play</a>. Both versions use on-device DNS filtering via Apple's Network Extension (iOS) or Android's VpnService.</p>
+        </article>
       </div>
     </div>
   </section>
 
   <!-- Privacy Section -->
-  <section class="privacy" id="privacy">
+  <section class="privacy" id="privacy" aria-labelledby="privacy-heading">
     <div class="container">
       <div class="privacy-grid">
-        <div class="privacy-content">
-          <h2>Your privacy is our priority</h2>
-          <p>Unlike cloud-based blockers, Nomoads processes all DNS queries locally on your device. We can't see your traffic because we never receive it.</p>
+        <article class="privacy-content">
+          <h2 id="privacy-heading">How Nomoads handles your privacy</h2>
+          <p>Nomoads processes DNS queries on your device instead of routing them through cloud servers. The app cannot see your full browsing history because it only inspects domain names at the DNS layer—and that inspection happens locally.</p>
           <ul class="privacy-list">
             <li>
               <div class="privacy-list-icon">
                 <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
               </div>
               <div class="privacy-list-text">
-                <strong>No cloud servers</strong>
-                <span>All filtering happens on your device</span>
+                <strong>No cloud filtering servers</strong>
+                <span>Blocklist matching runs on your phone, not on Nomoads infrastructure</span>
               </div>
             </li>
             <li>
               <div class="privacy-list-icon">
-                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
               </div>
               <div class="privacy-list-text">
-                <strong>No traffic logging</strong>
-                <span>We don't track or store your browsing history</span>
+                <strong>No browsing history stored</strong>
+                <span>DNS queries are checked and discarded—they are not logged or uploaded</span>
               </div>
             </li>
             <li>
               <div class="privacy-list-icon">
-                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
               </div>
               <div class="privacy-list-text">
-                <strong>No analytics SDKs</strong>
-                <span>Zero third-party trackers in our app</span>
+                <strong>No third-party analytics on traffic</strong>
+                <span>Block counts are stored on-device only and are not tied to your identity</span>
               </div>
             </li>
             <li>
               <div class="privacy-list-icon">
-                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
               </div>
               <div class="privacy-list-text">
-                <strong>Open blocklists</strong>
-                <span>Transparent, community-driven filter lists</span>
+                <strong>Public blocklist sources</strong>
+                <span>Filter lists follow open, community-maintained formats you can inspect</span>
               </div>
             </li>
           </ul>
-        </div>
-        <div class="privacy-visual">
+        </article>
+        <div class="privacy-visual" aria-hidden="true">
           <div class="privacy-graphic" id="privacy-graphic">
             <div class="privacy-sonar">
               <div class="privacy-pulse"></div>
@@ -1079,135 +1410,62 @@
   </section>
 
   <!-- CTA Section -->
-  <section class="cta" id="download">
+  <section class="cta" id="download" aria-labelledby="cta-heading">
     <div class="container">
       <div class="cta-box">
-        <h2>Ready to browse without ads?</h2>
-        <p>Download Nomoads today and take back control of your digital experience.</p>
+        <h2 id="cta-heading">Download Nomoads</h2>
+        <p>Nomoads blocks ads and trackers in every app on your phone. Install from the App Store or Google Play and enable protection in one tap—no account required.</p>
         <div class="cta-buttons">
-          <a href="https://apps.apple.com/es/app/nomoads/id6759786049" class="app-store-badge-link" target="_blank" rel="noopener noreferrer" aria-label="Download on the App Store">
-            <svg xmlns="http://www.w3.org/2000/svg" width="119.66407" height="40" viewBox="0 0 119.66407 40" role="img" aria-hidden="true">
-              <g>
-                <g>
-                  <g>
-                    <path d="M110.13477,0H9.53468c-.3667,0-.729,0-1.09473.002-.30615.002-.60986.00781-.91895.0127A13.21476,13.21476,0,0,0,5.5171.19141a6.66509,6.66509,0,0,0-1.90088.627A6.43779,6.43779,0,0,0,1.99757,1.99707,6.25844,6.25844,0,0,0,.81935,3.61816a6.60119,6.60119,0,0,0-.625,1.90332,12.993,12.993,0,0,0-.1792,2.002C.00587,7.83008.00489,8.1377,0,8.44434V31.5586c.00489.3105.00587.6113.01515.9219a12.99232,12.99232,0,0,0,.1792,2.0019,6.58756,6.58756,0,0,0,.625,1.9043A6.20778,6.20778,0,0,0,1.99757,38.001a6.27445,6.27445,0,0,0,1.61865,1.1787,6.70082,6.70082,0,0,0,1.90088.6308,13.45514,13.45514,0,0,0,2.0039.1768c.30909.0068.6128.0107.91895.0107C8.80567,40,9.168,40,9.53468,40H110.13477c.3594,0,.7246,0,1.084-.002.3047,0,.6172-.0039.9219-.0107a13.279,13.279,0,0,0,2-.1768,6.80432,6.80432,0,0,0,1.9082-.6308,6.27742,6.27742,0,0,0,1.6172-1.1787,6.39482,6.39482,0,0,0,1.1816-1.6143,6.60413,6.60413,0,0,0,.6191-1.9043,13.50643,13.50643,0,0,0,.1856-2.0019c.0039-.3106.0039-.6114.0039-.9219.0078-.3633.0078-.7246.0078-1.0938V9.53613c0-.36621,0-.72949-.0078-1.09179,0-.30664,0-.61426-.0039-.9209a13.5071,13.5071,0,0,0-.1856-2.002,6.6177,6.6177,0,0,0-.6191-1.90332,6.46619,6.46619,0,0,0-2.7988-2.7998,6.76754,6.76754,0,0,0-1.9082-.627,13.04394,13.04394,0,0,0-2-.17676c-.3047-.00488-.6172-.01074-.9219-.01269-.3594-.002-.7246-.002-1.084-.002Z" style="fill: #a6a6a6"/>
-                    <path d="M8.44483,39.125c-.30468,0-.602-.0039-.90429-.0107a12.68714,12.68714,0,0,1-1.86914-.1631,5.88381,5.88381,0,0,1-1.65674-.5479,5.40573,5.40573,0,0,1-1.397-1.0166,5.32082,5.32082,0,0,1-1.02051-1.3965,5.72186,5.72186,0,0,1-.543-1.6572,12.41351,12.41351,0,0,1-.1665-1.875c-.00634-.2109-.01464-.9131-.01464-.9131V8.44434S.88185,7.75293.8877,7.5498a12.37039,12.37039,0,0,1,.16553-1.87207,5.7555,5.7555,0,0,1,.54346-1.6621A5.37349,5.37349,0,0,1,2.61183,2.61768,5.56543,5.56543,0,0,1,4.01417,1.59521a5.82309,5.82309,0,0,1,1.65332-.54394A12.58589,12.58589,0,0,1,7.543.88721L8.44532.875H111.21387l.9131.0127a12.38493,12.38493,0,0,1,1.8584.16259,5.93833,5.93833,0,0,1,1.6709.54785,5.59374,5.59374,0,0,1,2.415,2.41993,5.76267,5.76267,0,0,1,.5352,1.64892,12.995,12.995,0,0,1,.1738,1.88721c.0029.2832.0029.5874.0029.89014.0079.375.0079.73193.0079,1.09179V30.4648c0,.3633,0,.7178-.0079,1.0752,0,.3252,0,.6231-.0039.9297a12.73126,12.73126,0,0,1-.1709,1.8535,5.739,5.739,0,0,1-.54,1.67,5.48029,5.48029,0,0,1-1.0156,1.3857,5.4129,5.4129,0,0,1-1.3994,1.0225,5.86168,5.86168,0,0,1-1.668.5498,12.54218,12.54218,0,0,1-1.8692.1631c-.2929.0068-.5996.0107-.8974.0107l-1.084.002Z"/>
-                  </g>
-                  <g data-name="&lt;Group&gt;">
-                    <g data-name="&lt;Group&gt;">
-                      <g data-name="&lt;Group&gt;">
-                        <path data-name="&lt;Path&gt;" d="M24.76888,20.30068a4.94881,4.94881,0,0,1,2.35656-4.15206,5.06566,5.06566,0,0,0-3.99116-2.15768c-1.67924-.17626-3.30719,1.00483-4.1629,1.00483-.87227,0-2.18977-.98733-3.6085-.95814a5.31529,5.31529,0,0,0-4.47292,2.72787c-1.934,3.34842-.49141,8.26947,1.3612,10.97608.9269,1.32535,2.01018,2.8058,3.42763,2.7533,1.38706-.05753,1.9051-.88448,3.5794-.88448,1.65876,0,2.14479.88448,3.591.8511,1.48838-.02416,2.42613-1.33124,3.32051-2.66914a10.962,10.962,0,0,0,1.51842-3.09251A4.78205,4.78205,0,0,1,24.76888,20.30068Z" style="fill: #fff"/>
-                        <path data-name="&lt;Path&gt;" d="M22.03725,12.21089a4.87248,4.87248,0,0,0,1.11452-3.49062,4.95746,4.95746,0,0,0-3.20758,1.65961,4.63634,4.63634,0,0,0-1.14371,3.36139A4.09905,4.09905,0,0,0,22.03725,12.21089Z" style="fill: #fff"/>
-                      </g>
-                    </g>
-                    <g>
-                      <path d="M42.30227,27.13965h-4.7334l-1.13672,3.35645H34.42727l4.4834-12.418h2.083l4.4834,12.418H43.438ZM38.0591,25.59082h3.752l-1.84961-5.44727h-.05176Z" style="fill: #fff"/>
-                      <path d="M55.15969,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H48.4302v1.50586h.03418a3.21162,3.21162,0,0,1,2.88281-1.60059C53.645,21.34766,55.15969,23.16406,55.15969,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C52.30227,29.01563,53.24953,27.81934,53.24953,25.96973Z" style="fill: #fff"/>
-                      <path d="M65.12453,25.96973c0,2.81348-1.50586,4.62109-3.77832,4.62109a3.0693,3.0693,0,0,1-2.84863-1.584h-.043v4.48438h-1.8584V21.44238H58.395v1.50586h.03418A3.21162,3.21162,0,0,1,61.312,21.34766C63.60988,21.34766,65.12453,23.16406,65.12453,25.96973Zm-1.91016,0c0-1.833-.94727-3.03809-2.39258-3.03809-1.41992,0-2.375,1.23047-2.375,3.03809,0,1.82422.95508,3.0459,2.375,3.0459C62.26711,29.01563,63.21438,27.81934,63.21438,25.96973Z" style="fill: #fff"/>
-                      <path d="M71.71047,27.03613c.1377,1.23145,1.334,2.04,2.96875,2.04,1.56641,0,2.69336-.80859,2.69336-1.91895,0-.96387-.67969-1.541-2.28906-1.93652l-1.60937-.3877c-2.28027-.55078-3.33887-1.61719-3.33887-3.34766,0-2.14258,1.86719-3.61426,4.51855-3.61426,2.624,0,4.42285,1.47168,4.4834,3.61426h-1.876c-.1123-1.23926-1.13672-1.9873-2.63379-1.9873s-2.52148.75684-2.52148,1.8584c0,.87793.6543,1.39453,2.25488,1.79l1.36816.33594c2.54785.60254,3.60645,1.626,3.60645,3.44238,0,2.32324-1.85059,3.77832-4.79395,3.77832-2.75391,0-4.61328-1.4209-4.7334-3.667Z" style="fill: #fff"/>
-                      <path d="M83.34621,19.2998v2.14258h1.72168v1.47168H83.34621v4.99121c0,.77539.34473,1.13672,1.10156,1.13672a5.80752,5.80752,0,0,0,.61133-.043v1.46289a5.10351,5.10351,0,0,1-1.03223.08594c-1.833,0-2.54785-.68848-2.54785-2.44434V22.91406H80.16262V21.44238H81.479V19.2998Z" style="fill: #fff"/>
-                      <path d="M86.065,25.96973c0-2.84863,1.67773-4.63867,4.29395-4.63867,2.625,0,4.29492,1.79,4.29492,4.63867,0,2.85645-1.66113,4.63867-4.29492,4.63867C87.72609,30.6084,86.065,28.82617,86.065,25.96973Zm6.69531,0c0-1.9541-.89551-3.10742-2.40137-3.10742s-2.40039,1.16211-2.40039,3.10742c0,1.96191.89453,3.10645,2.40039,3.10645S92.76027,27.93164,92.76027,25.96973Z" style="fill: #fff"/>
-                      <path d="M96.18606,21.44238h1.77246v1.541h.043a2.1594,2.1594,0,0,1,2.17773-1.63574,2.86616,2.86616,0,0,1,.63672.06934v1.73828a2.59794,2.59794,0,0,0-.835-.1123,1.87264,1.87264,0,0,0-1.93652,2.083v5.37012h-1.8584Z" style="fill: #fff"/>
-                      <path d="M109.3843,27.83691c-.25,1.64355-1.85059,2.77148-3.89844,2.77148-2.63379,0-4.26855-1.76465-4.26855-4.5957,0-2.83984,1.64355-4.68164,4.19043-4.68164,2.50488,0,4.08008,1.7207,4.08008,4.46582v.63672h-6.39453v.1123a2.358,2.358,0,0,0,2.43555,2.56445,2.04834,2.04834,0,0,0,2.09082-1.27344Zm-6.28223-2.70215h4.52637a2.1773,2.1773,0,0,0-2.2207-2.29785A2.292,2.292,0,0,0,103.10207,25.13477Z" style="fill: #fff"/>
-                    </g>
-                  </g>
-                </g>
-                <g data-name="&lt;Group&gt;">
-                  <g>
-                    <path d="M37.82619,8.731a2.63964,2.63964,0,0,1,2.80762,2.96484c0,1.90625-1.03027,3.002-2.80762,3.002H35.67092V8.731Zm-1.22852,5.123h1.125a1.87588,1.87588,0,0,0,1.96777-2.146,1.881,1.881,0,0,0-1.96777-2.13379h-1.125Z" style="fill: #fff"/>
-                    <path d="M41.68068,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C44.57522,13.99463,45.01369,13.42432,45.01369,12.44434Z" style="fill: #fff"/>
-                    <path d="M51.57326,14.69775h-.92187l-.93066-3.31641h-.07031l-.92676,3.31641h-.91309l-1.24121-4.50293h.90137l.80664,3.436h.06641l.92578-3.436h.85254l.92578,3.436h.07031l.80273-3.436h.88867Z" style="fill: #fff"/>
-                    <path d="M53.85354,10.19482H54.709v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915h-.88867V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
-                    <path d="M59.09377,8.437h.88867v6.26074h-.88867Z" style="fill: #fff"/>
-                    <path d="M61.21779,12.44434a2.13346,2.13346,0,1,1,4.24756,0,2.1338,2.1338,0,1,1-4.24756,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C64.11232,13.99463,64.5508,13.42432,64.5508,12.44434Z" style="fill: #fff"/>
-                    <path d="M66.4009,13.42432c0-.81055.60352-1.27783,1.6748-1.34424l1.21973-.07031v-.38867c0-.47559-.31445-.74414-.92187-.74414-.49609,0-.83984.18213-.93848.50049h-.86035c.09082-.77344.81836-1.26953,1.83984-1.26953,1.12891,0,1.76563.562,1.76563,1.51318v3.07666h-.85547v-.63281h-.07031a1.515,1.515,0,0,1-1.35254.707A1.36026,1.36026,0,0,1,66.4009,13.42432Zm2.89453-.38477v-.37646l-1.09961.07031c-.62012.0415-.90137.25244-.90137.64941,0,.40527.35156.64111.835.64111A1.0615,1.0615,0,0,0,69.29543,13.03955Z" style="fill: #fff"/>
-                    <path d="M71.34816,12.44434c0-1.42285.73145-2.32422,1.86914-2.32422a1.484,1.484,0,0,1,1.38086.79h.06641V8.437h.88867v6.26074h-.85156v-.71143h-.07031a1.56284,1.56284,0,0,1-1.41406.78564C72.0718,14.772,71.34816,13.87061,71.34816,12.44434Zm.918,0c0,.95508.4502,1.52979,1.20313,1.52979.749,0,1.21191-.583,1.21191-1.52588,0-.93848-.46777-1.52979-1.21191-1.52979C72.72121,10.91846,72.26613,11.49707,72.26613,12.44434Z" style="fill: #fff"/>
-                    <path d="M79.23,12.44434a2.13323,2.13323,0,1,1,4.24707,0,2.13358,2.13358,0,1,1-4.24707,0Zm3.333,0c0-.97607-.43848-1.54687-1.208-1.54687-.77246,0-1.207.5708-1.207,1.54688,0,.98389.43457,1.55029,1.207,1.55029C82.12453,13.99463,82.563,13.42432,82.563,12.44434Z" style="fill: #fff"/>
-                    <path d="M84.66945,10.19482h.85547v.71533h.06641a1.348,1.348,0,0,1,1.34375-.80225,1.46456,1.46456,0,0,1,1.55859,1.6748v2.915H87.605V12.00586c0-.72363-.31445-1.0835-.97168-1.0835a1.03294,1.03294,0,0,0-1.0752,1.14111v2.63428h-.88867Z" style="fill: #fff"/>
-                    <path d="M93.51516,9.07373v1.1416h.97559v.74854h-.97559V13.2793c0,.47168.19434.67822.63672.67822a2.96657,2.96657,0,0,0,.33887-.02051v.74023a2.9155,2.9155,0,0,1-.4834.04541c-.98828,0-1.38184-.34766-1.38184-1.21582v-2.543h-.71484v-.74854h.71484V9.07373Z" style="fill: #fff"/>
-                    <path d="M95.70461,8.437h.88086v2.48145h.07031a1.3856,1.3856,0,0,1,1.373-.80664,1.48339,1.48339,0,0,1,1.55078,1.67871v2.90723H98.69v-2.688c0-.71924-.335-1.0835-.96289-1.0835a1.05194,1.05194,0,0,0-1.13379,1.1416v2.62988h-.88867Z" style="fill: #fff"/>
-                    <path d="M104.76125,13.48193a1.828,1.828,0,0,1-1.95117,1.30273A2.04531,2.04531,0,0,1,100.73,12.46045a2.07685,2.07685,0,0,1,2.07617-2.35254c1.25293,0,2.00879.856,2.00879,2.27V12.688h-3.17969v.0498a1.1902,1.1902,0,0,0,1.19922,1.29,1.07934,1.07934,0,0,0,1.07129-.5459Zm-3.126-1.45117h2.27441a1.08647,1.08647,0,0,0-1.1084-1.1665A1.15162,1.15162,0,0,0,101.63527,12.03076Z" style="fill: #fff"/>
-                  </g>
-                </g>
-              </g>
-            </svg>
+          <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+            App Store
           </a>
           <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
-            Download for Android
+            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
+            Google Play
           </a>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- FAQ Section -->
-  <section class="features" id="faq">
-    <div class="container">
-      <div class="section-header">
-        <span class="section-label">FAQ</span>
-        <h2 class="section-title">Frequently asked questions</h2>
-        <p class="section-desc">Answers to common questions about using Nomoads as your mobile ad blocker on Android and iOS.</p>
-      </div>
-      <div class="features-grid">
-        <div class="feature-card">
-          <h3 class="feature-title">Is Nomoads an ad blocker app for Android or just a browser extension?</h3>
-          <p class="feature-desc">Nomoads is a system-wide DNS-based ad blocker app for Android, not a browser extension. It works across all apps and browsers on your device, not just inside a single browser.</p>
-        </div>
-        <div class="feature-card">
-          <h3 class="feature-title">Will a DNS ad blocker slow down my phone or battery?</h3>
-          <p class="feature-desc">Nomoads uses an optimized, on-device DNS engine designed for minimal CPU and battery impact. In many cases, blocking ads and trackers actually makes pages load faster.</p>
-        </div>
-        <div class="feature-card">
-          <h3 class="feature-title">Does Nomoads see or log my browsing history?</h3>
-          <p class="feature-desc">No. All DNS filtering happens locally on your device and your traffic is never proxied through external VPN servers. We don&apos;t collect, log, or sell your browsing data.</p>
-        </div>
-        <div class="feature-card">
-          <h3 class="feature-title">Can I whitelist apps or websites that break with an ad blocker?</h3>
-          <p class="feature-desc">Yes. Nomoads lets you exclude specific apps from protection and add domains to an allowlist so you can support sites you trust or fix compatibility issues.</p>
-        </div>
-        <div class="feature-card">
-          <h3 class="feature-title">Does Nomoads work on iOS?</h3>
-          <p class="feature-desc">Yes. Nomoads is on the App Store for iPhone and iPad, with the same privacy-first, on-device DNS filtering as on Android.</p>
-        </div>
-        <div class="feature-card">
-          <h3 class="feature-title">What&apos;s the difference between the free and Premium plans?</h3>
-          <p class="feature-desc">The free Basic plan includes core system-wide ad blocking and essential blocklists. Premium unlocks extra protection levels, advanced blocklists, and more customization for power users.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+  </main>
 
   <!-- Footer -->
   <footer>
     <div class="container">
       <div class="footer-top">
         <div class="footer-brand">
-          <a href="#" class="logo">
-            <div class="logo-icon">N</div>
+          <a href="https://nomoads.com/" class="logo">
+            <div class="logo-icon" aria-hidden="true">N</div>
             <span class="logo-text">Nomoads</span>
           </a>
-          <p>Block ads, trackers, and malware system-wide. Privacy-first protection for your entire device.</p>
+          <p>Nomoads is an on-device ad blocker for iOS and Android. It filters ads, trackers, and malware at the DNS level across every app on your phone.</p>
         </div>
         <div class="footer-links">
           <h4>Product</h4>
           <a href="#features">Features</a>
+          <a href="#comparison">Compare</a>
+          <a href="#faq">FAQ</a>
           <a href="#download">Download</a>
         </div>
         <div class="footer-links">
-          <h4>Company</h4>
-          <!-- <a href="#">About</a>
-          <a href="#">Blog</a> -->
-          <a href="mailto:support@nomoads.com">Contact</a>
-        </div>
-        <div class="footer-links">
-          <h4>Legal</h4>
-          <a href="/privacy">Privacy Policy</a>
-          <a href="/terms">Terms of Service</a>
+          <h4>Resources</h4>
+          <a href="/llms.txt">llms.txt</a>
+          <a href="https://nomoads.com/privacy">Privacy Policy</a>
+          <a href="https://nomoads.com/terms">Terms of Service</a>
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; 2026 Nomoads. All rights reserved.</span>
+        <span>&copy; <time datetime="2026">2026</time> Nomoads. All rights reserved.</span>
+        <div class="footer-socials">
+          <a href="#" aria-label="Twitter">
+            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </a>
+          <a href="#" aria-label="GitHub">
+            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+          </a>
+        </div>
       </div>
     </div>
   </footer>
