@@ -1,0 +1,58 @@
+# Nomoads
+
+> Nomoads is an on-device ad blocker for iPhone and Android that stops ads and trackers in every app using local DNS filtering—without sending your browsing data to the cloud.
+
+## What Nomoads does
+
+Nomoads is a mobile app that blocks ads, trackers, and malware domains at the DNS level across your entire phone. When any app tries to connect to a known ad or tracker domain, Nomoads blocks the DNS lookup before the connection is made.
+
+Unlike browser extensions that only work inside one browser, Nomoads filters DNS requests from all apps—including games, social media, and news readers.
+
+All filtering happens on your device. Nomoads uses a local VPN interface to access DNS traffic, but does not route your internet connection through a remote server. Your DNS queries are checked against on-device blocklists and are not uploaded for filtering.
+
+## Key features
+
+- **System-wide ad blocking**: Blocks ad and tracker domains in every app on your phone, not just in a browser. Example: stops in-game ad network requests in free mobile games.
+- **On-device privacy**: DNS filtering runs entirely on your phone. No third party receives your domain lookups for blocking decisions.
+- **Protection levels**: Choose from Basic through Ultimate blocklist presets, or import custom blocklist URLs (Premium). Example: stricter levels can block gambling or adult-content domains.
+- **Per-app exclusions** (Premium): Exclude specific apps from filtering when a service breaks under blocking. Example: exclude a banking app while keeping ads blocked everywhere else.
+- **Domain allowlist**: Whitelist trusted domains that should never be blocked. Example: allowlist a news publisher you want to support.
+- **Block statistics**: See a running count of blocked DNS requests, stored on-device only.
+
+## Who Nomoads is for
+
+- **Mobile users tired of in-app ads**: People who see ads inside games, social apps, and news readers—not just in Safari or Chrome.
+- **Privacy-conscious users**: People who want system-wide ad blocking without sending every DNS query to a cloud service like NextDNS or AdGuard DNS.
+- **Parents**: Users who want stricter category blocklists for gambling, social trackers, or adult content (Premium).
+- **Power users**: People who want custom blocklist URLs, per-app exclusions, and fine-grained control over filtering.
+
+## Pricing
+
+- **Basic (free)**: Standard ad blocking, system-wide protection, allowlist support, block statistics.
+- **Premium ($2.99/month)**: Everything in Basic plus four additional protection levels, custom blocklist URLs, advanced category blocklists (gambling, social, NSFW), and per-app exclusions.
+
+## Platforms
+
+- **iOS**: Available on the App Store — https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049
+- **Android**: Available on Google Play — https://play.google.com/store/apps/details?id=com.crowstar.nomoads
+
+## How Nomoads differs from alternatives
+
+- **vs. browser extensions (uBlock Origin, AdBlock)**: Nomoads blocks ads in all apps, not just one browser. Browser extensions can remove page elements that DNS blocking cannot reach, but they do not affect in-app ads.
+- **vs. cloud DNS blockers (NextDNS, AdGuard DNS)**: Both block ads system-wide, but cloud DNS services receive your DNS queries on their servers. Nomoads keeps all filtering on your phone.
+- **vs. AdGuard app**: Both offer system-wide mobile blocking. Nomoads focuses on on-device DNS filtering with no cloud proxy and a free Basic tier.
+
+## Technical details
+
+- Uses a local VPN (iOS Network Extension / Android VpnService) to intercept DNS requests
+- Blocklist engine uses hash-based domain lookups for fast, low-battery filtering
+- Blocklists follow open, community-maintained filter-list formats
+- No account required to start using Basic protection
+
+## Links
+
+- Website: https://nomoads.com/
+- Privacy Policy: https://nomoads.com/privacy
+- Terms of Service: https://nomoads.com/terms
+- Android download: https://play.google.com/store/apps/details?id=com.crowstar.nomoads
+- iOS download: https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049
