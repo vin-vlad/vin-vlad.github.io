@@ -1,5 +1,5 @@
 # relaxed
-# Last updated: 2026-06-19T08:03:02.165Z
+# Last updated: 2026-06-19T18:44:16.272Z
 # Entries: 370346
 0.beer
 0.club
