@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-18T18:55:48.639Z
-# Entries: 27590
+# Last updated: 2026-06-19T08:03:05.383Z
+# Entries: 27591
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -21258,6 +21258,7 @@ prosttranstvo-lordfilms.ru
 prostylex.org
 protekmod.tv
 protonmovies.online
+protoolsarena.com
 protvcollection.com
 proxifiedpiratebay.org
 proxtpb.art
