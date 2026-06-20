@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-19T18:44:18.265Z
-# Entries: 28024
+# Last updated: 2026-06-20T07:29:21.674Z
+# Entries: 28025
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -11186,6 +11186,7 @@ lordfilm-oranzheviy-musorovoz.ru
 lordfilm-orb.ru
 lordfilm-org.ru
 lordfilm-otkrytie-kinomira.ru
+lordfilm-patsan.store
 lordfilm-pauk-nuar.monster
 lordfilm-pelmen.store
 lordfilm-phu.ru
