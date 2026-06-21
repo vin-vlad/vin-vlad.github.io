@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-21T07:48:06.725Z
-# Entries: 16785
+# Last updated: 2026-06-21T18:39:03.020Z
+# Entries: 16781
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -8066,7 +8066,6 @@ jefercopellets.com
 jeffkelleher.shop
 jeffora.de
 jeffspoolservice.com
-jeinn.com
 jellycats.de
 jellylight.at
 jerseymonsters.com
@@ -11081,7 +11080,6 @@ nxsfund.com
 nxtstreetlondon.com
 nyfolk.de
 nyutxe.shop
-nze.com
 nzwir.shop
 oakdalerotary.org
 oakhabitsy.com
@@ -14616,7 +14614,6 @@ tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
-te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
@@ -16414,7 +16411,6 @@ woodeu.de
 woodoclock.de
 woofgear.de
 wooflyx.com
-woofz.academy
 woofz.com
 woolyroots.com
 wordmarkets.com
