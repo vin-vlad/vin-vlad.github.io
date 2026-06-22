@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-21T18:39:03.057Z
-# Entries: 57094
+# Last updated: 2026-06-22T08:15:24.263Z
+# Entries: 57103
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -434,6 +434,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1853,6 +1856,15 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
+app-google-zh.hl.cn
+go-todesk.hl.cn
+google-google-chrome-google-com.hl.cn
+line-go.hl.cn
+qh-qishuiyinyue.hl.cn
+qishuimusic-cn.hl.cn
+todesk-web.hl.cn
+todesk-zh.hl.cn
+zh-todesk-cn.hl.cn
 map.hnchj.com
 m10.hoes.tube
 yy.hogacotset.com
@@ -2334,7 +2346,7 @@ ff.masoramarga.com
 gk.masterymucosas.com
 pp.mastrasjawlike.com
 wmw.matchin.jp
-www.vnwxkk.matchinlovee.com
+vnwxkk.matchinlovee.com
 llozqb.matchllfe.net
 ogzdxl.matchloviing.com
 qgealrijjeleazg.matchloving.net
@@ -13500,7 +13512,6 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -28512,7 +28523,6 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -56586,7 +56596,6 @@ zedo.com
 zeebestmarketing.com
 zeechoog.net
 zeechumy.com
-zeegewaiphegle.net
 zeekaihu.net
 zeelooshashey.net
 zeemoavaustoazy.com
