@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-23T07:25:14.358Z
-# Entries: 57111
+# Last updated: 2026-06-23T18:50:09.089Z
+# Entries: 57106
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -434,9 +434,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1856,15 +1853,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-go-todesk.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
 map.hnchj.com
 m10.hoes.tube
 yy.hogacotset.com
@@ -13512,6 +13500,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -20272,6 +20261,7 @@ detectalzheimers.com
 detectdiscovery.com
 detectioneelwash.com
 detectivefaltermotto.com
+detectivefrozepriceless.com
 detectivetails.com
 detectivetombcaesar.com
 detectorpopcornsave.com
@@ -20501,6 +20491,7 @@ digitechtoys.com
 dignityprop.com
 diguantong.com
 digubpgjkdmsl.website
+digueravi.cfd
 digzjnuguwwxr.online
 dikasomywnqww.website
 dikcmpgwemomx.space
@@ -24406,6 +24397,7 @@ fitting-candle.com
 fitting-enthusiasm.pro
 fittingcentermondaysunday.com
 fittingjob.pro
+fittingneoza.shop
 fittitfucose.com
 fivekeptaccelerate.com
 fivewords.com
@@ -28524,6 +28516,7 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -30486,6 +30479,7 @@ invitationrainbowparting.com
 invitationsattest.com
 invitedexamine.com
 inviteprodigalpinprick.com
+invites-tracker-app.com
 inviziads.com
 invl.me
 invle.co
@@ -44674,6 +44668,7 @@ rightdecision.us
 righteousacornspurt.com
 righteouscrayon.com
 righteouslyyumaugmentnext.com
+rightlydefinite.com
 rightpatience.pro
 rightpiece.pro
 rightyclasp.com
