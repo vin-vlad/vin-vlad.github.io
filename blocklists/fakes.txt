@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-24T07:21:27.706Z
-# Entries: 16818
+# Last updated: 2026-06-24T18:41:45.973Z
+# Entries: 16806
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -577,7 +577,6 @@ gwcsale.towncabco.com
 gwcshop.towncabco.com
 ad.toygzv.shop
 atbh.toygzv.shop
-at.trabajo.org
 pt.tradingzone.pro
 idjebhi.r.tsp1-brevo.net
 web.tyrioncapital.live
@@ -2578,7 +2577,6 @@ boatworkssupply.com
 bobbyananta.com
 bobostore.de
 bocancilowa.com
-bocapital.com
 bocastory.com
 bocceli.com
 body-gear.to
@@ -2752,7 +2750,6 @@ brinkmann-mode.de
 brinkmannkanzlei.de
 briospielzeug.com
 briospielzeugrabatt.com
-british-columbia-hotels.com
 britishnewstoday.com
 brivalfin-invest.com
 brnghl.shop
@@ -3685,7 +3682,6 @@ cutcy.com
 cutlerymarkets.com
 cutterfarm.de
 cv-tech-onlineshop.de
-cvc-capital-partners.com
 cvmaker.de
 cvneed.com
 cwl-experts.org
@@ -6439,7 +6435,6 @@ glossierdanmark.com
 glossierireland.com
 glossise.com
 glovano.com
-glovio.de
 glow-haven.de
 glowblend.de
 glowency.de
@@ -6552,7 +6547,6 @@ goodguanvs.click
 goodideatrade.com
 goodiptvc.com
 goodjobfull.com
-goodlike.de
 goodmecar.click
 goodmedsshops.com
 goodotisnop.click
@@ -7530,7 +7524,6 @@ hotelladen.com
 hotels-colombo.com
 hotels-inform4281.com
 hotelsinperm.ru
-hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
 hotix.de
@@ -8751,7 +8744,6 @@ koupitpsychedelika.cz
 kovison.de
 kowela.com
 kpoweronline.com
-krabihotelsthailand.net
 kraft-profil-technik.eu
 kraftdesweins.com
 kraftholz-pellet.shop
@@ -11102,7 +11094,6 @@ nxsfund.com
 nxtstreetlondon.com
 nyfolk.de
 nyutxe.shop
-nze.com
 nzwir.shop
 oakdalerotary.org
 oakhabitsy.com
@@ -11455,7 +11446,6 @@ opte-grup.com
 optessentialoils.com
 optimalattire.com
 optimaltackle.com
-optimarkets.com
 optimia.top
 optimizeactive.shop
 optimizehq.shop
@@ -14645,7 +14635,6 @@ tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
-te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
@@ -15383,7 +15372,6 @@ ttk-solar.de
 ttkarriere.com
 tts-beratung.de
 tttrilliant-fx.net
-tudio.de
 tuftex-balloons.com
 tuinbalkon.com
 tunepart.com
