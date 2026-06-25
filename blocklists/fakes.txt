@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-25T07:21:57.916Z
-# Entries: 16806
+# Last updated: 2026-06-25T18:51:45.097Z
+# Entries: 16836
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -80,6 +80,7 @@ lavenie.co.uk
 leathershire.co.uk
 levoit.co.at
 lilysilk.co.at
+lloyd.co.at
 loewe.co.at
 lowa.co.at
 luxeparfum.co.uk
@@ -577,6 +578,7 @@ gwcsale.towncabco.com
 gwcshop.towncabco.com
 ad.toygzv.shop
 atbh.toygzv.shop
+at.trabajo.org
 pt.tradingzone.pro
 idjebhi.r.tsp1-brevo.net
 web.tyrioncapital.live
@@ -1271,6 +1273,7 @@ anhaenger-brennholz.de
 anhaenger-geraete.com
 anhaenger-von-thule.de
 anhaengerkauf24.com
+anhaengerklasen.de
 anhaengerkreuter.com
 anhaengermarkt.com
 anhaengers.online
@@ -2007,6 +2010,7 @@ beautygids.net
 beautyhaarshop.com
 beautyhabitps.shop
 beautyhausberlin.de
+beautyhealthsupplies.com
 beautyketten.com
 beautykoopje.com
 beautyonthebrink.com
@@ -2262,7 +2266,6 @@ betrugs-check.de
 betrugsexperten.de
 betrugsrecht.de
 bettbezugrabatt.com
-bettershifting.com
 betterwishes-shop.com
 betthimmel.de
 bettyshops.com
@@ -2577,6 +2580,7 @@ boatworkssupply.com
 bobbyananta.com
 bobostore.de
 bocancilowa.com
+bocapital.com
 bocastory.com
 bocceli.com
 body-gear.to
@@ -2750,6 +2754,7 @@ brinkmann-mode.de
 brinkmannkanzlei.de
 briospielzeug.com
 briospielzeugrabatt.com
+british-columbia-hotels.com
 britishnewstoday.com
 brivalfin-invest.com
 brnghl.shop
@@ -3166,6 +3171,7 @@ chansflavor.com
 chaps-herrenmode.de
 chapterrest.store
 characterh.com
+charismatico.com
 charlesashford.shop
 charlystore.de
 charmdaily.com
@@ -3682,6 +3688,7 @@ cutcy.com
 cutlerymarkets.com
 cutterfarm.de
 cv-tech-onlineshop.de
+cvc-capital-partners.com
 cvmaker.de
 cvneed.com
 cwl-experts.org
@@ -3964,7 +3971,6 @@ deinenergieplan.de
 deinetierliebe.de
 deinhandwerkershop.de
 deinheizoel.de
-deini.com
 deinliebesmensch.de
 deinlieblingstier.co
 deinmodetrends.com
@@ -3972,6 +3978,7 @@ deinmodetrends.de
 deinrufretter.com
 deinsportimperium.de
 deinthuleshop.de
+deintrikot.at
 dejia.shop
 dekhujoshop.com
 dekoartikelrabatt.de
@@ -5303,6 +5310,7 @@ fantomfinanzen.com
 fantomfx.net
 faobunricate.com
 farahattire.com
+farben-profis.com
 farben-store.com
 farbenruhe.ch
 fargo-global.com
@@ -6085,6 +6093,7 @@ gartenmachtshop.de
 gartenmaher.com
 gartenmaschinen24.de
 gartenmaschinenzubehor.com
+gartenmaxe.de
 gartenmoebelangebote.de
 gartenmoebelwelt.com
 gartenmotor.de
@@ -6435,6 +6444,7 @@ glossierdanmark.com
 glossierireland.com
 glossise.com
 glovano.com
+glovio.de
 glow-haven.de
 glowblend.de
 glowency.de
@@ -6547,6 +6557,7 @@ goodguanvs.click
 goodideatrade.com
 goodiptvc.com
 goodjobfull.com
+goodlike.de
 goodmecar.click
 goodmedsshops.com
 goodotisnop.click
@@ -6725,6 +6736,7 @@ guesso.com
 guessosterreich.at
 guessoutletdeutschland.de
 guest-pend3120.com
+gueta-handel.com
 gueyeclasse-shop.com
 gugeunk.de
 guide-placements-alternatifs.com
@@ -7093,6 +7105,7 @@ heizklar.de
 heizklar.eu
 heizl.de
 heizlager.de
+heizleo.de
 heizline.at
 heiznow.de
 heizo24.de
@@ -7524,6 +7537,7 @@ hotelladen.com
 hotels-colombo.com
 hotels-inform4281.com
 hotelsinperm.ru
+hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
 hotix.de
@@ -8110,6 +8124,7 @@ jmilyshop.com
 jn-recruitment.at
 jncojeans.de
 jo-joshop.com
+joachim-gartengeraete.de
 joaostoreoficial.com
 jobam.shop
 jobdreamonline.com
@@ -8744,6 +8759,7 @@ koupitpsychedelika.cz
 kovison.de
 kowela.com
 kpoweronline.com
+krabihotelsthailand.net
 kraft-profil-technik.eu
 kraftdesweins.com
 kraftholz-pellet.shop
@@ -9648,6 +9664,7 @@ malen-und-reisen.de
 malens-boutique.de
 malentestheaterpalast.de
 malerbedarf-sales.com
+malergeschaft.com
 mall-outdoors.com
 mallof.shop
 mallorca-holidayhomes.com
@@ -11094,6 +11111,7 @@ nxsfund.com
 nxtstreetlondon.com
 nyfolk.de
 nyutxe.shop
+nze.com
 nzwir.shop
 oakdalerotary.org
 oakhabitsy.com
@@ -11446,6 +11464,7 @@ opte-grup.com
 optessentialoils.com
 optimalattire.com
 optimaltackle.com
+optimarkets.com
 optimia.top
 optimizeactive.shop
 optimizehq.shop
@@ -11784,6 +11803,7 @@ pedale-onshop.com
 pedalfreunde.de
 pedalpalast.de
 pedalparadies.com
+pedalprofi.de
 pedalyst.com
 peekcloppenburg-berlin.de
 peelerrabatt.de
@@ -12670,6 +12690,7 @@ reings.store
 reinholdrasenmaher.com
 reinholzexpress.com
 reinigungszubehor.com
+reiseklarheit.de
 reisen-weisen.de
 reisenthell.shop
 reisenthelstore.de
@@ -13229,6 +13250,7 @@ scentuelle.de
 schachworkshop.de
 schafflutzel-motorgerate.com
 schallreiniger.de
+schaltersteckdosen.com
 schaltwerkfahrrad.de
 scharfemesser.de
 scharfeprofession.com
@@ -13893,6 +13915,7 @@ solarbundesliga.at
 solarc.click
 solarcheck.at
 solaregis.com
+solarek-energie.com
 solarenergie-beleuchtung.de
 solarenergyplatinum.com
 solarfehlercodes.de
@@ -14593,6 +14616,7 @@ talentxperts.com
 talerkaffee.de
 talkbuds.de
 tallerfelix.com
+talvurieks.at
 tamarisoutlet.com
 tambaro.de
 tandexo.com
@@ -14635,6 +14659,7 @@ tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
+te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
@@ -15140,6 +15165,7 @@ tower-home.com
 toxic-off.shop
 toy-boxsales.com
 toyevs.store
+toyfunrealm.com
 toyhasbro.com
 toymr.com
 toyowner.com
@@ -15372,6 +15398,7 @@ ttk-solar.de
 ttkarriere.com
 tts-beratung.de
 tttrilliant-fx.net
+tudio.de
 tuftex-balloons.com
 tuinbalkon.com
 tunepart.com
@@ -16097,6 +16124,7 @@ warmind.de
 warmlifes.com
 warmlogic.de
 warmood.ch
+warmthota.com
 warmthsta.com
 warmthvo.com
 wascheparfume.de
@@ -16736,6 +16764,7 @@ zeveau.com
 zezzo.de
 zfggmbh.de
 zhubni.eu
+zibitcoin.net
 ziegler-handel.de
 ziegler-kanzlei.de
 ziegler-rechtsanwaelte.de
@@ -16798,6 +16827,7 @@ zureonglobal.com
 zusammenmitthule.de
 zusellmk.click
 zuverlassigerkredit.com
+zwclsaablueashe.shop
 zweirad-dach.de
 zwergspitzpomeranian.com
 zxmcm.com
