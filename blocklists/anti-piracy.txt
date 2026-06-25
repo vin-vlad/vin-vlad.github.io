@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-24T18:41:46.494Z
-# Entries: 29132
+# Last updated: 2026-06-25T07:21:57.975Z
+# Entries: 29131
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -1439,7 +1439,6 @@ tracker.zum.bi
 0123movie.online
 0123movie.stream
 0123movie.ws
-0123movies.biz
 0123movies.cfd
 0123movies.com
 0123movies.events
@@ -1620,7 +1619,6 @@ tracker.zum.bi
 123movies-2.online
 123movies-2020.com
 123movies-4k.com
-123movies-app.com
 123movies-app.net
 123movies-app.xyz
 123movies-hd.com
@@ -9480,6 +9478,9 @@ il-geniodellostreaming.bond
 il-geniodellostreaming.buzz
 il-geniodellostreaming.club
 il-geniodellostreaming.forum
+il-geniodellostreaming.help
+il-geniodellostreaming.study
+il-geniodellostreaming.surf
 ilcorsaronero.info
 ilcorsaronero.link
 ilf.net
@@ -21458,7 +21459,6 @@ nullsroyale.net
 nullsservers.com
 numb3rs.stream
 nunflix.live
-nunflix.org
 nunuju.tv
 nunuyy.cc
 nutorrent.com
@@ -27695,7 +27695,6 @@ victorias-lordfilm.ru
 victoriau-lordfilm.ru
 victoriay-lordfilm.ru
 victorraulrr.net
-vid7.online
 viday.icu
 vidbox.dev
 vidby.co
