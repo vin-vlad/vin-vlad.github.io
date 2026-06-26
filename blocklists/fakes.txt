@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-25T18:51:45.097Z
-# Entries: 16836
+# Last updated: 2026-06-26T07:28:03.694Z
+# Entries: 16839
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -3639,6 +3639,7 @@ cryptofundfx.com
 cryptomonaies.com
 cryptomoney888.com
 cryptoprofx.com
+cryptorxindex.info
 cryptos.solutions
 cryptoschutz24.de
 cryptosdeg.com
@@ -6974,7 +6975,6 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
-haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -15303,6 +15303,7 @@ trexox.com
 trezorsuite.ltd
 trgartenservice.de
 trikoa.com
+trikotadler.com
 trikotarena.com
 trikotfachshop.com
 trikotfc.com
@@ -16020,6 +16021,7 @@ vorase.de
 vorela.de
 voreno.de
 vorisol.com
+vornethpro.at
 voroda.de
 voroly.de
 vorsorge-karte.com
@@ -16070,6 +16072,7 @@ wacoo.de
 wacooball.com
 waermepumpe-solar.de
 waermewald.de
+waermewelt.com
 waffeleisende.com
 waffen24de.com
 waffenlager.com

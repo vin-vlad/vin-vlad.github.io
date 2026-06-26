@@ -1,5 +1,5 @@
 # anti-piracy
-# Last updated: 2026-06-25T18:51:45.172Z
+# Last updated: 2026-06-26T07:28:03.735Z
 # Entries: 29368
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -1719,7 +1719,6 @@ tracker.zum.bi
 123moviesfree.cyou
 123moviesfree.day
 123moviesfree.guru
-123moviesfree.help
 123moviesfree.homes
 123moviesfree.love
 123moviesfree.me
@@ -1914,7 +1913,6 @@ tracker.zum.bi
 1jour1film0626c.site
 1jour1film0725b.site
 1jour1film2026.site
-1jour1filmhd.lol
 1kif.com
 1kino.in
 1l1l.to
@@ -7870,6 +7868,7 @@ g2g.fm
 g4u.to
 gaanubal-lordfilm.ru
 gabber.space
+gachanime.jp
 gadkij-ya-lordfilm3.ru
 gadkiy-yiaw-lordfilm.ru
 gajver-lordfilm3.ru
@@ -20721,6 +20720,7 @@ movieworld.pl
 movieworld.to
 moviexk.biz
 moviezenith.com
+moviezenn.com
 moviezone.ws
 moviful.com
 moviplus.net
