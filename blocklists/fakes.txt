@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-06-26T07:28:03.694Z
-# Entries: 16839
+# Last updated: 2026-06-26T18:44:19.602Z
+# Entries: 16852
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -100,6 +100,7 @@ soundcore.co.at
 speedos.co.at
 staud.co.at
 superdry.co.at
+talvurieks-official.co.at
 teddith.co.uk
 timbuk2.co.at
 uggs.co.at
@@ -6975,6 +6976,7 @@ haustieralles.com
 haustierbedarfshop.com
 haustiererabatt.com
 haustiereshop.com
+haustierstolz.de
 haustirwelten.de
 hausture.com
 hausundgarten.haus
@@ -13767,6 +13769,7 @@ skiracedepartment.com
 skirt-discount-store.shop
 skispeichern.com
 skisurfskate.com
+skisurfsports.com
 skometa.com
 sktoolsworkshop.com
 sky-trikot-shop.de
@@ -14617,6 +14620,12 @@ talerkaffee.de
 talkbuds.de
 tallerfelix.com
 talvurieks.at
+talvurieks.com
+talvurieks.org
+talvurieks-ai.at
+talvurieks-austria.at
+talvurieks-official.net
+talvurieks-official-at.com
 tamarisoutlet.com
 tambaro.de
 tandexo.com
@@ -15571,6 +15580,9 @@ urhenwchmuckrosel.de
 urnsey.shop
 ursime.com
 ursulam.com
+urvlentoki.com
+urvlentoki-at.com
+urvlentoki-ie.com
 urzadomzone.com
 us-shop.online
 us-supplements.to
@@ -16341,6 +16353,7 @@ whiskyrabatt.com
 whiskysorten.com
 whiteacehealthcare.uk
 whitecoatjourney.com
+whitelake-invest.com
 whiterock-financial.eu
 wholesalebaseballnets.com
 whzyxd.com
