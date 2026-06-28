@@ -1,6 +1,6 @@
 # basic
-# Last updated: 2026-06-27T18:31:37.617Z
-# Entries: 91851
+# Last updated: 2026-06-28T07:30:15.801Z
+# Entries: 91883
 0-0-0checkmate.com
 0.0-02.net
 000free.us
@@ -768,6 +768,7 @@ s.1ts18.top
 p.1ts21.top
 s.1ts21.top
 1u6hvoykk3.com
+1urjtp1t6.com
 log.1vn.app
 countly.1vpn.app
 1waid.top
@@ -5446,6 +5447,7 @@ iambrainstorming.4everland.app
 mind-5.4everland.app
 4f8g9foqwy.com
 www.4felts.com
+4fw4gtgnyfpq7cye9k25k8c.cfd
 4htpt287i7xmceyy7fffqligkptwk.cfd
 4hunqp.ru
 4i2q0y9wv.com
@@ -8483,6 +8485,7 @@ ssp-rv-plus.adpopcorn.com
 sspi.adpopcorn.com
 ssptrk-go.adpopcorn.com
 www.adpopcorn.com
+adport.net
 adportonic.com
 adpredictive.com
 adpresenter.de
@@ -11112,12 +11115,14 @@ aplus.alibaba.com
 dmtracking2.alibaba.com
 fourier.alibaba.com
 marketing.alibaba.com
+offer.alibaba.com
 umlazada.alibaba.com
 adashx.ut.alibaba.com
 h-adashx.ut.alibaba.com
 acs-mum.alibabachengdun.com
 mum.alibabachengdun.com
 mum.alibabachengdun.net
+offer.alibaba.com.gds.alibabadns.com
 beacon-api.aliyuncs.com.gds.alibabadns.com
 umeng.com.gds.alibabadns.com
 dsp.ads.umeng.com.gds.alibabadns.com
@@ -20367,6 +20372,7 @@ aqyad.com
 sdk.aqyad.com
 trace.aqyad.com
 hodor-collect.arabam.com
+arabizeactors.cfd
 arableillnesspersonnel.com
 views.arabnews.com
 arabworld.biz
@@ -21142,6 +21148,7 @@ auschwitzmemento.pl
 www.auschwitzmemento.pl
 ausmflow.com
 ausoafab.net
+aussiesuitor.qpon
 www.australiannewstoday.com
 australiarevival.com
 bite.australiarevival.com
@@ -21420,6 +21427,9 @@ openrtb-us-east-1.axonix.com
 vektor-dc11a.axonix.com
 vektor-dc11b.axonix.com
 www.axonix.com
+axonixgrid.com
+us-va.ac.axonixgrid.com
+us-va.acs.axonixgrid.com
 axtun.fun
 analytics.axxessweb.com
 ay.delivery
@@ -31360,6 +31370,7 @@ cncptx.com
 analytics.cnd-motionmedia.de
 cnemicsynthol.qpon
 cnetcontentsolutions.com
+cnevlso.com
 cnb.cnews.ru
 cnfrm-newsale8324.click
 cnfrmnewsale924.click
@@ -35910,6 +35921,7 @@ decideinteractive.com
 decimalcursor.com
 decimalediblegoose.com
 analytics.decisionresourcesgroup.com
+decisive-gas.pro
 decisivebase.com
 deckedpreeze.com
 qe.deckedpreeze.com
@@ -41818,6 +41830,7 @@ easysexe.com
 detectca.easysol.net
 easytomessage.com
 t.easywebland.my
+eatcells.com
 eatenmockingoverwhelm.com
 securetracking.eaton.com
 eavesdropthenashame.com
@@ -43064,6 +43077,7 @@ entropyjowsfunning.cfd
 smetrics.entrykeyid.com
 entyfgzsuphfc.website
 enuredgaea.qpon
+enurnyboxlike.qpon
 t.enuygun.com
 envelopeallydespair.com
 envi1.com
@@ -43907,6 +43921,7 @@ exxqwatyibrmj.site
 exxtended-access.com
 exyhmdlrnsluq.online
 smetrics.ey.com
+ey3jun9c55oov13uwvhoozxmbu.cfd
 ey43.com
 ey5ay0nra3ty.com
 eye-watch.in
@@ -44281,6 +44296,7 @@ fbkxhltufvarpj.com
 fblndqobxs.com
 fbmedia-ckl.com
 fbmediafor.com
+fboirhttd.com
 campaign.fbot.me
 fbrcwhntxwalbcr.com
 fbthiaiy.com
@@ -44422,6 +44438,7 @@ fettabsaugung-in-koeln.de
 fetusphytome.cfd
 feuageepitoke.com
 feumthutmosabvv.com
+feversfewmand.com
 data-logging.apigw.feverup.com
 fevilsor5.net
 few-politics.com
@@ -48292,6 +48309,7 @@ rj.gssprt.jp
 gsyndication.com
 async.gsyndication.com
 sync.gsyndication.com
+gtavnhoxf.com
 gtbdhr.com
 eu1.gtbdhr.com
 us2.gtbdhr.com
@@ -48480,6 +48498,7 @@ gyzeogdyouxsr.website
 gz-data.com
 gzbsycvhzlukb.site
 www.gzcankao.com
+gzkfofbgedfor.website
 gzmakcylabxgv.site
 gzsxdqnpdybwa.online
 gzsy12348.com
@@ -49571,6 +49590,7 @@ hoggeebeatee.cfd
 hoggishtoraja.shop
 hoglinsu.com
 hohnsobered.cfd
+hohxhoennu.com
 hoidulich.com
 hoirms.com
 ib.hoirms.com
@@ -49823,6 +49843,7 @@ telemetry.pod4.prod.avatar.ext.hp.com
 telemetry.pod5.prod.avatar.ext.hp.com
 telemetry.pod6.prod.avatar.ext.hp.com
 telemetry.pod7.prod.avatar.ext.hp.com
+met2.hp.com
 hpanalytics.net
 downloads.hpanalytics.net
 kinesis.hpanalytics.net
@@ -51503,6 +51524,7 @@ sngdia.imtmp.net
 0.sngdia.imtmp.net
 tgpa.imtmp.net
 imtwjwoasak.com
+imvynglppspys.website
 behavior-tracking-event-gateway.imweb.me
 imwhite.ru
 imwwdjmnfcans.space
@@ -52266,6 +52288,7 @@ instreamatic.com
 x.instreamatic.com
 instreamvideo.ru
 fillmorecentral.instructure.com
+instruments2333.com
 instruments29001.net
 instruments503.com
 instrumentsfrom950.net
@@ -52498,6 +52521,7 @@ sstats.investors.com
 invhpgcqxgmnh.space
 invinciblerussia.com
 invisibleoutfactories.com
+invite-track.click
 invitedexamine.com
 invitemedia.com
 segment-pixel.invitemedia.com
@@ -54293,6 +54317,7 @@ keistcarr.cyou
 kejet.net
 as.kejet.net
 i.kejet.net
+kekonum.com
 kektds.com
 analytics.kelasmalam.net
 kelfnfabbwugq.online
@@ -56612,6 +56637,7 @@ web.localytics.com
 webanalytics.localytics.com
 www.localytics.com
 locateanyphone.net
+locatedcontemn.com
 locked-link.com
 locked1.com
 locked3.com
@@ -58683,10 +58709,12 @@ mfcewkrob.com
 mfgvhabnnlwkd.online
 mfilecloud.com
 mfilterit.net
+mfiomoaa.com
 mfjoxsbmnxssq.online
 mfmalergyol.com
 mfngfbmubdawu.site
 mftqdrlibjsfyq.com
+mg0pfou5o.com
 mg2insights.com
 mgage.com
 www.mgage.com
@@ -60989,6 +61017,7 @@ serve.mxapis.com
 mxbrbviqikqaw.com
 mxizjfeqmnmzc.site
 mxjvsovvqnwew.online
+mxk7gtm9zm2g5thp.cfd
 mxkjgvrog.com
 mxkpvqlrmfmww.com
 mxkrorx.cc
@@ -64188,6 +64217,7 @@ metric.nuonuo.com
 nuqwe.com
 nur.gratis
 beta.nur.gratis
+nurcyushvtvmx.online
 nurlxlhketmce.space
 nurseryinflectedshare.com
 nurseyrhymes.com
@@ -65278,6 +65308,8 @@ analytics.ooni.com
 ooniu.com
 oooqyfcnv.com
 oops-clubsauna.com
+oopt.fr
+www.oopt.fr
 ooralisdecimagranes.cfd
 oorsoozo.top
 ooryprosed.cyou
@@ -66188,6 +66220,7 @@ osamachoice.com
 osamacom.com
 osamadada.com
 osamafusion.com
+osamagenius.com
 osamaglow.com
 osamahit.com
 osamaimpact.com
@@ -67145,14 +67178,6 @@ pcbixpbwdxqoa.site
 pccleaner.cn
 pccxfiekp.com
 pcdeyoepvaxdl.site
-pchelpsoft.com
-cloud.pchelpsoft.com
-du-api.pchelpsoft.com
-featureflags.pchelpsoft.com
-inapp.pchelpsoft.com
-offers.pchelpsoft.com
-store.pchelpsoft.com
-www.pchelpsoft.com
 sp.pcid.ca
 pcixo.com
 pcjiami.cn
@@ -70843,6 +70868,7 @@ clickadu.qwerty24.net
 qwertypay.com
 qwikln.com
 qwiqbppovqbpq.com
+qwjre1487.com
 qwqnvhnqepymjaduaxih.com
 errs.qwrt.xyz
 qwtag.com
@@ -70909,6 +70935,7 @@ r48vqczk3eyeb6nukc.cfd
 r4you.co
 static.r4you.co
 r5hsid.ru
+r5n8ic3on.com
 r5zkgi2ufhmkn5ty2i.cfd
 r66net.com
 r66net.net
@@ -74422,8 +74449,6 @@ searchmagnified.com
 9145.searchmagnified.com
 searchmarketing.com
 tracking.searchmarketing.com
-searchmarquis.com
-www.searchmarquis.com
 searchmiracle.com
 www.searchmiracle.com
 searchmobilia.shop
@@ -75696,6 +75721,7 @@ sisadmin-my.xyz
 sisbktuatntm.com
 sislog.es
 sistemikan.com
+sitaoabuser.com
 sitarvarletsroseola.cyou
 site-analyzer.com
 www.site-analyzer.com
@@ -78337,6 +78363,7 @@ analytics.socialbeat.io
 socialcompletelydefrost.com
 more.socialflow.com
 socialmedia-careers-office.com
+socialnettraffic.com
 socialspark.com
 app.socialspark.com
 www.socialspark.com
@@ -79474,6 +79501,7 @@ startperfectsolutions.com
 four.startperfectsolutions.com
 startuplatte.com
 www.startuplatte.com
+starvationcalibergrid.com
 starwave.com
 espn.starwave.com
 www.starwave.com
@@ -81231,6 +81259,7 @@ sg.tdatamaster.com
 tddmp.com
 i.tddmp.com
 tdetkdcubbyhf.com
+tdhvk8we.xyz
 tdlop7tsme.com
 tdmxtevtyghrgi.com
 tdopeofamsccp.website
@@ -86324,6 +86353,7 @@ vbcojhroxkoaf.online
 vbebyykpkmotm.com
 vbetua1.com
 vbiyclipmg.com
+vbkeloids.qpon
 vbkvubotujxh.com
 tc.vbnmhjlp.com
 vboro.de
@@ -88723,6 +88753,7 @@ wheybkethenic.qpon
 whildey.com
 whimsicalfeeling.com
 whinemalnutrition.com
+whiningperkdisagreeable.com
 whiprayoutkill.com
 whireclogomod.com
 31409.whireclogomod.com
@@ -89460,6 +89491,7 @@ as.adtech.wynk.in
 dgs.adtech.wynk.in
 ts.adtech.wynk.in
 imgads.wynk.in
+wyominghicky.com
 om.wyominghicky.com
 wysistat.com
 www.wysistat.com

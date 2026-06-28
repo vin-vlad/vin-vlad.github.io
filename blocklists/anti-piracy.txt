@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-27T18:31:39.913Z
-# Entries: 29933
+# Last updated: 2026-06-28T07:30:16.952Z
+# Entries: 29935
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -9796,6 +9796,7 @@ iptv-web.app
 iptv4me.net
 iptvcanarias.tv
 iptvguard.app
+iptvhelpforum.com
 iptvmap.com
 iptvonly.tv
 iptvprova.com
@@ -21074,6 +21075,7 @@ moviesflixcc.com
 moviesfoundonline.com
 moviesgo.co
 movieshd.co
+movieshd-online.com
 movieshowti.me
 movieshubz.com
 moviesite.hu
