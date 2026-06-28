@@ -1,5 +1,5 @@
 # fakes
-# Last updated: 2026-06-28T07:30:16.905Z
+# Last updated: 2026-06-28T18:31:31.639Z
 # Entries: 16851
 trader.212group.de
 eu.2bagsvalley.cn
@@ -2956,6 +2956,7 @@ camptotalneu.com
 canada-pharmacy-24h.com
 canadadrugstore.com
 canadanewsreport.com
+canadapharmacyonline.com
 canadapharmacypro.com
 canadapharmacytrust.net
 canadasale365.com
@@ -10346,6 +10347,7 @@ modern-technik.de
 modernbedshop.com
 modernnestliving.shop
 modernoutdoorstandard.de
+moderwear.shop
 modeschulte.de
 modetalente.com
 modethermoskanne.com
@@ -10467,7 +10469,6 @@ moonpod.de
 moontod.com
 moonwalkbaby.com
 moonx.io
-mooris.de
 moosufergarten.de
 mooxishop.de
 mora-gartenbau.de
@@ -11492,7 +11493,6 @@ orcliacare.com
 orderbuycheap.com
 ordergunmagazinesonline.com
 ordernow24.de
-orderrxstore.com
 ordersurfsite.com
 orderumbrella.com
 ordinarlim.com
