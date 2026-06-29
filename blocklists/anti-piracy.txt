@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-28T18:31:31.696Z
-# Entries: 30341
+# Last updated: 2026-06-29T07:56:51.641Z
+# Entries: 30342
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -2719,6 +2719,7 @@ altadefinizionegratis.life
 altadefinizionegratis.link
 altadefinizionegratis.live
 altadefinizionegratis.living
+altadefinizionegratis.me
 altadefinizionegratis.monster
 altadefinizionegratis.news
 altadefinizionegratis.onl
