@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-06-29T07:56:51.593Z
-# Entries: 57251
+# Last updated: 2026-06-29T18:48:38.452Z
+# Entries: 57263
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -441,6 +441,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1908,6 +1911,15 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
+app-google-zh.hl.cn
+go-todesk.hl.cn
+google-google-chrome-google-com.hl.cn
+line-go.hl.cn
+qh-qishuiyinyue.hl.cn
+qishuimusic-cn.hl.cn
+todesk-web.hl.cn
+todesk-zh.hl.cn
+zh-todesk-cn.hl.cn
 map.hnchj.com
 m10.hoes.tube
 yy.hogacotset.com
@@ -8623,6 +8635,7 @@ businesslnstagram.zya.me
 5wcnp5.com
 5wzgtq8dpk.com
 6-partner.com
+6000function.com
 600z.com
 60418.com
 60440.com
@@ -12670,7 +12683,6 @@ atclauncheran.com
 atdeerlinga.com
 atdriczfuli.com
 atdwhoqtigke.com
-atdxamakqo.in
 ateletssuint.shop
 atelier-goo.com
 atelier-goo.net
@@ -13578,7 +13590,6 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -24954,7 +24965,6 @@ footstepflick.com
 foouvpofnhhltg.com
 fooyungoverfee.shop
 for-j.com
-forabomasnowan.com
 foraketene.com
 foramscoypou.com
 foramsthene.com
@@ -25233,6 +25243,7 @@ franktoe.pro
 frankvehicle.com
 franticallyseizedpredicate.com
 franticallytraditionalastound.com
+franticmellownegotiate.com
 frap.site
 fraternityammoniabeaver.com
 fraternityhoweverelapse.com
@@ -28611,7 +28622,6 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
-hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -31361,6 +31371,7 @@ jinqitengcha.com
 jinrongwang.net
 jinxedslete.shop
 jinxeshenfish.shop
+jinxwoolmen.shop
 jinzaikyoka.com
 jirtadsenge.com
 jitanvlw.com
@@ -34945,6 +34956,7 @@ majestychampionshipjake.com
 majestydisbeliefcalory.com
 majiainc.com
 major-lay.pro
+majorashoful.com
 majorbarefooted.com
 majorcharacter.com
 majoriklink.com
@@ -38255,7 +38267,6 @@ ntdhuydpailupwn.com
 ntdotx.icu
 ntedbycathyhou.com
 ntent.com
-ntesgsght.com
 ntfck.com
 ntfx-acc.com
 nthkmosujmuo.net
@@ -38669,7 +38680,6 @@ ocardoniel.com
 ocbakhpcuz.com
 ocbshoxma.com
 ocbtpubcaowl.com
-occasional-flow.com
 occasional-section.pro
 occasionalhole.pro
 occasionalmanner.com
@@ -40671,6 +40681,7 @@ peliculas-hd.net
 pelis-123.org
 pelliancalmato.com
 pelonex.com
+peltmalecheering.com
 pemsrv.com
 penaikaucmu.net
 pencilchao.shop
@@ -53215,6 +53226,7 @@ villaconsolation.com
 villagerhurricane.com
 villagersymphonypilgrim.com
 villagetraitgarret.com
+villagybullion.cyou
 villainous-stop.pro
 viltoubuste.com
 vilytaku.com
