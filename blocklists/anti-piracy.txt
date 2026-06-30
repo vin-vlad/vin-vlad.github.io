@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-29T18:48:38.954Z
-# Entries: 30557
+# Last updated: 2026-06-30T07:28:15.854Z
+# Entries: 30552
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -17,7 +17,6 @@ weedy.1.vg
 atrack-asia-s1.114913.xyz
 chihaya-heroku.120181311.xyz
 ettv.123unblock.world
-tracker.1h.is
 t.213891.xyz
 t-backup.213891.xyz
 crack.21m.net
@@ -100,7 +99,6 @@ tracker.bigbewbs.online
 mkvcinemasmovies.bio.link
 moviesmod.bio.link
 tracker.birkenwald.de
-tracker.bitcoinindia.space
 tracker.bitcomet.net
 tracker.bittalk.org
 tracker.bittor.pw
@@ -704,7 +702,6 @@ ns575949.ip-51-222-82.net
 47.ip-51-68-199.eu
 ns349743.ip-91-121-106.eu
 speedtest.iperson.xyz
-tracker.iperson.xyz
 v2.iperson.xyz
 tracker.ipfsscan.io
 api.ipv4online.uk
@@ -10962,7 +10959,6 @@ kyren.moe
 l33t-raws.org
 la-breiya-lordfilms.ru
 la-breya-lordfilm3.ru
-la-cale.space
 la123movies.com
 labaia.ws
 labtor.tv
@@ -26344,7 +26340,6 @@ strikesu-lordfilm.ru
 strimsy.top
 strmd.link
 strmup.to
-strumyk.cfd
 strumyk.cv
 strumyk.help
 strumyk.in
