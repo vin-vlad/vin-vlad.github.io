@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-06-30T18:44:46.767Z
-# Entries: 30696
+# Last updated: 2026-07-01T07:40:34.736Z
+# Entries: 30698
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -1849,6 +1849,7 @@ tracker.zum.bi
 123moviesz.link
 123moviesz.nl
 123moviesz.run
+123moviesz.sbs
 123movieszfree.org
 123movieszhub.com
 123netflix.club
@@ -2957,6 +2958,7 @@ animefox.org
 animefreak.tv
 animeggo-lordfilms.ru
 animeglare.xyz
+animegojoo.com
 animegoo.life
 animehd47.com
 animeheaven.ru
