@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-01T18:46:41.090Z
-# Entries: 17003
+# Last updated: 2026-07-02T07:16:25.821Z
+# Entries: 16999
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -748,7 +748,6 @@ ger.zoibakii.com
 74days.com
 74invest.com
 77jobwear.com
-77options.com
 77unishop.com
 7dealdays.de
 7econds.com
@@ -1998,7 +1997,6 @@ bayerischegeschenke.com
 bayerischeu.de
 bayowns.com
 bayreuth-boutique.de
-bayro-markt.com
 bazaarskedeals.shop
 bazorlo.com
 bb-consults.com
@@ -3831,7 +3829,6 @@ danster-gmbh.de
 dantesavoy.de
 danxon.de
 dap-deals.de
-dapenex.com
 dapperlogistik.com
 dar-germany.de
 darasports.de
@@ -6745,7 +6742,6 @@ grimhat.com
 griw.xyz
 grizzlyroids.shop
 grkwork.com
-grlavfta.shop
 groomifypetsstore.com
 grosshandelwebservice.de
 grossiste-parfum-generique.com
@@ -7365,7 +7361,6 @@ heyewall.de
 heyi-handel.de
 hezoposo.com
 hgtyfd.shop
-hhvmerch.com
 hi-goeedoo.com
 hibote.de
 hicity.de
@@ -8924,6 +8919,8 @@ kundendienstgeraete.at
 kundendienstline.de
 kundenservice-hotline.at
 kundigenbei.at
+kunstanders.de
+kunstanders.shop
 kunstgeschwind.de
 kunstkulisse.de
 kunstpfadkarte.de
@@ -16817,7 +16814,6 @@ youthcarebeauty.com
 youtradefx.com
 youzuu.de
 yoyocats.com
-ysmnfewy.shop
 ysolara.at
 ytcycling.com
 ythebyre.top
