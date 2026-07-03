@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-07-03T09:24:16.708Z
-# Entries: 56799
+# Last updated: 2026-07-03T19:34:28.182Z
+# Entries: 56790
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
 0db65504c2.012dadaa06.com
@@ -395,9 +395,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -1831,15 +1828,6 @@ qiejushuo.hirz.cn
 ko.hissesgestapo.com
 sl.hitchdong.com
 jt.hitchelunspun.com
-app-google-zh.hl.cn
-go-todesk.hl.cn
-google-google-chrome-google-com.hl.cn
-line-go.hl.cn
-qh-qishuiyinyue.hl.cn
-qishuimusic-cn.hl.cn
-todesk-web.hl.cn
-todesk-zh.hl.cn
-zh-todesk-cn.hl.cn
 map.hnchj.com
 m10.hoes.tube
 yy.hogacotset.com
@@ -13316,6 +13304,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -17225,7 +17214,6 @@ cloudvideosa.com
 cloudw.com
 cloudy-win.com
 cloudybar.pro
-cloudymorningwood.com
 cloudypotsincluded.com
 cloudyreach.pro
 clover-seven.com
@@ -17265,7 +17253,6 @@ cluttered-bid.pro
 cluttered-possession.pro
 clutteredbrush.pro
 clvylxsunj.com
-clxuuhlmtvrmt.today
 clyvjpuuvreqrgj.com
 cm-trk2.com
 cm-trk3.com
@@ -17280,7 +17267,6 @@ cmdrogqpxvxtr.online
 cmdsgzgn.com
 cmfads.com
 cmkhsigydgefs.site
-cmlaffirms.shop
 cmnefjyfgctlw.com
 cmoepgcsnhuhl.com
 cmpgns.net
@@ -24192,6 +24178,7 @@ flatsister.com
 flattendollar.com
 flattenpliable.com
 flatteringwhirlpooldetergent.com
+flavamovie.com
 flavorists.com
 flawed-earth.pro
 flawedbusiness.com
@@ -26708,6 +26695,7 @@ grbsgqafqhkux.store
 greaseguts.com
 greasysquare.com
 great-coach.pro
+great-fade.sbs
 greatcomfortable.com
 greatdexchange.com
 greaterjoke.com
@@ -27010,6 +26998,7 @@ gtiacba3s0em.top
 gtitdwvw.com
 gtithiojf.com
 gtlook.com
+gtm-tools.xyz
 gtosmdjgn.xyz
 gtrem.site
 gtrlhbeizihyy.site
@@ -28181,6 +28170,7 @@ hktniatgor.com
 hkwrwuqlcpelq.site
 hkygalzumaqv.com
 hkzhongzhuangzhan.cc
+hl.cn
 hl2u.com
 hlbmaat.com
 hldijphcjszui.store
@@ -43532,6 +43522,7 @@ rdwmct.com
 rdyipjcfgurypl.com
 rdzjxlizigryv.online
 rdzretjctqkcn.site
+re-captcha.xyz
 re-de.shop
 rea-love.net
 reacheffecti.work

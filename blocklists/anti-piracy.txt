@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-03T09:24:16.749Z
-# Entries: 31246
+# Last updated: 2026-07-03T19:34:28.211Z
+# Entries: 31244
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -4860,7 +4860,6 @@ cmovies.is
 cmovies.mobi
 cmovies.so
 cmovies.space
-cmovies.us
 cmovies.video
 cmovies.vip
 cmovies.watch
@@ -4869,7 +4868,6 @@ cmovieshd.com
 cmovieshd.lol
 cmovieshd.net
 cmovieshd.vip
-cmovieshd.xyz
 cmoviesshd.com
 cn101.ru
 cnetworkbd.net
