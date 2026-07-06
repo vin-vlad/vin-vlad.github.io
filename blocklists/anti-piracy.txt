@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-06T10:43:41.616Z
-# Entries: 32328
+# Last updated: 2026-07-06T20:02:28.521Z
+# Entries: 32105
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -18,7 +18,6 @@ atrack-asia-s1.114913.xyz
 chihaya-heroku.120181311.xyz
 ettv.123unblock.world
 t.213891.xyz
-t-backup.213891.xyz
 crack.21m.net
 tracker.23794.top
 cyberhitz.2ix.ch
@@ -38,9 +37,7 @@ bit-torrents.6x.to
 warez-fusion.6x.to
 wzone.6x.to
 tracker.7471.top
-opentracker.8880085.xyz
 open.8a.is
-opentracker.91kf.top
 bttrack.9you.com
 h85-235-17-132.cust.a3fiber.se
 qot.abiir.top
@@ -71,7 +68,6 @@ tracker.animeworld.cx
 tracker.anonwebz.xyz
 tracker.anthelion.me
 embx224539.apl366.me
-trackr.appolon.dev
 academic-p2p.appspot.com
 carbon-bonsai-621.appspot.com
 cernet-tracker.appspot.com
@@ -184,12 +180,10 @@ win2crack.blogspot.in
 wu-tangfam.blogspot.com
 xtrem-download.blogspot.com
 tracker.bluefrog.pw
-bt.bontal.net
 tracker.bontal.net
 xanabandforum.boosterforum.com
 labs.boramalper.org
 coolztorrentz.bounceme.net
-torrent.bowed.net
 tracker.breizh.pm
 tracker.brokenstones.club
 midas.bs.to
@@ -206,7 +200,6 @@ torrent.burgas.org
 scrapcomputers.busydizzys.com
 tracker.bwtorrents.tv
 watchepisodeseries.bypassed.wtf
-bandito.byterunner.io
 anti.c.la
 digitalwarez.c.la
 ignition-board.c.la
@@ -237,7 +230,6 @@ www.comicsearch.co.uk
 tracker.loli.co.nz
 tracker1.loli.co.nz
 tracker1.bt.moack.co.kr
-bittracker.nekosunevr.co.uk
 www.smithstorrents.co.uk
 123movieshub.co.uk
 321movies.co.uk
@@ -406,7 +398,6 @@ extracker.dahrkael.net
 tracker.darkness.services
 tpb.dashitz.com
 bt.davka.info
-asiatorrent.ddns.net
 houniao.ddns.net
 echostar.ddnsfree.com
 ddgu.ddos-guard.net
@@ -420,9 +411,7 @@ wap.delmy.com
 open.demonii.si
 inferno.demonoid.me
 open.demonoid.ch
-open-tracker.demonoid.ch
 open-v6.demonoid.ch
-public.demonoid.ch
 azn-project.depthstrike.com
 forum.desi9.com
 exodus.desync.com
@@ -430,9 +419,6 @@ tube.dfnbd.net
 mixes.dfx.at
 tracker.zhuqiy.dgj055.icu
 tr-rh-zhuqiy.dgj055.icu
-tr-zhuqiy-1.dgj055.icu
-tr-zhuqiy-2.dgj055.icu
-tracker-zhuqiy.dgj055.icu
 trl-zhuqiy.dgj055.icu
 tracker.dhitechnical.com
 dht.dhtclub.com
@@ -466,7 +452,6 @@ kamikazee.duckdns.org
 rekcart.duckdns.org
 thinking.duckdns.org
 tr4ck3r.duckdns.org
-vito-tracker.duckdns.org
 tracker.ducks.party
 torrent.tracker.durukanbal.com
 tracker.dutchtracking.com
@@ -529,7 +514,6 @@ tracker.novaopcj.eu.org
 1.tracker.eu.org
 2.tracker.eu.org
 3.tracker.eu.org
-4.tracker.eu.org
 bollywood.eu.org
 dpzsoftwarez.eu.cc
 kingtam.eu.org
@@ -556,7 +540,6 @@ cartoon-world.fansub-torrents.com
 gerusama.fansub-torrents.com
 kazenokoefansubs.fansub-torrents.com
 torrent.fedoraproject.org
-lucke.fenesisu.moe
 tracker.filemail.com
 tpb.filepit.to
 tracker.filepit.to
@@ -612,9 +595,6 @@ git.fuwafuwa.moe
 pre.fyp.nl
 ettv.g3g.fun
 yuptracker.gaijinent.com
-yuptracker-eu.gaijinent.com
-yuptracker-sa.gaijinent.com
-yuptracker-us.gaijinent.com
 bt-tracker.gamexp.ru
 tracker.gaytor.rent
 hh.gbdev.io
@@ -628,9 +608,7 @@ torrent.genesis-movement.org
 ip.getcrazy.me
 sparkle.ghostchu-services.top
 tracker.ghostchu-services.top
-utracker.ghostchu-services.top
 tracker.gigantino.net
-asiatorrent.giize.com
 tornado-torrent.gitlab.io
 cinetide.glitch.me
 tracker.gmi.gd
@@ -671,6 +649,7 @@ spacetradersapi-chatbox.herokuapp.com
 trakx.herokuapp.com
 xtremex.herokuapp.com
 yann5.hexanyn.fr
+torrent.hificode.in
 tracker.hifimarket.in
 tr.highstar.shop
 torrents.hikarinokiseki.com
@@ -708,10 +687,8 @@ app.iosgods.com
 ns575949.ip-51-222-82.net
 47.ip-51-68-199.eu
 ns349743.ip-91-121-106.eu
-speedtest.iperson.xyz
 v2.iperson.xyz
 tracker.ipfsscan.io
-api.ipv4online.uk
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 download.iq24.pl
@@ -835,11 +812,9 @@ tracker.msm8916.com
 ln.mtahost.co
 linux.mybookmarkmanager.com
 forums.mydigitallife.net
-s1124554.ha012.t.mydomain.zone
 f4cineplex.myftp.org
 hawklord.myftp.org
 turtle55.myftp.org
-de7c0e7a567e.sn.mynetname.net
 ns3109441.mypdns.org
 rfc5746.mywaifu.best
 tracker.mywaifu.best
@@ -977,7 +952,6 @@ bt.ourdisc.net
 vivlajeunesse.over-blog.com
 xtremfirst-cinema.over-blog.com
 t.overflow.biz
-vps-c1adea63.vps.ovh.net
 ns389251.ovh.net
 kinoger.p2pplay.pro
 multimovies.p2pplay.pro
@@ -1007,8 +981,6 @@ xpwatch-v2.pages.dev
 nyaa.pantsu.cat
 sukebei.pantsu.cat
 tracker.paradise-tracker.com
-colibri.parrot.run
-wolf.parrot.run
 tracker.parrotlinux.org
 tracker.parrotsec.org
 tpb.patatje.eu
@@ -1017,7 +989,6 @@ thepiratebay-org.pbproxy.red
 thepiratebay-org.pbproxy2.co
 cn.pcfreetime.com
 tracker.pcfreetime.com
-u.peer-exchange.download
 dl.phazeddl.com
 tracker.picotorrent.one
 tracker.pimp4003.net
@@ -1052,11 +1023,9 @@ thepiratebay-org.proxydude.xyz
 tracker.prq.to
 tracker.pterclub.com
 tracker.ptsbao.club
-bt.publicvm.com
 foros.puntotorrent.com
 bt.pusacg.org
 www1.putlockers.cafe
-trackthis.cyber.pz.it
 tracker.qingwa.pro
 tracker.qingwapt.org
 musicmania.ql.lt
@@ -1090,7 +1059,6 @@ gwp2-v19.rinet.ru
 tracker.riverarmy.xyz
 stream.rodrixtv.info
 bit.ruabruam.com
-wsad.run.place
 tracker.safe.moe
 bt.saiyaman.info
 tracker.sakurato.art
@@ -1150,7 +1118,6 @@ warez.sub-france.com
 nagios.tks.sumy.ua
 tracker.swifte.space
 bestoflinks.synology.me
-ibksturm.synology.me
 sidewinderx.sytes.net
 thebazaar.sytes.net
 savaria.szerverem.hu
@@ -1192,24 +1159,18 @@ tr.torland.ga
 tracker.tornevall.net
 tracker.torr9.net
 archive.torrentonline.cc
-coeus.torrentonline.cc
-node01.torrentonline.cc
-node02.torrentonline.cc
 obey.torrentonline.cc
 whybother.torrentonline.cc
 tracker.torrentparty.com
 tracker.torrentseeds.org
 alpha.torrenttracker.nl
 tracker.torrust-demo.com
-http1.torrust-tracker-demo.com
-udp1.torrust-tracker-demo.com
 chihaya.toss.li
 tracker.toss.li
 tracker.totheglory.im
 forum.touki.ru
 open.touki.ru
 tracker.trackarr.org
-udp.trackarr.org
 bvarf.tracker.sh
 nyaa.tracker.wf
 open.tracker.ink
@@ -1244,7 +1205,6 @@ tracker0.ufibox.com
 piracitoplista.ugu.pl
 edu.uifr.ru
 thepiratebay.uk.net
-cerf.cs.umd.edu
 tracker.umunu.ru
 yifytv.unblckd.ist
 eztv.unblocked.how
@@ -1333,6 +1293,7 @@ zmov.vercel.app
 bt.viachicago.org
 tracker.videodrugproject.com
 movie.vidmate.mobi
+v6.vito-tracker.space
 bbs.vivo.com
 vww.voirseries.co
 tracker.vraphim.com
@@ -2054,7 +2015,6 @@ tracker.zum.bi
 25-lordfilmy.ru
 250412.xyz
 25soap2day.day
-2600.com
 266528.xyz
 28-let-spustyas-lordfilm.ru
 28-years-laters-lordfilm.ru
@@ -2260,7 +2220,6 @@ tracker.zum.bi
 654321.best
 661321.xyz
 66387795cyr.com
-66691337.xyz
 67sports.net
 67streams.online
 6ahddutb1ucc3cp.ru
@@ -4182,7 +4141,6 @@ buffstreams.app
 buffstreams.sx
 buffstreams.tv
 buffy-lordfilms.ru
-bughome.de
 bukhta-vdov-lordfilm.buzz
 bukhta-vdov-lordfilm.top
 bukiny-lordfilm.buzz
@@ -4196,7 +4154,6 @@ bundesliga-streams.net
 bungou-stray-dogsu-lordfilm.ru
 bunkr.tv
 buny.uk
-burmese.app
 burning-series.io
 burning-series.net
 burningseries.co
@@ -5005,7 +4962,6 @@ coflixtvtv.cfd
 coflixx.com
 cointv.site
 coldplaybootlegs.com
-colivioo.com
 colombo-bt.org
 colonia-movie.com
 comandofilmetorrent.com
@@ -7185,7 +7141,6 @@ filmoflix.is
 filmoflix.ltd
 filmoflix.media
 filmoflix.money
-filmoflix.one
 filmoflix.page
 filmoflix.pizza
 filmoflix.shop
@@ -9565,7 +9520,6 @@ hicartoon.to
 hichnikis-lordfilm.ru
 hichniks-lordfilm.ru
 hichniku-lordfilm.ru
-hificode.in
 high-potential-lordfilm.ru
 high-way.me
 highlandery-lordfilm.ru
@@ -11405,7 +11359,6 @@ livetorrents.com
 livetv.asia
 livetv.ru
 livetv.sx
-livetv-en.com
 livetv706.me
 livetv786.pro
 livetv802.me
@@ -11437,7 +11390,6 @@ locke-and-kejj-lordfilm.ru
 loffe414wil.com
 logansmovies.com
 loiflix.xyz
-lojawarez.com
 lok-i-klyuch-lordfilm3.ru
 lokerbi-v-poiskah-pravdy-lordfilm3.ru
 loki-lordfilm.buzz
@@ -11485,7 +11437,6 @@ lookmovie198.xyz
 lookmovie2.info
 lookmovie2.ink
 lookmovie2.la
-lookmovie2.lol
 lookmovie2.mov
 lookmovie2.online
 lookmovie2.site
@@ -11511,11 +11462,9 @@ lookmovies.click
 lookmovies.co
 lookmovies.online
 lookmovies.work
-lookmovies.world
 lookmovies.xyz
 lookmovies-official.site
 lookmovies2.bar
-lookmovies2.lat
 lookmovies4u.info
 lookmoviess.com
 lookmoviestv.digital
@@ -11551,7 +11500,6 @@ lordfilm.london
 lordfilm.mobi
 lordfilm.mom
 lordfilm.nl
-lordfilm.press
 lordfilm.promo
 lordfilm.run
 lordfilm.skin
@@ -11561,11 +11509,9 @@ lordfilm.tax
 lordfilm.taxi
 lordfilm.tips
 lordfilm.vet
-lordfilm.vin
 lordfilm.works
 lordfilm-071py.icu
 lordfilm-1.art
-lordfilm-1.top
 lordfilm-1080.sbs
 lordfilm-1080hd.top
 lordfilm-11py.icu
@@ -11597,7 +11543,6 @@ lordfilm-29-26.icu
 lordfilm-2926.icu
 lordfilm-2926.lat
 lordfilm-29gw.top
-lordfilm-2k.online
 lordfilm-32bp.icu
 lordfilm-37hd.lat
 lordfilm-42bp.icu
@@ -11632,7 +11577,6 @@ lordfilm-behead.ru
 lordfilm-besplatno.com
 lordfilm-best.icu
 lordfilm-best.ru
-lordfilm-bestone.top
 lordfilm-black3.com
 lordfilm-blx2.icu
 lordfilm-boys.ru
@@ -11643,7 +11587,6 @@ lordfilm-chasti-tela.ru
 lordfilm-chyornyy-spisok.ru
 lordfilm-club.icu
 lordfilm-club.top
-lordfilm-cool.top
 lordfilm-corpse.ru
 lordfilm-cvh.ru
 lordfilm-dbj1.icu
@@ -11685,7 +11628,6 @@ lordfilm-hd.com
 lordfilm-hd.net
 lordfilm-hd26.icu
 lordfilm-hd26q.icu
-lordfilm-hd8.top
 lordfilm-hd86q.icu
 lordfilm-hit.ru
 lordfilm-hod-korolevy.ru
@@ -11740,7 +11682,6 @@ lordfilm-moli.top
 lordfilm-most-cinema.top
 lordfilm-movie2026.ru
 lordfilm-moviie2026.ru
-lordfilm-n2.top
 lordfilm-narko.ru
 lordfilm-ne-kekchi.store
 lordfilm-neverr.top
@@ -11748,14 +11689,12 @@ lordfilm-new.org
 lordfilm-new-day.top
 lordfilm-nix.ru
 lordfilm-nova.icu
-lordfilm-novinki1.top
 lordfilm-novinki4k.top
 lordfilm-nows.ru
 lordfilm-ntz.shop
 lordfilm-nxy.lat
 lordfilm-ochen-ctrashnoe-kino.ru
 lordfilm-ohotnik-za-razumom.ru
-lordfilm-on.org
 lordfilm-onepiece.online
 lordfilm-onepiece.ru
 lordfilm-onlain-smotret-2026.ru
@@ -11815,7 +11754,6 @@ lordfilm-ru.mom
 lordfilm-rue.ru
 lordfilm-russia2025.ru
 lordfilm-rutop.xyz
-lordfilm-rvk.ru
 lordfilm-s.space
 lordfilm-s.vin
 lordfilm-sake.ru
@@ -11833,7 +11771,6 @@ lordfilm-smotret.sbs
 lordfilm-smotret-2026.ru
 lordfilm-smotret-onlain-2026.ru
 lordfilm-smotret-onlayn-2026.ru
-lordfilm-smotri.online
 lordfilm-smotri.ru
 lordfilm-sol.ru
 lordfilm-specnaz.ru
@@ -11869,7 +11806,6 @@ lordfilm-vac.ru
 lordfilm-vex.ru
 lordfilm-via.ru
 lordfilm-view.icu
-lordfilm-vmm.ru
 lordfilm-vse-chasti.top
 lordfilm-vue.ru
 lordfilm-wae.ru
@@ -11960,7 +11896,6 @@ lordfilm2.monster
 lordfilm20.help
 lordfilm20.monster
 lordfilm20025.ru
-lordfilm2023.com
 lordfilm2024.com
 lordfilm2024.xyz
 lordfilm2025.click
@@ -12050,7 +11985,6 @@ lordfilm255r.lat
 lordfilm257d.lat
 lordfilm26.help
 lordfilm26.monster
-lordfilm26.online
 lordfilm27.help
 lordfilm27.monster
 lordfilm288.ru
@@ -12166,7 +12100,6 @@ lordfilm7.art
 lordfilm7.com
 lordfilm7.de
 lordfilm7.monster
-lordfilm715.top
 lordfilm72.help
 lordfilm721.lat
 lordfilm73.help
@@ -12260,7 +12193,6 @@ lordfilmacross.top
 lordfilmacting.top
 lordfilmaction.lat
 lordfilmaction.lol
-lordfilmactor.icu
 lordfilmactress.sbs
 lordfilmacv.lol
 lordfilmacx.lol
@@ -12480,11 +12412,9 @@ lordfilmawb.lol
 lordfilmawc.lat
 lordfilmawc.live
 lordfilmawcz.lol
-lordfilmawd.online
 lordfilmawj.lol
 lordfilmawl.lol
 lordfilmawm.lat
-lordfilmawm.online
 lordfilmawo.one
 lordfilmawoq.lol
 lordfilmawp.vu
@@ -12501,7 +12431,6 @@ lordfilmaxg.lat
 lordfilmaxgq.lat
 lordfilmaxial.lol
 lordfilmaxiom.icu
-lordfilmaxion.icu
 lordfilmaxk.lol
 lordfilmaxt.icu
 lordfilmay.lol
@@ -12524,7 +12453,6 @@ lordfilmazhr.lat
 lordfilmazl.vu
 lordfilmaztq.lol
 lordfilmb.cyou
-lordfilmb.life
 lordfilmb.one
 lordfilmb3n4m.icu
 lordfilmb4n5m.icu
@@ -12617,7 +12545,6 @@ lordfilmbgb.lat
 lordfilmbgcd.lol
 lordfilmbgci.lol
 lordfilmbgd.monster
-lordfilmbgf33.icu
 lordfilmbgg.live
 lordfilmbgk.life
 lordfilmbgl.lat
@@ -12648,9 +12575,7 @@ lordfilmbhw.biz
 lordfilmbi.lol
 lordfilmbiac.lat
 lordfilmbib.lat
-lordfilmbijtk51.icu
 lordfilmbinaural.lol
-lordfilmbison.icu
 lordfilmbits.cfd
 lordfilmbitter.sbs
 lordfilmbix.lol
@@ -12761,7 +12686,6 @@ lordfilmbr.monster
 lordfilmbra.pro
 lordfilmbrb.lat
 lordfilmbrc.life
-lordfilmbrenix.icu
 lordfilmbrga.lat
 lordfilmbrhl.lat
 lordfilmbri.monster
@@ -12803,7 +12727,6 @@ lordfilmbul.lol
 lordfilmbulbash.icu
 lordfilmbuq.my
 lordfilmbuuf9.icu
-lordfilmbuuik5.icu
 lordfilmbuy.bond
 lordfilmbuzc.vu
 lordfilmbv.monster
@@ -12851,7 +12774,6 @@ lordfilmbyp.life
 lordfilmbyp.lol
 lordfilmbypass.cfd
 lordfilmbyr.lol
-lordfilmbyron.icu
 lordfilmbys.live
 lordfilmbyt.lol
 lordfilmbyypp.icu
@@ -12877,21 +12799,17 @@ lordfilmc1v2b.icu
 lordfilmc2v3b.icu
 lordfilmc3v9k.icu
 lordfilmc7b5x.icu
-lordfilmc8v9b.icu
 lordfilmca.monster
 lordfilmcaa.icu
 lordfilmcabu.lol
 lordfilmcaddy.top
 lordfilmcadence.cfd
 lordfilmcadrage.sbs
-lordfilmcadro.icu
 lordfilmcae.vu
 lordfilmcaf.lol
 lordfilmcaf.monster
 lordfilmcai.life
 lordfilmcai.monster
-lordfilmcal.online
-lordfilmcalix.icu
 lordfilmcall.top
 lordfilmcallback.cfd
 lordfilmcamera.cyou
@@ -12928,7 +12846,6 @@ lordfilmccu.lol
 lordfilmccu.my
 lordfilmccv.lat
 lordfilmccv.life
-lordfilmccyrb34.icu
 lordfilmcdff3.icu
 lordfilmcdg.vu
 lordfilmcdh.life
@@ -12970,7 +12887,6 @@ lordfilmchain.cfd
 lordfilmchbp.lol
 lordfilmchc.cfd
 lordfilmchd.shop
-lordfilmchej73.icu
 lordfilmchi.lol
 lordfilmchi.one
 lordfilmchill.icu
@@ -13065,8 +12981,6 @@ lordfilmcontinua.sbs
 lordfilmcor.icu
 lordfilmcor.life
 lordfilmcoral.icu
-lordfilmcorven.icu
-lordfilmcorza.icu
 lordfilmcounter.cfd
 lordfilmcourse.top
 lordfilmcovk.lol
@@ -13093,12 +13007,10 @@ lordfilmcre.lat
 lordfilmcre.monster
 lordfilmcreate.top
 lordfilmcredits.lol
-lordfilmcrest.icu
 lordfilmcrew.top
 lordfilmcrgx.lol
 lordfilmcrhr.lol
 lordfilmcrj.lat
-lordfilmcrn.online
 lordfilmcrn.shop
 lordfilmcrn.vu
 lordfilmcro.lol
@@ -13157,7 +13069,6 @@ lordfilmcuwj.lol
 lordfilmcvb.life
 lordfilmcvc.monster
 lordfilmcvcx.lat
-lordfilmcveh33.icu
 lordfilmcver4.icu
 lordfilmcvl.lol
 lordfilmcvrl.lol
@@ -13223,7 +13134,6 @@ lordfilmczyt.lat
 lordfilmd.beer
 lordfilmd.cyou
 lordfilmd2b9p.icu
-lordfilmd2f3g.icu
 lordfilmd3e4f.icu
 lordfilmd4f5g.icu
 lordfilmd5f6g.icu
@@ -13281,7 +13191,6 @@ lordfilmdeo.life
 lordfilmdescribe.top
 lordfilmdese.icu
 lordfilmdesign.lat
-lordfilmdexar.icu
 lordfilmdexo.icu
 lordfilmdfe.lat
 lordfilmdfh.life
@@ -13400,7 +13309,6 @@ lordfilmdolly.cfd
 lordfilmdom.lol
 lordfilmdoor.lat
 lordfilmdopg.lat
-lordfilmdoran.icu
 lordfilmdosi.lat
 lordfilmdou.lol
 lordfilmdox.monster
@@ -13428,8 +13336,6 @@ lordfilmdqli.lat
 lordfilmdqn.lat
 lordfilmdqso.lol
 lordfilmdr.monster
-lordfilmdrama.icu
-lordfilmdravix.icu
 lordfilmdrd.one
 lordfilmdrdg.lol
 lordfilmdread.cyou
@@ -13460,7 +13366,6 @@ lordfilmdtvc.lol
 lordfilmdtvv.lat
 lordfilmdubbing.cyou
 lordfilmdubeo32.icu
-lordfilmduer4.icu
 lordfilmduf.lol
 lordfilmduhe.lat
 lordfilmdui.life
@@ -13619,7 +13524,6 @@ lordfilmeft.biz
 lordfilmefu.bond
 lordfilmefuw.lat
 lordfilmeg.monster
-lordfilmeghh3.icu
 lordfilmegnk.lat
 lordfilmegq.vu
 lordfilmegqb.vu
@@ -13699,7 +13603,6 @@ lordfilmekpz.lol
 lordfilmekq.lat
 lordfilmekr.lat
 lordfilmekr.lol
-lordfilmekron.icu
 lordfilmeks.lat
 lordfilmekt.lat
 lordfilmeku.lat
@@ -13735,7 +13638,6 @@ lordfilmelt.lat
 lordfilmelt.lol
 lordfilmelt.one
 lordfilmelv.lat
-lordfilmelvox.icu
 lordfilmelw.lat
 lordfilmelw.lol
 lordfilmely.lat
@@ -14020,7 +13922,6 @@ lordfilmevp.live
 lordfilmevp.lol
 lordfilmevq.lat
 lordfilmevr.lat
-lordfilmevron.icu
 lordfilmevs.lat
 lordfilmevu.lat
 lordfilmevv.biz
@@ -14157,8 +14058,6 @@ lordfilmfaei.lol
 lordfilmfailure.lat
 lordfilmfal.life
 lordfilmfal.lol
-lordfilmfalcor.icu
-lordfilmfalzo.icu
 lordfilmfantasy.lol
 lordfilmfao.life
 lordfilmfar.live
@@ -14228,7 +14127,6 @@ lordfilmffc.monster
 lordfilmffcn.lat
 lordfilmffd.monster
 lordfilmffe.biz
-lordfilmffilo56.icu
 lordfilmffp.biz
 lordfilmffun.lol
 lordfilmffy.icu
@@ -14314,7 +14212,6 @@ lordfilmfl.monster
 lordfilmflame.icu
 lordfilmflare.icu
 lordfilmflare.lol
-lordfilmflash.icu
 lordfilmflc.live
 lordfilmflf.lol
 lordfilmfll.lol
@@ -14327,7 +14224,6 @@ lordfilmflux.sbs
 lordfilmflvh.life
 lordfilmflw.lol
 lordfilmfly.life
-lordfilmflyso5.icu
 lordfilmfm.click
 lordfilmfma.lol
 lordfilmfmp.lol
@@ -14357,7 +14253,6 @@ lordfilmfokus.icu
 lordfilmfoley.lol
 lordfilmfolt.lat
 lordfilmfootage.lat
-lordfilmforge.icu
 lordfilmform.sbs
 lordfilmfox.top
 lordfilmfoy.icu
@@ -14433,7 +14328,6 @@ lordfilmfuj.lat
 lordfilmfujf3.icu
 lordfilmfukf.lat
 lordfilmful.lol
-lordfilmfurbo33.icu
 lordfilmfut.lat
 lordfilmfuture.sbs
 lordfilmfux.biz
@@ -14480,7 +14374,6 @@ lordfilmfye.life
 lordfilmfygx.lol
 lordfilmfyh.lol
 lordfilmfyk.lol
-lordfilmfynor.icu
 lordfilmfyo.life
 lordfilmfyp.lol
 lordfilmfyq.biz
@@ -14504,7 +14397,6 @@ lordfilmfzz.vu
 lordfilmg.cyou
 lordfilmg.lol
 lordfilmg.yachts
-lordfilmg5f6d.icu
 lordfilmg5h6j.icu
 lordfilmg7f8d.icu
 lordfilmg8f9d.icu
@@ -14513,7 +14405,6 @@ lordfilmgae.lol
 lordfilmgaffer.lol
 lordfilmgah.life
 lordfilmgahw.lat
-lordfilmgalix.icu
 lordfilmgar.lat
 lordfilmgary.lol
 lordfilmgat.lat
@@ -14702,12 +14593,10 @@ lordfilmgr.monster
 lordfilmgrade.sbs
 lordfilmgrading.lat
 lordfilmgrain.lol
-lordfilmgrexo.icu
 lordfilmgrind.top
 lordfilmgrip.cfd
 lordfilmgrj.lol
 lordfilmgrm.lat
-lordfilmgrom.online
 lordfilmgrt.icu
 lordfilmgrw.biz
 lordfilmgrw.lol
@@ -14816,7 +14705,6 @@ lordfilmgzxh.lol
 lordfilmgzxp.icu
 lordfilmgzy.lol
 lordfilmh.cyou
-lordfilmh4j5k.icu
 lordfilmh6j7k.icu
 lordfilmh6qwr.icu
 lordfilmh7j8k.icu
@@ -14832,17 +14720,13 @@ lordfilmhae.lat
 lordfilmhag.lol
 lordfilmhalcyon.cfd
 lordfilmhallyu.sbs
-lordfilmhalven.icu
 lordfilmhaptic.sbs
 lordfilmhaq.vu
 lordfilmharo.icu
 lordfilmhatv.lol
-lordfilmhaven.icu
 lordfilmhavj.lol
-lordfilmhavor.icu
 lordfilmhaw.lol
 lordfilmhba.lat
-lordfilmhbbye36.icu
 lordfilmhbc.monster
 lordfilmhbd.biz
 lordfilmhbg.lat
@@ -14873,10 +14757,7 @@ lordfilmhcx.one
 lordfilmhcz.icu
 lordfilmhcz.life
 lordfilmhczl.lol
-lordfilmhd.life
 lordfilmhd4k.mom
-lordfilmhd6.top
-lordfilmhd8.top
 lordfilmhdbaza.online
 lordfilmhde.life
 lordfilmhdk.icu
@@ -14885,11 +14766,9 @@ lordfilmhdm.life
 lordfilmhdrg.lol
 lordfilmhds.monster
 lordfilmhdt.lat
-lordfilmhdtv5.top
 lordfilmhdy.lol
 lordfilmheg.lol
 lordfilmhej.monster
-lordfilmhelixo.icu
 lordfilmhelq.lol
 lordfilmhento.icu
 lordfilmherring.sbs
@@ -15026,7 +14905,6 @@ lordfilmhorror.top
 lordfilmhos.life
 lordfilmhosl.lat
 lordfilmhouse.cyou
-lordfilmhouse.icu
 lordfilmhow.life
 lordfilmhowz.lol
 lordfilmhoye.lol
@@ -15088,7 +14966,6 @@ lordfilmhtl.monster
 lordfilmhtq.lol
 lordfilmhtti.lol
 lordfilmhtu.one
-lordfilmhub-tv.top
 lordfilmhubris.cfd
 lordfilmhuc.icu
 lordfilmhue.live
@@ -15158,9 +15035,7 @@ lordfilmi10.life
 lordfilmi11.life
 lordfilmi1o2p.icu
 lordfilmi2.ru
-lordfilmi2025.com
 lordfilmi2o3a.icu
-lordfilmi8o9p.icu
 lordfilmia.monster
 lordfilmiad.lat
 lordfilmiahn.life
@@ -15540,7 +15415,6 @@ lordfilmiioo.vu
 lordfilmiiqg.lol
 lordfilmiist.lat
 lordfilmiiv.life
-lordfilmiiver54.icu
 lordfilmij.monster
 lordfilmijg.icu
 lordfilmijp.lol
@@ -15685,7 +15559,6 @@ lordfilmix1.top
 lordfilmixa.lat
 lordfilmixa.vu
 lordfilmixl.lol
-lordfilmixora.icu
 lordfilmixr.lat
 lordfilmixt.monster
 lordfilmixts.lat
@@ -15719,7 +15592,6 @@ lordfilmj1.top
 lordfilmj2.top
 lordfilmj3x8v.icu
 lordfilmj5v2c.icu
-lordfilmj6k7l.icu
 lordfilmj7k8l.icu
 lordfilmj8k9m.icu
 lordfilmja.monster
@@ -15732,7 +15604,6 @@ lordfilmjam.lol
 lordfilmjandy.icu
 lordfilmjaoa.lat
 lordfilmjaq.life
-lordfilmjarven.icu
 lordfilmjas.lat
 lordfilmjav.one
 lordfilmjawd.life
@@ -15777,7 +15648,6 @@ lordfilmjek.study
 lordfilmjeka.icu
 lordfilmjeq.lol
 lordfilmjerc.icu
-lordfilmjesta.icu
 lordfilmjev.vu
 lordfilmjey.biz
 lordfilmjf.monster
@@ -16004,7 +15874,6 @@ lordfilmjzvf.lol
 lordfilmjzxb.lat
 lordfilmk.cyou
 lordfilmk2ray.icu
-lordfilmk3j4h.icu
 lordfilmk3m6r.icu
 lordfilmk5j6h.icu
 lordfilmk5n3w.icu
@@ -16018,12 +15887,10 @@ lordfilmkad.lol
 lordfilmkae.one
 lordfilmkaj.monster
 lordfilmkalr.lol
-lordfilmkalvor.icu
 lordfilmkao.lol
 lordfilmkar.life
 lordfilmkasz.lol
 lordfilmkau.life
-lordfilmkavio.icu
 lordfilmkaw.biz
 lordfilmkaw.lat
 lordfilmkbc.lat
@@ -16066,7 +15933,6 @@ lordfilmkeg.life
 lordfilmkelvo.icu
 lordfilmkemx.lol
 lordfilmken.icu
-lordfilmkentro.icu
 lordfilmker.icu
 lordfilmkerch.lat
 lordfilmkero.icu
@@ -16168,7 +16034,6 @@ lordfilmkolk.lol
 lordfilmkondo.icu
 lordfilmkopet.lat
 lordfilmkoq.shop
-lordfilmkorby.icu
 lordfilmkot.live
 lordfilmkox.live
 lordfilmkoy.lol
@@ -16311,7 +16176,6 @@ lordfilmkzx.lat
 lordfilmkzyc.lol
 lordfilml.cyou
 lordfilml.yachts
-lordfilml6z7x.icu
 lordfilml8z9x.icu
 lordfilml9z1x.icu
 lordfilmlab.lol
@@ -16521,7 +16385,6 @@ lordfilmlofp.lol
 lordfilmloh.icu
 lordfilmloi.lol
 lordfilmloj.lol
-lordfilmlokji1.icu
 lordfilmlomn.life
 lordfilmlomt.vu
 lordfilmlooping.lat
@@ -16529,7 +16392,6 @@ lordfilmloq.lat
 lordfilmloqh.lol
 lordfilmloqj.lol
 lordfilmloran.icu
-lordfilmlorza.icu
 lordfilmlos.lol
 lordfilmlot.biz
 lordfilmlotus.icu
@@ -16607,7 +16469,6 @@ lordfilmlut.lat
 lordfilmluu.life
 lordfilmluw.life
 lordfilmlux.lol
-lordfilmluxor.icu
 lordfilmluz.lol
 lordfilmlv.monster
 lordfilmlvc.art
@@ -16684,7 +16545,6 @@ lordfilmm.lol
 lordfilmm.yachts
 lordfilmm-1tv.monster
 lordfilmm-2026.top
-lordfilmm8n9b.icu
 lordfilmm9n1b.icu
 lordfilmma.monster
 lordfilmmad.lat
@@ -16764,7 +16624,6 @@ lordfilmmen.live
 lordfilmmennp.lol
 lordfilmmep.live
 lordfilmmeron.icu
-lordfilmmervix.icu
 lordfilmmetro.icu
 lordfilmmev.lol
 lordfilmmex.life
@@ -17011,10 +16870,8 @@ lordfilmmzt.lat
 lordfilmmzz.icu
 lordfilmn.cyou
 lordfilmn.lol
-lordfilmn1m2n.icu
 lordfilmn3m4n.icu
 lordfilmn4m5n.icu
-lordfilmn9p2q.icu
 lordfilmna.monster
 lordfilmnabk.lat
 lordfilmnac.lat
@@ -17023,7 +16880,6 @@ lordfilmnagj.lol
 lordfilmnaj.lat
 lordfilmnas.vu
 lordfilmnau.vu
-lordfilmnavor.icu
 lordfilmnazt.lol
 lordfilmnb.monster
 lordfilmnba.icu
@@ -17105,7 +16961,6 @@ lordfilmnhv.lat
 lordfilmnhxp.life
 lordfilmni.monster
 lordfilmnic.live
-lordfilmnight.icu
 lordfilmnightly.top
 lordfilmnih.lol
 lordfilmnilb.life
@@ -17186,7 +17041,6 @@ lordfilmnode.lat
 lordfilmnof.study
 lordfilmnoi.live
 lordfilmnoir.sbs
-lordfilmnolix.icu
 lordfilmnon.study
 lordfilmnorix.icu
 lordfilmnorza.icu
@@ -17263,7 +17117,6 @@ lordfilmnuq.life
 lordfilmnur.lol
 lordfilmnusy.lol
 lordfilmnuy.lol
-lordfilmnuytt67.icu
 lordfilmnvb.my
 lordfilmnvem.lat
 lordfilmnvex.lol
@@ -17273,7 +17126,6 @@ lordfilmnvm.icu
 lordfilmnvm.lol
 lordfilmnvm.sbs
 lordfilmnvo.cfd
-lordfilmnvo.ru
 lordfilmnvp.one
 lordfilmnvt.live
 lordfilmnvt.lol
@@ -17310,11 +17162,9 @@ lordfilmnyiw.lol
 lordfilmnym.biz
 lordfilmnyn.biz
 lordfilmnyoo.lol
-lordfilmnyyte4.icu
 lordfilmnyzj.lol
 lordfilmnzcy.lol
 lordfilmnzd.life
-lordfilmnzgn.online
 lordfilmnzh.lol
 lordfilmnzjo.life
 lordfilmnzki.lol
@@ -17527,7 +17377,6 @@ lordfilmorrv.lol
 lordfilmortho.sbs
 lordfilmoru.lol
 lordfilmorven.icu
-lordfilmorvex.icu
 lordfilmorxo.lat
 lordfilmos.monster
 lordfilmos.top
@@ -17578,8 +17427,6 @@ lordfilmoxie.lol
 lordfilmoxl.biz
 lordfilmoxqs.vu
 lordfilmoxr.lol
-lordfilmoxvel4.icu
-lordfilmoxven.icu
 lordfilmoxw.lat
 lordfilmoxww.lol
 lordfilmoxzo.lol
@@ -17616,7 +17463,6 @@ lordfilmp.cyou
 lordfilmp2a3s.icu
 lordfilmp3a4s.icu
 lordfilmp3x7g.icu
-lordfilmp9a1s.icu
 lordfilmpaa.lol
 lordfilmpafp.lol
 lordfilmpaj.lat
@@ -17825,7 +17671,6 @@ lordfilmpqn.life
 lordfilmpqu.vu
 lordfilmpqyv.lol
 lordfilmpr.monster
-lordfilmpraxo.icu
 lordfilmprb.life
 lordfilmpremise.sbs
 lordfilmpresent.lat
@@ -17939,8 +17784,6 @@ lordfilmpzqn.vu
 lordfilmpzt.lat
 lordfilmq.beer
 lordfilmq.cyou
-lordfilmq2p3o.icu
-lordfilmq3w4e.icu
 lordfilmq4.sbs
 lordfilmq4p5o.icu
 lordfilmq5.sbs
@@ -18198,12 +18041,9 @@ lordfilmr.yachts
 lordfilmr1d9s.icu
 lordfilmr2t8z.icu
 lordfilmr4m1z.icu
-lordfilmr4s5t.icu
-lordfilmr5t6y.icu
 lordfilmr7t8y.icu
 lordfilmr8c1y.icu
 lordfilmr8t9y.icu
-lordfilmradar.icu
 lordfilmradiant.lat
 lordfilmradio.top
 lordfilmrak.lol
@@ -18283,7 +18123,6 @@ lordfilmreturn.sbs
 lordfilmreverse.cfd
 lordfilmrevived.top
 lordfilmrew.lol
-lordfilmrexon.icu
 lordfilmrey.life
 lordfilmrfd.live
 lordfilmrfe.lol
@@ -18301,7 +18140,6 @@ lordfilmrgb.lol
 lordfilmrgj.icu
 lordfilmrgk.lol
 lordfilmrgli.lol
-lordfilmrgrk75.icu
 lordfilmrguii4.icu
 lordfilmrgv.icu
 lordfilmrgvf.lat
@@ -18530,7 +18368,6 @@ lordfilmryid.lat
 lordfilmryo.life
 lordfilmryq.lol
 lordfilmryr.live
-lordfilmryrr4h.icu
 lordfilmryt.lol
 lordfilmryven.icu
 lordfilmryx.one
@@ -18553,7 +18390,6 @@ lordfilms.boats
 lordfilms.food
 lordfilms.hair
 lordfilms.onl
-lordfilms.quest
 lordfilms.rent
 lordfilms.surf
 lordfilms.tattoo
@@ -18686,7 +18522,6 @@ lordfilmsc.world
 lordfilmscb.lat
 lordfilmscc.live
 lordfilmscd.lat
-lordfilmscene.icu
 lordfilmscenic.cfd
 lordfilmscey.lat
 lordfilmschc.vu
@@ -18700,7 +18535,6 @@ lordfilmscore.cfd
 lordfilmscout.lat
 lordfilmscp.lat
 lordfilmscp.lol
-lordfilmscreen.icu
 lordfilmscript.cfd
 lordfilmscripty.lat
 lordfilmscs.lat
@@ -18849,7 +18683,6 @@ lordfilmshl.lat
 lordfilmshlf.ru
 lordfilmshm.lat
 lordfilmshm.live
-lordfilmshows.icu
 lordfilmshpj.lol
 lordfilmshr.lat
 lordfilmshs.lat
@@ -19013,7 +18846,6 @@ lordfilmsoub.lol
 lordfilmsound.cfd
 lordfilmsound.sbs
 lordfilmspace.icu
-lordfilmspark.icu
 lordfilmspasm.lol
 lordfilmspb.life
 lordfilmspc.lat
@@ -19093,7 +18925,6 @@ lordfilmssby.lol
 lordfilmsss.lol
 lordfilmsst.live
 lordfilmssw.lol
-lordfilmstars.icu
 lordfilmstb.lat
 lordfilmstbh.lat
 lordfilmstc.lat
@@ -19115,7 +18946,6 @@ lordfilmsto.bond
 lordfilmstock.lat
 lordfilmstone.icu
 lordfilmstorm.icu
-lordfilmstory.icu
 lordfilmstp.lat
 lordfilmstq.lat
 lordfilmstq.lol
@@ -19138,7 +18968,6 @@ lordfilmsuffix.top
 lordfilmsuite.lat
 lordfilmsukv.lol
 lordfilmsumf.lol
-lordfilmsummit.icu
 lordfilmsun.top
 lordfilmsuo.lol
 lordfilmsuper.monster
@@ -19330,7 +19159,6 @@ lordfilmte.monster
 lordfilmtef.lat
 lordfilmteg.cyou
 lordfilmteip.lol
-lordfilmteka.ru
 lordfilmtekk.lol
 lordfilmtempest.sbs
 lordfilmtemq.online
@@ -19498,14 +19326,12 @@ lordfilmtti.life
 lordfilmttk.lat
 lordfilmttl.lat
 lordfilmttn.lat
-lordfilmttooi.icu
 lordfilmttt.buzz
 lordfilmttvc.lat
 lordfilmtu.monster
 lordfilmtubo.life
 lordfilmtud.lat
 lordfilmtug.lol
-lordfilmtujj32.icu
 lordfilmtuk.life
 lordfilmtul.lat
 lordfilmtuo.lol
@@ -19539,7 +19365,6 @@ lordfilmtvqf.lol
 lordfilmtvqs.lol
 lordfilmtvrus.ru
 lordfilmtvs.lol
-lordfilmtvxs3.icu
 lordfilmtwah.lol
 lordfilmtwc.lol
 lordfilmtwg.life
@@ -19583,8 +19408,6 @@ lordfilmu.pro
 lordfilmu1i2o.icu
 lordfilmu3.live
 lordfilmu3.sbs
-lordfilmu6v7w.icu
-lordfilmu7i8o.icu
 lordfilmu9i1o.icu
 lordfilmuac.lol
 lordfilmuacf.lat
@@ -19625,7 +19448,6 @@ lordfilmud.monster
 lordfilmudc.life
 lordfilmudd.life
 lordfilmudd.lol
-lordfilmuddte44.icu
 lordfilmudg.live
 lordfilmudgu.lol
 lordfilmudhc.lol
@@ -19728,7 +19550,6 @@ lordfilmunel.lol
 lordfilmunf.lat
 lordfilmung.lol
 lordfilmungo.lol
-lordfilmuni.online
 lordfilmunion.icu
 lordfilmunion.top
 lordfilmuniverse.lat
@@ -19779,7 +19600,6 @@ lordfilmuqw.lat
 lordfilmuqz.vu
 lordfilmuqzm.life
 lordfilmur.monster
-lordfilmur2025.store
 lordfilmurban.icu
 lordfilmurbmd.icu
 lordfilmuri.lat
@@ -19810,7 +19630,6 @@ lordfilmutl.lat
 lordfilmutom.life
 lordfilmutr.lol
 lordfilmuu.monster
-lordfilmuubbr53.icu
 lordfilmuue.pro
 lordfilmuuf.lol
 lordfilmuufj.lat
@@ -19821,7 +19640,6 @@ lordfilmuuk.lol
 lordfilmuuky.lol
 lordfilmuuq.lol
 lordfilmuuq.vu
-lordfilmuuxxd9.icu
 lordfilmuuyn.lol
 lordfilmuvb.biz
 lordfilmuvexa.icu
@@ -19874,7 +19692,6 @@ lordfilmuzr.lat
 lordfilmuzw.life
 lordfilmv.cyou
 lordfilmv.lol
-lordfilmv1c2x.icu
 lordfilmv1g9s.icu
 lordfilmv2c3x.icu
 lordfilmv9m4q.icu
@@ -19940,7 +19757,6 @@ lordfilmvdy.pro
 lordfilmvdyf.lol
 lordfilmve.monster
 lordfilmveb.lat
-lordfilmvector.icu
 lordfilmved.life
 lordfilmvee.one
 lordfilmvef.biz
@@ -19958,7 +19774,6 @@ lordfilmveuq.lol
 lordfilmvew.lol
 lordfilmvex91.icu
 lordfilmvexa.icu
-lordfilmvexor.icu
 lordfilmvey.live
 lordfilmvfb.biz
 lordfilmvfe.lol
@@ -19977,7 +19792,6 @@ lordfilmvfy.lol
 lordfilmvg.monster
 lordfilmvgd.lol
 lordfilmvggm.lol
-lordfilmvggy7.icu
 lordfilmvgp.lol
 lordfilmvgq.live
 lordfilmvgq.lol
@@ -20126,7 +19940,6 @@ lordfilmvnz.lat
 lordfilmvoa.lat
 lordfilmvof.biz
 lordfilmvohz.lol
-lordfilmvolar.icu
 lordfilmvolt.lol
 lordfilmvonk.lol
 lordfilmvoo.life
@@ -20210,7 +20023,6 @@ lordfilmvrm.lol
 lordfilmvrp.lol
 lordfilmvrq.life
 lordfilmvrr.lol
-lordfilmvrrc4.icu
 lordfilmvrrj55.icu
 lordfilmvrv.lol
 lordfilmvsb.life
@@ -20311,7 +20123,6 @@ lordfilmw.cyou
 lordfilmw.yachts
 lordfilmw1b6f.icu
 lordfilmw1j7f.icu
-lordfilmw4e5r.icu
 lordfilmw6e7r.icu
 lordfilmw7e8t.icu
 lordfilmwa.lol
@@ -20326,7 +20137,6 @@ lordfilmwanda.lol
 lordfilmwao.lol
 lordfilmwap.biz
 lordfilmwap.vu
-lordfilmwatch.icu
 lordfilmwave.top
 lordfilmwaxy.lol
 lordfilmwba.lol
@@ -20485,7 +20295,6 @@ lordfilmwof.live
 lordfilmwoi.lol
 lordfilmwoig.lol
 lordfilmwoq.lol
-lordfilmworld.icu
 lordfilmwou.one
 lordfilmwov.lat
 lordfilmwow345.lat
@@ -20648,11 +20457,9 @@ lordfilmx5ray.icu
 lordfilmx6.ink
 lordfilmx7.ink
 lordfilmx7.life
-lordfilmx7c8v.icu
 lordfilmx7k2a.icu
 lordfilmx8.ink
 lordfilmx8.life
-lordfilmx8y9z.icu
 lordfilmx9.life
 lordfilmx9c1v.icu
 lordfilmx9v2b.icu
@@ -20702,7 +20509,6 @@ lordfilmxee.life
 lordfilmxee.live
 lordfilmxee.lol
 lordfilmxee.study
-lordfilmxeefy66.icu
 lordfilmxees.icu
 lordfilmxef.vu
 lordfilmxek.my
@@ -20909,7 +20715,6 @@ lordfilmxwvo.lol
 lordfilmxx.monster
 lordfilmxx.top
 lordfilmxxcra.lol
-lordfilmxxdd3.icu
 lordfilmxxfp.lol
 lordfilmxxg.life
 lordfilmxxjz.lol
@@ -20978,7 +20783,6 @@ lordfilmybz.lol
 lordfilmyc.mom
 lordfilmycb.life
 lordfilmycb.lol
-lordfilmycccr4.icu
 lordfilmyce.my
 lordfilmycf.lat
 lordfilmyckz.lat
@@ -20997,7 +20801,6 @@ lordfilmydu.lol
 lordfilmydx.lol
 lordfilmydyt.lol
 lordfilmye.monster
-lordfilmyeb33.icu
 lordfilmyef.one
 lordfilmyefg.lol
 lordfilmyeh.icu
@@ -21071,7 +20874,6 @@ lordfilmykze.lol
 lordfilmylnw.lat
 lordfilmylo.lat
 lordfilmylu.lol
-lordfilmylven.icu
 lordfilmylw.lat
 lordfilmymfk.lol
 lordfilmymi.lol
@@ -21189,10 +20991,8 @@ lordfilmyxn.lol
 lordfilmyxpq.lol
 lordfilmyxr.biz
 lordfilmyxy.lat
-lordfilmyybex.icu
 lordfilmyycf.lat
 lordfilmyye.lol
-lordfilmyyfh66.icu
 lordfilmyyk.life
 lordfilmyym.live
 lordfilmyyn.lat
@@ -21200,11 +21000,8 @@ lordfilmyyow.lol
 lordfilmyyp.biz
 lordfilmyyqn.lat
 lordfilmyyr.lol
-lordfilmyyr9.icu
 lordfilmyyru.lol
-lordfilmyytc66.icu
 lordfilmyytoo.icu
-lordfilmyytvr1.icu
 lordfilmyyv.life
 lordfilmyyw.lol
 lordfilmyyy.lol
@@ -21218,14 +21015,12 @@ lordfilmz.beer
 lordfilmz.cyou
 lordfilmz.lol
 lordfilmz.ru
-lordfilmz1x2c.icu
 lordfilmz2l3k.icu
 lordfilmz3l4p.icu
 lordfilmz5g1s.icu
 lordfilmz6p3t.icu
 lordfilmz7s4n.icu
 lordfilmz9d2k.icu
-lordfilmz9l1k.icu
 lordfilmza.lat
 lordfilmzaase1.icu
 lordfilmzac.biz
@@ -21272,7 +21067,6 @@ lordfilmzel.biz
 lordfilmzenit.icu
 lordfilmzenta.icu
 lordfilmzepra.icu
-lordfilmzeqqa7.icu
 lordfilmzet.lol
 lordfilmzetg.lol
 lordfilmzeu.lol
@@ -21585,7 +21379,6 @@ lulustream.com
 luluvid.com
 lumendatabase.org
 lumpysoft.com
-lunchboards.com
 lunchflix.com
 lunchflix.org
 lupain-lordfilm.ru
@@ -21637,7 +21430,6 @@ m4ufree-tv.com
 m4ufreehd.shop
 m4ufreehd.world
 m4ufreehub.cfd
-m4ufreei.info
 m4ufreetv.link
 m4ufreetv.net
 m4uhd.com
@@ -21733,7 +21525,6 @@ mahsunsports47.xyz
 mahsunsports48.xyz
 mahsunsports49.xyz
 mahsunsports50.xyz
-mahsunsportshd.com
 mainstreams.pro
 majomparade.com
 major-lordfilm.ru
@@ -21836,11 +21627,9 @@ masterkreatif.com
 masterof13fps.com
 masters-of-the-universe-lordfilm.ru
 masters-tb.com
-masterwarez.net
 matchify.zip
 mates-r-us.com
 mathanosto.top
-mathkangaroo.jp
 matrica-lordfilm3.ru
 matricas-lordfilm.ru
 matricau-lordfilm.ru
@@ -21861,9 +21650,7 @@ mayk-molli-lordfilm.ru
 mazedanetworks.net
 mazepa.to
 mazetorrents.net
-mazhor-lordfilm.online
 mazhor-lordfilm.rest
-mazhor-lordfilm.top
 mbcej.org
 mbdny.org
 mbeaj.org
@@ -21934,8 +21721,6 @@ megafilmes.co
 megaflix.tv
 megagames.com
 megahfilmeshd.net
-megakino.agency
-megakino.asia
 megakino.best
 megakino.biz
 megakino.cab
@@ -21943,7 +21728,6 @@ megakino.cafe
 megakino.cfd
 megakino.co
 megakino.dad
-megakino.date
 megakino.deals
 megakino.eu
 megakino.foo
@@ -22114,7 +21898,6 @@ mflix.to
 mgtracker.org
 mhtm.pl
 mi-mi-mishki-lordfilm3.ru
-mi-vse-mertvi-lordfilms.com
 micaesoft.com
 michael-lordfilm.ru
 mickey-mousie-lordfilm.ru
@@ -23633,7 +23416,6 @@ narkko-lordfilms.ru
 narko-lordfilm3.ru
 narkosz-lordfilm.ru
 narkovory-lordfilm3.ru
-nartlof.com
 narushiteelli-lordfilm.ru
 narushiteli-lordfilm3.ru
 naruto-anumee-lordfilms.ru
@@ -23653,7 +23435,6 @@ nattawat.org
 naturalbd.com
 naturalbd.org
 naudios.com
-navegador.click
 nayamovies.net
 nazad-v-buduscheu-lordfilm.ru
 nazad-v-budushchee-lordfilm3.ru
@@ -26190,7 +25971,6 @@ seedoff.net
 seedpeer.com
 seedpeer.eu
 seedpeer.me
-seedpeer.net
 seedr.cc
 seehd.co
 seehd.nl
@@ -29622,7 +29402,6 @@ torrentvibe.club
 torrentvibes.com
 torrentvideos.com
 torrentview.xyz
-torrentvpn.club
 torrentwalkhotel.website
 torrentway.com
 torrentwhy100.xyz
@@ -29982,7 +29761,6 @@ u2torrents.com
 ua-cinema.com
 ua-tv.net
 ua-warez.com
-uabits.today
 uachan.com
 uafilm.pro
 uafilm.tv
@@ -30949,7 +30727,6 @@ vis-a-viss-lordfilm.ru
 vis-a-visz-lordfilm.ru
 visavie-lordfilm.ru
 visshaya-mera-lordfilm.ru
-vito-tracker.space
 vitorrent.org
 vivatv.io
 viwlivehdplay.ru
