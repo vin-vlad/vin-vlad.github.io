@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-07-08T08:34:31.454Z
-# Entries: 900
+# Last updated: 2026-07-08T19:37:47.310Z
+# Entries: 899
 2ch.org
 4cdn.org
 4chan.org
@@ -90,7 +90,6 @@ discordapp.io
 discordapp.net
 discordcdn.com
 discordmerch.com
-discordpartygames.com
 discordsays.com
 discordstatus.com
 dlfacebook.com

@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-08T08:34:30.806Z
-# Entries: 16664
+# Last updated: 2026-07-08T19:37:45.508Z
+# Entries: 16634
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -11305,7 +11305,6 @@ orderumbrella.com
 ordinarlim.com
 ordinarybarbershop.com
 ordinaryh.com
-ordnungpro.com
 oreahome.de
 orevaparis.com
 orevapariss.com
@@ -12999,7 +12998,6 @@ saunawelten.org
 saunawelten-tegernsee.com
 saunazelt-shop.com
 sauvequipeut-online.com
-savehubx.com
 savela.de
 savemarthub.com
 saveoffer.de
@@ -13024,7 +13022,6 @@ schachworkshop.de
 schafflutzel-motorgerate.com
 schallreiniger.de
 schaltersteckdosen.com
-schaltwerkfahrrad.de
 scharfemesser.de
 scharfeprofession.com
 schaugarten-hamilton.at
@@ -13065,7 +13062,6 @@ schmidts-handel.de
 schmidtstil.com
 schmiedemode.de
 schmierstoffede.com
-schmit-mode.com
 schmoelzer-appartements.com
 schmuck-eva.com
 schnappchenmarkt.com
@@ -13077,7 +13073,6 @@ schneider-radhaus.com
 schneider-radsport.com
 schneider-reifenservice.de
 schneider-salzburg.at
-schneider-schmuckatelier.de
 schneiderrabatt.com
 schneiderundlang.de
 schneidervienna.at
@@ -13095,7 +13090,6 @@ schoeppe-heizoel.de
 scholarathelite.com
 schonedamenmode.com
 schonentag.online
-schoneswetter.de
 schraderbilliger.com
 schrank-shop.com
 schraubenpro.com
@@ -13135,7 +13129,6 @@ scimonge.com
 scootbike.de
 scooter-chip.de
 scoover-handel.de
-scorecope.com
 scoterwelt.com
 scotlandnewstoday.com
 scoutandspark.shop
@@ -13144,7 +13137,6 @@ screenfreedays.com
 screenmysleep.com
 screenwithenvy.de
 scremorques.com
-scubapro-sale.shop
 scuffers-austria.com
 sculpturk.com
 sdhguy.com
@@ -13227,7 +13219,6 @@ serenitybookshop.com
 serenitybot.com
 serenomaison.com
 serentia-shop.com
-seriesplus.org
 serndalle.com
 serolulimited.com
 serolushop.de
@@ -13251,8 +13242,6 @@ sevenfiguresolar.com
 seveninter.com
 seventeenk.com
 sexpuppenkaufen.at
-seyjoy.shop
-seylab.shop
 sgtruffe.com
 shaarks.com
 shadowwear.store
@@ -13270,7 +13259,6 @@ shasthocarepharmacy.com
 shatech.de
 shauntapparel.com
 shaxu.top
-shcherma.com
 shebaike.com
 shellandsproutshop.com
 shelterene.com
@@ -13354,7 +13342,6 @@ shopdeutschepost.de
 shopdevaustria.de
 shopdremel.com
 shoperando.com
-shopexbr.com
 shopfaciloja.com
 shopfasts.shop
 shopfishermansworld.com
@@ -13379,7 +13366,6 @@ shopluckyduckclub.com
 shopluviva.de
 shoplyo-deal.site
 shoplyt.store
-shopmacher-de.com
 shopmaincharacterpress.com
 shopmallknives.com
 shopmaxusersatzteile.shop
@@ -13551,7 +13537,6 @@ sky-trikot-shop.de
 skygarden.digital
 skyrro.com
 skyvault.ltd
-skyvoi-de.com
 sl-handel24.de
 sl-leasinggesmbh.at
 slavianstore.com
@@ -13587,7 +13572,6 @@ smart2trade.de
 smartbakechef.com
 smartbud.com
 smartbuyglasses.at
-smartcookgear.com
 smartejobs.de
 smartelampen.com
 smartelektroshop.com
@@ -13599,7 +13583,6 @@ smarthomerabatt.de
 smartinvestsas.com
 smartiq.co
 smartkaufhaus.de
-smartkochen.com
 smartlightingshop.com
 smartpills.io
 smartplantivy.com
@@ -13618,8 +13601,6 @@ smokerland.net
 smtoygalaxy.com
 snap-sell.de
 snapbartar.com
-snapposh.com
-snckhor-materiaux.com
 sneakerfee.com
 sneakermood.eu
 sneakers-metzingen.de
@@ -13657,7 +13638,6 @@ sofort-registerauszug24.de
 sofortfinanz.com
 sofotron.de
 soft-handel.de
-soft-lizenz.de
 softdays-shop.de
 softelektro.com
 softritualsco.shop
@@ -13693,7 +13673,6 @@ solarbundesliga.at
 solarc.click
 solarcheck.at
 solaregis.com
-solarek-energie.com
 solarenergie-beleuchtung.de
 solarenergyplatinum.com
 solarfehlercodes.de
@@ -13789,7 +13768,6 @@ sorelschoenen.com
 sorelschweiz.com
 sorvelutik.com
 sorvelutik.net
-sorvelutik.tech
 sorvelutik-at.com
 sorvelutik-fr.com
 sorvelutik-no.com
@@ -13813,9 +13791,7 @@ sparfuchs.shop
 sparhaustechnik.de
 sparkamerad.de
 sparkgenesisai.com
-sparmarie24.de
 sparprime.com
-sparwahnsinn24.de
 spazioconcept.com
 spconnect.shop
 spd-mossautal.de
@@ -13864,11 +13840,9 @@ spielzeug-wunderwelt.com
 spielzeugarthub.com
 spielzeugautosrabatt.com
 spielzeugautowelt.com
-spielzeugelektronik.com
 spielzeugeneu.de
 spielzeugopapop.shop
 spigendeutschlandshop.com
-spikonig.de
 spimbey.com
 spinanga-no-online.com
 spinbara-online.de
@@ -13897,16 +13871,13 @@ sportapothekeonline.com
 sportartikelwelt.com
 sportaza-online.de
 sportbagsshop.com
-sportbekleidung-de.com
 sportdamen.de
 sportelit.de
-sportgearde.com
 sportkleidungwelt.com
 sportmitbauch.de
 sportolymp.de
 sportonauten.de
 sportopath.de
-sportpfadshop.de
 sportprodukteverkauf.com
 sportprosport.com
 sportsbrooks.com
@@ -13955,7 +13926,6 @@ srzsnkrs.com
 ss888.shop
 ssceuns.shop
 ssense.vip
-sslzertifikatkaufen.de
 ssrbjc.org
 ssxsmither.com
 ssystrypers.com
