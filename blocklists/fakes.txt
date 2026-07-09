@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-09T09:51:28.957Z
-# Entries: 16634
+# Last updated: 2026-07-09T19:51:10.637Z
+# Entries: 16547
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -600,7 +600,6 @@ app.upifex.org
 350yeezy.us.com
 coachoutlet-store.us.org
 jordan-shoes.us.com
-marcjacoboutlet.us.com
 onclouds.us.com
 otto.us.com
 ray-ban-glasses.us.com
@@ -626,10 +625,8 @@ ledgerliveapps.web.app
 temp-dxvrqxhirzbigzysagqp.webadorsite.com
 dogiweb.webnode.it
 mes-scpi-de-gre-a-gre.webnode.fr
-liwed.wedstrip.shop
 de.wellreplicas.to
 walkfit.welltech.com
-fankluft.wickwondershop.com
 adl.wiksh.shop
 reiseweltat6.wixsite.com
 enigmaproai-fr.wocomii.com
@@ -1046,7 +1043,6 @@ allesfurzuhause.de
 allesheizung.de
 allesoutdoor.de
 alleuropills.com
-allforyourlife.org
 allgamesinone.com
 allgifts.site
 allgoodssale.com
@@ -2928,7 +2924,6 @@ camptotalneu.com
 canada-pharmacy-24h.com
 canadadrugstore.com
 canadanewsreport.com
-canadapharmacyonline.com
 canadapharmacypro.com
 canadapharmacytrust.net
 canadasale365.com
@@ -3987,6 +3982,7 @@ deparcart.com
 depeople-work.xyz
 depierone.com
 depixeli-k-losolarum-tapixela.club
+deplacer.com
 depotkraft.com
 depotsnow.com
 depoz.company
@@ -6094,7 +6090,6 @@ geminiomnigenerator.com
 gemoneo.com
 generic4all-global.com
 generic4allglobal.com
-genericdoctor.com
 genericeupills.com
 genericsbot.com
 genericshop-247.eu
@@ -7187,6 +7182,7 @@ high-quality-model.com
 highbroker.com
 highbtcstock.com
 highjel.com
+highlandshotels.net
 highluxury.sk
 highluxurystore.co
 hihstore.com
@@ -7416,7 +7412,6 @@ hotelladen.com
 hotels-colombo.com
 hotels-inform4281.com
 hotelsinperm.ru
-hotelsinvienna.org
 hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
@@ -13241,6 +13236,7 @@ sevatrix.com
 sevenfiguresolar.com
 seveninter.com
 seventeenk.com
+sexicats.com
 sexpuppenkaufen.at
 sgtruffe.com
 shaarks.com
@@ -13955,7 +13951,6 @@ stanley-cups.de
 stanleycupthailand.com
 stanleydeutschlandshop.de
 stanlly-a.com
-stanton-energie.de
 stantonamarlberghotels.com
 staplerbatterien.de
 star-apotheke.org
@@ -13967,9 +13962,7 @@ starel.xyz
 starelax.com
 stark-ebike.de
 starkeu.de
-starkewerkzeuge.de
 starkfahrrad.com
-starkwerkzeug.de
 starrynitebikes.com
 starrysip.com
 start-developing.de
@@ -13981,13 +13974,10 @@ startx.at
 starwarslover.com
 statehills.com
 stationerh.com
-stationeryopt.com
 stationeryoptimal.com
 stattkaffeegottesdienst.de
 statz-haushaltprodukte.de
-staubsaugerland.de
 staubzon.de
-stealthgamechanger.com
 steamfaerie.com
 steeg-handel.de
 steelite-au.com
@@ -14027,8 +14017,6 @@ stickcars.de
 stienen-damast.de
 stil-mode.de
 stilblazer.com
-stilehaus.de
-stilgut-wien.at
 stilhaus-mode.de
 stilhausfreiburg.com
 stillavero.com
@@ -14047,10 +14035,8 @@ stock-best.com
 stock-crypto.com
 stock-fishing.com
 stock-jewelry.com
-stock-swim.com
 stocket.net
 stockio.shop
-stocks-views.com
 stockskate.com
 stockwises.com
 stockyis.com
@@ -14167,7 +14153,6 @@ style2ndhand.com
 stylearena.store
 stylebewusst.com
 stylebewusst.de
-styledresser.com
 stylefatface.com
 stylelaurel.com
 stylerose.de
@@ -14183,7 +14168,6 @@ subscrsidewa.com
 subsequentn.com
 subtleenergies.xyz
 subtletoys.com
-subttles.com
 sucataoautopecas.com
 success-broker.com
 sucm.com
@@ -14216,27 +14200,21 @@ sunflex-de.com
 sunfresh-garten.de
 sunfulfillmentstore.de
 sunkosmetikschule.de
-sunlu-filaments.com
 sunmorrison.com
 sunnydesignshome.com
 sunnyextensions.com
 sunnyhomedesign.com
 sunnylas.com
-sunnymors.com
-sunpaym1.world
 sunplux.com
 sunsetwell.com
-sunsirui.com
 sunsolaraz.shop
 suntr.shop
-sunuyles.com
 supavero.com
 super-discount-farma.com
 super-pharm-fr.net
 super-potencja.to
 super-xinqiutiyu-online.com
 superclonemaster.com
-superdealzonenow.shop
 superdrywien.at
 superether.io
 superexpressholz.de
@@ -14275,7 +14253,6 @@ suprabatt.de
 suprafootweardeutschland.com
 supragaming.net
 supraschuheonlineshop.de
-suprecuor.com
 supreme-beauty.de
 supreme-codes.shop
 surfabenteuer.com
@@ -14284,7 +14261,6 @@ surfgearpioneer.com
 surfingneeds.com
 surfneue.com
 surroun.com
-susansboutique-naples.com
 suveneoutlet.com
 svd24.pro
 svelton.com
@@ -14324,12 +14300,10 @@ sylskillsoft.com
 sylskilsoftassist.com
 sylvieboutique.de
 symbiosiswellbeing.com
-symbolberlin.com
 synizesis.com
 synthplatformtrust.click
 syrokan.com
 system-capital.org
-systemgram.com
 systemiy.com
 systemofdown.com
 sz-fishing.de
@@ -14390,7 +14364,6 @@ tangent-capital.pro
 tangobonn.de
 tanner-shoes.com
 tanzbienen.de
-tanzkurq.de
 tapetenweltde.com
 tapex-tapes.de
 tara-energy.de
@@ -14402,7 +14375,6 @@ taschenclub.com
 taschenmesser-de.com
 taschenrabatt.com
 taschenschmied.de
-taschentotal.com
 tastefulsl.com
 tasteo.net
 tastin.shop
@@ -14453,10 +14425,7 @@ techtaskforcede.works
 techtraum.com
 ted-bakerdeutschland.de
 tedbaker-berlin.de
-tedbakereesti.com
-tedbakerireland.net
 tedbakeroutletsuomi.com
-tedbakersuomi.net
 tedex.co
 teehubshop.de
 teenovi.com
@@ -14493,7 +14462,6 @@ tennisbedarf.com
 tennistechnical.com
 tentsoutdoors.com
 tentssaleshop.com
-teodoroautopecas.com
 teralin-de.store
 terange.com
 terea-polen.com
@@ -14515,7 +14483,6 @@ teslaxx.net
 tesler.software
 tesler-inc.trade
 test-iq-online.com
-testcortiy.com
 testereo.com
 testorino.de
 tether-group.com
@@ -14562,7 +14529,6 @@ the-tesler-app.com
 the-teslerapp.com
 theatee.com
 theautodaily.com
-theautoveritas.com
 thebagus.com
 thebalancingmom.com
 thebeautyfilter.com
@@ -14618,7 +14584,6 @@ thelike.top
 theliquordeals.com
 theluminousliving.com
 themaddengirl.com
-themarthub.com
 themdbuilding.com
 themetronewstoday.com
 themirrornewstoday.com
@@ -14640,7 +14605,6 @@ thepharmacriterion.com
 thepharmacyexpress.net
 thepocketknives.com
 thepocsport.com
-theprivateadult.com
 theprivategroup.net
 thequintnewstoday.com
 theralogixonline.com
@@ -14679,13 +14643,11 @@ theuniquebargains.com
 theurbansportsculture.com
 theworkshopoflife.com
 thinkcarde.com
-thirdeye-immobilien.at
 thk-elektro24.de
 thl-handel.de
 thlifureshop.com
 thomannofficiall.com
 thomannonlinestore.com
-thomannz.shop
 thompson-sydney.com
 thongish.store
 thorogooddeutschland.com
@@ -14694,7 +14656,6 @@ thresholdi.com
 thriftfolio.com
 thrillsnew.com
 thrustmarkets.com
-thsingcloe.com
 thtruth.com
 thule-anhaenger.de
 thule-chariot.de
@@ -14728,7 +14689,6 @@ tierparadies-de.com
 tierpflegeprodukte.com
 tierra500.com
 tiershopde.com
-tikkischuhedeutschland.com
 tikkischuhewien.at
 timber-land.de
 timberland-schweiz.com
@@ -14756,10 +14716,8 @@ titel-kaufen.com
 titit.shop
 tiveone.com
 tizchmrf.cc
-tjmrxp.shop
 tk-energiemanagement.de
 tk-kontor.de
-tkpelletsgmbh.de
 tktxkaufen.de
 tln-transport.de
 tm-preisvergleich.de
@@ -14811,7 +14769,6 @@ tonchearth.pro
 tondeusediscount.com
 tondratex.com
 tonedo.de
-tonerklick24.de
 toni-greif.de
 tonies-de.com
 tonies-geschaft.com
@@ -14838,7 +14795,6 @@ toolhouseoffer.com
 toolkomp.com
 toolproonsale.com
 toolrapid.com
-toolreliable.com
 tools-market.vip
 toolsde.com
 toolsempower.com
@@ -14896,7 +14852,6 @@ topoathleticschuhe.at
 topoathleticschuhe.de
 topoffice24.com
 topoffice24.de
-toponlinecasinodeutschland.de
 toponlinepharmacies.com
 toppdf.co
 toppillsstore.com
@@ -14908,7 +14863,6 @@ topshopping.top
 topskiequipmentde.com
 topspink.com
 topstore1game.com
-topsurfsale.com
 toptoollibrary.com
 topworldnewstoday.com
 torantriebemarkt.de
@@ -14958,12 +14912,10 @@ trade-call.com
 trade-mbitm.com
 trade-shop.online
 trade-x.net
-tradealles.com
 tradeavapro.com
 tradecapital.net
 tradecapital24.com
 tradect.com
-tradeduac100.com
 tradego.io
 trademintus.com
 tradeogre.fr
@@ -15001,7 +14953,6 @@ trailer-master.de
 trailer-master.eu
 trailersmore.com
 trailertour.com
-trailsportshop.de
 trakkerbillig.com
 traktorheld.de
 traktorwerk.ch
@@ -15009,7 +14960,6 @@ trangianverkaufe.com
 tranquildwell.com
 tranquilm.com
 tranquiltrove.com
-transethylene.com
 transferk.com
 transfertrain.de
 transformeri.com
@@ -15056,13 +15006,11 @@ trendigehandtaschenkaufen.com
 trendigetasche.com
 trendpunt.nl
 trendsdelight.com
-trendvik.com
 trendvilla.de
 trendwavetrading-ltd.com
 trendy-berlin.de
 trendy-swimsuit.com
 trendyclearance.com
-trendyhall.store
 trendyswimsuit.com
 trendyvogue.com
 trendzo.org
@@ -15101,7 +15049,6 @@ tronixrise.com
 tropical-tides.com
 tropicaltopics.com
 tropicfeelnet.com
-trottersshoe.com
 trousersonsales.com
 truckstopshop.de
 true-drugstore.com
@@ -15137,7 +15084,6 @@ trustedtablets.online
 trustedxshop.com
 trusteryai.com
 trustexpressfreight.com
-trustfx.trade
 trustgarganoelectric.com
 trustinvestment-gmbh.com
 trustmeds24.com
@@ -15199,7 +15145,6 @@ tvctrader.com
 tvidler.com
 tw-access.com
 twelvewhales.com
-twelvewhales.net
 twilight-fans.de
 twinbusch.net
 twixxy.com
@@ -15227,7 +15172,6 @@ ufolepbourgogne.org
 ugfxrl.shop
 uggat.at
 uggukoutletfactory.com
-uhren-heinrich.com
 uhrenausholz.de
 uhrenboxshop.de
 uhrenkunst.shop
@@ -15306,7 +15250,6 @@ universalcyclinghelmet.com
 universalprotection.de
 universalshippings.com
 universeshop.eu
-uniwiinc.com
 unpabclor.com
 unplgd.store
 unqloutlet.shop
@@ -15351,11 +15294,9 @@ urvlentoki.com
 urvlentoki-at.com
 urvlentoki-ie.com
 urvlentoki-platform.com
-urzadomzone.com
 us-shop.online
 us-supplements.to
 usa-food-store.de
-usabicycleus.com
 usacyclestorepro.com
 usagcprogram.com
 usaoutdoordecor.com
@@ -15377,7 +15318,6 @@ ushomeshop.com
 uskeenfootwear.com
 usknifeshop.com
 uslightshop.com
-uslkyabk.shop
 usmedsget.com
 usnewleather.com
 usnewsports.com
@@ -15405,7 +15345,6 @@ v-onepharma.com
 vacamy.com
 vacuumed.de
 vadonam.com
-vaillantproservice.at
 vakrin.com
 valaires.com
 valanio.com
@@ -15440,7 +15379,6 @@ vanquishrc.com
 vans-osterreich.at
 vansion.de
 vanskens-transport.com
-vansosterreich.at
 vanss.at
 vanss.de
 vantagetrades.com
@@ -15455,7 +15393,6 @@ varierfurnitureelite.com
 varilo.nl
 varonet.de
 varonovo.de
-varoudin.store
 vasagleaugeschaft.com
 vaschoen.com
 vasile24.de
@@ -15475,8 +15412,6 @@ vaweeo.de
 vayco.de
 vaynhanhonline1.com
 vbpu.top
-vdae.fun
-vddae.pro
 vddeals.com
 vecticon.co
 veddey.site
@@ -15489,7 +15424,6 @@ vegacapital.pro
 vegan-food-company.com
 veganmarkt-kiel.de
 vegetationk.com
-vehiclepartmart.com
 vehiclesdaily.com
 veilwellness.com
 veja.at
@@ -15515,10 +15449,8 @@ velencia.de
 velenza.de
 velinaboutiquewien.com
 velionpartner.net
-velmart-berlin.com
 velo-nation.com
 velocityh.com
-velonawarehouse.com
 velora-mode.de
 velorawellnessshop.com
 velorgain.com
@@ -15554,7 +15486,6 @@ veralo.de
 veramodehaus.de
 veranoclothing.de
 veraziahgroup.com
-verbraucher-profis.de
 vereinsregisterauszug.at
 verios-gaming.de
 veripro.de
@@ -15599,7 +15530,6 @@ vexxsel.online
 vfsrwo.shop
 vgr8.com
 via-bestdeal24.com
-viadore-amsterdam.nl
 viagra-cialis-kamagra.online
 viagra-cialis-kamagra.sk
 viagra-en-pharmacie.com
@@ -15620,7 +15550,6 @@ viceregale.com
 vicinityk.com
 victoriassecret-vip-online.shop
 victoriousgamingentertainment.net
-vidaq.de
 vidaserenahogar.com
 viddsey.pro
 videforex.com
@@ -15642,7 +15571,6 @@ viennastil.at
 vientooffice.de
 vierjahreszeitengarten.com
 vierpfote.de
-viforex.com
 vigamtransport.com
 vignobles-terroirs.com
 viking-cnc.com
@@ -15677,7 +15605,6 @@ vintaro.de
 vintedreselling.eu
 vinvestissement.com
 vinylcollectordepop.shop
-vinylrecordmall.com
 vionicmexico.com
 vionicschuhe.de
 vionicshoesportugal.com
@@ -15712,7 +15639,6 @@ visvishengelsnl.com
 vita-pflege.de
 vitacola-gratis.de
 vitafeetdeu.com
-vitafeetdeut.com
 vital-vibe.com
 vitaldelikatesse.com
 vitalismoemi.com
@@ -15724,7 +15650,7 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiabuty.pl
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -15750,7 +15676,6 @@ vixi.store
 vlastnilekarna.com
 vldep.lat
 vldeq.blog
-vldew.pro
 vliestapeten.com
 vlizo-modehaus.de
 vlomy.de
@@ -15767,7 +15692,6 @@ vogelpflege.com
 vogueegs.com
 voguefancy.com
 vogueretailus.com
-vogueusshoe.com
 voguewelt.de
 voguezeitberlin.store
 voigt-energieberatung.de
@@ -15800,7 +15724,6 @@ vondacoco.com
 vondaro.de
 vookiz.com
 vor-texcore365.sbs
-vorano.de
 vorase.de
 vorela.de
 voreno.de
@@ -15860,9 +15783,7 @@ waermepumpe-solar.de
 waermewald.de
 waermewelt.com
 waffeleisende.com
-waffen24de.com
 waffenlager.com
-waffenundjagdwelt.com
 wagemannmode.de
 wagner-mode.com
 wagnerzurich.ch
@@ -15882,7 +15803,6 @@ walgfashion.com
 walklux.de
 walllampchat.com
 wallpilates.com
-walm.shop
 walmede.shop
 walmorder.top
 walsenburgstudio.com
@@ -15892,7 +15812,6 @@ walthermode.com
 waltonmarketltd.com
 wanderboyy.com
 wandererscamp.com
-wanderfitshop.de
 wandernshop.com
 wanderrucksackede.com
 wanderstiefeldeal.com
@@ -15911,7 +15830,6 @@ warevo.de
 waris-solar.de
 warmeholzhaus.com
 warmeluxe.com
-warmeprofi.com
 warmheld.de
 warmind.de
 warmlifes.com
@@ -15958,7 +15876,6 @@ waveriderco.com
 waworld.de
 waxify.de
 wayofwade.at
-wayofwadeshoesuk.com
 wbecrisfro.com
 wbymall.store
 wealth-phantom.com
@@ -15980,7 +15897,6 @@ weathly.com
 web-welten.de
 webcamerausb.com
 webcanadastore.com
-weber-motorrad.com
 weber-werkstatt.com
 weberelektronik.de
 webermode.com
@@ -16016,7 +15932,6 @@ weimifuwl.com
 weimmer.de
 wein-deluxe.eu
 weinbergmunchen.de
-weindepot24.com
 weindorf-lonsheim.de
 weinekaufen.com
 weinemotionen.de
@@ -16064,7 +15979,6 @@ wenlicht.de
 weram.shop
 werbenerlandtechnik.com
 wereldparts.net
-werisee.com
 werk-werkzeuge.com
 werkbedarf24.de
 werke-anhangers.com
@@ -16119,7 +16033,6 @@ westshares.com
 weteis.com
 wetsuitus.com
 wetting.de
-wfh-markt.de
 whatsexy.de
 wheelsprint.com
 whereverk.com
