@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-10T19:37:36.710Z
-# Entries: 32791
+# Last updated: 2026-07-11T08:01:24.123Z
+# Entries: 32799
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -11164,6 +11164,7 @@ konstantiin-lordfilm.ru
 konstantin-lordfilm.ru
 konstantin-lordfilms.ru
 konstantinopol-serial-lordfilm.ru
+kooora-city.com
 koora-live.io
 koora-yallashoot.live
 koora365.io
@@ -11306,6 +11307,7 @@ landmann-lordfilm.ru
 landyshi-lordfilm.ru
 laola1.tv
 lapak21.com
+lapakstreaming.live
 lapakstreaming.store
 lapochkaa-lordfilm.ru
 lapochkka-lordfilm.ru
@@ -11579,6 +11581,7 @@ litaapks.com
 liteapks.com
 liteapks.mobi
 litemodapk.com
+live-football.tv
 live-kooora-tv.com
 live-kooora-tv.net
 live-nfl.stream
@@ -11589,6 +11592,7 @@ liveday2day.com
 livehd7i.live
 livekooora.online
 livekoora.io
+livekooraa.online
 liveon4.zip
 liveon5.zip
 liveonscore.tv
@@ -11616,6 +11620,7 @@ livetv814.me
 livetv815.me
 livetv886.me
 livextv.live
+livextv.pro
 livingtorrents.com
 livnet.xyz
 livrefilmeshd.net
@@ -25907,6 +25912,7 @@ qbittorrent.org
 qeseh3sk.com
 qimanhwa.com
 qiq.ws
+qlzww.cc
 qmovies.net
 qoob.name
 qqdl.site
@@ -26640,6 +26646,7 @@ serial4download.com
 serialbay.com
 serialcoded.com
 serialfan.com
+serialflix.online
 serialgo.tv
 serialheaven.com
 serialkeys.info
@@ -29286,7 +29293,6 @@ tjma-lordfilms.ru
 tjrksciow.pro
 tlgetin.cc
 tlt-torrent.ru
-tma-lordfilm.hair
 tma-serial-lordfilm.ru
 tmaxapp.site
 tmovierulz.com
@@ -31900,6 +31906,7 @@ winitpro.ru
 winneritbd.com
 winning2day.com
 winobraz.net
+winsgoal.live
 wintorr.com
 wintorrents.ru
 wipfiles.net
@@ -32368,6 +32375,7 @@ yomoviesz.xyz
 yoouu-lordfilms.ru
 yosuga-no-sora-lordfilm.ru
 yotoshi.com
+youcineversoes.com
 youflixmovies.xyz
 youhaveavirus.com
 youmoviz.tv
