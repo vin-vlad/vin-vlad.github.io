@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-11T19:09:32.294Z
-# Entries: 32982
+# Last updated: 2026-07-12T08:22:41.430Z
+# Entries: 32980
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -29842,7 +29842,6 @@ torrentfarm.com
 torrentfeed.xyz
 torrentfile.net
 torrentfilmes.net
-torrentfilmesagora.net
 torrentfilmeshd.com
 torrentfilmindir.com
 torrentfive.com
@@ -30790,7 +30789,6 @@ unblockedgames1024.com
 unblockedgames66.info
 unblockedgames67.xyz
 unblockedgames6969.us
-unblockedgames6x.top
 unblockedgames6x.xyz
 unblockedgames76.biz
 unblockedgames76.website
