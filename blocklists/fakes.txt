@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-12T08:22:41.328Z
-# Entries: 16485
+# Last updated: 2026-07-12T19:09:58.533Z
+# Entries: 16478
 trader.212group.de
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -1973,7 +1973,6 @@ bdscoffee.com
 be-aetlcnshop.com
 beaccustomed.com
 beachitem.com
-beachwalkbali.com
 beambead.com
 beamdeals.de
 beatricesavoy.de
@@ -2468,7 +2467,6 @@ bjmining.com
 bkaffee.de
 bl-heizoel.de
 black-shepp-gastroservice.com
-blackfridaymegastore.com
 blackgurlzsmagickloset.com
 blacktridentpop.shop
 bladebasics.com
@@ -3437,7 +3435,6 @@ containerslager.com
 containersparks.com
 containerwelt24.com
 containerworldapp.com
-conteneursducoin.com
 contiflexv.com
 controllerkunst.com
 convergek.com
@@ -4392,7 +4389,6 @@ dutut.com
 dutztechh.shop
 duzeces.com
 dvdsblurays.com
-dvepare.com
 dw-energieholz.de
 dwelldome.com
 dwellglory.com
@@ -7395,7 +7391,6 @@ hotelladen.com
 hotels-colombo.com
 hotels-inform4281.com
 hotelsinperm.ru
-hotelsinvienna.org
 hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
@@ -8159,7 +8154,6 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
-kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-online.eu
@@ -11274,7 +11268,6 @@ orcliacare.com
 orderbuycheap.com
 ordergunmagazinesonline.com
 ordernow24.de
-orderrxstore.com
 ordersurfsite.com
 orderumbrella.com
 ordinarlim.com
@@ -13602,7 +13595,6 @@ sofortfinanz.com
 sofotron.de
 soft-handel.de
 softdays-shop.de
-softelektro.com
 softritualsco.shop
 software-onsale.com
 softwarebilliger1.de
@@ -16265,6 +16257,7 @@ yalovakameragunespaneli.com
 yangibeauty.com
 yangzhi.de
 yanjushop.com
+yannelli.net
 yardigen.store
 yashigeoutlet.com
 ybcladmetal.com
