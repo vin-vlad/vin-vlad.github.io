@@ -1,7 +1,6 @@
 # fakes
-# Last updated: 2026-07-12T19:09:58.533Z
-# Entries: 16478
-trader.212group.de
+# Last updated: 2026-07-13T09:33:56.207Z
+# Entries: 16464
 eu.2bagsvalley.cn
 ai.55aiagents.com
 log.acces-btpanda.com
@@ -9,7 +8,6 @@ acc.accgn.com
 de.activenutra.coupons
 store.aeotec.com
 webtrader.aeratiqos.com
-area.aicnxedge.com
 de1.aiinshgits.de
 elektro.aktiv24.at
 insekten.aktiv24.at
@@ -190,7 +188,6 @@ pellet-bio.company.site
 pellet-ecos.company.site
 epicoolerde.consumereviewsguide.com
 locations.crocs.de
-tax.crypto.com
 spotiifyprimesnova.ct.ws
 at.curalise.com
 de.curalise.com
@@ -258,6 +255,8 @@ vip.frontiermarket.icu
 fr.fundiza.com
 de.funnyfuzzy.com
 trading.galacapital.net
+app.galaxyfox.io
+buy.galaxyfox.io
 cx.gamehander.com
 web13741.cweb05.gamingcontrol.de
 web13863.cweb05.gamingcontrol.de
@@ -551,6 +550,7 @@ euro.stanleys1913.com
 eu.stanlyquencher.com
 eu.stanlyss1913.com
 stilejx.stilop.mom
+webtrader.swisscapitalplatform.com
 abigo4u.symfony.nl
 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 ins.talentloompro-at.com
@@ -695,14 +695,12 @@ ger.zoibakii.com
 24med.net
 24slots-online.de
 24trading.co
-24usefultoolsstore.com
 269-versand-kleinanzeigen.de
 2bgreen.at
 2f-kanzlei.com
 2smart4me.de
 2wheelshero.com
 303e.com
-360reinigungsmittel.com
 365-pharm.com
 365-pharm.net
 365careprime.com
@@ -871,7 +869,6 @@ aeg-solutions.com
 aegis-at.com
 aegisxs.com
 aehesis.de
-aekcapital.ltd
 aeke-smart.com
 aeowe.com
 aerialpics.de
@@ -933,7 +930,6 @@ aipharmaweekly.com
 air-uposterreich.at
 air-uposterreich.com
 airblueuhren.de
-airfloppy.com
 airguncapital.com
 airjordan.at
 airmaxsale.de
@@ -960,7 +956,6 @@ akku-staubsauger.eu
 akkuschrauber-heinrich.com
 akkusmir.de
 akkusnotebook.at
-akronreia.com
 akselinvest.pro
 aksportsup.com
 aktienpros.com
@@ -1032,7 +1027,6 @@ alldealsworld.com
 alle-hebel.de
 allefoxmesser.com
 allegoo.com
-allemart-hamburg.com
 allerhand-md.de
 allerleitrendshop.de
 alles-anhanger.com
@@ -1125,7 +1119,6 @@ alpinestil.at
 alpinex.at
 alpinvolt.de
 alpivesta.net
-alpivogue.ch
 alprosolarisdental.com
 alpstep.com
 alrafidainstore.com
@@ -1146,7 +1139,6 @@ alternativeplacement.com
 althaus-kredit.com
 altinshop.de
 altior-capital.io
-altitradingltd.com
 altituden.com
 altradanmarkshop.com
 altradeutschland.de
@@ -1267,7 +1259,6 @@ anhaenger-von-thule.de
 anhaengerkauf24.com
 anhaengerklasen.de
 anhaengerkreuter.com
-anhaengermarkt.com
 anhaengers.online
 anhaengershopstore.shop
 anhaengerverleih-mania.de
@@ -1292,7 +1283,6 @@ ankauf-neodym-magnete.de
 ankerflowtech.shop
 ankerkrautde.shop
 ankotec.de
-ankpqvzu.shop
 anlage-kauf.de
 anlassgeschenke.com
 anna-atelier.com
@@ -1356,7 +1346,6 @@ apotheke-berlin-marzahn.de
 apotheke-bestellen.de
 apotheke-deutschland.com
 apotheke-neu.com
-apotheke-rezeptfrei.com
 apotheke-schweiz.net
 apotheke-windischgarsten.com
 apotheke24eu.de
@@ -1401,7 +1390,6 @@ apprvnewsale724.click
 apps-4-you.net
 appstorevideo.com
 appvalidation.com
-apremiumsurf.com
 apricoit.com
 aprileonline.com
 aprs-karlsruhe.de
@@ -1524,7 +1512,6 @@ asicsoutlet.at
 asicsshoe.net
 asomch.com
 aspacommerce.shop
-aspierhireworksde.com
 asse-groupe.com
 assemblytoolprada.com
 assess-health.com
@@ -1561,6 +1548,7 @@ atinylitshop.com
 atlanticeseagrillfishmarketandbar.com
 atlantictrikot.de
 atlas--schuhe.com
+atlas-finance.org
 aton-invest.com
 atpgoldenpass.com
 atreide-ventures.fr
@@ -1732,7 +1720,6 @@ avientrix.de
 aviorewear.com
 avorino.com
 avotrend.com
-avoura.de
 avyara.de
 awaisms.com
 awanzi.com
@@ -1793,7 +1780,6 @@ babyproduce.com
 babyroom-shop.com
 babyschlafsack-abc.de
 babyseat-shop.com
-babysetonline.shop
 babytoysangebote.de
 babywarepromo.com
 babyweltde.com
@@ -1973,6 +1959,7 @@ bdscoffee.com
 be-aetlcnshop.com
 beaccustomed.com
 beachitem.com
+beachwalkbali.com
 beambead.com
 beamdeals.de
 beatricesavoy.de
@@ -2224,7 +2211,6 @@ bestproductsonlinestore.com
 bestprogift.com
 bestrelocate.com
 bestsaunakits.com
-bestselectionforyou.com
 bestslshop.com
 bestsoluvs.click
 bestsoundclub.com
@@ -2427,7 +2413,6 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-trader.net
-bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoindecode.io
@@ -2503,6 +2488,7 @@ bluebikes8.com
 blueblom.com
 blueboltchargers.com
 bluedo.de
+blueforge.ltd
 bluelock.store
 blueoceanproject.de
 bluepeaksfinance.com
@@ -2720,7 +2706,6 @@ bringwish.com
 brinkmann-mode.de
 briospielzeug.com
 briospielzeugrabatt.com
-british-columbia-hotels.com
 britishnewstoday.com
 brivalfin-invest.com
 brnghl.shop
@@ -3126,7 +3111,6 @@ chaps-herrenmode.com
 chaps-herrenmode.de
 chapterrest.store
 characterh.com
-charismatico.com
 charlesashford.shop
 charlystore.de
 charmdaily.com
@@ -3266,7 +3250,6 @@ clearancecrest.com
 clearancecurrent.com
 clearancegowns.com
 clearanceu.com
-clearingt.com
 clearstream.fashion
 clearstream.xin
 cleatelite.shop
@@ -4403,6 +4386,7 @@ dyn-amo.com
 dynamic-store.com
 dynamicsauna.com
 dynamictrevion.com
+dynamictrevion.fr
 dynamo-shop.at
 dynamodeal.de
 dynamos.at
@@ -4412,6 +4396,7 @@ dyson-store.de
 dystopian-gaming.com
 dystopiangaming.com
 dyynnafitsale.shop
+dyzay.com
 dznrspot.com
 dztraktoren.de
 dzzle.de
@@ -4803,7 +4788,6 @@ enthusiastichaic.com
 enthusiastip.com
 entornobanoes.com
 entove.com
-entrancet.com
 entruempelung-meister.at
 entrustjewelry.com
 entzueck-end.de
@@ -5865,7 +5849,6 @@ gaingeneratorpro.de
 gala-waldbau.de
 galactict.com
 galandu.de
-galaxyfox.io
 galaxygroup.io
 galaxylicht.shop
 galeme.com
@@ -7691,6 +7674,7 @@ info-euservice.com
 info-shop-online.com
 infodir.net
 infodux.de
+infoprolive.com
 infoscrypto.com
 infox24.de
 infraredsaunaspot.com
@@ -11154,6 +11138,7 @@ onlinebeleuchtung.com
 onlinebluberri.com
 onlinebonuscasino-de.de
 onlinebusinessdorf.de
+onlinecasinomitschnellerauszahlung.de
 onlinecasinoparis.com
 onlinecasinositeindia.com
 onlinecasinoslasvegas.com
@@ -12495,7 +12480,6 @@ replicauhrenswiss.de
 replicauhrenx.de
 replicawatchtr.com
 replika-uhr.to
-reproccial.com
 repsberlin.com
 repstop.xyz
 repuhren.de
@@ -13170,6 +13154,7 @@ senvix.fr
 senzza.de
 separaten.com
 sepgoal.com
+sepkicks.com
 seprun.com
 serendiplty.com
 sereneify.com
@@ -13595,6 +13580,7 @@ sofortfinanz.com
 sofotron.de
 soft-handel.de
 softdays-shop.de
+softelektro.com
 softritualsco.shop
 software-onsale.com
 softwarebilliger1.de
@@ -14121,7 +14107,6 @@ stylishlytop.com
 stylow.de
 subbstantial.com
 subhmobiles.com
-subscrsidewa.com
 subsequentn.com
 subtleenergies.xyz
 subtletoys.com
@@ -14234,6 +14219,7 @@ swifttoolhub.com
 swiss-funding.com
 swissalpha.io
 swissbitcoins.com
+swisscapitalhub.com
 swisscoinco.com
 swisslona.ch
 swisslosonline.com
@@ -15003,6 +14989,7 @@ tropicfeelnet.com
 trousersonsales.com
 truckstopshop.de
 true-drugstore.com
+true-ph.com
 true-tab.com
 true-weightlose.com
 truefitposture.com
@@ -16120,7 +16107,6 @@ woodeu.de
 woodoclock.de
 woofgear.de
 wooflyx.com
-woofz.academy
 woolyroots.com
 wordmarkets.com
 workerflix.com
