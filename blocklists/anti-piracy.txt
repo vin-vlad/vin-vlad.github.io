@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-13T09:33:56.279Z
-# Entries: 33540
+# Last updated: 2026-07-13T19:27:02.364Z
+# Entries: 33541
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -3085,6 +3085,7 @@ animesimple.com
 animesonline.biz
 animesonline.cc
 animesound.ru
+animesquadron.org
 animestars.org
 animestotais.xyz
 animestream.in
@@ -7359,7 +7360,6 @@ filmoflix.media
 filmoflix.money
 filmoflix.page
 filmoflix.pizza
-filmoflix.sbs
 filmoflix.shop
 filmoflix.singles
 filmoflix.store
@@ -32684,6 +32684,7 @@ world4ufree.sale
 worldboxingvideoarchive.com
 worldbytez.com
 worldcupfootball.me
+worldfree4u.dog
 worldfree4u.moe
 worldfree4u.pm
 worldfree4u.sarl
