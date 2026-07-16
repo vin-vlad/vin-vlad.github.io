@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-15T19:16:34.866Z
-# Entries: 33829
+# Last updated: 2026-07-16T08:19:28.636Z
+# Entries: 33880
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -1093,6 +1093,7 @@ members.shaw.ca
 bittorrent.shinsen-subs.org
 bt.shinsen-subs.org
 tracker.shkinev.me
+aus.sierules.com
 wawacity2.site-de-streaming.com
 forum-boost.site50.net
 tracker.skillindia.site
@@ -1572,6 +1573,7 @@ tracker.zum.bi
 123movies.best
 123movies.bid
 123movies.bio
+123movies.biz
 123movies.boats
 123movies.broker
 123movies.cat
@@ -2707,6 +2709,7 @@ altadefinizione.al
 altadefinizione.autos
 altadefinizione.bar
 altadefinizione.beauty
+altadefinizione.beer
 altadefinizione.bet
 altadefinizione.bio
 altadefinizione.bond
@@ -2764,6 +2767,8 @@ altadefinizione.solutions
 altadefinizione.tienda
 altadefinizione.tokyo
 altadefinizione.tours
+altadefinizione.travel
+altadefinizione.tw
 altadefinizione.vg
 altadefinizione.vip
 altadefinizione.wang
@@ -2797,6 +2802,7 @@ altadefinizione01.email
 altadefinizione01.fm
 altadefinizione01.games
 altadefinizione01.info
+altadefinizione01.life
 altadefinizione01.online
 altadefinizione01.site
 altadefinizione01.spa
@@ -2821,6 +2827,7 @@ altadefinizionegratis.cfd
 altadefinizionegratis.cloud
 altadefinizionegratis.cool
 altadefinizionegratis.courses
+altadefinizionegratis.cyou
 altadefinizionegratis.deals
 altadefinizionegratis.fit
 altadefinizionegratis.forum
@@ -2843,16 +2850,19 @@ altadefinizionegratis.monster
 altadefinizionegratis.news
 altadefinizionegratis.onl
 altadefinizionegratis.online
+altadefinizionegratis.press
 altadefinizionegratis.pro
 altadefinizionegratis.pw
 altadefinizionegratis.qpon
 altadefinizionegratis.quest
 altadefinizionegratis.rest
 altadefinizionegratis.run
+altadefinizionegratis.sbs
 altadefinizionegratis.shop
 altadefinizionegratis.skin
 altadefinizionegratis.study
 altadefinizionegratis.surf
+altadefinizionegratis.top
 altadefinizionegratis.vip
 altadefinizionegratis.watch
 altadefinizionegratis.website
@@ -2864,6 +2874,7 @@ altadefinizionegratis.yachts
 altadefinizionehd.com
 altadefinizionehd.live
 altadefinizioneita.com
+altadefinizioneita.me
 altadefinizionepremium.com
 altadefiniziones.blog
 altadefinizioneuno.my
@@ -2901,6 +2912,7 @@ amarican-ninjaa-lordfilm.ru
 amarican-ninjas-lordfilm.ru
 amarican-ninjau-lordfilm.ru
 amazing-digital-circus-lordfilm.ru
+amazing-news.se
 amazzonn-lordfilms.ru
 ambassadorddl.site
 ambits.org
@@ -2964,6 +2976,7 @@ andor-lordfilm3.ru
 andr.net
 androeed.cn
 androeed.de
+androeed.es
 androeed.ru
 androeed.store
 androforever.com
@@ -3225,6 +3238,7 @@ ansktracker.net
 antbd.com
 antbd.net
 antenacentral.store
+antenapluto.store
 antenasport.online
 antenasport.site
 antenawest.store
@@ -3488,6 +3502,7 @@ audiop2p.com
 audiostuff.ro
 audiotracer.com
 audiozonetorrents.com
+aurastresser.com
 auratorrent.pl
 aurorabird6.live
 austin-powerse-lordfilm.ru
@@ -3696,6 +3711,7 @@ beethowen-lordfilm.ru
 beethowenu-lordfilm.ru
 beetlejuices-lordfilm.ru
 beetvapk.net
+beetvapp.me
 beguschiy-v-laberintes-lordfilm.ru
 beguschiy-v-laberinteu-lordfilm.ru
 beguschiy-v-laberintie-lordfilms.ru
@@ -3796,6 +3812,8 @@ bezumcy-lordfilm3.ru
 bezumnyi-azartt-lordfilm.ru
 bezumnyj-maks-lordfilm3.ru
 bfl-lordfilm.ru
+bflix.ac
+bflix.bz
 bflix.gg
 bflix.to
 bflixmovies.me
@@ -3823,10 +3841,12 @@ bigg-little-liesz-lordfilm.ru
 biggapan.tv
 bigtorrent.org
 bigtorrent.site
+bigtorrents.org
 bigtracker.org
 bigwarp.io
 bigwarp.pro
 bilasport.net
+bilibt.com
 billionse-lordfilm.ru
 billionsi-lordfilm.ru
 billionsu-lordfilm.ru
@@ -3889,6 +3909,7 @@ bitport.io
 bitru.org
 bitsearch.eu
 bitsearch.to
+bitseduce.com
 bitsnoop.com
 bitsoup.org
 bitsources.com
@@ -3956,6 +3977,7 @@ blackz.ro
 bladdee-lordfilm.ru
 blade-runerr-lordfilms.ru
 blade-runners-lordfilm.ru
+blade-team.net
 bladea-lordfilm.ru
 bladeu-lordfilm.ru
 bladreinn-lordfilms.ru
@@ -4078,6 +4100,7 @@ bollyflix.tr
 bollyflix.watch
 bollyflix.work
 bollyflix.ws
+bollyflix.yoga
 bollyflix-cdn.store
 bollyflix1.online
 bollyflix1.xyz
@@ -4108,6 +4131,7 @@ bonoov.fr
 bonsaihd.fun
 bonsaiprolink.shop
 bonsaiprolink.site
+bonsaiprolink.space
 boogiymans-lordfilm.ru
 bookaudiobook.net
 bookawarezone.digital
@@ -4259,6 +4283,7 @@ btafile.com
 btbbt.cc
 btbot.com
 btbtt.com
+btbtw.com
 btdb.eu
 btdb.io
 btdig.com
@@ -4294,6 +4319,7 @@ budka-poselluev-lordfilm.ru
 budka-poseluuev-lordfilm.ru
 buff-streams.store
 buffmovie.com
+buffsports.me
 buffstream.io
 buffstreams.app
 buffstreams.sx
@@ -4315,7 +4341,9 @@ bunkr.tv
 buny.uk
 burning-series.io
 burning-series.net
+burningseries.ac
 burningseries.co
+burningseries.cx
 burningseries.domains
 burningseries.tw
 burningseries.vc
@@ -4418,18 +4446,22 @@ casacinema.biz
 casacinema.click
 casacinema.com
 casacinema.de
+casacinema.eu
 casacinema.fm
 casacinema.in
 casacinema.it
+casacinema.lol
 casacinema.media
 casacinema.nl
 casacinema.org
+casacinema.pics
 casacinema.red
 casacinema.ru
 casacinema.skin
 casacinema.taxi
 casacinema.us
 casacinema.vg
+casacinema.video
 casacinema.ws
 casacinemagiovani.com
 casanovax.com
@@ -4450,6 +4482,7 @@ cb01.ac
 cb01.app
 cb01.asia
 cb01.bet
+cb01.bio
 cb01.blog
 cb01.builders
 cb01.care
@@ -4474,10 +4507,13 @@ cb01.film
 cb01.fm
 cb01.fun
 cb01.giving
+cb01.hair
+cb01.help
 cb01.in
 cb01.io
 cb01.it
 cb01.kaufen
+cb01.lat
 cb01.li
 cb01.life
 cb01.live
@@ -4488,6 +4524,7 @@ cb01.network
 cb01.news
 cb01.online
 cb01.org
+cb01.pics
 cb01.pictures
 cb01.red
 cb01.rip
@@ -4499,6 +4536,7 @@ cb01.us
 cb01.vg
 cb01.video
 cb01.vip
+cb01.win
 cb01.world
 cb01.ws
 cb01.xyz
@@ -4841,18 +4879,22 @@ cineblog01.ink
 cineblog01.io
 cineblog01.ist
 cineblog01.kaufen
+cineblog01.land
 cineblog01.legal
 cineblog01.life
 cineblog01.locker
 cineblog01.lol
+cineblog01.love
 cineblog01.me
 cineblog01.mom
+cineblog01.my
 cineblog01.net
 cineblog01.one
 cineblog01.ooo
 cineblog01.pet
 cineblog01.promo
 cineblog01.qpon
+cineblog01.re
 cineblog01.red
 cineblog01.rest
 cineblog01.services
@@ -4976,6 +5018,7 @@ cinemagratis.vg
 cinemagratis.ws
 cinemagratis.xyz
 cinemahd.work
+cinemahdv2.io
 cinemalibero.cafe
 cinemalux.cfd
 cinemalux.foo
@@ -5088,6 +5131,7 @@ cmovieshd.com
 cmovieshd.lol
 cmovieshd.net
 cmovieshd.vip
+cmovieshd.xyz
 cmoviesshd.com
 cn101.ru
 cnetworkbd.net
@@ -7592,6 +7636,7 @@ filmyblend.com
 filmyentry.com
 filmyfly.cafe
 filmyfly.deals
+filmyfly.faith
 filmyfly.how
 filmyfly.republican
 filmygallery22.lol
@@ -11420,6 +11465,7 @@ kooraking.online
 kooralive2.info
 kooralivs.com
 kooratv.fun
+koore.live
 kopedafotor75.shop
 koralina-v-strane-koshmarov-lordfilm3.ru
 koratair.com
@@ -11541,6 +11587,7 @@ la-breya-lordfilm3.ru
 la123movies.com
 la18hd.su
 la20hd.com
+laacibsports.com
 labaia.ws
 labtor.tv
 lacasadeltikitaka.net
@@ -27799,6 +27846,7 @@ shkolla-dorama-lordfilms.ru
 shkolnye-duhi-lordfilm.lol
 shnflac.net
 shokweb.com
+shootz.mov
 shopdoc.ru
 shopz14softwarez4e.xyz
 shortstagex.com
@@ -33211,12 +33259,15 @@ yalla-shoote.pro
 yalla-shootv.live
 yallaa-sshoot.com
 yallacartoon.com
+yallachat.net
 yalladay.com
+yalladown.net
 yallakoorah.com
 yallalive.fun
 yallane7lm.net
 yallashootgool.com
 yallashoothub.com
+yallashootkoora.online
 yallasyarah.com
 yamakasii-lordfilms.ru
 yamakasis-lordfilm.ru
