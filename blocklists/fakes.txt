@@ -1,6 +1,7 @@
 # fakes
-# Last updated: 2026-07-16T08:19:28.567Z
-# Entries: 16500
+# Last updated: 2026-07-16T19:17:20.906Z
+# Entries: 16557
+eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
 log.acces-btpanda.com
@@ -247,6 +248,7 @@ adl.fcnqy.shop
 fr.finaguide.com
 webtrader.finaurex.org
 de.fitlebenberlin.com
+eclipse.forwarder-ltd.com
 grandeurlogistic.forwarder-ltd.com
 fr.foxane.com
 vip.frontiermarket.icu
@@ -3453,6 +3455,7 @@ conservatione.com
 consistorkred.com
 console-switch.com
 consolestar.de
+conspeco.com
 consulting-app.de
 consumptione.com
 container-sodex.com
@@ -3513,6 +3516,7 @@ corsaircontrol.pro
 corteiz.co
 cosanne-baumarkt.com
 coselle.eu
+cosmetic-sell.com
 cosmeticcareclub.com
 cosmeticshopcenter.com
 cosmopoint.de
@@ -3574,6 +3578,7 @@ credoya.com
 cremant.at
 cremevisocorpo.com
 crestviewlamps.com
+crewgain.com
 crfp8-carrefour.com
 cricuts.de
 crispischuhe.at
@@ -3652,7 +3657,6 @@ curotoshop.com
 currentbody-outlet.de
 currext.com
 curtainguess.com
-curvedream.de
 cusb4.com
 cusb8.com
 cushygait.com
@@ -3770,8 +3774,10 @@ daskaffeesatzorakel.de
 daskarnevalkostuem.de
 dasleselabor.com
 dasorevaparis.de
+dasrichtigeholz.com
 database-connection-pooling.com
 datactively.com
+dataery.xyz
 dateideen.at
 datendetektive-online.de
 daunstore.com
@@ -3847,6 +3853,7 @@ dealswithjordan.com
 dealviral.de
 dealwiththefeels.org
 deangelnshop.com
+deaspierhireworks.works
 deautorabatt.com
 debasketball.com
 debergercamping.com
@@ -3897,6 +3904,7 @@ degussa-gmbhgold.de
 degussa-gold-de.to
 degussa-goldgmbh.de
 degussa-goldhandel.click
+degussa-goldhandel.online
 degussa-goldhandel.tv
 degussa-goldhandel-de.to
 degussa-goldonline.de
@@ -3913,13 +3921,17 @@ degussaonline.de
 dehaag-tech.de
 dehaustierbedarf.com
 deheimtierbedarf.com
+dehens.fr
 dehiking.de
+dehnerde.com
+dehnershop.com
 dehnerverkauf.de
 dehundeeinkauf.com
 dehundegeschaft.com
 deichmannoutlet.shop
 deichmannsale.shop
 deichmannshoe.com
+dein-berghuettenurlaub.de
 dein-elektroshop.de
 dein-heizoelmarkt.de
 dein-modehaus.de
@@ -3960,6 +3972,7 @@ delicioush.com
 delightsky.store
 delishpetfoodde.com
 deloro-online.de
+delphibeauty.de
 delson.de
 delta-stock.com
 deltadraht.de
@@ -3988,6 +4001,7 @@ demoniasuomi.com
 demontagedesgetriebes.com
 den-home.com
 denaturkosmetik.com
+denkashop.com
 denuvostore.com
 deparcart.com
 depeople-work.xyz
@@ -4027,6 +4041,7 @@ dersa-spedition.com
 dertagesreport.com
 dertagesspiegel.com
 derumzugshelfer.at
+derurban.at
 desamishop.com
 descendank.com
 deschuhebillig.com
@@ -4063,6 +4078,7 @@ detty.co
 deuhr.de
 deuspower.to
 deutchshop24.de
+deutere.com
 deutsch-brennholz.de
 deutsche-backwaren-manufaktur.com
 deutsche-energieoptimierungsgesellschaft.com
@@ -4161,6 +4177,7 @@ digitec-holding.de
 digitech-shop.com
 digitoption.com
 digixio.de
+dikooshop.com
 dilary.com
 diliving.com
 dima-sport.de
@@ -4214,8 +4231,10 @@ disneykinder.de
 distanceg.com
 distant-lands.com
 distinguishm.com
+distrilyy.net
 dithclerk.com
 dittmarwerkzeuge.com
+dividano.de
 divinedo.de
 divingshop.nl
 divisconcept.com
@@ -4235,6 +4254,7 @@ dmrbremsbelag.com
 dmsmax.com
 docgbeauty.de
 docjohnson-schritte.com
+dockersosterreich.at
 docmatthews.com
 doctorsolve.com
 doctriney.com
@@ -4246,6 +4266,7 @@ dogitemoutlet.com
 dograndoo.de
 dogs-food.shop
 dogsdreamaustria.at
+dogstoy.shop
 dogzy.de
 dohahotel24.com
 doinvitletter.de
@@ -4290,6 +4311,8 @@ dortuviax.at
 dotados-anhaenger.com
 dotloveculture.com
 dotmalls.com
+dotuant.com
+dotwise.top
 doublecapitals.com
 douchedesign.com
 doughhound.com
@@ -4311,6 +4334,7 @@ dravoks.com
 drberg.eu
 drdiscount.shop
 dream-cars-it.com
+dream-fun.com
 dreamcigarettes.com
 dreamelegants.com
 dreamfestivalsuisse.com
@@ -4385,6 +4409,7 @@ dsmarkt.com
 dsprsupshop.com
 dsquared2de.de
 dt5888.com
+dtabauto.de
 dualsuns.com
 dualtron-scooters.com
 ducherower.de
@@ -4474,12 +4499,14 @@ eastpakwien.at
 eastspringinvest.io
 easy-oel.de
 easy-software.org
+easybike24.com
 easyca.ca
 easyfastshopping.com
 easyfiles.io
 easygestions.com
 easymove-eu.com
 easyoel.net
+easyoptions.online
 easyrenthomez.com
 easyvisa365.com
 easyxp.com
@@ -4524,6 +4551,7 @@ econoechomart.com
 econoessence.com
 economicp.com
 economicq.com
+economix.io
 econosavecenter.com
 ecooflow.shop
 ecoooc.com
@@ -4554,6 +4582,7 @@ edelynklein.de
 eden-galabau.de
 edengalabau.de
 edexpert.de
+edexpress24.com
 edfarm.it
 edgecapitalfunds.com
 edgetell.com
@@ -4643,6 +4672,7 @@ electronw.com
 electroshop24.de
 elecx.de
 elegance-maison.fr
+elegant-leben.de
 elegantmobel.com
 elegantseatcover.com
 eleganz-haus.de
@@ -4742,6 +4772,8 @@ ellisaluna-handel24.de
 elnaturalistadeutschland.de
 eloneohome.shop
 eloquentik.de
+eloshop.net
+eloyguerra.com
 elsas-schmuckatelier.com
 elsopia.com
 elternundkinderfreude.de
@@ -4782,6 +4814,7 @@ emmerthal-tierarzt.de
 emobilityzubehoer.com
 emorshoping.com
 emper-parfums.de
+emperialprime.com
 empireoption.com
 emporium-digital.com
 emssnow.com
@@ -4857,6 +4890,7 @@ equivalenh.com
 equivalenu.com
 eradkultur.de
 eradmarkt.de
+eradsport.de
 eradstore.de
 erdbeerblase.de
 erecovery.net
@@ -4896,6 +4930,7 @@ esmartfinance.ltd
 esn-eu.com
 esn-fitness.com
 esnoutleteur.com
+esnsupply.shop
 esotecde.shop
 esotecs.com
 espacedblc.com
@@ -4941,6 +4976,7 @@ ethimostyle.com
 etkick.de
 etniesshoesireland.com
 etrade-securities.com
+etradecapitals.com
 etrooppisode.com
 etropo.com
 etsbois-de-chaufage.com
@@ -4955,6 +4991,7 @@ eu-pharmacy-online.com
 eu-pillstore.com
 eu-sezane.com
 eu-trader.io
+eu-venum.shop
 eubiofficial.com
 euchems.me
 eucloseoutue.com
@@ -4991,6 +5028,7 @@ euromedicplus.com
 euromedshop.net
 euromedsonline.net
 eurometal-structure.com
+euronicsdeutschlandshop.de
 eurooccasion.com
 europa-apotek.com
 europa-med.com
@@ -5027,7 +5065,9 @@ evaluma.de
 evane.store
 evanimo.com
 evans-online.de
+evans-shop.de
 evansdplaw.com
+evas-schmuck.com
 evatrailer.com
 evbam.com
 evelline.de
@@ -5127,10 +5167,12 @@ fahrrad-discount24.de
 fahrrad-handels.de
 fahrrad-herrmans.de
 fahrrad-hess.de
+fahrrad-jung.de
 fahrrad-markt.com
 fahrrad-sparwelt.de
 fahrrad-versand.com
 fahrradangebotede.com
+fahrradanhaenger-freilauf.de
 fahrradbulls.com
 fahrradcitat.de
 fahrradco.de
@@ -5186,8 +5228,10 @@ fahrradzubehorverkauf.com
 fahrspab.com
 fahrstadt.de
 fahrtechnikteile.com
+fahrzeugkomfort.de
 fahrzeugpflegetreskow.de
 fahrzeugscanner24.de
+failux.com
 fair-praesente.de
 fairfaction.com
 fairvesta.de
@@ -5220,6 +5264,7 @@ family-office-management.com
 family-pills.com
 familyhistoryjamaica.com
 familymedsmarket.com
+familyshoptop.com
 famore.shop
 famore-fashion.com
 famozdealz.de
@@ -5263,6 +5308,7 @@ farmakeiogr.com
 farmspain.com
 fashican.com
 fashioneffectual.com
+fashiones.de
 fashionflairr.com
 fashiongirl24.de
 fashionguess.com
@@ -5294,10 +5340,12 @@ favoritebicycle.com
 favoriteboxing.com
 favoritedrugstore.com
 favoriteguitar.com
+favrice.com
 faymoon.com
 fb-one.com
 fbsmen.com
 fbsportonline.shop
+fbwmqw.shop
 fc-moto-vip.com
 fc-pflaumloch.de
 fcchu.com
@@ -5356,12 +5404,14 @@ feronilva.com
 ferosalesgroup.de
 ferplastdeutschland.shop
 ferplastverkaufe.com
+ferragensmineira.com
 ferramentautensili.com
 festanlageprofi.net
 festberg.com
 festberg.de
 festeinkauf.de
 festgeld-profis.de
+festgeld-sofort.de
 festgeld724.de
 festgeldfinder.de
 festgeldkompass.com
@@ -5494,6 +5544,7 @@ fitandelite.com
 fitbands.de
 fiteningf.com
 fitflopparis.net
+fitflopromania.com
 fitiwelt.com
 fitliebe.de
 fitnessbezogen.com
@@ -5507,6 +5558,7 @@ fitselect.de
 fitstoredeal.com
 fittergear.de
 fittingdiscount.com
+fiurre.shop
 five-media011.com
 fivepillarstoken.com
 fivesixgroup.com
@@ -5544,6 +5596,7 @@ flexihubstore.com
 flexioptions.com
 flexiworkde.works
 flextrader.co
+flextshire.com
 flidop.com
 fliegen-de.de
 flipeak.com
@@ -5567,6 +5620,7 @@ floweraup.com
 flowercomedy.com
 flowermodas.com
 flowoon.com
+flowtrade24.com
 flowtradex.com
 fluctuatek.com
 fluffnestly.de
@@ -5637,6 +5691,7 @@ formalot.com
 formanacupuncture.com
 formationy.com
 formeri.shop
+formturn.com
 fornialegnaaccessori.com
 foronhausgeraete.de
 forsaleinthebahamas.com
@@ -5684,6 +5739,7 @@ france-finances.com
 france-lavignette.com
 francemusicstore.com
 francescobellani.com
+francisco.cc
 franke-it.solutions
 frankfurteintrachtshop.com
 frankiesbikinishop.com
@@ -5774,6 +5830,7 @@ frostorio.shop
 fruechtepfluecken.ch
 fruitfult.com
 fryeschuhe.de
+fsn-group.com
 ftexvip.com
 ftradition.com
 ftzs.net
@@ -5795,18 +5852,21 @@ fullsora.de
 fullzcash.com
 fundfennel.com
 fundfjord.com
+fundgoxpro.net
 fundrock-group.de
 funfiy.com
 funluluu.com
 funsporthandel.com
 funzonecamp.com
 furlaoutlet.de
+furnidays.de
 furnishfinds.com
 furniturebernhardt.com
 furnituremodish.com
 furnituretaste.com
 furnitureustrade.com
 furrying.com
+fusenest-at.works
 fussballarea.de
 fussballfanstore.com
 fussballm2c.com
@@ -5841,6 +5901,7 @@ fynixia.com
 fyregaming.com
 fyssea.com
 gaballo-handel.de
+gabbian.de
 gabelglanz.de
 gabion24.de
 gaboraustralia.com
@@ -5855,6 +5916,7 @@ gabornilkkurit.com
 gabornz.com
 gaborosterreich.at
 gaborportugal.com
+gaborsale.com
 gaborschoenen.com
 gaborschuhe.at
 gaborschuhe.com
@@ -5865,6 +5927,7 @@ gaborshoesoutlet.shop
 gaborsschweiz.com
 gaborsuisse.com
 gaborwien.at
+gadget4u.shop
 gadgetgalaxybox.com
 gadgetgrids.com
 gadgetladen.shop
@@ -5926,6 +5989,7 @@ garantiertefinanzierung.com
 garborine.com
 garden-caddy.com
 garden-caddy.de
+garden-machines.com
 garden-machines-shop.com
 garden-outdoor.com
 gardenmow.com
@@ -5991,6 +6055,7 @@ gartenly.shop
 gartenmachtshop.de
 gartenmaher.com
 gartenmaschinen24.de
+gartenmaschinenpro.de
 gartenmaschinenzubehor.com
 gartenmaxe.de
 gartenmoebelangebote.de
@@ -6045,6 +6110,7 @@ gastryner.com
 gate3londonuk.com
 gateusd.com
 gautormainz.de
+gavalda.de
 gaveltrdltd.com
 gawude.shop
 gaziantepsauna.com
@@ -6119,6 +6185,7 @@ geoxfashion.com
 geoxisrael.com
 geoxkuwait.com
 geoxmexico.com
+geoxnederland.net
 geoxnorge.net
 geoxoutlet.de
 geoxportugaloutlet.com
@@ -6159,6 +6226,7 @@ germanyrimowa.com
 germanytool.com
 germaynewstoday.com
 gerrys-modehaus.com
+gesamtgarten.de
 geschaftdrachen.com
 geschenkblumen.com
 geschenklust.com
@@ -6206,6 +6274,7 @@ getgartenwerkzeugshop.shop
 getjustsmile.com
 getkidzly.de
 getnuubu.com
+getonlinetool.com
 getrcparts.com
 getrichbb.com
 getrodeosaunas.com
@@ -6246,6 +6315,7 @@ giantfahrraderrabatt.com
 giardinoambienti.com
 gicastores.com
 giecy.com
+giesler-drogerie.com
 giesswein.cz
 giesswein.ro
 giesswein.shop
@@ -6266,7 +6336,9 @@ giftwarehome.com
 gigachains.com
 gigaly.at
 gigantautoteile.com
+gihuzt.shop
 gileng.com
+gillne.de
 gilltry.com
 gimbowl.com
 gimora.de
@@ -6375,6 +6447,7 @@ goalbo.de
 goalhat.com
 goalkertech.com
 goandfind.net
+goaper.com
 goball.de
 goblinkcl.shop
 gobuybest.com
@@ -6400,6 +6473,7 @@ golden-bank.com
 golden-goose.at
 golden-outlet.de
 golden-re.com
+golden-watch.shop
 goldenbayboutiques.com
 goldengoosesale.at
 goldengoosesale.de
@@ -6423,6 +6497,7 @@ goldstollen.de
 goldstoneindica.shop
 golfapparelsale.com
 golffachhandel.eu
+golfschule-maxlrain.de
 golfstravismathew.com
 golvurikenz.tech
 golvurikenz-ai.at
@@ -6457,9 +6532,12 @@ goodpricedrugs.com
 goods-shopgreener.com
 goodstuffsport.com
 goodstufftool.com
+goodthingsstore.shop
+goodtitevs.best
 goodworkstore.de
 goohu.de
 goosebid.com
+gopandoo.shop
 goprofinance.com
 goptions.com
 gordonsbodyshop.de
@@ -7394,7 +7472,6 @@ hotelaustralien.de
 hotelladen.com
 hotels-colombo.com
 hotelsinperm.ru
-hotelsinvienna.org
 hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
@@ -8383,7 +8460,6 @@ khjugyu.shop
 khujo.shop
 khujoangebote.com
 khujoaustria.com
-ki-anlagen.com
 kia-shop.com
 kibekde.com
 kickarea.cn
@@ -8607,7 +8683,6 @@ kredit-pro.com
 kreditberatungs.de
 kreditfuralle.com
 kredithaus24.eu
-kreditwizard.com
 kreherland.shop
 kremer-mode.de
 kremmling-moebel.com
@@ -8615,7 +8690,6 @@ krf-mbh.com
 kriddoshop.com
 kristenjewelry.com
 krittimes.com
-kron-und-kerl.com
 kronbergwien.at
 kronwald-mode.de
 kroomshop.com
@@ -8664,26 +8738,14 @@ kunstgeschwind.de
 kunstkulisse.de
 kunstpfadkarte.de
 kunstpfadrouten.de
-kunstpfadweg.de
-kunstreiseplan.de
-kunstreiseweg.de
 kunstschuleaugsburg.de
 kunstschuledynastia.de
 kunststoffsteine.de
-kunststrecke.de
-kunststreifzug.de
 kunsttourweg.de
 kunstuhandwerk.de
 kunstulm.de
 kunstumweg.de
 kunstvollvegan.de
-kunstwander.de
-kunstwanderpfad.de
-kunstwanderroute.de
-kunstwegfinder.de
-kunstwegkarte.de
-kunstwegnetz.de
-kunstwerkweg.de
 kunstzeit-ruhr.de
 kunstzonen.de
 kupikup.com
@@ -8816,7 +8878,6 @@ laufrader.de
 laufstyle.com
 lauradiva.de
 lauradiva.shop
-lauramunchen.com
 lautenberg-mode.de
 lautisbikeshop.de
 lautsprechersale.com
@@ -9326,7 +9387,6 @@ lupinebike.com
 lurcz.shop
 lushdream.de
 lusto.de
-luther-handel.de
 lutona.de
 luuckylinen.com
 luvelle.de
@@ -9362,7 +9422,6 @@ luxurypillows.pk
 luxuryvetements.com
 luxus-berlin.de
 luxus-love.com
-luxusgeschenke24.com
 luxushangematten.com
 luxuskuechentraum.com
 luxusleuchten.com
@@ -9460,7 +9519,6 @@ majoritye.com
 makanigermanyshop.shop
 make-uppflege.com
 makitabillig.de
-maklerinmallorca.de
 mako-gmbh.de
 makunuoil.com
 malaccastraitdaily.com
@@ -9926,7 +9984,6 @@ michelinsuisse.com
 mici-tech.de
 micro-spiele.de
 microption.com
-microsoft1drive.net
 microsotfsstore.com
 midasmarkt.com
 midea-deutschland.de
@@ -10230,7 +10287,6 @@ monofileschnure.com
 monopolyclothing.com
 monostarscope.com
 monparis-mall.shop
-monparis-work.shop
 monpetit-kinderzimmer.de
 monplantfraise.com
 monplantfraise.fr
@@ -10281,7 +10337,6 @@ moonwalkbaby.com
 moonx.io
 moosufergarten.de
 mooxishop.de
-mora-gartenbau.de
 morenutritionde.shop
 moreviabeauty.com
 moriaccessoires.com
@@ -11716,7 +11771,6 @@ pharmaplax.com
 pharmaracapital.com
 pharmaright.vu
 pharmaris.net
-pharmaserve.com
 pharmatheke-europe.com
 pharmedio.de
 pharmrx-1.com
@@ -15019,6 +15073,7 @@ tropicfeelnet.com
 trousersonsales.com
 truckstopshop.de
 true-drugstore.com
+true-ph.com
 true-tab.com
 true-weightlose.com
 truefitposture.com
@@ -16144,6 +16199,7 @@ woodeu.de
 woodoclock.de
 woofgear.de
 wooflyx.com
+woofz.academy
 woolyroots.com
 wordmarkets.com
 workerflix.com
@@ -16384,6 +16440,7 @@ zavando.de
 zctszj.com
 zebrainvest.com
 zegnakaufen.de
+zeigdeinbein.de
 zeigebericht.de
 zeigstil.com
 zeit-modehaus.com
