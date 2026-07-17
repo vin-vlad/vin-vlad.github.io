@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-07-17T08:15:39.393Z
-# Entries: 899
+# Last updated: 2026-07-17T19:15:34.183Z
+# Entries: 898
 2ch.org
 4cdn.org
 4chan.org
@@ -757,7 +757,6 @@ redd.it
 reddit.com
 redditmail.com
 redditmedia.com
-redditstatic.com
 redkix.com
 rocksdb.com
 rocksdb.net
