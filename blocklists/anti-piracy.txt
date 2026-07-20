@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-20T09:20:59.719Z
-# Entries: 35744
+# Last updated: 2026-07-20T19:46:59.109Z
+# Entries: 35764
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -1898,6 +1898,7 @@ tracker.zum.bi
 123moviesla.sbs
 123movieslegal.com
 123movieslife.xyz
+123movieslink.net
 123movieslive.com
 123movieslive.top
 123moviesmaxtv.cfd
@@ -6007,6 +6008,7 @@ diamondsrooms.com
 diana-salasar-lordfilm.lol
 diavol-nosit-prada-lordfilm.sbs
 dibamoviez.org
+dibamoviez.xyz
 dici-filme-lordfilm.ru
 dici-filmi-lordfilm.ru
 dici-filmis-lordfilm.ru
@@ -11871,6 +11873,7 @@ kinoxy.ru
 kinoz.co
 kinoz.to
 kinozal.ws
+kinozapas.one
 kinozapas.ru
 kinozapas.ws
 kinozavr.org
@@ -30969,6 +30972,7 @@ strikesu-lordfilm.ru
 strimsy.top
 strmd.link
 strmfree.link
+strmfree.st
 strmup.to
 strumyk.cv
 strumyk.help
@@ -31305,6 +31309,7 @@ tantifilm.xyz
 tantifilmhd.cyou
 tantinuovo.com
 taodung.com
+tap4sport.ci
 tapecity.org
 tapecontent.net
 tapedown.com
@@ -31911,6 +31916,8 @@ tianxingjian.wiki
 tiedge1.lat
 tiendaskin.shop
 tienichmaytinh.com
+tieulam4.live
+tieulamtv.com
 tigerblack.net
 tigerflare10.xyz
 tihoe-mesto-lordfilm.online
@@ -31970,6 +31977,7 @@ titaniku-lordfilm.ru
 titaniumstresser.net
 titany-lordfilm3.ru
 tivioneiptv.live
+tivo8k.com
 tixati.com
 tiz-cycling.tv
 tjma-lordfilms.ru
@@ -33686,6 +33694,14 @@ veepi-lordfilm.ru
 veepu-lordfilm.ru
 veev.to
 veevcdn.co
+vega-eco.com
+vega-et.com
+vega-fx.com
+vega-pl.com
+vega-pt.com
+vegamall.net
+vegamix.org
+vegamn.com
 vegamovie.page
 vegamovies.ae
 vegamovies.ai
@@ -33973,6 +33989,7 @@ vegamovis.us
 vegamovles.bond
 vegamovles.com
 vegamovles.pics
+vegasdpa.com
 veidtr.com
 veliikaya-lordfilm.ru
 velikaya-lordfilm3.ru
@@ -34627,6 +34644,7 @@ watchsomuch.com
 watchsomuch.org
 watchsomuch.tv
 watchsomuchtorrents.com
+watchsports.su
 watchsports.to
 watchstream.site
 watchtvepisodes.me
@@ -34893,6 +34911,7 @@ x-menus-lordfilm.ru
 x-menuy-lordfilm.ru
 x-oo.com
 x-site.pl
+x121.live
 x1337x.eu
 x1337x.ws
 x264.me
@@ -35043,6 +35062,7 @@ xtremezone.ro
 xtubeflix.com
 xtvi.com
 xubster.com
+xuperhydra.com
 xuyadong.sbs
 xwt-classics.net
 xx-lordfilm.online
