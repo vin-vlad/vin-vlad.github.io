@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-20T19:46:58.617Z
-# Entries: 17011
+# Last updated: 2026-07-21T08:34:28.398Z
+# Entries: 17037
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -112,6 +112,7 @@ talvurieks-official.co.at
 teddith.co.uk
 timbuk2.co.at
 uggs.co.at
+uklandregistryportal.co.uk
 veja.co.at
 wilson.co.at
 yeezys.co.at
@@ -667,6 +668,7 @@ thomann-vip.za.com
 thomannsale.za.com
 vip-vision.za.com
 german.zeelool.com
+grundbuch.zentraler-antragsservice.com
 app.zety.de
 adl.zixoko.shop
 ger.zoibakii.com
@@ -772,6 +774,7 @@ abbott-tech.net
 abc-apotheke-hamburg.de
 abcbinaire.com
 abdeckplanenmotor.com
+abe-beantragen.de
 abe-beantragen-online.de
 abeautybuffet.com
 abele-kanzlei.com
@@ -1359,6 +1362,7 @@ antmineroutlet.com
 antminertech.com
 antobi-shop.de
 antonjuul.com
+antrag-pflegegrad.de
 antriebdiscount.de
 anuchka.store
 anuraclo.com
@@ -1796,7 +1800,6 @@ awirer.com
 awishday.com
 awo-baumarkt.de
 ax-trading.com
-axaimarketfx.com
 axatechviewou.com
 axelarigatojapan.net
 axelarigatooslo.com
@@ -3840,6 +3843,7 @@ darembel.com
 darsvint.fr
 daryeleth.org
 das-feel-natural.de
+das-handelsregisterauszugportal.de
 das-home.com
 das-kind-world.de
 das-montessori-spielzeug.de
@@ -3855,6 +3859,7 @@ daskarnevalkostuem.de
 dasleselabor.com
 dasorevaparis.de
 dasrichtigeholz.com
+dassteuerportal.de
 database-connection-pooling.com
 datactively.com
 dataery.xyz
@@ -5085,6 +5090,7 @@ ettern24.de
 eu-arcteryx.com
 eu-first.com
 eu-meds.net
+eu-meds.online
 eu-pharmacy-online.com
 eu-pillstore.com
 eu-sezane.com
@@ -5825,6 +5831,7 @@ fortunaten.com
 fortunefx.io
 foryourwell.com
 fossilupra.com
+fosterrefrigerator.de
 fotbalovyfestival.cz
 foto-biering.de
 foto-mundus-sued.de
@@ -6420,6 +6427,7 @@ getyouronlinemedshere.com
 getyourtickets.de
 getyourtreatmentshere.com
 gewa24.com
+gewerbeanmeldung-service.de
 gfmtrader.com
 gfore-suomi.com
 gforefinland.com
@@ -6473,6 +6481,7 @@ giovannigruppe.de
 gipfelfreund.de
 girl-world.site
 giro-finance.com
+gisaauszugonline.at
 giselablohm.de
 gisemo.com
 gitarrenheld.at
@@ -6487,6 +6496,8 @@ glaciva.net
 gladevelop.com
 gladfelt.com
 gladiatorzoo.com
+glaeubigerid.de
+glaeubigerid-portal.de
 glam-gadgets.de
 glamantibeauty.com
 glamina.de
@@ -6797,6 +6808,11 @@ gruber-graz.at
 grubergraz.at
 grueneshandelzhaus.de
 gruenstein.inc
+grundbuch-portal.at
+grundbuchauszug-plattform.de
+grundbuchauszugonline.at
+grundbuchauszugplattform.de
+grundbuchplattform.de
 grundstoffde.com
 grunekraft.shop
 grunekraft.store
@@ -8101,7 +8117,6 @@ ism-trailer.com
 isoccerkit.com
 isosmart.de
 isotrader.cc
-israelpharm.com
 issamtransports.com
 istanha.com
 isthebabybornyet.com
@@ -8686,6 +8701,7 @@ kimperuecken.de
 kincorybeauty.com
 kind-ersause.com
 kindduckling.com
+kinderbetreuungsgeldportal.at
 kindergarten-supplies.com
 kindergarten-waldenrath.de
 kindergartenpaedergogik.de
@@ -9120,6 +9136,7 @@ layer-shop.com
 lbccnet.com
 lbsbikes.com
 lbslepe.de
+lbtinc.com
 lbzdzx.com
 lccontainersupply.com
 lcfservice.com
@@ -10607,7 +10624,6 @@ moonetrix.com
 moongor.com
 moonpod.de
 moontod.com
-moonwalkbaby.com
 moonx.io
 moosufergarten.de
 mooxishop.de
@@ -11383,6 +11399,7 @@ ohr-freund.de
 ohssl.org
 oikmvbuy.shop
 oil-direkt.de
+oil-profits.com
 oilexa.de
 oilparadies.de
 oilprofit.io
@@ -12519,6 +12536,8 @@ pundmannshop.de
 punkcase.com
 punkrave.ch
 punkravestore.de
+punkteinflensburgabfragen.de
+punktestandflensburg.de
 puntoblancoshop.com
 puppenhauser.com
 puppenkleidungbillig.com
@@ -13162,6 +13181,10 @@ ruhigermond.de
 ruhrgenuss.de
 rumplierorbit.click
 runaivete.com
+rundfunkbeitrag-portal-online.de
+rundfunkbeitragonline.de
+rundfunkbeitragportal.de
+rundfunkbeitragsserviceonline.de
 rundfunkportal.de
 rundummobil.de
 runecasa.com
@@ -14153,6 +14176,7 @@ soundhive.de
 sourceforsport.com
 sovectoron-1-naatlasix-losolara.com
 soxfinancial.com
+sozialversicherungsausweisportal.de
 space-tennis.com
 spacebuds.de
 spaceheatershop.com
@@ -14323,6 +14347,9 @@ stampsetshop.com
 stampssale.shop
 standardschuhe.com
 standesamt-portal.de
+standesamt24.com
+standesamtportal.com
+standesamturkunde.de
 standpellet.de
 stanfpv.com
 stanley-cups.at
@@ -15386,6 +15413,7 @@ transition-velo.com
 transmarketconssrl.com
 transparentk.com
 transparentw.com
+transparenzregisterportal.de
 transportangatahy.com
 transportes-angel-salinas.com
 transportwelt.com
@@ -16091,7 +16119,6 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -16495,7 +16522,6 @@ wetsuitus.com
 wetting.de
 whatsexy.de
 wheelsprint.com
-whereverk.com
 whimsicalshome.com
 whirlpoolus.com
 whiskerhalo.com
