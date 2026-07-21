@@ -1,5 +1,5 @@
 # fakes
-# Last updated: 2026-07-21T08:34:28.398Z
+# Last updated: 2026-07-21T19:36:38.386Z
 # Entries: 17037
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
@@ -12537,7 +12537,6 @@ punkcase.com
 punkrave.ch
 punkravestore.de
 punkteinflensburgabfragen.de
-punktestandflensburg.de
 puntoblancoshop.com
 puppenhauser.com
 puppenkleidungbillig.com
@@ -12594,6 +12593,7 @@ quantum-ai.at
 quantum-ai-be.com
 quantum-banc.world
 quantumai.fr
+quantumaiplatform.com
 quantumprimeprofit.io
 quantumtrade.co
 quantwise.ai

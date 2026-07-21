@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-21T08:34:28.567Z
-# Entries: 35897
+# Last updated: 2026-07-21T19:36:39.401Z
+# Entries: 35898
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -463,6 +463,7 @@ flemmix.dorkdaddy.com
 popcorn-time.en.downloadastro.com
 open.dstud.io
 cutscloud.duckdns.org
+edgev.duckdns.org
 kamikazee.duckdns.org
 rekcart.duckdns.org
 thinking.duckdns.org
