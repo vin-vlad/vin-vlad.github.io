@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-21T19:36:38.386Z
-# Entries: 17037
+# Last updated: 2026-07-22T08:33:53.925Z
+# Entries: 17042
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -278,6 +278,7 @@ nss.gevestor.de
 de.givalli-lifestyle.com
 funnel.gluckaro.de
 fr.grandcapital.net
+affiliates.greenbitcoin.xyz
 www.quantum.groupe.com
 login.groupsecuritiesdublin.com
 de.gvgmall.com
@@ -2504,6 +2505,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-trader.net
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoindecode.io
@@ -4034,6 +4036,7 @@ deinenergieplan.de
 deinetierliebe.de
 deinhandwerkershop.de
 deinheizoel.de
+deini.com
 deinliebesmensch.de
 deinlieblingstier.co
 deinmodetrends.com
@@ -6186,6 +6189,7 @@ gartenmaschinen24.de
 gartenmaschinenpro.de
 gartenmaschinenzubehor.com
 gartenmaxe.de
+gartenmeistede.com
 gartenmoebelangebote.de
 gartenmoebelwelt.com
 gartenmotor.de
@@ -6737,7 +6741,6 @@ greatpillsshops.com
 greattioa.com
 greecefarmakeio.com
 greenbird-shop.com
-greenbitcoin.xyz
 greencrosspharmacy.online
 greeneggstore.de
 greenhousesshop.com
@@ -14314,6 +14317,7 @@ spsfurntiure.com
 spuelenprofide.com
 spybulbcamera.de
 spydersale.de
+spydiscount24.com
 spyshop.at
 spyxe.com
 squarexchange.com
@@ -16119,6 +16123,7 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
