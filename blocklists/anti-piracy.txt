@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-22T08:33:54.747Z
-# Entries: 36059
+# Last updated: 2026-07-22T19:25:30.182Z
+# Entries: 36061
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -8656,6 +8656,7 @@ freewebs.com
 freeytmp3.org
 freezlib.me
 frembed.asia
+frembed.casa
 frembed.hair
 frembed.my
 frembed.work
@@ -34577,6 +34578,7 @@ voinn-lordfilm.ru
 voiny-klonovv-lordfilm.ru
 voir-anime.to
 voir-seriestreaming.org
+voiranime.pro
 voiranime.rip
 voirdrama.org
 voirfilm.vip

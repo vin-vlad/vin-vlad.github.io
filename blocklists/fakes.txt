@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-22T08:33:53.925Z
-# Entries: 17042
+# Last updated: 2026-07-22T19:25:30.001Z
+# Entries: 17046
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -5117,6 +5117,7 @@ eupills.com
 euprofits.com
 eurenzo.com
 eurl-container.com
+eurlexodus.com
 eurltddiffusion.com
 eurnics.com
 euro-atarax.com
@@ -8877,6 +8878,7 @@ kontano.de
 koodakde.shop
 koozmotor.com
 kopfsacheonline.de
+koppermuller-markt.de
 kora-store.de
 korata.com
 korfys.shop
@@ -11653,6 +11655,7 @@ originalcrypto.com
 originalityo.com
 origincrypto.com
 orileda.de
+orion-warenhandel.com
 orion-warenhandel.de
 orizo.de
 orlend.com
@@ -13355,6 +13358,7 @@ sarahmeyer.com
 sarahravengb.com
 saramaud.com
 sarasarade.shop
+sarl-castelmag.com
 sarlcresmar.com
 sarlprofildiffusion.com
 saroni-handel.de
