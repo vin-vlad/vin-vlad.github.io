@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-23T08:35:21.599Z
-# Entries: 17046
+# Last updated: 2026-07-23T19:23:19.846Z
+# Entries: 17045
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -278,7 +278,6 @@ nss.gevestor.de
 de.givalli-lifestyle.com
 funnel.gluckaro.de
 fr.grandcapital.net
-affiliates.greenbitcoin.xyz
 www.quantum.groupe.com
 login.groupsecuritiesdublin.com
 de.gvgmall.com
@@ -1801,6 +1800,7 @@ awirer.com
 awishday.com
 awo-baumarkt.de
 ax-trading.com
+axaimarketfx.com
 axatechviewou.com
 axelarigatojapan.net
 axelarigatooslo.com
@@ -5564,7 +5564,6 @@ figurenverkauf.com
 figurinestoys.com
 filamentmarkt.com
 filamniceent.com
-fillamoda.com
 fillethumn.com
 fillinger.shop
 filloutlet.com
@@ -6742,6 +6741,7 @@ greatpillsshops.com
 greattioa.com
 greecefarmakeio.com
 greenbird-shop.com
+greenbitcoin.xyz
 greencrosspharmacy.online
 greeneggstore.de
 greenhousesshop.com
@@ -13956,6 +13956,7 @@ slotoroaktionscode.de
 slotshoppercasino.de
 slovenijalekarna24.com
 slovenska-lekaren.com
+slovenskolekaren.com
 sloveos.com
 slowburner.de
 slowtidestore.com
@@ -14042,7 +14043,6 @@ sofortfinanz.com
 sofotron.de
 soft-handel.de
 softdays-shop.de
-softelektro.com
 softgarments.com
 softritualsco.shop
 software-onsale.com
@@ -16127,7 +16127,6 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
