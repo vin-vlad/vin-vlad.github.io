@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-22T19:25:30.182Z
-# Entries: 36061
+# Last updated: 2026-07-23T08:35:21.902Z
+# Entries: 36063
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -3297,6 +3297,7 @@ animerealms.org
 animerush.tv
 animes.so
 animesalt.ac
+animesalt.link
 animesama.co
 animesama.fan
 animesaturn.tv
@@ -5710,6 +5711,7 @@ crosstowntorrents.org
 crotorrents.com
 crownbit.cc
 cruzing.xyz
+cryptoiptv.pro
 cryptowarez.info
 crystal-warez.in
 crytal58ue.com
