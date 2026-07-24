@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-23T19:23:19.930Z
-# Entries: 36324
+# Last updated: 2026-07-24T08:31:46.796Z
+# Entries: 36325
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -8116,6 +8116,7 @@ filmyfly.deals
 filmyfly.faith
 filmyfly.how
 filmyfly.republican
+filmyfly.soy
 filmygallery22.lol
 filmyh.com
 filmykidaa.com
@@ -9927,7 +9928,6 @@ hdfilmcehennemi7.cfd
 hdfilmcehennemi8.cfd
 hdfilmcehennemi8.sbs
 hdfilmcehennemiapk.xyz
-hdfilmcenneti.org
 hdfilmdeposu.com
 hdfilmdiyari.com
 hdfilmdunyasi.online
@@ -26195,6 +26195,7 @@ mushoku-tensei-lordfilm.ru
 music-lordfilm.ru
 music-torrent.net
 music-vid.com
+musicaanime.xyz
 musicbits.net
 musichq.net
 musicneeds.com
