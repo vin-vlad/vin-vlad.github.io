@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-07-25T08:10:44.217Z
-# Entries: 17066
+# Last updated: 2026-07-25T19:12:32.488Z
+# Entries: 17064
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -2507,6 +2507,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-trader.net
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoindecode.io
@@ -4537,7 +4538,6 @@ dutut.com
 dutztechh.shop
 duzeces.com
 dvdsblurays.com
-dvepare.com
 dw-energieholz.de
 dwellcollect.com
 dwelldome.com
@@ -5838,7 +5838,6 @@ fortunaten.com
 fortunefx.io
 foryourwell.com
 fossilupra.com
-fosterrefrigerator.de
 fotbalovyfestival.cz
 foto-biering.de
 foto-mundus-sued.de
@@ -6084,7 +6083,6 @@ galerie-kaufhaus.de
 galeriemodehaus.com
 galerieoswald.de
 galeryfile.com
-galileofx.com
 galleria-kaufhof.de
 gambystudios.com
 game.toys
@@ -8443,7 +8441,6 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
-kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-online.eu
@@ -11417,7 +11414,6 @@ ohr-freund.de
 ohssl.org
 oikmvbuy.shop
 oil-direkt.de
-oil-profits.com
 oilexa.de
 oilparadies.de
 oilprofit.io
@@ -16147,6 +16143,7 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -16551,6 +16548,7 @@ wetsuitus.com
 wetting.de
 whatsexy.de
 wheelsprint.com
+whereverk.com
 whimsicalshome.com
 whirlpoolus.com
 whiskerhalo.com
