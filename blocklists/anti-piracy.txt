@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-27T09:57:16.408Z
-# Entries: 37447
+# Last updated: 2026-07-27T19:39:19.429Z
+# Entries: 37449
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -2161,6 +2161,7 @@ tracker.zum.bi
 1movies.is
 1movies.la
 1movies.life
+1movies.live
 1movies.nl
 1movies.onl
 1movies.pro
@@ -11464,6 +11465,7 @@ iptvhelpforum.com
 iptvmap.com
 iptvmarketi.com
 iptvonly.tv
+iptvplay4k.com
 iptvprova.com
 iptvs.pw
 iptvsource.com
