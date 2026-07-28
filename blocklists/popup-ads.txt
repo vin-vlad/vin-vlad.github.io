@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-07-28T08:39:31.837Z
-# Entries: 56607
+# Last updated: 2026-07-28T19:37:43.591Z
+# Entries: 56610
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
 98.01ba.com
@@ -83,7 +83,6 @@ zh9prl.5200e.com
 demo.52koala.com
 9fa67c2dc3.54a73dbcb6.com
 pfwdca329.55477.com
-ddb8277edc.5608c7633c.com
 beta.5744.cc
 06b36b4508.5813e74b18.com
 1fe6b5ca5a.5ea748c035.com
@@ -3044,6 +3043,7 @@ ta.tathcloseup.com
 cr.tatsmanaffects.com
 tj.tazzaspices.com
 go.tbllprem.com
+go.tbllreg.com
 go.tbllrej.com
 go.tbllzon.com
 pgk.te1p-a4ir.com
@@ -3244,7 +3244,6 @@ adserving.unibet.com
 gx.unidealupshut.com
 co.unionsdominos.help
 app.uniswaq.org
-offerwall.unity3d.com
 boardband.univer.se
 jj.unknowlagurus.shop
 gn.unlevelyonder.com
@@ -33539,6 +33538,7 @@ locked-link.com
 lockedplacidsunday.com
 lockerdome.com
 lockerdomecdn.com
+lockerimage.com
 lockersatelic.cam
 locketsauce.com
 locksmithachievehostility.com
@@ -37404,6 +37404,7 @@ nonerr.com
 nonethelessaugustcategory.com
 nonfatmolochs.com
 nongamespewers.com
+nonlifelunts.cyou
 nono.qpon
 nonreligiousbible.com
 nonseertoux.net
@@ -53505,6 +53506,7 @@ weeoffer.com
 weephostessscissors.com
 weepositive.com
 weepy-attack.com
+weepy-fail.pro
 weepypapreg.com
 weepyprogram.pro
 weeshicaise.com
@@ -56158,6 +56160,7 @@ zeroredirect1.com
 zerorson.com
 zerospread.ai
 zesrsywjvphmj.store
+zesty-lead.pro
 zestycrime.com
 zetadeo.com
 zetaframes.com

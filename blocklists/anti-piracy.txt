@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-07-28T08:39:31.873Z
-# Entries: 37798
+# Last updated: 2026-07-28T19:37:43.644Z
+# Entries: 37797
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -8842,7 +8842,6 @@ folautt-lordfilm.ru
 folautt-lordfilms.ru
 follaut-lordfilm3.ru
 fonoon.org
-footazo.com
 football-live.stream
 footballe.fun
 footballstream.to
