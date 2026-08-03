@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-08-02T19:15:20.111Z
-# Entries: 16812
+# Last updated: 2026-08-03T09:52:04.328Z
+# Entries: 16843
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -678,7 +678,6 @@ ger.zoibakii.com
 01broker.com
 01crypto.com
 0el-preiswert-kaufen.de
-1-rx-shop.com
 100percentboutique.com
 101vectorcenter.sbs
 10xdealership.com
@@ -770,6 +769,7 @@ aachentag.com
 aacloth.shop
 aacreek-ranch.de
 aaronallen.top
+aatrailers.de
 abbigliamentoscarpe.com
 abbott-tech.net
 abc-apotheke-hamburg.de
@@ -791,6 +791,7 @@ abilment.com
 abipartyxxl.de
 abl-finance.com
 abm-industrie.com
+abmdistrib.com
 abodeare.com
 abodeena.com
 abodespot.com
@@ -801,6 +802,7 @@ absolutelyn.com
 absoluteo.com
 absorbpath.com
 absorrption.com
+abugarciaangelwelt.com
 academiabeauty.online
 acalies.com
 acastleinthesun.com
@@ -815,6 +817,7 @@ accomplishk.com
 accsmarket.net
 acdc-strom.de
 acheterdubitcoin.com
+achicwomen.com
 achimreims.de
 acidoutlet.com
 acintqucil.com
@@ -846,6 +849,7 @@ actualys.com
 acyen.com
 ad-property.com
 ad-zeal.com
+ada-handelssystem.com
 adadream.com
 adafashion.ch
 adaton.de
@@ -870,6 +874,7 @@ admiral-markets.com
 admiralmarketsltd.com
 adolf.live
 adorefemininecare.com
+adoreshe.com
 adour-combustibles.com
 adovin.de
 adreim.de
@@ -900,6 +905,7 @@ aeke-smart.com
 aeowe.com
 aerialpics.de
 aeromed-hamburg.de
+aetherarkex.com
 aetiducri.com
 aetos-deutschland.de
 aeydeschuhe.de
@@ -908,6 +914,7 @@ afewstore.shop
 affen-kaufen.com
 affen-park.de
 affenzahn-schuhe.com
+affenzahne-de.shop
 affordablerxmeds.com
 affordableuniquepro.shop
 africapay-financement.fr
@@ -949,6 +956,7 @@ aido-gooders.com
 aidulovesm.click
 aifundbtc.com
 aigleoutletuk.com
+aikellyservices.com
 ailsion.com
 aim-assist.de
 ainorton.com
@@ -1171,6 +1179,7 @@ alternatei.com
 alternative-energie.com
 alternative-markets.com
 alternativeplacement.com
+althaus-kredit.com
 altinshop.de
 altior-capital.io
 altituden.com
@@ -1181,6 +1190,7 @@ alturarituals.shop
 aluhsda.com
 alunaclo.de
 aluvea.de
+alvexo.io
 alvexo-data.com
 alwansolarhq.shop
 alyatransports.com
@@ -1220,8 +1230,10 @@ amoslimited.co
 amp-finance.com
 ampegalux.net
 amperland-brennholz.de
+ampersandonlines.com
 amplearctic.com
 amprisiaenergies.com
+amremorques.com
 amsterdam-nl.com
 amsterdamout.store
 amt-wankendorf.de
@@ -1245,9 +1257,11 @@ amuseliebe.at
 amuseliebe.com
 amuseliebe.shop
 amuseliebedirndl.com
+amznreturnsale.com
 amzonpaletten.com
 amzshipdirect.com
 anabolic-steroids-online.com
+anabolikalegale.com
 anabolikaonlinebestellen.com
 anabolikaonlinedeutschland.com
 analyticg.com
@@ -2200,6 +2214,7 @@ best-sauna.org
 best-shop-it.com
 best-ticket.com
 best-toolsparts.com
+best4you.org
 bestandigwert.com
 bestarcheryproshop.com
 bestartikel-online.com
@@ -2842,6 +2857,7 @@ bullbit.net
 bullbittrade.com
 bullplay.de
 bullsfahrradangebote.com
+bundes-finanzservice.de
 bundestagssauna.de
 bunnykachu.com
 bunterstil.com
@@ -2966,6 +2982,7 @@ camptool-shop.com
 camptotalneu.com
 camuya.shop
 canada-pharmacy-24h.com
+canadadrugstore.com
 canadanewsreport.com
 canadapharmacypro.com
 canadapharmacytrust.net
@@ -4180,6 +4197,7 @@ dianagarciaonline.com
 diandrabeauty.xyz
 dianjingniu-online.com
 diantrag.com
+diaryofafitmommy.com
 dicamgruppe.de
 dicha-anhaenger.com
 didro.de
@@ -4810,6 +4828,7 @@ ellanorahamburg.com
 elle-zurich.com
 ellenperuecken.de
 ellerne.com
+ellesses.de
 ellevory.com
 ellian.de
 ellicas.de
@@ -4921,6 +4940,7 @@ epcc.co
 epi-cooler.at
 epic-dianjing-online.com
 epicdicehub.com
+epicooler.com
 epicoolerklima.shop
 epoxyworkshop.de
 epromarket.com
@@ -5032,6 +5052,7 @@ eu-arcteryx.com
 eu-first.com
 eu-meds.online
 eu-pharmacy-online.com
+eu-pillstore.com
 eu-sezane.com
 eu-trader.io
 eubiofficial.com
@@ -5575,6 +5596,7 @@ firmeneintrag.net
 first-bikes.de
 first-investcapital.com
 firstgoldgmbh.com
+firstgoldshop.com
 firstprivate-finad.com
 fischenladen.com
 fischenmarken.com
@@ -6204,6 +6226,7 @@ geminiomnigenerator.com
 gemoneo.com
 generic4all-global.com
 generic4allglobal.com
+genericdoctor.com
 genericeupills.com
 genericsbot.com
 genericshop-247.eu
@@ -6303,6 +6326,7 @@ gesundheitskontrolle.com
 gesundmedizinische.com
 gesundpur.at
 get-adel.de
+get-airzuma.com
 get-akusoli.com
 get-coolizicoolzy.store
 get-curaball.com
@@ -6831,6 +6855,7 @@ habitualn.com
 habitualy.com
 habituatl.com
 haden.at
+hagebaumarkt-muenchen.shop
 hagebauu.com
 hagedornmode.de
 hagement.com
@@ -8465,6 +8490,7 @@ karmikrituals.shop
 karnevalkostum.com
 karpfenrutenneu.com
 karrierevonzuhause.de
+kartenschatz.shop
 karylite.com
 karynhenwood.com
 kasami.shop
@@ -9145,6 +9171,7 @@ lemsdeutschland.com
 lemsschuhedeutschland.de
 lena-moda.com
 lenahockson.com
+lenaskunst.de
 lendowl.co
 lennartkreutz.de
 lennys-autoteile.at
@@ -9635,7 +9662,6 @@ magiemarkt.com
 magischepfoten.de
 magischesparfum.de
 magisk.zip
-magiskapk.net
 magiskzip.com
 magliecalciocn.net
 magmovebikes.com
@@ -10733,6 +10759,7 @@ nalaiandco.com
 nalviros.com
 nam-gestion.com
 nanila.de
+nanovault.de
 nanuundnana.com
 nanyangdaily.com
 napoleonrabatt.com
@@ -11272,6 +11299,7 @@ ohpollydeutschland.de
 ohr-freund.de
 ohssl.org
 oikmvbuy.shop
+oil-profits.com
 oilexa.de
 oilprofit.io
 oils-natural.cc
@@ -13032,6 +13060,7 @@ rundfunkbeitragportal.de
 rundfunkbeitragsserviceonline.de
 rundfunkportal.de
 rundummobil.de
+rundumstrikot.de
 runecasa.com
 runrigstack.click
 runtrainpro.com
@@ -14005,7 +14034,6 @@ souhutiyu-online.com
 soundhive.de
 sourceforsport.com
 sovectoron-1-naatlasix-losolara.com
-sowaswillichauch.de
 soxfinancial.com
 sozialversicherungsausweisportal.de
 space-tennis.com
@@ -14087,6 +14115,7 @@ spl-energie.de
 splendiday.com
 splendorsolar.shop
 splendris-pharmaceuticals.de
+splima.de
 sporashop.com
 sport-athletics.de
 sport-base.eu
@@ -14717,6 +14746,7 @@ termink.com
 terminologe.com
 termoidraulica.de
 terragaming.com
+terraqo.de
 terrariumhaustiere.com
 terrassenmatte.de
 terraviva-gartenbau.de
@@ -15477,6 +15507,7 @@ unibois-stammholz.com
 unice688.com
 unico-studio.com
 unikattoshop.de
+unimeal.com
 union-anhanger.com
 unionglobalcredit.com
 unionmeds.com
@@ -15820,6 +15851,7 @@ vienna-modehaus.at
 vienna-stil.at
 viennaapartments.org
 viennaaustrohotel.com
+viennameerschaum.com
 viennamode.at
 viennamode.com
 viennastil.at
@@ -16449,7 +16481,6 @@ woodeu.de
 woodoclock.de
 woofgear.de
 wooflyx.com
-woofz.academy
 woolyroots.com
 wordmarkets.com
 workerflix.com
