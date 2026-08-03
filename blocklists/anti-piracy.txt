@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-08-03T09:52:04.815Z
-# Entries: 38913
+# Last updated: 2026-08-03T19:41:38.051Z
+# Entries: 38914
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -36936,6 +36936,7 @@ vegamoviesog.site
 vegamoviesr.cfd
 vegamoviess.auction
 vegamoviess.best
+vegamoviess.fun
 vegamoviess.lat
 vegamoviess.rodeo
 vegamoviestv.cfd
