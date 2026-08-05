@@ -1,5 +1,5 @@
 # fakes
-# Last updated: 2026-08-04T19:41:11.100Z
+# Last updated: 2026-08-05T08:40:57.710Z
 # Entries: 16870
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
@@ -207,6 +207,7 @@ tax.crypto.com
 spotiifyprimesnova.ct.ws
 at.curalise.com
 de.curalise.com
+market.darrowmere.com
 223.de.com
 euronics-ps5.de.de
 kumarkt.de.com
@@ -489,6 +490,7 @@ gigasport8.myshoplaza.com
 gohuntsport.myshoplaza.com
 goldengoose-austria.myshoplaza.com
 intersport-at.myshoplaza.com
+intersport88.myshoplaza.com
 kaufdesch.myshoplaza.com
 kaufuniversum.myshoplaza.com
 lasportivashop.myshoplaza.com
@@ -1453,6 +1455,7 @@ aquariumlebens.com
 aquariumopt.com
 aquariumzubehor24.com
 aquascapers-galerie.com
+aquaschuheshop.com
 aquavibespro.com
 arabankloan.online
 arabues.de
@@ -1958,7 +1961,6 @@ bassbetcasino-online.de
 basspool.de
 baswad.com
 batchof.com
-bateg24.de
 bates-boots.com
 bathroomdisplay.com
 bathroomstylish.com
@@ -1977,6 +1979,7 @@ baukomps.com
 baumann-boutique.ch
 baumantransporte.com
 baumarktverkauf.de
+baumaterialstore.com
 baumeistermodels.com
 baumeistertools.com
 baumgarten.ch
@@ -2027,6 +2030,7 @@ bdscoffee.com
 be-aetlcnshop.com
 beaccustomed.com
 beachitem.com
+beachwalkbali.com
 beambead.com
 beamdeals.de
 beatricesavoy.de
@@ -2283,6 +2287,7 @@ bestspecifics.com
 beststil.de
 besttoolsonline-de.com
 besttoyspielzeug.com
+bestwassertechnik.com
 bestwear.club
 bestwerkzeugeshop.com
 betashop-gmbh.com
@@ -2498,7 +2503,6 @@ bitgetzx.com
 biticodes.com
 bitiq.app
 bitlast.com
-bitnixer.io
 bitonite.com
 bitoraxe.com
 bitportfolio.de
@@ -2525,7 +2529,6 @@ blacktridentpop.shop
 bladebasics.com
 blattberlin.com
 blattbucht.de
-blattverkauf.com
 blaudonau.com
 blaudonau.de
 blaudonu.de
@@ -2715,7 +2718,6 @@ branvoirleben.com
 brasstrack.shop
 braucheschnell.com
 braunboutique.com
-brauneagrar.com
 braunsale.de
 bravedrawer.com
 braviamarket.com
@@ -2768,7 +2770,6 @@ breville.vip
 brevilledeutschland.de
 brevillesale.com
 brewheaven.shop
-brezella.com
 brickstec.com
 brighnow.com
 brightfinance.co
@@ -2788,8 +2789,8 @@ briospielzeug.com
 briospielzeugrabatt.com
 britishnewstoday.com
 brivalfin-invest.com
-brnghl.shop
 broadjoint.com
+brocheeks.store
 brodyjeane.com
 broilkingde.com
 brokerandco.com
@@ -2799,7 +2800,6 @@ brontivex.com
 brooks-partners.com
 brookslaufschuhesale.de
 brooksoutletsale.de
-brooksrunningconnect.com
 brookss.at
 brooksschuhe.de
 brooksschuheberlin.de
@@ -2814,7 +2814,6 @@ brunateschuhewerksverkauf.de
 brunboisdechauffage.at
 brunnercampen.com
 brunnerluzern.com
-brunoberg.com
 brushshope.com
 brutaka.com
 bryngrill.se
@@ -2840,7 +2839,6 @@ buchverlag-scholz.de
 buckbasil.com
 buckbirch.com
 buckleybelts.de
-buckleyswiss.com
 buddhapowerstore.com
 buddingscholarsonline.com
 budgetburstdeals.com
@@ -2856,7 +2854,6 @@ building-toysshop.com
 builikee.com
 buislearny.com
 buitifo-fashion.com
-bull-verse.org
 bullbit.net
 bullbittrade.com
 bullplay.de
@@ -2966,7 +2963,6 @@ campenwelt.com
 camper--schuhe.com
 camperschuh.com
 camperschuhe.at
-campfuns.com
 camping-bewegung.com
 campingandsurf.com
 campingangebote-de.com
@@ -2979,11 +2975,9 @@ campingneu.com
 campingplatze-de.com
 campingspezialisten.com
 campingstuhleshop.com
-campingsupplybest.com
 campingsverkauf.com
 campingzubehorhub.com
 camptool-shop.com
-camptotalneu.com
 camuya.shop
 canada-pharmacy-24h.com
 canadadrugstore.com
@@ -2993,14 +2987,12 @@ canadapharmacytrust.net
 canadasale365.com
 canadatrustmed.com
 canadawidepharmacy.com
-canadian-rxpharmacy.com
 canadianhealthcaremalll.com
 canadianhealthcarepharmacymall.com
 canadianhealthncaremall.com
 canadianipharmacy.com
 canadiannewstoday.com
 canadianpharmacysir.com
-canaryrentalvillas.com
 canaryvacationhome.com
 canbrace.com
 candia-handel.de
@@ -3039,7 +3031,6 @@ captainboot.de
 captaincookscasino-online.de
 carboar.ar
 carbondeluxe.de
-carculturein.com
 cardvae.com
 careeroblige.com
 carehealthlife.com
@@ -3066,7 +3057,6 @@ carpartlabflow.com
 carportsonshop.com
 carqiwireless.com
 carriageglobal.com
-carrieri-handel.de
 carshades.at
 carstruckstoy.com
 carteloshop.com
@@ -4106,6 +4096,7 @@ descendank.com
 deschuhebillig.com
 descontom.com
 descriptioy.com
+desginevo.com
 desharkhelme.com
 designalessi.com
 designatep.com
@@ -6234,7 +6225,6 @@ geminiomnigenerator.com
 gemoneo.com
 generic4all-global.com
 generic4allglobal.com
-genericdoctor.com
 genericeupills.com
 genericsbot.com
 genericshop-247.eu
@@ -6744,6 +6734,7 @@ groundiesdeutsch.de
 groundiesoutlet.de
 groundiesschoenennederland.com
 groundiesshop.at
+groundiesukshoes.com
 group-investment.com
 group-rwe.de
 groupebinary.com
@@ -7767,6 +7758,7 @@ ielaf.shop
 iemakluck.com
 ifanze.net
 igamingoffers.com
+igelwelt.com
 iglangeh.com
 igm-financial.com
 igmholdings.com
@@ -8046,6 +8038,7 @@ irobot-trade.com
 iroids.nl
 iron-bot.com
 iron-daddy.to
+ironvexgroup.com
 irootapk.net
 irrasch.at
 irrigationprostore.com
@@ -8348,6 +8341,7 @@ kaldrek.de
 kalesafe.com
 kaliyra.shop
 kalkhofffahrrader.de
+kallisteremeurl.com
 kaloszehunter.com
 kaltesholz.de
 kama-kral.cz
@@ -8375,7 +8369,6 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
-kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-online.eu
@@ -8740,6 +8733,7 @@ kley-kanzlei.com
 klimabonus-2026.net
 klimabonus2026.at
 klimageld-2026.cc
+klimagerat.com
 klimawelts.com
 klimmotorrad.com
 klingerdirndl.com
@@ -8811,6 +8805,7 @@ kontano.de
 koodakde.shop
 koozmotor.com
 kopfsacheonline.de
+kopfwaermer.com
 koppermuller-markt.de
 kora-store.de
 korata.com
@@ -9138,6 +9133,7 @@ lekaren-slovenska24.com
 lekaren-slovenska247.com
 lekarenjedna.com
 lekarenonline.com
+lekarenprevas.sk
 lekarenslovenska.com
 lekarenslovenska.sk
 lekarenslovenska24.com
@@ -9949,6 +9945,7 @@ media-voigt.de
 media-weber.com
 mediafritz.com
 mediamarkt-at.com
+mediamarkt-berlin.com
 mediaplus.shop
 mediatech-shop.com
 mediaxim.com
@@ -10134,6 +10131,7 @@ meridianunitedholdingsnet.digital
 merlin-apotheke.com
 mernesberlin.com
 merova-shop.com
+merrachi-de.com
 merrell-deutschland.de
 merrellbarbati.com
 merrelloutletonline.de
@@ -10547,6 +10545,7 @@ moonkie.de
 moonpod.de
 moontod.com
 moonx.io
+mooris.de
 moosufergarten.de
 mooxishop.de
 morenutritiion.shop
@@ -11318,7 +11317,6 @@ ohpollydeutschland.de
 ohr-freund.de
 ohssl.org
 oikmvbuy.shop
-oil-profits.com
 oilexa.de
 oilprofit.io
 oils-natural.cc
@@ -12571,6 +12569,7 @@ raceoption.com
 racetexfast.shop
 rachelentwistle-store.com
 racinghelmetde.com
+radbasis.com
 radbekleidung4u.com
 raderstore.de
 radfahrzeit.com
@@ -13399,6 +13398,7 @@ schweizch.com
 schweizer-modewelt.com
 schwesterherz-maedchenflohmarkt.de
 schwfoto.com
+schwimmschuh.com
 scidetrezenvy.com
 scimonge.com
 scootbike.de
@@ -14690,11 +14690,11 @@ tbclacrosse.com
 tbnlmv.shop
 tbtconcept.com
 tbz-versand.de
+tcinosgroup.com
 tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
-te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
