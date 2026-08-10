@@ -1,5 +1,5 @@
 # anti-piracy
-# Last updated: 2026-08-09T18:45:43.573Z
+# Last updated: 2026-08-10T07:47:02.489Z
 # Entries: 39740
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
