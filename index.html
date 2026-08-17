@@ -12,9 +12,11 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://nomoads.com/">
   <meta property="og:site_name" content="Nomoads">
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Nomoads – On-Device Ad Blocker for iOS and Android">
   <meta name="twitter:description" content="Nomoads filters ads and trackers in every app on your phone. All DNS filtering runs locally on your device.">
+  <meta property="og:image" content="https://nomoads.com/1.jpg">
+  <meta name="twitter:image" content="https://nomoads.com/1.jpg">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -72,8 +74,9 @@
           "System-wide DNS ad blocking across all apps",
           "On-device filtering with no cloud proxy",
           "Multiple protection levels and custom blocklists",
-          "Per-app exclusions and domain allowlists",
-          "Block statistics stored on device"
+          "Advanced category blocklists for scams, popups, piracy, gambling, social, and NSFW",
+          "Query stats, 24-hour activity charts, top blocked domains, and an on-device query log",
+          "Per-app exclusions and domain allowlists"
         ],
         "publisher": { "@id": "https://nomoads.com/#organization" }
       },
@@ -119,6 +122,22 @@
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does the Stats screen show?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Stats shows total DNS queries, how many were blocked, the percent blocked, a 24-hour activity chart, and the top blocked domains. A query log stays on your phone and is not uploaded."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are advanced blocklists?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Advanced blocklists are optional category lists you can turn on or off, including fakes and scams, popup ads, anti-piracy, gambling, social networks, and NSFW content."
             }
           },
           {
@@ -430,13 +449,111 @@
       margin: 0;
     }
 
+    .hero-inner {
+      display: grid;
+      grid-template-columns: 1fr minmax(240px, 280px);
+      gap: 64px;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .hero .hero-content {
+      text-align: left;
+      max-width: none;
+    }
+
+    .hero .hero-lead,
+    .hero .hero-content > p:not(.hero-lead) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .hero .hero-buttons {
+      justify-content: flex-start;
+    }
+
+    .hero .hero-stats {
+      justify-content: flex-start;
+      gap: 36px;
+      flex-wrap: wrap;
+    }
+
+    .hero-visual {
+      display: flex;
+      justify-content: center;
+      position: relative;
+    }
+
+    .phone-frame {
+      position: relative;
+      width: 100%;
+      max-width: 280px;
+      border-radius: 40px;
+      padding: 10px;
+      background: linear-gradient(180deg, #1c1c22, #0d0d12);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow:
+        0 0 0 1px rgba(0, 255, 102, 0.08),
+        0 24px 80px rgba(0, 0, 0, 0.55),
+        0 0 60px rgba(0, 255, 102, 0.12);
+    }
+
+    .phone-frame img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 590 / 1280;
+      object-fit: cover;
+      object-position: top;
+      border-radius: 30px;
+      background: #000;
+    }
+
+    /* Screenshots / product showcase */
+    .showcase {
+      padding: 80px 0 120px;
+    }
+
+    .showcase-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 32px;
+      align-items: start;
+    }
+
+    .screenshot-card {
+      text-align: center;
+    }
+
+    .screenshot-card .phone-frame {
+      margin: 0 auto 28px;
+      max-width: 260px;
+    }
+
+    .screenshot-card h3 {
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: -0.3px;
+      margin-bottom: 10px;
+    }
+
+    .screenshot-card p {
+      color: var(--text-secondary);
+      font-size: 15px;
+      line-height: 1.65;
+      max-width: 320px;
+      margin: 0 auto;
+    }
+
     /* Features Section */
     .features,
     .how-it-works,
     .comparison,
     .faq,
     .privacy,
-    .cta {
+    .cta,
+    .showcase {
       scroll-margin-top: 88px;
     }
 
@@ -847,6 +964,46 @@
 
     /* Mobile Styles */
     @media (max-width: 900px) {
+      .hero-inner {
+        grid-template-columns: 1fr;
+        gap: 48px;
+      }
+
+      .hero .hero-content {
+        text-align: center;
+      }
+
+      .hero .hero-lead,
+      .hero .hero-content > p:not(.hero-lead) {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .hero .hero-buttons,
+      .hero .hero-stats {
+        justify-content: center;
+      }
+
+      .hero .phone-frame {
+        max-width: 240px;
+      }
+
+      .showcase-grid {
+        display: flex;
+        max-width: none;
+        margin: 0;
+        gap: 20px;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        padding: 8px 4px 24px;
+      }
+
+      .screenshot-card {
+        flex: 0 0 260px;
+        scroll-snap-align: center;
+      }
+
       .privacy-grid {
         grid-template-columns: 1fr;
         gap: 48px;
@@ -1085,6 +1242,7 @@
       </a>
       <nav aria-label="Main navigation">
         <a href="#features">Features</a>
+        <a href="#screenshots">Screenshots</a>
         <a href="#how-it-works">How It Works</a>
         <a href="#comparison">Compare</a>
         <a href="#faq">FAQ</a>
@@ -1108,38 +1266,79 @@
   <section class="hero" aria-labelledby="hero-heading">
     <div class="hero-bg" aria-hidden="true"></div>
     <div class="container">
-      <div class="hero-content">
-        <div class="hero-badge">
-          <span class="hero-badge-dot" aria-hidden="true"></span>
-          Available on iOS &amp; Android
+      <div class="hero-inner">
+        <div class="hero-content">
+          <div class="hero-badge">
+            <span class="hero-badge-dot" aria-hidden="true"></span>
+            Available on iOS &amp; Android
+          </div>
+          <h1 id="hero-heading">Nomoads: on-device ad blocker for iPhone and Android</h1>
+          <p class="hero-lead">Nomoads stops ads and trackers in every app on your phone—without sending your browsing data to the cloud.</p>
+          <p>It uses a local VPN to filter DNS requests on your device. Blocklists run entirely on your phone, so ad domains are blocked in Safari, Chrome, games, and social apps alike. Open Stats to see what was blocked, or toggle advanced lists for scams, popups, and more. No account is required to start.</p>
+          <div class="hero-buttons">
+            <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+              <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+              App Store
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+              <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
+              Google Play
+            </a>
+          </div>
+          <dl class="hero-stats">
+            <div class="hero-stat">
+              <dt class="hero-stat-value">600K+</dt>
+              <dd class="hero-stat-label">Domains in blocklists</dd>
+            </div>
+            <div class="hero-stat">
+              <dt class="hero-stat-value">100%</dt>
+              <dd class="hero-stat-label">On-device DNS filtering</dd>
+            </div>
+            <div class="hero-stat">
+              <dt class="hero-stat-value">Zero</dt>
+              <dd class="hero-stat-label">Browsing data sent to servers</dd>
+            </div>
+          </dl>
         </div>
-        <h1 id="hero-heading">Nomoads: on-device ad blocker for iPhone and Android</h1>
-        <p class="hero-lead">Nomoads stops ads and trackers in every app on your phone—without sending your browsing data to the cloud.</p>
-        <p>It uses a local VPN to filter DNS requests on your device. Blocklists run entirely on your phone, so ad domains are blocked in Safari, Chrome, games, and social apps alike. No account is required to start.</p>
-        <div class="hero-buttons">
-          <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
-            App Store
-          </a>
-          <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-            <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 9.99l-2.302 2.302-8.634-8.634z"/></svg>
-            Google Play
-          </a>
+        <div class="hero-visual">
+          <div class="phone-frame">
+            <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage showing Protection ON, Ultimate protection level, and an invite-a-friend button." fetchpriority="high">
+          </div>
         </div>
-        <dl class="hero-stats">
-          <div class="hero-stat">
-            <dt class="hero-stat-value">100K+</dt>
-            <dd class="hero-stat-label">Domains in blocklists</dd>
+      </div>
+    </div>
+  </section>
+
+  <!-- Screenshots -->
+  <section class="showcase" id="screenshots" aria-labelledby="screenshots-heading">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">The app</span>
+        <h2 class="section-title" id="screenshots-heading">See protection, stats, and blocklists</h2>
+        <p class="section-desc">Nomoads now includes a stats dashboard and advanced category blocklists. Toggle what to filter, then check which domains were blocked—all on your phone.</p>
+      </div>
+      <div class="showcase-grid">
+        <article class="screenshot-card">
+          <div class="phone-frame">
+            <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage with a glowing shield, Protection ON status, Ultimate level, and an Invite a friend button." loading="lazy">
           </div>
-          <div class="hero-stat">
-            <dt class="hero-stat-value">100%</dt>
-            <dd class="hero-stat-label">On-device DNS filtering</dd>
+          <h3>Homepage</h3>
+          <p>Turn protection on with one tap. The home screen shows your status, protection level, and a shortcut to Stats.</p>
+        </article>
+        <article class="screenshot-card">
+          <div class="phone-frame">
+            <img src="2.jpg" width="590" height="1280" alt="Nomoads Stats screen showing total queries, queries blocked, percent blocked, a 24-hour chart, and top blocked domains." loading="lazy">
           </div>
-          <div class="hero-stat">
-            <dt class="hero-stat-value">Zero</dt>
-            <dd class="hero-stat-label">Browsing data sent to servers</dd>
+          <h3>Stats</h3>
+          <p>See total queries, how many were blocked, a 24-hour activity chart, and the top blocked domains. A query log stays on-device.</p>
+        </article>
+        <article class="screenshot-card">
+          <div class="phone-frame">
+            <img src="3.png" width="1080" height="2400" alt="Nomoads Advanced blocklists screen with toggles for Fakes and Scams, Popup ads, Anti-piracy, Gambling, Social networks, and NSFW." loading="lazy">
           </div>
-        </dl>
+          <h3>Advanced blocklists</h3>
+          <p>Toggle extra lists for scams, popup ads, piracy, gambling, social networks, and NSFW. Each list shows how many domains it covers.</p>
+        </article>
       </div>
     </div>
   </section>
@@ -1172,7 +1371,21 @@
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg>
           </div>
           <h3 class="feature-title">Adjustable protection levels</h3>
-          <p class="feature-desc">Pick from Basic through Ultimate blocklist presets, or add custom blocklist URLs. Parents can switch to a stricter level to block gambling or adult-content domains; casual users can stay on Basic for standard ad blocking.</p>
+          <p class="feature-desc">Pick from Basic through Ultimate blocklist presets, or add custom blocklist URLs. Parents can switch to a stricter level for everyday filtering; casual users can stay on Basic for standard ad blocking.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
+          </div>
+          <h3 class="feature-title">Query stats and activity log</h3>
+          <p class="feature-desc">See how many DNS queries were blocked in the last 24 hours, a percent-blocked rate, an hourly chart, and the top blocked domains. Open the query log to search allowed and blocked lookups—counts stay on your phone and are not uploaded.</p>
+        </article>
+        <article class="feature-card">
+          <div class="feature-icon" aria-hidden="true">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg>
+          </div>
+          <h3 class="feature-title">Advanced category blocklists</h3>
+          <p class="feature-desc">Turn on extra lists for fakes and scams, popup ads, piracy sites, gambling, social networks, and NSFW content. Each list can be refreshed independently so you can block phishing shops without also blocking social apps.</p>
         </article>
         <article class="feature-card">
           <div class="feature-icon" aria-hidden="true">
@@ -1221,7 +1434,7 @@
         <li class="step">
           <div class="step-number" aria-hidden="true">3</div>
           <h3 class="step-title">Use your phone normally</h3>
-          <p class="step-desc">Open any app or browser. Nomoads blocks ad and tracker domains automatically and shows a running count of blocked requests on the protection screen.</p>
+          <p class="step-desc">Open any app or browser. Nomoads blocks ad and tracker domains automatically. Open Stats to see blocked queries, a 24-hour chart, and top blocked domains.</p>
         </li>
       </ol>
     </div>
@@ -1253,7 +1466,7 @@
             </li>
             <li>
               <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-              Per-app exclusions and domain allowlists included
+              On-device stats, query log, per-app exclusions, and domain allowlists
             </li>
           </ul>
         </article>
@@ -1322,7 +1535,17 @@
         <article class="faq-item" itemscope itemtype="https://schema.org/Question">
           <h3 itemprop="name">What types of content does Nomoads block?</h3>
           <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Nomoads blocks ad networks, trackers, and malware domains listed in its blocklists.</span></p>
-          <p class="faq-explanation">The Basic plan includes a standard ad-blocking list. Premium adds protection levels for gambling, social media trackers, NSFW content, and the ability to import custom blocklist URLs. You can also allowlist specific domains you want to keep accessible.</p>
+          <p class="faq-explanation">The Basic plan includes a standard ad-blocking list. Premium adds protection levels plus advanced category blocklists you can toggle separately—fakes and scams, popup ads, piracy, gambling, social networks, and NSFW—and the ability to import custom blocklist URLs. You can also allowlist specific domains you want to keep accessible.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">What does the Stats screen show?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Stats shows total DNS queries, how many were blocked, the percent blocked, a 24-hour activity chart, and the top blocked domains.</span></p>
+          <p class="faq-explanation">You can also open a query log to search allowed and blocked lookups. Counts and logs stay on your phone—they are not uploaded to Nomoads or a third-party analytics service.</p>
+        </article>
+        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
+          <h3 itemprop="name">What are advanced blocklists?</h3>
+          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Advanced blocklists are optional category lists you can turn on or off, including fakes and scams, popup ads, anti-piracy, gambling, social networks, and NSFW content.</span></p>
+          <p class="faq-explanation">Each list shows how many domains it contains and can be refreshed on its own. Use them when you want stricter filtering than the Basic ad list without changing your overall protection level.</p>
         </article>
         <article class="faq-item" itemscope itemtype="https://schema.org/Question">
           <h3 itemprop="name">Can Nomoads block ads inside apps, not just browsers?</h3>
@@ -1370,8 +1593,8 @@
                 <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
               </div>
               <div class="privacy-list-text">
-                <strong>No browsing history stored</strong>
-                <span>DNS queries are checked and discarded—they are not logged or uploaded</span>
+                <strong>Stats stay on your phone</strong>
+                <span>Query counts and the activity log are stored on-device and are never uploaded</span>
               </div>
             </li>
             <li>
@@ -1445,6 +1668,7 @@
         <div class="footer-links">
           <h4>Product</h4>
           <a href="#features">Features</a>
+          <a href="#screenshots">Screenshots</a>
           <a href="#comparison">Compare</a>
           <a href="#faq">FAQ</a>
           <a href="#download">Download</a>
