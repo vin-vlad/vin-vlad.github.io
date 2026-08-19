@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-08-19T06:49:31.963Z
-# Entries: 16964
+# Last updated: 2026-08-19T18:39:25.548Z
+# Entries: 16974
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -301,6 +301,7 @@ rzycucbupk.gyhjjifm.beauty
 regina-hotel-vienna.h-rez.com
 market.halewick.com
 de.hisleeptime.com
+yumgs.holdenouterwear.shop
 try.homepromag.com
 aliceblue-alligator-117543.hostingersite.com
 at.hwduy.shop
@@ -596,6 +597,7 @@ platform.softwarecrownex.com
 de.soolinen.com
 euro.stanleys1913.com
 eu.stanlyss1913.com
+www.investissement.strategie-business.com
 abigo4u.symfony.nl
 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 metas.talentnexuspro-at.com
@@ -1022,6 +1024,7 @@ aktivbeutel.com
 aktivbike24.com
 aktivimfreien.com
 aktivmaxx.com
+akusoli.com
 akustikholz.shop
 al-nassr.shop
 al-nassr.store
@@ -2059,7 +2062,6 @@ bdscoffee.com
 be-aetlcnshop.com
 beaccustomed.com
 beachitem.com
-beachwalkbali.com
 beambead.com
 beamdeals.de
 beatricesavoy.de
@@ -2185,6 +2187,7 @@ bergmann-mode.de
 bergmanngoldschmied.com
 bergmannmode.de
 bergmode.ch
+bergschatz.de
 bergstrommotorsport.com
 bergwalt-mode.com
 bergwanderershop.com
@@ -5106,7 +5109,6 @@ ettern24.de
 eu-arcteryx.com
 eu-first.com
 eu-pharmacy-online.com
-eu-pillstore.com
 eu-sezane.com
 eu-trader.io
 eubiofficial.com
@@ -6801,7 +6803,6 @@ groundiesdeutsch.de
 groundiesoutlet.de
 groundiesschoenennederland.com
 groundiesshop.at
-groundiesukshoes.com
 group-investment.com
 group-rwe.de
 groupebinary.com
@@ -9110,6 +9111,7 @@ layer-shop.com
 lbccnet.com
 lbsbikes.com
 lbslepe.de
+lbtinc.com
 lbzdzx.com
 lccontainersupply.com
 lcfservice.com
@@ -14256,7 +14258,6 @@ spsfurntiure.com
 spuelenprofide.com
 spybulbcamera.de
 spydersale.de
-spydiscount24.com
 spyshop.at
 spyxe.com
 squarexchange.com
@@ -14761,6 +14762,7 @@ tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
+te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
@@ -15449,6 +15451,7 @@ trumerholzliving.shop
 trupharmacbd.com
 trust-immo.com
 trusted-help.com
+trusted-online-generic.com
 trustedallovertheworld.com
 trustedconsumerreview.online
 trustedmedstore24.com
@@ -16662,7 +16665,9 @@ wwwhamsterkiste.de
 wynnvest.com
 wyrmkinsolar.shop
 x-clarity.com
+x-wallart.com
 x-watches.co
+xaslnsh.com
 xavierag.com
 xbkbest.shop
 xcoinbroker.com
@@ -16767,6 +16772,7 @@ yonexdeutschland.com
 yonexdeutschland.de
 yonexs.at
 yoocaa.com
+yooofa.com
 yooso.de
 yootet.com
 yorkbootsshop.de
@@ -16791,6 +16797,7 @@ yuanpaygroup.org
 yuaonew.com
 yuguz.com
 yukomi.com
+yumekatsu.com
 yumgo.net
 yummycrystal.com
 yvarrd.shop
@@ -16861,6 +16868,7 @@ zen-walk.de
 zendoo.de
 zenglowz.com
 zengyt.com
+zenistitch.com
 zeniya.pro
 zenla.de
 zenniagoods.com
@@ -16927,6 +16935,7 @@ zomzey.com
 zonamanis89gamingworld.site
 zoneautopro.com
 zonixwater.com
+zonnishop.com
 zookatzeshop.com
 zoomil.de
 zooroyalde.com
@@ -16937,6 +16946,7 @@ zova.at
 zrhspwerkstatt.de
 zubehorfahrrad.com
 zubehorfahrrad.de
+zubehorobjektive.de
 zuchterheim.com
 zuedy.de
 zuhauseklima.shop
