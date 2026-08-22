@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-08-21T18:40:30.064Z
-# Entries: 898
+# Last updated: 2026-08-22T06:44:39.132Z
+# Entries: 900
 2ch.org
 4cdn.org
 4chan.org
@@ -685,6 +685,7 @@ p16-tiktok-livestudio-asset-sg.ibyteimg.com
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 p16-tiktok-va.ibyteimg.com
+p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 parse.com
 periscope.tv
@@ -757,6 +758,7 @@ redd.it
 reddit.com
 redditmail.com
 redditmedia.com
+redditstatic.com
 redkix.com
 rocksdb.com
 rocksdb.net

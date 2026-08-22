@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-08-21T18:40:28.499Z
-# Entries: 16973
+# Last updated: 2026-08-22T06:44:37.286Z
+# Entries: 16974
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -5098,6 +5098,7 @@ etherasocialpharma.com
 ethikadeutschland.com
 ethikadeutschland.de
 ethimostyle.com
+eticketsy.com
 etkick.de
 etniesshoesireland.com
 etrade-securities.com
