@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-08-25T06:53:38.644Z
-# Entries: 17103
+# Last updated: 2026-08-25T18:42:34.776Z
+# Entries: 17113
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -814,6 +814,7 @@ abercrombierabatt.de
 abest.store
 abfluss-frei24.de
 abfluss-profi.at
+abforstwirtschaft.de
 abfuhren.de
 abigfishing.com
 abilityne.com
@@ -1418,6 +1419,7 @@ aplschuhe.at
 aplschuhe.com
 apo-rezeptfrei.com
 apollus24.com
+apotek-no24.com
 apotek-norge24.com
 apotekb213.com
 apoteket.to
@@ -2000,6 +2002,7 @@ baseballsupplys.com
 basefinex.com
 bash-vip.top
 basicallyt.com
+basiswallet.co
 basquetestoreacd.com
 bassbet1.com
 bassbetcasino-online.de
@@ -2538,6 +2541,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -3057,6 +3061,7 @@ campingzubehorhub.com
 camptool-shop.com
 camuya.shop
 canada-pharmacy-24h.com
+canadadrugstore.com
 canadanewsreport.com
 canadapharmacypro.com
 canadapharmacytrust.net
@@ -3968,6 +3973,7 @@ de-epicooler.com
 de-fahrradshop.com
 de-filter.com
 de-fizzclean.com
+de-lumelia.com
 de-musicshop.com
 de-orion.site
 de-rimowa.shop
@@ -5905,6 +5911,7 @@ fortunaten.com
 fortunefx.io
 foryourwell.com
 fossilupra.com
+fosterrefrigerator.de
 fotbalovyfestival.cz
 foto-biering.de
 foto-mundus-sued.de
@@ -8476,6 +8483,7 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
+kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-online.eu
@@ -10638,7 +10646,6 @@ montgerrard.com
 monthlyi.com
 montivo.de
 montmode.de
-montrereplique.to
 monvada.de
 moodcheerful.com
 moodlily.de
@@ -14226,7 +14233,6 @@ souhutiyu-online.com
 soundhive.de
 sourceforsport.com
 sovectoron-1-naatlasix-losolara.com
-sowaswillichauch.de
 soxfinancial.com
 sozialversicherungsausweisportal.de
 spacebuds.de
@@ -14876,6 +14882,7 @@ tcomplex.de
 tddexpresslogistics.com
 tdglobalcompany.io
 tdxsz.com
+te.de
 teachbrigh.com
 teambike-hamburg.de
 teameffekt.de
@@ -15514,6 +15521,7 @@ trendzo.org
 trenessshop.de
 trennschleiferde.com
 trenzjar.com
+tresorbit.com
 treuhand-consulta.de
 treuhand-gmbh.com
 trexox.com
@@ -15571,6 +15579,7 @@ trusted-help.com
 trusted-online-generic.com
 trustedallovertheworld.com
 trustedconsumerreview.online
+trustedmedstore24.com
 trustednorx.com
 trustedrxsolutions.com
 trustedshops.store
@@ -16921,6 +16930,7 @@ yoyocats.com
 ysolara.at
 ytcycling.com
 ythebyre.top
+yuan-paygroup.com
 yuanpaygroup.org
 yuaonew.com
 yuguz.com
