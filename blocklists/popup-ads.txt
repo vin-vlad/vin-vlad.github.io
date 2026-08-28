@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-08-28T02:05:28.369Z
-# Entries: 54168
+# Last updated: 2026-08-28T18:21:49.163Z
+# Entries: 54173
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
 c8d9e11a82.031dcf857c.com
@@ -362,6 +362,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -3184,6 +3187,7 @@ vnerqe.treasurewaitlng.net
 zowarv.treasurewaitlng.net
 zozdnw.treasurewaitlng.net
 px.trekkerroseola.com
+nextsave.trenched.cfd
 ck.trepanstaunch.com
 ltlweight.trgr.me
 df.triablemakes.com
@@ -12993,7 +12997,6 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basejudgementquizmaster.com
 basementunfamiliar.com
@@ -17913,6 +17916,7 @@ cractica.xyz
 cractivator.com
 cradaygo.com
 cradleharddismantle.com
+craftaggregate.com
 craftilypendantwhinny.com
 craftsmanscaffoldingwheelbarrow.com
 craftsmanthin.com
@@ -18721,6 +18725,7 @@ darpccyae.com
 darrellgum.com
 darrinwoods.com
 darsoabetoo.com
+dartleoleates.cyou
 dartsrule.com
 darvorn.com
 darvuxbakh.com

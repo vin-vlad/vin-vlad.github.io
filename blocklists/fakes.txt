@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-08-28T02:05:28.318Z
-# Entries: 17173
+# Last updated: 2026-08-28T18:21:49.084Z
+# Entries: 17174
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -2547,6 +2547,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -5173,7 +5174,6 @@ eu-first.com
 eu-pharmacy-online.com
 eu-sezane.com
 eu-trader.io
-eubiofficial.com
 euchems.me
 eucloseoutue.com
 euergutesbrennholz.com
@@ -5614,7 +5614,6 @@ festgeldfinder.de
 festgeldsicher.at
 festivaldefrente.com
 festoolz.shop
-fetishmegastore.com
 fettabsaugung-in-koeln.de
 fettverbrenneronline.com
 feuchtigkeits.de
@@ -10481,6 +10480,7 @@ mkc-invest.com
 mkdfx.fr
 mkentertainment.nl
 mknen.com
+mkpool.com
 mlbhungary.com
 mlcodwhz.shop
 mlkvip.com
@@ -14139,6 +14139,7 @@ sofort-registerauszug24.de
 sofortfinanz.com
 soft-handel.de
 softdays-shop.de
+softelektro.com
 softgarments.com
 softritualsco.shop
 software-onsale.com
@@ -15255,6 +15256,7 @@ titit.shop
 tiveone.com
 tizchmrf.cc
 tk-deburncalories.shop
+tk-energiemanagement.de
 tk-kontor.de
 tkeesdeutschland.com
 tkensure.top
@@ -16080,7 +16082,6 @@ verkettet-dogs.com
 vernaschediewelt.com
 vernixo.info
 veroshell.com
-versand-kaufhaus.de
 versandhaus-herrmann.de
 versandpharma.com
 versatileus-women.com
