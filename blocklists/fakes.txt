@@ -1,5 +1,5 @@
 # fakes
-# Last updated: 2026-08-29T20:40:33.452Z
+# Last updated: 2026-08-30T11:32:57.445Z
 # Entries: 17284
 eoutlet.2023shoponline.com
 eu.2bagsvalley.cn
@@ -1042,7 +1042,6 @@ aktivbeutel.com
 aktivbike24.com
 aktivimfreien.com
 aktivmaxx.com
-akusoli.com
 akustikholz.shop
 al-nassr.shop
 al-nassr.store
@@ -2313,6 +2312,7 @@ bestekreditvergabe.ltd
 bestelektronicshop.de
 bestellen-ciao-ciao-pf.de
 bestelnuar.click
+bestemed.com
 bestemedikamente.com
 bestenkaufen.com
 bestenwahl.de
@@ -3085,7 +3085,6 @@ campingzubehorhub.com
 camptool-shop.com
 camuya.shop
 canada-pharmacy-24h.com
-canadadrugstore.com
 canadanewsreport.com
 canadapharmacypro.com
 canadapharmacytrust.net
@@ -3942,6 +3941,7 @@ dap-deals.de
 dar-germany.de
 darasports.de
 darembel.com
+darrioumerlesylvain.com
 darsvint.fr
 daryeleth.org
 das-feel-natural.de
@@ -5699,7 +5699,6 @@ financiere.diamonds
 financiere-haussmann.com
 financieredsbg.com
 financieres.com
-finanzamt-familienbeihilfe-at.com
 finanzarena.pro
 finanzasforex.com
 finanzenexpress.com
@@ -5916,6 +5915,7 @@ footballcamp.at
 footjoy-suomi.com
 footjoygolfshoesuk.com
 footjoyjapan.net
+footjoyoutletfactory.us
 footjoyoutletmexico.com
 footjoys.at
 footjoysuomi.com
@@ -7619,7 +7619,6 @@ hokadeutschland.de
 hokarunnershungary.com
 hokastyle.com
 hokaus.shop
-holapick.com
 holda-konigsallee.de
 holdinggb.com
 holdirwerkzeug.de
@@ -7771,6 +7770,7 @@ hotel-am-herrenhaeuser-garten.de
 hotel-ds.com
 hotel-krone-muc.de
 hotelaustralien.de
+hotelinphuket.net
 hotelladen.com
 hotels-colombo.com
 hotelsinperm.ru
@@ -8934,7 +8934,6 @@ kleversholz.com
 kley-kanzlei.com
 klimaanlageportal.de
 klimabonus-2026.net
-klimabonus-antrag.co
 klimabonus2026.at
 klimacare24.de
 klimacare24.shop
@@ -9062,7 +9061,6 @@ kriddoshop.com
 kristenjewelry.com
 krittimes.com
 kronberg-partner.de
-kronbergpartner.com
 kronbergwien.at
 kronwald-mode.de
 krossbike.shop
@@ -9521,7 +9519,6 @@ limitgreen.com
 limon-shop.at
 limondo.shop
 limoza.de
-limzaicore.com
 lin7dwerk46.com
 linashop.de
 linavellegoods.com
@@ -10052,6 +10049,7 @@ marketsinvest.com
 marketsview.io
 marketxarproducts.shop
 markezia.com
+markierskibindungen.com
 markisenrabatt.com
 markmale.de
 markt.life
@@ -10670,7 +10668,6 @@ modernoutdoorstandard.de
 moderwear.shop
 modeschulte.de
 modestylebay.com
-modesytlebay.com
 modetalente.com
 modethermoskanne.com
 modetraum.com
@@ -13070,6 +13067,7 @@ renten-ratgeber-online.de
 rentin.store
 rentyet.shop
 renve-berlin.com
+repairbase.eu
 reparatur-service.me
 rephasei-g-nasolaro-besolare.com
 replica.is
@@ -13416,6 +13414,7 @@ saarland-honorarfinanz.de
 saatmod.com
 sabine-becker.de
 sac-chat.com
+sachsenpelletgmbh.de
 sackundpack-de.com
 sadela.de
 sadiluxe.de
@@ -14238,6 +14237,7 @@ sofort-registerauszug24.de
 sofortfinanz.com
 soft-handel.de
 softdays-shop.de
+softelektro.com
 softgarments.com
 softritualsco.shop
 software-onsale.com
@@ -14939,7 +14939,6 @@ symbiosiswellbeing.com
 synizesis.com
 synthplatformtrust.click
 syrokan.com
-system-capital.org
 systemiy.com
 systemofdown.com
 sz-fishing.de
@@ -16185,6 +16184,7 @@ verkettet-dogs.com
 vernaschediewelt.com
 vernixo.info
 veroshell.com
+versand-kaufhaus.de
 versandhaus-herrmann.de
 versandpharma.com
 versatileus-women.com
@@ -16340,7 +16340,6 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -16761,6 +16760,7 @@ wetting.de
 wfh-markt.de
 whatsexy.de
 wheelsprint.com
+whereverk.com
 whimsicalshome.com
 whirlpoolus.com
 whiskerhalo.com
