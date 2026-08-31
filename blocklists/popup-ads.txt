@@ -1,5 +1,5 @@
 # popup-ads
-# Last updated: 2026-08-31T13:06:58.215Z
+# Last updated: 2026-08-31T22:39:10.788Z
 # Entries: 54190
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
