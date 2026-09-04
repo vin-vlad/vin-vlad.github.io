@@ -1,121 +1,179 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
-    <strong>Privacy Policy</strong>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0a0a0f">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="https://nomoads.com/apple-touch-icon.png">
+  <title>Nomoads Privacy Policy</title>
+  <meta name="description" content="How Nomoads handles your data. DNS filtering runs on your device. We do not collect browsing history or DNS queries. Optional Firebase analytics is off by default.">
+  <link rel="canonical" href="https://nomoads.com/privacy/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nomoads.com/privacy/">
+  <meta property="og:title" content="Nomoads Privacy Policy">
+  <meta property="og:description" content="How Nomoads handles your data. DNS filtering runs on your device. We do not collect browsing history or DNS queries.">
+  <meta property="og:image" content="https://nomoads.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Nomoads">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Nomoads Privacy Policy">
+  <meta name="twitter:description" content="How Nomoads handles your data. DNS filtering runs on your device.">
+  <meta name="twitter:image" content="https://nomoads.com/og-image.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #00FF66;
+      --bg-dark: #0a0a0f;
+      --border: rgba(255, 255, 255, 0.08);
+      --text-primary: #ffffff;
+      --text-secondary: rgba(255, 255, 255, 0.7);
+      --text-tertiary: rgba(255, 255, 255, 0.5);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg-dark);
+      color: var(--text-primary);
+      line-height: 1.7;
+    }
+    a { color: var(--primary); }
+    header {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+      background: rgba(10, 10, 15, 0.8);
+    }
+    .container { max-width: 800px; margin: 0 auto; padding: 0 24px; }
+    .header-inner { display: flex; align-items: center; justify-content: space-between; }
+    .logo { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--text-primary); font-weight: 700; font-size: 20px; }
+    .logo-icon {
+      width: 36px; height: 36px; border-radius: 10px;
+      background: linear-gradient(135deg, #00FF66, #4D3DFF);
+      display: flex; align-items: center; justify-content: center; font-weight: 800;
+    }
+    nav a { color: var(--text-secondary); text-decoration: none; font-size: 14px; font-weight: 500; margin-left: 20px; }
+    main { padding: 64px 0 96px; }
+    h1 { font-size: clamp(28px, 4vw, 40px); letter-spacing: -0.5px; margin-bottom: 12px; }
+    .updated { color: var(--text-tertiary); font-size: 14px; margin-bottom: 40px; }
+    h2 { font-size: 22px; margin: 36px 0 12px; }
+    p, li { color: var(--text-secondary); font-size: 16px; }
+    p { margin-bottom: 16px; }
+    ul { margin: 0 0 16px 20px; }
+    li { margin-bottom: 6px; }
+    footer { border-top: 1px solid var(--border); padding: 32px 0; color: var(--text-tertiary); font-size: 14px; }
+    footer a { color: var(--text-secondary); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-inner">
+      <a href="https://nomoads.com/" class="logo">
+        <span class="logo-icon" aria-hidden="true">N</span>
+        Nomoads
+      </a>
+      <nav aria-label="Legal">
+        <a href="https://nomoads.com/">Home</a>
+        <a href="https://nomoads.com/privacy/">Privacy</a>
+        <a href="https://nomoads.com/terms/">Terms</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <h1>Nomoads Privacy Policy</h1>
+      <p class="updated">Last updated: May 18, 2026</p>
 
-Privacy Policy
+      <p>NOMOADS (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal data.</p>
+      <p>NOMOADS is designed to improve your browsing experience by filtering selected advertising, tracking, and unwanted network connections directly on your device. Core filtering functionality operates locally, and we do not collect, transmit, or store your DNS queries, browsing history, or website activity.</p>
 
-Last updated: May 18, 2026
+      <h2>Information We Do Not Collect</h2>
+      <p>NOMOADS does not collect, store, or transmit:</p>
+      <ul>
+        <li>DNS requests or DNS query history</li>
+        <li>Browsing history or visited URLs</li>
+        <li>Lists of blocked domains</li>
+        <li>App usage content</li>
+        <li>Personal messages or device content</li>
+        <li>Any network traffic processed by the app for filtering purposes</li>
+      </ul>
+      <p>All DNS filtering and connection processing occurs locally on your device.</p>
 
-NOMOADS (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal data.
+      <h2>Anonymous Analytics and Crash Reporting</h2>
+      <p>To improve app quality and stability, NOMOADS uses Google Firebase services.</p>
 
-NOMOADS is designed to improve your browsing experience by filtering selected advertising, tracking, and unwanted network connections directly on your device. Core filtering functionality operates locally, and we do not collect, transmit, or store your DNS queries, browsing history, or website activity.
+      <h2>Firebase Analytics (Optional / Consent-Based)</h2>
+      <p>With your explicit consent, NOMOADS may collect anonymous usage analytics through Google Analytics for Firebase. This may include:</p>
+      <ul>
+        <li>App opens and session duration</li>
+        <li>Screens viewed and feature usage</li>
+        <li>General interaction events</li>
+        <li>App version</li>
+        <li>Device model</li>
+        <li>Operating system version</li>
+        <li>Country or approximate region</li>
+        <li>Aggregated performance metrics</li>
+      </ul>
+      <p>This information is used solely to understand how the app is used and to improve functionality and user experience.</p>
+      <p>Analytics collection is disabled by default and is only enabled if you choose to opt in. You may withdraw your consent at any time in the app settings.</p>
 
-Information We Do Not Collect
+      <h2>Firebase Crashlytics</h2>
+      <p>NOMOADS uses Firebase Crashlytics to detect and diagnose app crashes and technical issues. Crash reports may include:</p>
+      <ul>
+        <li>Crash stack traces</li>
+        <li>Device type and operating system version</li>
+        <li>App version</li>
+        <li>Basic diagnostic information about the state of the app when a crash occurred</li>
+      </ul>
+      <p>Crash reports do not include your DNS queries, browsing history, or filtered traffic.</p>
 
-NOMOADS does not collect, store, or transmit:
+      <h2>Third-Party Service Provider</h2>
+      <p>NOMOADS uses Google Firebase, provided by Google LLC. Firebase may process limited technical data in accordance with Google’s privacy policies:</p>
+      <ul>
+        <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+        <li><a href="https://firebase.google.com/support/privacy">Firebase Data Processing Information</a></li>
+      </ul>
+      <p>Google acts as a service provider/data processor for analytics and crash reporting.</p>
 
-DNS requests or DNS query history
-Browsing history or visited URLs
-Lists of blocked domains
-App usage content
-Personal messages or device content
-Any network traffic processed by the app for filtering purposes
+      <h2>Legal Basis for Processing (EEA / UK Users)</h2>
+      <p>If you are located in the European Economic Area (EEA), United Kingdom, or similar jurisdictions:</p>
+      <ul>
+        <li>Analytics data is processed only based on your consent.</li>
+        <li>Crash reporting data is processed based on our legitimate interest in maintaining app stability and security.</li>
+      </ul>
+      <p>You may withdraw analytics consent at any time through the app settings.</p>
 
-All DNS filtering and connection processing occurs locally on your device.
+      <h2>Data Sharing</h2>
+      <p>We do not sell your personal data. We do not share browsing data, DNS activity, or filtering information with any third parties. Anonymous analytics and crash-reporting data may be processed by Firebase solely to provide technical services on our behalf.</p>
 
-Anonymous Analytics and Crash Reporting
+      <h2>Data Retention</h2>
+      <p>Analytics and crash data are retained only as long as necessary to improve and maintain the app, subject to Firebase’s retention policies.</p>
 
-To improve app quality and stability, NOMOADS uses Google Firebase services.
+      <h2>Your Rights</h2>
+      <p>Depending on your location, you may have rights to:</p>
+      <ul>
+        <li>Access your personal data</li>
+        <li>Request deletion of applicable data</li>
+        <li>Withdraw consent for analytics collection</li>
+        <li>Object to certain processing activities</li>
+      </ul>
+      <p>To exercise these rights, contact us at <a href="mailto:support@nomoads.com">support@nomoads.com</a>.</p>
 
-Firebase Analytics (Optional / Consent-Based)
+      <h2>Changes to This Privacy Policy</h2>
+      <p>We may update this Privacy Policy from time to time. Changes will be reflected by updating the “Last updated” date above.</p>
 
-With your explicit consent, NOMOADS may collect anonymous usage analytics through Google Analytics for Firebase.
-
-This may include:
-
-App opens and session duration
-Screens viewed and feature usage
-General interaction events
-App version
-Device model
-Operating system version
-Country or approximate region
-Aggregated performance metrics
-
-This information is used solely to understand how the app is used and to improve functionality and user experience.
-
-Analytics collection is disabled by default and is only enabled if you choose to opt in. You may withdraw your consent at any time in the app settings.
-
-Firebase Crashlytics
-
-NOMOADS uses Firebase Crashlytics to detect and diagnose app crashes and technical issues.
-
-Crash reports may include:
-
-Crash stack traces
-Device type and operating system version
-App version
-Basic diagnostic information about the state of the app when a crash occurred
-
-Crash reports do not include your DNS queries, browsing history, or filtered traffic.
-
-Third-Party Service Provider
-
-NOMOADS uses Google Firebase, provided by
-Google LLC
-
-Firebase may process limited technical data in accordance with Google’s privacy policies:
-
-Google Privacy Policy
-Firebase Data Processing Information
-
-Google acts as a service provider/data processor for analytics and crash reporting.
-
-Legal Basis for Processing (EEA / UK Users)
-
-If you are located in the European Economic Area (EEA), United Kingdom, or similar jurisdictions:
-
-Analytics data is processed only based on your consent.
-Crash reporting data is processed based on our legitimate interest in maintaining app stability and security.
-
-You may withdraw analytics consent at any time through the app settings.
-
-Data Sharing
-
-We do not sell your personal data.
-
-We do not share browsing data, DNS activity, or filtering information with any third parties.
-
-Anonymous analytics and crash-reporting data may be processed by Firebase solely to provide technical services on our behalf.
-
-Data Retention
-
-Analytics and crash data are retained only as long as necessary to improve and maintain the app, subject to Firebase’s retention policies.
-
-Your Rights
-
-Depending on your location, you may have rights to:
-
-Access your personal data
-Request deletion of applicable data
-Withdraw consent for analytics collection
-Object to certain processing activities
-
-To exercise these rights, contact us at: support@nomoads.com
-
-Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Changes will be reflected by updating the “Last updated” date above.
-
-Contact
-
-If you have any questions about this Privacy Policy, contact us at:
-
-support@nomoads.com</p>
+      <h2>Contact</h2>
+      <p>If you have any questions about this Privacy Policy, contact us at <a href="mailto:support@nomoads.com">support@nomoads.com</a>.</p>
+    </div>
+  </main>
+  <footer>
+    <div class="container">
+      <p><a href="https://nomoads.com/">Nomoads</a> · <a href="https://nomoads.com/privacy/">Privacy Policy</a> · <a href="https://nomoads.com/terms/">Terms of Service</a></p>
+    </div>
+  </footer>
+</body>
+</html>
