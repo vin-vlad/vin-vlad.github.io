@@ -3,20 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <title>Nomoads – On-Device Ad Blocker for iOS and Android</title>
-  <meta name="description" content="Nomoads is a mobile ad blocker for iPhone and Android that filters ads, trackers, and malware across every app using on-device DNS blocking. No account required. Free Basic plan; Premium from $2.99/month.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0a0a0f">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="https://nomoads.com/apple-touch-icon.png">
+  <link rel="author" href="https://nomoads.com/llms.txt">
+  <title>Nomoads — Block Ads in Every iPhone and Android App</title>
+  <meta name="description" content="On-device DNS ad blocker for iOS and Android. Filter ads and trackers in every app locally — no cloud DNS, no account. Free Basic; Premium from $2.99/month.">
   <link rel="canonical" href="https://nomoads.com/">
-  <meta property="og:title" content="Nomoads – On-Device Ad Blocker for iOS and Android">
-  <meta property="og:description" content="Nomoads filters ads and trackers in every app on your phone. All DNS filtering runs locally on your device—your browsing data never leaves your phone.">
+  <meta property="og:title" content="Nomoads — Block Ads in Every iPhone and Android App">
+  <meta property="og:description" content="On-device DNS ad blocker for iOS and Android. Filter ads and trackers in every app locally — no cloud DNS, no account.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://nomoads.com/">
   <meta property="og:site_name" content="Nomoads">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://nomoads.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Nomoads — on-device ad blocker for iOS and Android">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Nomoads – On-Device Ad Blocker for iOS and Android">
-  <meta name="twitter:description" content="Nomoads filters ads and trackers in every app on your phone. All DNS filtering runs locally on your device.">
-  <meta property="og:image" content="https://nomoads.com/1.jpg">
-  <meta name="twitter:image" content="https://nomoads.com/1.jpg">
+  <meta name="twitter:title" content="Nomoads — Block Ads in Every iPhone and Android App">
+  <meta name="twitter:description" content="On-device DNS ad blocker for iOS and Android. Filter ads and trackers in every app locally — no cloud DNS, no account.">
+  <meta name="twitter:image" content="https://nomoads.com/og-image.png">
+  <meta name="twitter:image:alt" content="Nomoads — on-device ad blocker for iOS and Android">
+  <meta name="apple-itunes-app" content="app-id=6759786049">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -26,9 +36,18 @@
         "@id": "https://nomoads.com/#organization",
         "name": "Nomoads",
         "url": "https://nomoads.com/",
-        "logo": "https://nomoads.com/logo.png",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://nomoads.com/logo.png",
+          "width": 512,
+          "height": 512
+        },
         "description": "Nomoads develops privacy-first mobile ad blocking software for iOS and Android.",
-        "sameAs": []
+        "email": "support@nomoads.com",
+        "founder": {
+          "@type": "Person",
+          "name": "Vladyslav Palamarchuk"
+        }
       },
       {
         "@type": "WebSite",
@@ -40,23 +59,52 @@
         "inLanguage": "en"
       },
       {
-        "@type": "SoftwareApplication",
+        "@type": "WebPage",
+        "@id": "https://nomoads.com/#webpage",
+        "url": "https://nomoads.com/",
+        "name": "Nomoads — Block Ads in Every iPhone and Android App",
+        "description": "On-device DNS ad blocker for iOS and Android. Filter ads and trackers in every app locally — no cloud DNS, no account.",
+        "isPartOf": { "@id": "https://nomoads.com/#website" },
+        "about": { "@id": "https://nomoads.com/#app" },
+        "mainEntity": { "@id": "https://nomoads.com/#app" },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://nomoads.com/og-image.png",
+          "width": 1200,
+          "height": 630
+        },
+        "publisher": { "@id": "https://nomoads.com/#organization" },
+        "inLanguage": "en"
+      },
+      {
+        "@type": ["SoftwareApplication", "MobileApplication"],
         "@id": "https://nomoads.com/#app",
         "name": "Nomoads",
         "applicationCategory": "SecurityApplication",
         "operatingSystem": "iOS, Android",
         "description": "Nomoads is a mobile ad blocker that uses on-device DNS filtering to block ads, trackers, and malware across every app on your phone. Filtering runs locally via a local VPN—no traffic is sent to external servers.",
+        "url": "https://nomoads.com/",
+        "image": "https://nomoads.com/logo.png",
+        "screenshot": [
+          "https://nomoads.com/1.webp",
+          "https://nomoads.com/2.webp",
+          "https://nomoads.com/3.webp"
+        ],
         "offers": [
           {
             "@type": "Offer",
+            "name": "Basic",
             "price": "0",
             "priceCurrency": "USD",
+            "url": "https://nomoads.com/#pricing",
             "description": "Basic plan with essential ad blocking"
           },
           {
             "@type": "Offer",
+            "name": "Premium",
             "price": "2.99",
             "priceCurrency": "USD",
+            "url": "https://nomoads.com/#pricing",
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
               "price": "2.99",
@@ -67,6 +115,10 @@
           }
         ],
         "downloadUrl": [
+          "https://play.google.com/store/apps/details?id=com.crowstar.nomoads",
+          "https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049"
+        ],
+        "installUrl": [
           "https://play.google.com/store/apps/details?id=com.crowstar.nomoads",
           "https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049"
         ],
@@ -82,7 +134,8 @@
       },
       {
         "@type": "FAQPage",
-        "@id": "https://nomoads.com/#faq",
+        "@id": "https://nomoads.com/#faqpage",
+        "isPartOf": { "@id": "https://nomoads.com/#webpage" },
         "mainEntity": [
           {
             "@type": "Question",
@@ -110,18 +163,10 @@
           },
           {
             "@type": "Question",
-            "name": "Can Nomoads block ads inside apps, not just browsers?",
+            "name": "What types of content does Nomoads block?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the difference between Basic and Premium?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions."
+              "text": "Nomoads blocks ad networks, trackers, and malware domains listed in its blocklists. The Basic plan includes a standard ad-blocking list. Premium adds protection levels plus advanced category blocklists you can toggle separately—fakes and scams, popup ads, piracy, gambling, social networks, and NSFW—and the ability to import custom blocklist URLs."
             }
           },
           {
@@ -138,6 +183,30 @@
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Advanced blocklists are optional category lists you can turn on or off, including fakes and scams, popup ads, anti-piracy, gambling, social networks, and NSFW content."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Nomoads block ads inside apps, not just browsers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between Basic and Premium?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will Nomoads break my banking or work apps?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most apps work normally. If an app has issues, you can exclude it from filtering in Premium settings. Some apps with strict network checks may behave differently under DNS filtering."
             }
           },
           {
@@ -181,6 +250,23 @@
     html {
       scroll-behavior: smooth;
       scroll-padding-top: 88px;
+    }
+
+    .skip-link {
+      position: absolute;
+      left: 16px;
+      top: -100px;
+      z-index: 400;
+      background: var(--primary);
+      color: #000;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .skip-link:focus {
+      top: 16px;
     }
 
     body {
@@ -499,6 +585,10 @@
         0 0 60px rgba(0, 255, 102, 0.12);
     }
 
+    .phone-frame picture {
+      display: block;
+    }
+
     .phone-frame img {
       display: block;
       width: 100%;
@@ -550,6 +640,7 @@
     .features,
     .how-it-works,
     .comparison,
+    .pricing,
     .faq,
     .privacy,
     .cta,
@@ -756,6 +847,14 @@
       color: var(--text-tertiary);
     }
 
+    .privacy-policy-link {
+      margin-top: 24px;
+    }
+
+    .privacy-policy-link a {
+      color: var(--primary);
+    }
+
     .privacy-visual {
       display: flex;
       justify-content: center;
@@ -913,6 +1012,10 @@
       max-width: 300px;
     }
 
+    .footer-brand a {
+      color: var(--text-secondary);
+    }
+
     .footer-links h4 {
       font-size: 14px;
       font-weight: 600;
@@ -941,25 +1044,6 @@
       border-top: 1px solid var(--border);
       font-size: 14px;
       color: var(--text-tertiary);
-    }
-
-    .footer-socials {
-      display: flex;
-      gap: 16px;
-    }
-
-    .footer-socials a {
-      color: var(--text-tertiary);
-      transition: color 0.2s;
-    }
-
-    .footer-socials a:hover {
-      color: var(--text-primary);
-    }
-
-    .footer-socials svg {
-      width: 20px;
-      height: 20px;
     }
 
     /* Mobile Styles */
@@ -1164,8 +1248,83 @@
 
     .comparison-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 24px;
+    }
+
+    .pricing {
+      padding: 120px 0;
+    }
+
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+
+    .pricing-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 32px;
+    }
+
+    .pricing-card.pricing-highlight {
+      border-color: rgba(0, 255, 102, 0.3);
+      background: linear-gradient(135deg, rgba(0, 255, 102, 0.06), rgba(77, 61, 255, 0.06));
+    }
+
+    .pricing-plan {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--primary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+
+    .pricing-card h3 {
+      font-size: 36px;
+      font-weight: 700;
+      letter-spacing: -1px;
+      margin-bottom: 8px;
+    }
+
+    .pricing-card h3 span {
+      font-size: 16px;
+      font-weight: 500;
+      color: var(--text-tertiary);
+    }
+
+    .pricing-card > p {
+      color: var(--text-secondary);
+      font-size: 15px;
+      margin-bottom: 24px;
+      line-height: 1.6;
+    }
+
+    .pricing-card ul {
+      list-style: none;
+    }
+
+    .pricing-card li {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 8px 0;
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    .pricing-card li svg {
+      width: 18px;
+      height: 18px;
+      color: var(--primary);
+      flex-shrink: 0;
+      margin-top: 2px;
     }
 
     .comparison-card {
@@ -1222,7 +1381,8 @@
     }
 
     @media (max-width: 900px) {
-      .comparison-grid {
+      .comparison-grid,
+      .pricing-grid {
         grid-template-columns: 1fr;
       }
 
@@ -1233,23 +1393,25 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <!-- Header -->
   <header>
     <div class="container header-inner">
-      <a href="https://nomoads.com/" class="logo">
+      <a href="/" class="logo">
         <div class="logo-icon">N</div>
         <span class="logo-text">Nomoads</span>
       </a>
-      <nav aria-label="Main navigation">
+      <nav aria-label="Main navigation" id="main-nav">
         <a href="#features">Features</a>
         <a href="#screenshots">Screenshots</a>
         <a href="#how-it-works">How It Works</a>
         <a href="#comparison">Compare</a>
+        <a href="#pricing">Pricing</a>
         <a href="#faq">FAQ</a>
         <a href="#privacy">Privacy</a>
         <a href="#download" class="nav-cta">Download</a>
       </nav>
-      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu" aria-controls="main-nav" aria-expanded="false">
         <svg class="menu-icon-open" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
         </svg>
@@ -1302,7 +1464,10 @@
         </div>
         <div class="hero-visual">
           <div class="phone-frame">
-            <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage showing Protection ON, Ultimate protection level, and an invite-a-friend button." fetchpriority="high">
+            <picture>
+              <source type="image/webp" srcset="1-480.webp 280w, 1.webp 560w" sizes="(max-width: 900px) 240px, 280px">
+              <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage showing Protection ON, Ultimate protection level, and an invite-a-friend button." fetchpriority="high">
+            </picture>
           </div>
         </div>
       </div>
@@ -1320,21 +1485,30 @@
       <div class="showcase-grid">
         <article class="screenshot-card">
           <div class="phone-frame">
-            <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage with a glowing shield, Protection ON status, Ultimate level, and an Invite a friend button." loading="lazy">
+            <picture>
+              <source type="image/webp" srcset="1-480.webp 280w, 1.webp 560w" sizes="(max-width: 900px) 260px, 260px">
+              <img src="1.jpg" width="590" height="1280" alt="Nomoads homepage with a glowing shield, Protection ON status, Ultimate level, and an Invite a friend button." loading="lazy">
+            </picture>
           </div>
           <h3>Homepage</h3>
           <p>Turn protection on with one tap. The home screen shows your status, protection level, and a shortcut to Stats.</p>
         </article>
         <article class="screenshot-card">
           <div class="phone-frame">
-            <img src="2.jpg" width="590" height="1280" alt="Nomoads Stats screen showing total queries, queries blocked, percent blocked, a 24-hour chart, and top blocked domains." loading="lazy">
+            <picture>
+              <source type="image/webp" srcset="2-480.webp 280w, 2.webp 560w" sizes="(max-width: 900px) 260px, 260px">
+              <img src="2.jpg" width="590" height="1280" alt="Nomoads Stats screen showing total queries, queries blocked, percent blocked, a 24-hour chart, and top blocked domains." loading="lazy">
+            </picture>
           </div>
           <h3>Stats</h3>
           <p>See total queries, how many were blocked, a 24-hour activity chart, and the top blocked domains. A query log stays on-device.</p>
         </article>
         <article class="screenshot-card">
           <div class="phone-frame">
-            <img src="3.png" width="1080" height="2400" alt="Nomoads Advanced blocklists screen with toggles for Fakes and Scams, Popup ads, Anti-piracy, Gambling, Social networks, and NSFW." loading="lazy">
+            <picture>
+              <source type="image/webp" srcset="3-480.webp 280w, 3.webp 560w" sizes="(max-width: 900px) 260px, 260px">
+              <img src="3.png" width="1080" height="2400" alt="Nomoads Advanced blocklists screen with toggles for Fakes and Scams, Popup ads, Anti-piracy, Gambling, Social networks, and NSFW." loading="lazy">
+            </picture>
           </div>
           <h3>Advanced blocklists</h3>
           <p>Toggle extra lists for scams, popup ads, piracy, gambling, social networks, and NSFW. Each list shows how many domains it covers.</p>
@@ -1446,7 +1620,7 @@
       <div class="section-header">
         <span class="section-label">Compare</span>
         <h2 class="section-title" id="comparison-heading">Why choose Nomoads over other ad blockers</h2>
-        <p class="section-desc">Nomoads is a mobile DNS ad blocker with on-device filtering. Here is how it differs from common alternatives.</p>
+        <p class="section-desc">Nomoads is a mobile DNS ad blocker with on-device filtering. Here is how it differs from browser extensions, cloud DNS, and on-device apps like AdGuard.</p>
       </div>
       <div class="comparison-grid">
         <article class="comparison-card comparison-highlight">
@@ -1504,11 +1678,77 @@
             </li>
           </ul>
         </article>
+        <article class="comparison-card">
+          <h3>AdGuard app (HTTPS filtering)</h3>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Can hide leftover ad slots in pages, which DNS blocking cannot do
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+              Heavier local filter than DNS-only; Nomoads stays on DNS lookups for lower overhead
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Nomoads focuses on on-device DNS with a free Basic tier and no cloud proxy
+            </li>
+          </ul>
+        </article>
       </div>
     </div>
   </section>
 
-  <!-- FAQ Section -->
+  <!-- Pricing -->
+  <section class="pricing" id="pricing" aria-labelledby="pricing-heading">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Pricing</span>
+        <h2 class="section-title" id="pricing-heading">Free Basic, optional Premium</h2>
+        <p class="section-desc">Start with system-wide ad blocking at no cost. Upgrade if you want stricter lists, custom URLs, and per-app exclusions.</p>
+      </div>
+      <div class="pricing-grid">
+        <article class="pricing-card">
+          <div class="pricing-plan">Basic</div>
+          <h3>Free</h3>
+          <p>Everyday ad and tracker blocking across every app. No account required.</p>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              System-wide DNS ad blocking
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              On-device stats, query log, and domain allowlist
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              No account and no cloud filtering
+            </li>
+          </ul>
+        </article>
+        <article class="pricing-card pricing-highlight">
+          <div class="pricing-plan">Premium</div>
+          <h3>$2.99 <span>/ month</span></h3>
+          <p>Stricter filtering and controls when the Basic list is not enough.</p>
+          <ul>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Everything in Basic
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Extra protection levels and custom blocklist URLs
+            </li>
+            <li>
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+              Advanced category lists and per-app exclusions
+            </li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
   <section class="faq" id="faq" aria-labelledby="faq-heading">
     <div class="container">
       <div class="section-header">
@@ -1517,54 +1757,54 @@
         <p class="section-desc">Answers to common questions about how Nomoads works, what it blocks, and how it handles your data.</p>
       </div>
       <div class="faq-list">
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">What is Nomoads?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Nomoads is a mobile ad blocker for iOS and Android that filters ads and trackers at the DNS level across every app on your device.</span></p>
+        <article class="faq-item">
+          <h3>What is Nomoads?</h3>
+          <p class="faq-short-answer">Nomoads is a mobile ad blocker for iOS and Android that filters ads and trackers at the DNS level across every app on your device.</p>
           <p class="faq-explanation">Unlike browser-only extensions, Nomoads uses a local VPN to intercept DNS requests from all apps. When an app tries to reach a known ad or tracker domain, Nomoads blocks the lookup before the connection is made.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">Does Nomoads send my browsing data to a server?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">No. All DNS filtering and blocklist matching happen on your phone.</span></p>
+        <article class="faq-item">
+          <h3>Does Nomoads send my browsing data to a server?</h3>
+          <p class="faq-short-answer">No. All DNS filtering and blocklist matching happen on your phone.</p>
           <p class="faq-explanation">Nomoads uses a local VPN interface only to access DNS traffic on your device. Your queries are checked against on-device blocklists—they are not forwarded to Nomoads or any third-party server for filtering.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">Why does Nomoads need VPN permission?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">iOS and Android require VPN permission for any app that filters DNS traffic system-wide.</span></p>
+        <article class="faq-item">
+          <h3>Why does Nomoads need VPN permission?</h3>
+          <p class="faq-short-answer">iOS and Android require VPN permission for any app that filters DNS traffic system-wide.</p>
           <p class="faq-explanation">The VPN permission lets Nomoads inspect DNS requests from every app. Nomoads does not route your internet traffic through a remote VPN server—it only uses the local VPN channel to block ad domains on-device.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">What types of content does Nomoads block?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Nomoads blocks ad networks, trackers, and malware domains listed in its blocklists.</span></p>
+        <article class="faq-item">
+          <h3>What types of content does Nomoads block?</h3>
+          <p class="faq-short-answer">Nomoads blocks ad networks, trackers, and malware domains listed in its blocklists.</p>
           <p class="faq-explanation">The Basic plan includes a standard ad-blocking list. Premium adds protection levels plus advanced category blocklists you can toggle separately—fakes and scams, popup ads, piracy, gambling, social networks, and NSFW—and the ability to import custom blocklist URLs. You can also allowlist specific domains you want to keep accessible.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">What does the Stats screen show?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Stats shows total DNS queries, how many were blocked, the percent blocked, a 24-hour activity chart, and the top blocked domains.</span></p>
+        <article class="faq-item">
+          <h3>What does the Stats screen show?</h3>
+          <p class="faq-short-answer">Stats shows total DNS queries, how many were blocked, the percent blocked, a 24-hour activity chart, and the top blocked domains.</p>
           <p class="faq-explanation">You can also open a query log to search allowed and blocked lookups. Counts and logs stay on your phone—they are not uploaded to Nomoads or a third-party analytics service.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">What are advanced blocklists?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Advanced blocklists are optional category lists you can turn on or off, including fakes and scams, popup ads, anti-piracy, gambling, social networks, and NSFW content.</span></p>
+        <article class="faq-item">
+          <h3>What are advanced blocklists?</h3>
+          <p class="faq-short-answer">Advanced blocklists are optional category lists you can turn on or off, including fakes and scams, popup ads, anti-piracy, gambling, social networks, and NSFW content.</p>
           <p class="faq-explanation">Each list shows how many domains it contains and can be refreshed on its own. Use them when you want stricter filtering than the Basic ad list without changing your overall protection level.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">Can Nomoads block ads inside apps, not just browsers?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network.</span></p>
+        <article class="faq-item">
+          <h3>Can Nomoads block ads inside apps, not just browsers?</h3>
+          <p class="faq-short-answer">Yes. Because Nomoads filters DNS at the system level, it blocks ad domains in games, social apps, and any other app that loads ads over the network.</p>
           <p class="faq-explanation">Browser extensions only work inside one browser. Nomoads intercepts DNS requests from all apps, so in-game ad networks and in-app banner trackers are blocked the same way as web ads.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">What is the difference between Basic and Premium?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions.</span></p>
+        <article class="faq-item">
+          <h3>What is the difference between Basic and Premium?</h3>
+          <p class="faq-short-answer">Basic is free and includes standard ad blocking. Premium ($2.99/month) adds four extra protection levels, custom blocklist URLs, advanced category blocklists, and per-app exclusions.</p>
           <p class="faq-explanation">Basic covers everyday ad and tracker blocking for most users. Premium is for people who want stricter filtering (e.g., blocking gambling sites), custom lists, or fine-grained control over which apps are filtered.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">Will Nomoads break my banking or work apps?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Most apps work normally. If an app has issues, you can exclude it from filtering in Premium settings.</span></p>
+        <article class="faq-item">
+          <h3>Will Nomoads break my banking or work apps?</h3>
+          <p class="faq-short-answer">Most apps work normally. If an app has issues, you can exclude it from filtering in Premium settings.</p>
           <p class="faq-explanation">Some apps with strict network checks may behave differently under DNS filtering. Nomoads lets Premium users exclude specific apps so those apps bypass the filter while protection stays active everywhere else.</p>
         </article>
-        <article class="faq-item" itemscope itemtype="https://schema.org/Question">
-          <h3 itemprop="name">Is Nomoads available on iPhone?</h3>
-          <p class="faq-short-answer" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer"><span itemprop="text">Yes. Nomoads is available on the App Store for iPhone and on Google Play for Android.</span></p>
+        <article class="faq-item">
+          <h3>Is Nomoads available on iPhone?</h3>
+          <p class="faq-short-answer">Yes. Nomoads is available on the App Store for iPhone and on Google Play for Android.</p>
           <p class="faq-explanation">Download Nomoads from the <a href="https://apps.apple.com/us/app/nomoads-ad-blocker/id6759786049">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.crowstar.nomoads">Google Play</a>. Both versions use on-device DNS filtering via Apple's Network Extension (iOS) or Android's VpnService.</p>
         </article>
       </div>
@@ -1616,6 +1856,7 @@
               </div>
             </li>
           </ul>
+          <p class="privacy-policy-link"><a href="/privacy/">Read the full Privacy Policy</a></p>
         </article>
         <div class="privacy-visual" aria-hidden="true">
           <div class="privacy-graphic" id="privacy-graphic">
@@ -1659,37 +1900,32 @@
     <div class="container">
       <div class="footer-top">
         <div class="footer-brand">
-          <a href="https://nomoads.com/" class="logo">
+          <a href="/" class="logo">
             <div class="logo-icon" aria-hidden="true">N</div>
             <span class="logo-text">Nomoads</span>
           </a>
           <p>Nomoads is an on-device ad blocker for iOS and Android. It filters ads, trackers, and malware at the DNS level across every app on your phone.</p>
+          <p>Made by Vladyslav Palamarchuk. Contact <a href="mailto:support@nomoads.com">support@nomoads.com</a>.</p>
         </div>
         <div class="footer-links">
           <h4>Product</h4>
           <a href="#features">Features</a>
           <a href="#screenshots">Screenshots</a>
+          <a href="#how-it-works">How It Works</a>
           <a href="#comparison">Compare</a>
+          <a href="#pricing">Pricing</a>
           <a href="#faq">FAQ</a>
           <a href="#download">Download</a>
         </div>
         <div class="footer-links">
           <h4>Resources</h4>
           <a href="/llms.txt">llms.txt</a>
-          <a href="https://nomoads.com/privacy">Privacy Policy</a>
-          <a href="https://nomoads.com/terms">Terms of Service</a>
+          <a href="/privacy/">Privacy Policy</a>
+          <a href="/terms/">Terms of Service</a>
         </div>
       </div>
       <div class="footer-bottom">
         <span>&copy; <time datetime="2026">2026</time> Nomoads. All rights reserved.</span>
-        <div class="footer-socials">
-          <a href="#" aria-label="Twitter">
-            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-          </a>
-          <a href="#" aria-label="GitHub">
-            <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
-          </a>
-        </div>
       </div>
     </div>
   </footer>
@@ -1701,18 +1937,19 @@
       const nav = document.querySelector('nav');
 
       if (menuBtn && nav) {
+        const setOpen = (open) => {
+          menuBtn.classList.toggle('open', open);
+          nav.classList.toggle('open', open);
+          menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          document.body.style.overflow = open ? 'hidden' : '';
+        };
+
         menuBtn.addEventListener('click', () => {
-          menuBtn.classList.toggle('open');
-          nav.classList.toggle('open');
-          document.body.style.overflow = nav.classList.contains('open') ? 'hidden' : '';
+          setOpen(!nav.classList.contains('open'));
         });
 
         nav.querySelectorAll('a').forEach(link => {
-          link.addEventListener('click', () => {
-            menuBtn.classList.remove('open');
-            nav.classList.remove('open');
-            document.body.style.overflow = '';
-          });
+          link.addEventListener('click', () => setOpen(false));
         });
       }
 

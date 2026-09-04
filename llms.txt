@@ -17,7 +17,7 @@ All filtering happens on your device. Nomoads uses a local VPN interface to acce
 - **Protection levels**: Choose from Basic through Ultimate blocklist presets, or import custom blocklist URLs (Premium). Example: stricter levels can block gambling or adult-content domains.
 - **Per-app exclusions** (Premium): Exclude specific apps from filtering when a service breaks under blocking. Example: exclude a banking app while keeping ads blocked everywhere else.
 - **Domain allowlist**: Whitelist trusted domains that should never be blocked. Example: allowlist a news publisher you want to support.
-- **Block statistics**: See a running count of blocked DNS requests, stored on-device only.
+- **Block statistics**: See total DNS queries, how many were blocked, a 24-hour activity chart, top blocked domains, and an on-device query log. Counts stay on your phone and are not uploaded.
 
 ## Who Nomoads is for
 
