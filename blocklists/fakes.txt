@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-09-11T20:42:11.539Z
-# Entries: 16690
+# Last updated: 2026-09-12T10:21:09.541Z
+# Entries: 16708
 finanzen.075756.net
 eu.2bagsvalley.cn
 ai.55aiagents.com
@@ -232,7 +232,6 @@ modellbahn.de-imex.de
 pusheen.de-imex.de
 mein.lhk.de-plushilfe.com
 resolved.defisolution.net
-webtrader.degiropartners.io
 shop.degussa-goldhandel.de
 parcel.deliv.com
 handschellen.deveri.de
@@ -461,6 +460,7 @@ novintraa.myshopify.com
 nsk-gmbh.myshopify.com
 oasenlicht.myshopify.com
 oonowa.myshopify.com
+oranix-de.myshopify.com
 ostyro.myshopify.com
 pillo-haus.myshopify.com
 playstation-boome.myshopify.com
@@ -675,8 +675,6 @@ life.yuomyt.com
 wwujiao2w.x.yupoo.com
 lux-clubx.za.com
 offup-vip.za.com
-thomann-vip.za.com
-thomannsale.za.com
 vip-vision.za.com
 german.zeelool.com
 grundbuch.zentraler-antragsservice.com
@@ -979,6 +977,7 @@ airvaxde.com
 airyano.com
 airyclub.com
 airzuma.at
+airzuma.com
 aisope.at
 aitechinpharma.com
 aix-investments.com
@@ -1640,6 +1639,7 @@ aurahous.com
 aurainfusions.com
 auraterraplaza.com
 aureamunich.de
+aureliustrust.uk
 aurelllc.com
 aurendal.com
 auresthiqan.sbs
@@ -2004,6 +2004,7 @@ bbgadget.de
 bbqaccessoriessale.com
 bccnerty.com
 bch-oberursel.de
+bcls-assets.com
 bcm-shop.de
 bcns-shop.com
 bcom-solar.de
@@ -2226,6 +2227,7 @@ bestelektronicshop.de
 bestellen-ciao-ciao-pf.de
 bestellundgut.de
 bestelnuar.click
+bestemed.com
 bestemedikamente.com
 bestenkaufen.com
 bestenwahl.de
@@ -2471,6 +2473,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -2580,6 +2583,7 @@ bluttestzuhause.com
 blyss-shop.de
 bmbgreen.com
 bmcloth.com
+bmfflnanzonline.net
 bmgebaeudereinigung.de
 bmgvinyl.shop
 bmn-online.de
@@ -3308,6 +3312,7 @@ claraluzern.ch
 clarks-germany.com
 clarks-osterreich.com
 clarks-schweiz.com
+clarksaustria.at
 clarksdeutschland.de
 clarksdeutschlandsale.com
 clarksgermany.com
@@ -3338,6 +3343,7 @@ clearancecurrent.com
 clearancegowns.com
 clearanceu.com
 clearingt.com
+clearmarket-europe.com
 clearmarketeurope.com
 clearstream.fashion
 clearstream.xin
@@ -3922,6 +3928,7 @@ decorstore.club
 decorworld.shop
 decosplaycartpop.shop
 decotik.de
+decovividly.com
 deeynee.com
 defahrrad.com
 defahrradkomponenten.com
@@ -4177,6 +4184,7 @@ dianagarciaonline.com
 diandrabeauty.xyz
 dianjingniu-online.com
 diantrag.com
+diaryofafitmommy.com
 dicamgruppe.de
 dicha-anhaenger.com
 dicha-bike.com
@@ -4225,6 +4233,7 @@ dinosaurier.store
 dinosupplies.to
 dionfashion.com
 diotrange.com
+diploms.de
 dirctychop.com
 directepargne.com
 directzs.com
@@ -4676,7 +4685,6 @@ eku-handel.de
 ekzsale.shop
 elaines.life
 elamriaa.com
-elan-monrevo.com
 elanova.eu
 elansyvor.fr
 elbperspektive.de
@@ -5000,6 +5008,7 @@ etkick.de
 etniesshoesireland.com
 etrade-securities.com
 etradecapitals.com
+etrias.de
 etrooppisode.com
 etropo.com
 etsbois-de-chaufage.com
@@ -5765,7 +5774,6 @@ foxhandel.de
 foxracinggeschaft.com
 foxverkaufe.com
 fr-drbright.net
-fr-totalenergiesinvest.com
 fractionevr.com
 fractionu.com
 fragfinanz.com
@@ -6245,6 +6253,7 @@ germandepartmentstore.com
 germanfishinggear.com
 germanfurnituremart.com
 germangoodsonline.com
+germangusto.com
 germaniatool.com
 germaniatoolshop.com
 germanmanufaktur.de
@@ -6864,6 +6873,7 @@ handylocate.com
 handyorten.de
 handyprotool.com
 handytoolpro.com
+hanfmeister.at
 hanfseedstore.de
 hangel-handel.de
 hangmats.com
@@ -8184,6 +8194,8 @@ k-ebikegmbh.de
 k4-kulturgarten.de
 ka-pharm.com
 kabahinfo.net
+kabelbund.com
+kabelschuhekaufen.com
 kabilon.com
 kabinett-sales.com
 kachi-berlin.de
@@ -9678,6 +9690,7 @@ marketgiants.com
 marketinghouse.at
 marketmarkdowns.com
 marketoptions.com
+marketpills4you.com
 markets-capital.com
 markets-investment.com
 markets365.net
@@ -9839,7 +9852,6 @@ medshopcpl.com
 medsinfoshop.com
 medzrezeptfrei.com
 meertickets.de
-meetcurve.de
 meetfigure.com
 mega-meigaomei-online.com
 megacix.com
@@ -9976,6 +9988,7 @@ mepalconstructionmodulaire.com
 merados.de
 merapack.com
 merapetfood.shop
+mercadobuyprice.com
 mercadolibre.at
 mercapool.de
 mercator.direct
@@ -10821,6 +10834,7 @@ nextbinary.com
 nextchain.at
 nexusbids.com
 nexussolaraus.com
+nexuswebshop.com
 nflfanaticsstore.com
 nger.de
 nguebelipharma.com
@@ -11286,7 +11300,6 @@ onlinebonuscasino-de.de
 onlinebusinessdorf.de
 onlinecasinoparis.com
 onlinecasinositeindia.com
-onlinecasinoslasvegas.com
 onlinecasinosohneverifizierung.de
 onlinedamen.de
 onlinedrugsnorx.com
@@ -11610,6 +11623,7 @@ pandoraaustria.at
 pandorade.de
 pandorakorut.com
 pandoraringsuk.com
+pandoras-outlet.com
 panelaeki.de
 pankratiusgarten.de
 panolu-shop.com
@@ -11732,6 +11746,7 @@ perfectaccessories.shop
 perfumology.shop
 pergolarabatt.com
 pergus-data.de
+peripherie-plus.shop
 perlatoschuhe.com
 perlatoshoe.com
 perlenwerk.com
@@ -11879,6 +11894,7 @@ pills-store-online24.com
 pillsshop.live
 pillstock.net
 pillz888.org
+pilotentest-vorbereitung.com
 pilotshof.com
 pilule-france.com
 pilulky-cz.com
@@ -12303,6 +12319,7 @@ qidjrsgroup.shop
 qihaobuy.com
 qlepy.com
 qliopbn.forum
+qmdhueo.shop
 qmwblnuk.shop
 qnesz.shop
 qnfreerypc.click
@@ -12406,6 +12423,7 @@ radbekleidung4u.com
 radelhelden.com
 radfahrzeit.com
 radfit24.com
+radhafen.com
 radhandel24.de
 radiator-selling.com
 radiusor.com
@@ -12815,6 +12833,7 @@ rolex-replica.to
 rolexwanduhr.de
 rolexyeals.com
 rolla.store
+rolladen-rudolf.at
 rolladenreparatur.at
 rollandbois.com
 rollangel.com
@@ -12934,6 +12953,7 @@ ruxavild.at
 rvcajapan.net
 rwcstore.com
 rx-budapest.com
+rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
@@ -13116,6 +13136,7 @@ sbikeparts.com
 sbk-hoffmeyer.de
 sbnaf.shop
 sboxcontainers.com
+scannero.io
 scarpaosterreich.at
 schachworkshop.de
 schadensboerse.at
@@ -13872,7 +13893,6 @@ souhutiyu-online.com
 soundhive.de
 sourceforsport.com
 sovectoron-1-naatlasix-losolara.com
-sowaswillichauch.de
 soxfinancial.com
 sozialversicherungsausweisportal.de
 spacebuds.de
@@ -13907,6 +13927,7 @@ spectarecipe.com
 spectrumequitypulse.com
 speculaten.com
 spedition-thiemann.de
+spedition-tml.de
 speditionspellets.com
 speechfaith.com
 speed-gaming.com
@@ -14414,6 +14435,7 @@ symbiosiswellbeing.com
 synizesis.com
 synthplatformtrust.click
 syrokan.com
+system-capital.org
 systemofdown.com
 sz-fishing.de
 sz-tax.com
@@ -15137,6 +15159,7 @@ triptistore.de
 triton-online.com
 tritoncapitalmarkets.com
 trivanode.com
+trivio-handel.de
 trivona.de
 trixupmysleeve.com
 trocador.at
@@ -15750,6 +15773,7 @@ vitafeetdeu.com
 vitafus.com
 vital-vibe.com
 vitaldelikatesse.com
+vitalheldenhub.com
 vitalismoemi.com
 vitalkompass-de.com
 vitalogen.de
@@ -16431,8 +16455,8 @@ xpmarkets.com
 xprtcoin.com
 xrivalfitness.com
 xshopcloud.com
-xsltkprx.shop
 xspiegel.de
+xsxpswau.shop
 xsy198.com
 xtb-partner.com
 xtrader365.com
@@ -16444,7 +16468,6 @@ xyiyi.com
 y-stop.com
 yaberauto.com
 yachtausstattung.com
-yadjmjrx.shop
 yahalom.de
 yakshart.com
 yalovakameragunespaneli.com
@@ -16468,8 +16491,6 @@ yinzmkt-sales.com
 yiqixiuba.com
 yiyang-solar.com
 yjcsundw.com
-ykfojdaa.shop
-ykwkgndw.shop
 ymking.com
 yogaathleta.de
 yogabaum.at
@@ -16509,7 +16530,6 @@ yuguz.com
 yukomi.com
 yumekatsu.com
 yumgo.net
-yummycrystal.com
 yvarrd.shop
 yvipharmacy.com
 yydspan.com
@@ -16585,7 +16605,6 @@ zenla.de
 zenniagoods.com
 zeno-paris.shop
 zenoclimat.de
-zenospark.top
 zenova-shop.de
 zenovaa.store
 zentempel.com
@@ -16682,7 +16701,6 @@ zureonglobal.com
 zusammenmitthule.de
 zusellmk.click
 zuverlassigerkredit.com
-zwclsaablueashe.shop
 zwergspitzpomeranian.com
 zxmcm.com
 zybux.shop

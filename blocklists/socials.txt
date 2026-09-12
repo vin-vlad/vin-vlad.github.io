@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-09-11T20:42:11.995Z
-# Entries: 902
+# Last updated: 2026-09-12T10:21:10.502Z
+# Entries: 900
 2ch.org
 4cdn.org
 4chan.org
@@ -761,9 +761,7 @@ redditmail.com
 redditmedia.com
 redditstatic.com
 redkix.com
-rocksdb.com
 rocksdb.net
-rocksdb.org
 rollenspiel.social
 rossgram.ru
 ruby.social
