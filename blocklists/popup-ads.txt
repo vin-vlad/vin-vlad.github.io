@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-09-22T21:02:33.701Z
-# Entries: 50664
+# Last updated: 2026-09-23T11:04:55.490Z
+# Entries: 50665
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
 c7ca525b2e.0491166852.com
@@ -333,9 +333,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -12405,6 +12402,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basednewsarticle.com
 basejudgementquizmaster.com
@@ -17693,6 +17691,7 @@ danarozmarin.com
 danarozmarin.net
 danarozmarin.org
 danbo.org
+danceddudley.com
 danceklub.com
 dancelotsindependently.com
 dancemistake.com
@@ -26795,6 +26794,7 @@ impulsejewel.com
 impulsivereorganize.com
 impunityapex.com
 impure-disk.pro
+impurelocal.com
 impurepath.com
 impvxbltkk.com
 imr5d.com
@@ -37032,6 +37032,7 @@ ponido.win
 ponkftkgeqxzl.com
 pontacqarced.com
 ponypangcautious.com
+ponysedativewomb.com
 poodlelucent.com
 poodlesuccessiveplays.com
 poodlevariety.com
