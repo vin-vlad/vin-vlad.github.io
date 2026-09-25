@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-09-24T21:18:43.240Z
-# Entries: 17336
+# Last updated: 2026-09-25T11:27:58.884Z
+# Entries: 17357
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -361,6 +361,7 @@ start.learn-english.education
 checkout.leonboutique.co
 elektriker.lindens.at
 installateur.lindens.at
+evinjeta-slovenia.listocar.com
 invest.livaxxen.org
 market.livaxxen.org
 ledger.live-transactions-check.com
@@ -1006,6 +1007,7 @@ airguncapital.com
 airjordan.at
 airmaxsale.de
 airnext.io
+airobotsupplier.com
 airoil.de
 airpurifieroutlet.com
 airsalo.com
@@ -1417,6 +1419,7 @@ apexmaquinariaindustrial.com
 apharmacie.com
 aphroditecards.com
 apkwell.com
+aplamzelte.de
 aplschuhe.at
 aplschuhe.com
 apo-rezeptfrei.com
@@ -1938,6 +1941,7 @@ baitcastruten.com
 bake-store.com
 bakerrabatt.de
 bakingmold-shop.com
+bakuchiol.online
 bakuronel.com
 bakuronel-ai.net
 bakuronel-italy.com
@@ -2564,7 +2568,6 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
-bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -2612,6 +2615,7 @@ black-shepp-gastroservice.com
 blackfridaymegastore.com
 blackgurlzsmagickloset.com
 blacktridentpop.shop
+blacktridents.shop
 blackyakrabatt.com
 bladebasics.com
 blasgarten.de
@@ -2883,6 +2887,7 @@ brennstoffemokstat.shop
 brenstoffe-versand.de
 brenuingerde.com
 breuer-boutique.de
+breuermode.de
 breuninger-berlin.de
 breuninger-stuttgart.de
 brevani.de
@@ -3826,6 +3831,7 @@ curefip.com
 curiosi.shop
 curotoshop.com
 currentbody-outlet.de
+currentbodyaustria.com
 currext.com
 curtainguess.com
 curvedream.de
@@ -3842,6 +3848,7 @@ cutterfarm.de
 cuttingboarddirect.com
 cv-tech-onlineshop.de
 cvc-capital-partners.com
+cvmaker.de
 cvneed.com
 cwl-experts.org
 cxzy.de
@@ -4614,6 +4621,7 @@ drumcovere.com
 drykorngeschaft.com
 dryredwineshop.com
 dryrosewine.com
+ds24-handel.de
 dsdeinschoenergarten.de
 dsenergieberatung.de
 dshpartners.com
@@ -5208,6 +5216,7 @@ eu-first.com
 eu-meds.net
 eu-meds.online
 eu-pharmacy-online.com
+eu-segway.com
 eu-sezane.com
 eu-trader.io
 eu-venum.shop
@@ -5313,6 +5322,7 @@ eversonehandel.at
 everyday-outdoor.de
 everyknives.com
 eviobaby.com
+evisas.travel
 evitrol.com
 evo-pharmacy.com
 evolgrafix.de
@@ -5740,6 +5750,7 @@ fine-germa-furniture.com
 finebeachwear.com
 finetero.com
 finetoolstore.com
+fineweine.com
 finewineaccess.com
 finkerkette.de
 finmaxbo.com
@@ -6546,6 +6557,7 @@ get-ozoori.com
 get-purisaki.com
 get-rc.to
 get-teralin.site
+get-wuffy.com
 getalliny.com
 getanswers.net
 geteasygroup.com
@@ -7377,6 +7389,7 @@ heizoel-easy.com
 heizoel-experten.de
 heizoel-freunde.de
 heizoel-fuchs24.de
+heizoel-genial.com
 heizoel-held.de
 heizoel-kalkulator.de
 heizoel-liefern.de
@@ -8023,7 +8036,6 @@ immediate-connect.app
 immediate-coraldex.com
 immediate-dash.de
 immediate-direct.com
-immediate-edge2.com
 immediate-flik.com
 immediate-growth.com
 immediate-momentum.com
@@ -8598,7 +8610,6 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
-kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-levne.cz
@@ -8661,6 +8672,7 @@ kamiksuomi.com
 kaminexpertstore.com
 kamingmbh.de
 kaminholz-briketts-holzpellets.eu
+kaminholz-erzgebirge.com
 kaminholz-premium.de
 kaminholzbeumer.de
 kaminholzdirekt.ch
@@ -10068,7 +10080,6 @@ marketgiants.com
 marketinghouse.at
 marketmarkdowns.com
 marketoptions.com
-marketpills4you.com
 markets-capital.com
 markets-investment.com
 markets365.net
@@ -10108,6 +10119,7 @@ marwoodworkshop.com
 maryrosecuskelly.com
 marystyles.com
 maschinenbau-marketingtranslations.com
+maschinenbau-stripegmbh.de
 maschinenfuergarten.de
 maschinenpreiswert.com
 mascotsmall.com
@@ -10808,7 +10820,6 @@ moonkie.de
 moonpod.de
 moontod.com
 moonx.io
-mooris.de
 moosufergarten.de
 mooxishop.de
 moreviabeauty.com
@@ -10998,6 +11009,7 @@ myinsider.club
 mykitworkshops.de
 myleadcorner.com
 mylumenx.com
+mymedicalshop365.top
 mymedshoplive.com
 mynanosparkle.com
 mynco.com
@@ -11733,6 +11745,7 @@ onlinecasinosohneverifizierung.de
 onlinedamen.de
 onlinedrugsnorx.com
 onlineeba.com
+onlineeinkaufswelt.com
 onlinefinanz-bmf.com
 onlineforyou.net
 onlinegearwrench.com
@@ -11837,6 +11850,7 @@ orcliacare.com
 order-cs.eu
 orderbuycheap.com
 ordergunmagazinesonline.com
+orderrxstore.com
 ordersurfsite.com
 orderumbrella.com
 ordinarlim.com
@@ -12262,7 +12276,6 @@ pfotentrend.com
 pfotenzug.com
 pg99.cc
 pgddfgqt.shop
-pgmgcved.shop
 pgmus.net
 pgmvip.com
 pgz999-online.com
@@ -13403,6 +13416,7 @@ rpgmerchstore.com
 rqhtyztv.shop
 rrsstore.com
 rsellssasu.com
+rsholzgmbh.de
 rtieej.buzz
 rub-guben.de
 rubberweekly.com
@@ -13740,6 +13754,7 @@ schuheverkauf-de.com
 schuhewienshoponline.com
 schuhhaus-greten.de
 schuhheld.com
+schuhkomfort.shop
 schuhwelten.com
 schulte-boutique.de
 schultefashion.com
@@ -13821,6 +13836,7 @@ seewinklermaeher.at
 seforimdealsho.shop
 segleruhren.de
 segurofx.com
+seidel-kanzlei.de
 seidl-mode.com
 seidlmodehaus.com
 seifenbrause.de
@@ -13921,6 +13937,7 @@ shinelampenshop.com
 shingekishop.com
 shingirl.de
 shinyflakes.de
+shipafreight.com
 shippills.com
 shirem.com
 shirteu365.com
@@ -14421,6 +14438,7 @@ souhutiyu-online.com
 soundhive.de
 sourceforsport.com
 sovectoron-1-naatlasix-losolara.com
+sowaswillichauch.de
 soxfinancial.com
 sozialefinanzen.de
 sozialversicherungsausweisportal.de
@@ -14795,6 +14813,7 @@ strongoptions.com
 strongstrongsupply.com
 strongupgear.com
 strumpfkauf.de
+stubenlatschen.com
 studenten-lektor.de
 studententransporter.de
 studio34beautylab.com
@@ -16511,6 +16530,7 @@ vrtil.com
 vruktazelin.at
 vruktazelin.tech
 vs-home.de
+vsgdew.shop
 vssaleonline-us.shop
 vswatches.net
 vtmarketsfr.com
@@ -16685,6 +16705,7 @@ weidemann-kanzlei.de
 weihnachtsdekokaufen.com
 weikershem.de
 weil-handel.de
+weimar-maschine.de
 weimifuwl.com
 weimmer.de
 wein-deluxe.eu
