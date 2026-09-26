@@ -1,6 +1,6 @@
 # socials
-# Last updated: 2026-09-26T11:03:13.959Z
-# Entries: 900
+# Last updated: 2026-09-26T20:49:24.483Z
+# Entries: 899
 2ch.org
 4cdn.org
 4chan.org
@@ -685,7 +685,6 @@ p16-tiktok-live-smb-fe-sg.ibyteimg.com
 p16-tiktok-livestudio-asset-sg.ibyteimg.com
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
-p16-tiktok-va.ibyteimg.com
 p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 parse.com

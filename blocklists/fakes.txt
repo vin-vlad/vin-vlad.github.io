@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-09-26T11:03:13.374Z
-# Entries: 17357
+# Last updated: 2026-09-26T20:49:23.687Z
+# Entries: 17367
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -554,6 +554,7 @@ utlcm.noborn.com
 getclairu.nomshopper.com
 austria.ntyavidpre.shop
 webtrader.nuxeros.app
+aut.oanrp.shop
 slimvitaxdietgummies.officialdealsite.com
 adl.okhxm.shop
 app.onlinelebenslauf.com
@@ -770,7 +771,6 @@ ger.zoibakii.com
 3sixteenonline.org
 4-pfoten-freizeit.de
 47215.world
-4bike.net
 4dmarkt.de
 4rainfast.shop
 4rxofficial.com
@@ -2568,6 +2568,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -2605,7 +2606,6 @@ bixvolt.com
 bizcox.net
 bizglobeinvest.com
 bjbta.com
-bjmining.com
 bjwdpgzv.shop
 bk-daten.de
 bkaffee.de
@@ -2692,6 +2692,7 @@ bmpharmacyofficial.com
 bms-promaschinen.com
 bmw-bikertreff-bonsberg.de
 bmwmt2026online.com
+bnbsjbir.shop
 bnp-coin.com
 bnp-otc.com
 bnp-otccoin.com
@@ -3276,7 +3277,6 @@ celebrityfrenchie.com
 celerypets.com
 celeste-botanicals.com
 celinemichaud.com
-cellpeptides.com
 cellphonelocation.net
 celmak.de
 celorin.com
@@ -3438,6 +3438,7 @@ clara-zurich.com
 claraberlin.com
 claracasperjuwelen.de
 clarachristine-wien.at
+claragraz.at
 claraluzern.ch
 clarks-germany.com
 clarks-osterreich.com
@@ -3848,7 +3849,6 @@ cutterfarm.de
 cuttingboarddirect.com
 cv-tech-onlineshop.de
 cvc-capital-partners.com
-cvmaker.de
 cvneed.com
 cwl-experts.org
 cxzy.de
@@ -7948,6 +7948,7 @@ ia-patrimoine.com
 iam-invest.com
 iamkamu.de
 iancheer.com
+iandamode.com
 iauvon.com
 iavkqjlv.shop
 ibcfx.com
@@ -8382,6 +8383,7 @@ jerusalemcharity.com
 jetprofund.net
 jette-handel.de
 jetterix.com
+jetzt-beantragen.com
 jeulia.de
 jewellery-palace.com
 jewelleryina.com
@@ -8610,6 +8612,7 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
+kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-levne.cz
@@ -9886,7 +9889,6 @@ luxzafashion.com
 lvm-capital.com
 lwex.com
 lwex02.com
-lwf-energy.com
 lxcvt.shop
 lxznpo.shop
 lydevmkt.shop
@@ -9915,6 +9917,7 @@ macoens.com
 macro1wo-rks.digital
 macy-outletshop.com
 madeleine-issing.com
+madelinemunchen.com
 madelor.com
 madepants.de
 madgamings.de
@@ -10509,6 +10512,7 @@ milouamsterdam.nl
 milouberlin.de
 miloujewelrys.com
 milyenshop.com
+mimicoffee.com
 mimty.de
 minansecapital.com
 minceex.com
@@ -10820,6 +10824,7 @@ moonkie.de
 moonpod.de
 moontod.com
 moonx.io
+mooris.de
 moosufergarten.de
 mooxishop.de
 moreviabeauty.com
@@ -12632,6 +12637,7 @@ primehealthplus.org
 primehouse.store
 primekredit.com
 primelogisticllc.com
+primeoffer.de
 primepharm24.com
 primeplatform-ai.com
 primesupply.shop
@@ -16480,6 +16486,7 @@ volthausgeraete.de
 voltradbike.de
 voltryzapex.at
 volture.de
+volturexa.de
 voltus-elektroshop.de
 volvax.de
 vonauto.de
@@ -16653,6 +16660,7 @@ wavevisionag.com
 waworld.de
 waxify.de
 wayofwade.at
+wayrates.com
 wbdhyer.shop
 wbecrisfro.com
 wbymall.store
@@ -16723,6 +16731,7 @@ weinonlinestore.com
 weinrabatt.com
 weinshop-de.com
 weinundgenusswelt.com
+weinvielfalt.shop
 weinweltgenuss.com
 weissbt.com
 weisseres-lacheln.at
@@ -17062,6 +17071,7 @@ xinghly.com
 xinyuekj.com
 xiruilai.com
 xkolzxhs.shop
+xlorventa.shop
 xlumina.at
 xlumina.de
 xmadramen.club
