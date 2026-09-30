@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-09-30T12:10:39.032Z
-# Entries: 17449
+# Last updated: 2026-09-30T22:01:00.742Z
+# Entries: 17448
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -11197,7 +11197,6 @@ neclune.com
 neded.de
 needsary.com
 needtohike.com
-nefrevbz.shop
 nejlepsi-lekarna.to
 nejlevnejsigenerika.co
 nejlevnejsigenerika.to
