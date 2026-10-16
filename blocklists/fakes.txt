@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-10-16T10:59:57.760Z
-# Entries: 17398
+# Last updated: 2026-10-16T20:42:06.098Z
+# Entries: 17402
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -8019,6 +8019,7 @@ igfmarket.com
 ighpolipd.com
 iglangeh.com
 igm-financial.com
+igm-markets.com
 igmholdings.com
 ignitionmodelcars.com
 igona.de
@@ -17248,6 +17249,7 @@ zaqqstore.com
 zaqtkka.shop
 zaradum.de
 zarah-boutique.de
+zaralove.de
 zarana.de
 zarbi.de
 zardos.net
@@ -17394,8 +17396,10 @@ zuverlassigerkredit.com
 zweirad-handel.com
 zwergspitzpomeranian.com
 zybux.shop
+zycrian.com
 zynexorai.at
 zyphorbit.at
 zyphorbit-at.com
 zyra-amsterdam.nl
 zyronpaneele.com
+zyskoro.app
