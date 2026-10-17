@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-10-16T20:42:06.569Z
-# Entries: 56070
+# Last updated: 2026-10-17T10:21:13.682Z
+# Entries: 56071
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -46875,6 +46875,7 @@ star4m.com
 starckfilmes-v14.com
 starckfilmes-v15.com
 starckfilmes-v16.com
+starckfilmes-v26.com
 starckfilmesnet.com
 stardiima.top
 starfiles.co

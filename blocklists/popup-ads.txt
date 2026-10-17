@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-10-16T20:42:06.163Z
-# Entries: 47117
+# Last updated: 2026-10-17T10:21:13.648Z
+# Entries: 47119
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
 42a95337ac.07a243cfe3.com
@@ -331,6 +331,9 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
+chiyouranai.base.shop
+tokujiro.base.shop
+uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -12062,7 +12065,6 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
-base.shop
 baseballletters.com
 basednewsarticle.com
 basejudgementquizmaster.com
