@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-10-17T20:19:29.647Z
-# Entries: 17431
+# Last updated: 2026-10-18T10:38:15.144Z
+# Entries: 17435
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -3679,6 +3679,7 @@ containerschiffsreedereigmbh.de
 containerslager.com
 containersolutionscs.de
 containersparks.com
+containerstahlhaus.com
 containerwelt24.com
 containerworldllc.store
 contiflexv.com
@@ -3856,6 +3857,7 @@ csbsts.site
 cschwindt24.de
 csschwindt.de
 csunbox.com
+ctbike.pl
 cthesky.com
 ctoption.com
 ctxholdings.com
@@ -6036,6 +6038,7 @@ fox-mart.de
 foxhandel.de
 foxracinggeschaft.com
 foxverkaufe.com
+fplgchauffage.com
 fr-drbright.net
 fractionevr.com
 fractionu.com
@@ -10012,6 +10015,7 @@ magicfreecom.com
 magicplayzone.com
 magicpotionoutletstore.shop
 magicwandshop.de
+magiluxe-store.com
 magischepfoten.de
 magischesparfum.de
 magiskapk.net
@@ -10524,7 +10528,6 @@ mfmarketgmbh.de
 mfomatratzenmarkt.de
 mfsebike.com
 mg-management.de
-mgaffaires.com
 mgmglobal.com
 mhamzasaleem.com
 mhoptions.com
@@ -13287,7 +13290,6 @@ rheinwing.de
 rheumaschuhe.de
 rheumatologie-wien.at
 rhinoshopsystems.com
-rhodeshotel24.com
 ri-lieeoodu.com
 ricadihotelspage.com
 ricardo-sofort-deals123.online
@@ -13405,6 +13407,7 @@ rohrshop24.com
 roinvest.net
 roleo.net
 rolex-replica.to
+rolexwanduhr.de
 rolexyeals.com
 rolla.store
 rolladen-rudolf.at
@@ -16455,6 +16458,7 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de

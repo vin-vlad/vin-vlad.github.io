@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-10-17T20:19:29.807Z
-# Entries: 56386
+# Last updated: 2026-10-18T10:38:15.751Z
+# Entries: 56390
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -4610,6 +4610,7 @@ animeclipse.com
 animedao.com
 animedao.to
 animedao.vip
+animedown.org
 animefillerchecker.com
 animefire.app
 animefire.one
@@ -13904,6 +13905,7 @@ futbollibre.ink
 futbollibre.mobi
 futbollibre.watch
 futbollibre.ws
+futbollibree.live
 futbollibres.live
 futbollibretotal.com
 futbollibretv.bet
@@ -39539,6 +39541,7 @@ newz-complex.org
 newzbin.com
 newzleech.com
 newznab.com
+nexanime.app
 nextflicks.link
 nextgenroms.com
 nextmovie.online
@@ -55447,6 +55450,7 @@ youngatheart.com
 youplex.site
 youpornbook.com
 your-name-lordfilm.cam
+youranimebox.com
 youranimerank.com
 yourbittorrent.com
 youreasyip.tv
