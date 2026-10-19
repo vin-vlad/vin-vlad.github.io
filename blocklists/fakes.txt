@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-10-18T20:19:12.349Z
-# Entries: 17435
+# Last updated: 2026-10-19T12:35:46.994Z
+# Entries: 17428
 f.075756.net
 finanzen.075756.net
 eu.2bagsvalley.cn
@@ -1430,7 +1430,6 @@ aplschuhe.at
 aplschuhe.com
 apo-order-online.com
 apo-rezeptfrei.com
-apotek-no24.com
 apotek-norge24.com
 apotek-norsk.com
 apotekb213.com
@@ -1648,6 +1647,7 @@ at-setrafimoney.org
 atacadobras25.shop
 ataspec.org
 atdasjournal.com
+atelier-romand.com
 atelierdudiamant.com
 atelierhardanger.com
 atelierkitzbuehel.at
@@ -2210,6 +2210,7 @@ berando.de
 beratify.de
 beratungfuerpflege.de
 bercasa.de
+berg-blum.de
 berg-mode.de
 bergandlind.com
 bergcycle.com
@@ -2325,7 +2326,6 @@ bestelektronicshop.de
 bestellen-ciao-ciao-pf.de
 bestellundgut.de
 bestelnuar.click
-bestemed.com
 bestemedikamente.com
 bestenwahl.de
 besteonlineapotheke.com
@@ -2458,6 +2458,7 @@ bigskysaunas.com
 bigsofasde.de
 bigstoregaming.com
 bike-trailer24.de
+bike2bikes.com
 bike69-shop.de
 bikeambulanz-mobil.de
 bikeanbauteile.com
@@ -2585,6 +2586,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -3074,6 +3076,7 @@ by-emmamuller.de
 by-lina.de
 by-olana.com
 by-olivia.com
+bybiesje.com
 bybitbaltic.info
 bycheri.de
 bycicle.net
@@ -3271,7 +3274,6 @@ casualstore77.de
 casualstreet.de
 cat2fip.co
 catalia.de
-catalunyafarm.com
 catatic.de
 cateringvogue.com
 caterpillar-finland.com
@@ -3744,7 +3746,6 @@ cosori.at
 cosplayverkauf.com
 costext.com
 cotige.com
-cotosen.com
 cotovip.com
 cotsrabatt.de
 cottagoshop.com
@@ -3834,7 +3835,6 @@ cryptoassetscontrol.com
 cryptobullbear.com
 cryptocase.online
 cryptocash24.com
-cryptoeasily.com
 cryptofast.net
 cryptofundfx.com
 cryptomoney888.com
@@ -4387,7 +4387,6 @@ dianagarciaonline.com
 diandrabeauty.xyz
 dianjingniu-online.com
 diantrag.com
-diaryofafitmommy.com
 dicamgruppe.de
 dicha-anhaenger.com
 dicha-bike.com
@@ -4839,7 +4838,6 @@ ecs-solutions.net
 ecstasy-baby.net
 ecxtrade.com
 ed-apotheke.de
-ed-hrvatski.com
 edapotheke.store
 edavo.de
 edc-knife.com
@@ -5311,7 +5309,6 @@ europaeisches-treuhandkontor.com
 europaischeapotheke.com
 europalettenmoebel.de
 europe-pack.eu
-europe-pharm.com
 europe-pimco.com
 european-pharmacy.online
 europeangeneric.com
@@ -5332,7 +5329,6 @@ eushop247.com
 eusuperstores.com
 euvalentinogaravani.de
 euvendorshub.online
-euvitafarm.com
 ev-farm.com
 evaam.de
 evaluma.de
@@ -5730,7 +5726,6 @@ fidsonline.org
 fiduciacarepartners.com
 fiduciaops.com
 fieldfurnish.com
-fiercehealthfinance.com
 fiesefalle.de
 fightfairtex.com
 fightsolong.com
@@ -5792,7 +5787,6 @@ finetoolstore.com
 fineweine.com
 finewineaccess.com
 finkerkette.de
-finmaxbo.com
 finnexbot.com
 finnflarede.shop
 finosso.com
@@ -6589,7 +6583,6 @@ gesundpur.at
 gesundundklar.com
 get-adel.de
 get-airzuma.com
-get-akusoli.com
 get-coolizicoolzy.store
 get-curaball.com
 get-epicooler.com
@@ -6829,7 +6822,6 @@ goldengoosesale.at
 goldenngoosee.com
 goldenpandacasino-online.de
 goldenpassmedia.com
-goldenpump.de
 goldenretrievervompfarrgarten.de
 golderstarbeer.com
 goldhandel-degussa.com
@@ -7116,7 +7108,6 @@ haert.org
 hagebauu.com
 hagedornmode.de
 hagement.com
-hagezi.com
 haglofsoutletsuomi.com
 hagomann.de
 hahaiamandy.com
@@ -7383,6 +7374,7 @@ heimvoll.de
 heimwerkende.de
 heimwerkzeugesde.com
 heinrich-baumarkt.com
+heinrich-handel.com
 heisehaus.com
 heisen-handels.de
 heisenberg24.com
@@ -7613,7 +7605,6 @@ high-quality-model.com
 highbroker.com
 highbtcstock.com
 highjel.com
-highlandshotels.net
 highluxury.sk
 highluxurystore.co
 hijabsalmapop.shop
@@ -7867,7 +7858,6 @@ hotelladen.com
 hotels-colombo.com
 hotelsinperm.ru
 hotelsinvienna.org
-hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
 hotix.de
@@ -7984,7 +7974,6 @@ hype-hoodies.com
 hypedrip.top
 hypelaced.co
 hyper-pools.com
-hyperstech.com
 hyperx-pool.com
 hypescrape.com
 hypma.com
@@ -8674,6 +8663,7 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
+kamagra-pro.online
 kamagra-prodej.cz
 kamagra-prodej.online
 kamagra-prodej-levne.cz
@@ -11055,7 +11045,6 @@ mustang-parts-shop.de
 muttermode.de
 muvena-mode.com
 muzam.de
-muzenaudio.com
 mvfurs.com
 mvhulvrd.shop
 mvleingarten.de
@@ -11362,6 +11351,7 @@ niazm.com
 nibeguq.com
 nicechmk.shop
 nicedoc.co
+nicetossyhn.click
 nichespares.com
 nicheten.com
 nicikuscheltiere.com
@@ -12362,6 +12352,7 @@ phaidon-online.shop
 phamstoretcg.de
 pharm-24h.com
 pharm-discount.com
+pharm-discounter.com
 pharma-cards.de
 pharma-euro.com
 pharma-versandhandel.de
@@ -13538,6 +13529,7 @@ ruxavild.at
 rvcajapan.net
 rwcstore.com
 rx-budapest.com
+rx-discount.com
 rx-pharma.net
 rx-pharmacies.com
 rx-qualityshop.com
@@ -13684,6 +13676,7 @@ sara-berlin.com
 saradhagroup.com
 sarahmeyer.com
 sarahravengb.com
+sarahrmeyer.com
 saramaud.com
 sarasohaus.com
 sarl-castelmag.com
@@ -14013,6 +14006,7 @@ shinelampenshop.com
 shingekishop.com
 shingirl.de
 shinyflakes.de
+shipafreight.com
 shippills.com
 shirem.com
 shirteu365.com
@@ -14271,6 +14265,7 @@ skynore.de
 skyrro.com
 skysupp.com
 skyvault.ltd
+sl-handel.de
 sl-leasinggesmbh.at
 slavianstore.com
 sleep-more.de
@@ -16458,7 +16453,6 @@ vivabikes.de
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -17219,7 +17213,6 @@ yonexdeutschland.com
 yonexdeutschland.de
 yonexs.at
 yoocaa.com
-yoohal.com
 yooofa.com
 yootet.com
 yorkbootsshop.de
