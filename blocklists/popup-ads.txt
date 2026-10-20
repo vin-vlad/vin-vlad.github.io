@@ -1,6 +1,6 @@
 # popup-ads
-# Last updated: 2026-10-20T11:09:24.982Z
-# Entries: 47691
+# Last updated: 2026-10-20T21:23:38.822Z
+# Entries: 47715
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
 42a95337ac.07a243cfe3.com
@@ -755,6 +755,8 @@ boomcoffee.com.br
 bykj.com.cn
 cdragon.com.cn
 ch-qishui-music.com.cn
+changelly.com.lc
+changelly.com.mx
 commissionfactory.com.au
 constructaus.com.au
 cpdc.com.cn
@@ -837,6 +839,7 @@ timbuk2.com.de
 todeskappa.com.cn
 tranyasy.com.cn
 tronlink.com.co
+us-changelly.com.co
 vertiselevadores.com.br
 viajedu.com.br
 vjp.com.cn
@@ -2086,6 +2089,7 @@ test.idiomamadre.hm.net.cn
 cart.net.cn
 favicon.net.cn
 jjsf.net.cn
+ledger.net.cn
 qilao.net.cn
 saiao.net.cn
 sbw.net.cn
@@ -2279,7 +2283,6 @@ mb.palpusichthus.com
 hw.panaceoutlash.com
 click.pandaspins.com
 fv.panoanmyases.top
-go.panotads.com
 dev-7614646544.pantheonsite.io
 wt.papelonkokoona.com
 nice.par-even.com
@@ -2312,6 +2315,7 @@ vnzloj.perfect2dates.com
 al.perriessmeech.com
 rq.pettahgurr.com
 xj.pettlesmethol.com
+app.phantomlocal.com
 zy.phasedcleft.com
 zw.phasingsollya.com
 me.phoceanoyez.com
@@ -9842,7 +9846,6 @@ aiqidwcfrm.com
 aiqinzhubao.com
 air-look-send.com
 air-we4.com
-airairgu.com
 airbornemiser.com
 airbornepensioneradversary.com
 aircaredallas.com
@@ -10772,6 +10775,7 @@ apostlesouvenir.com
 apostleurban.com
 apostrophesubdued.com
 app-aplell.com
+app-changelly.net
 app-gala-games-online-3yhh6.com
 app-gamesonline-9zhq.com
 app-momentum.com
@@ -10884,6 +10888,7 @@ aqdx2021.com
 aqfawlrhik.in
 aqhz.xyz
 aqiongxlma.com
+aqkdmicibfav.in
 aqkkoalfpz.com
 aqkqlshhyfmbf.store
 aqle3.com
@@ -11326,6 +11331,7 @@ ateratera.com
 atewig.com
 atgmzemuf.com
 atgogmvi.com
+atgpwurifh.in
 atgvmlnbtnlxl.website
 atheatmorchan.com
 atheegrun.net
@@ -11848,7 +11854,6 @@ azzorxpza.in
 azzpkuvm.in
 b-7.jp
 b-m.xyz
-b-short.link
 b-withyou.com
 b00m.site
 b02byun5xc3s.com
@@ -12809,6 +12814,7 @@ billwarning55.com
 billypub.com
 bilsoaphaik.net
 bilsyndication.com
+biltemadk.com
 bimbim.com
 bin-layer.de
 bin-tds.site
@@ -13132,6 +13138,7 @@ blushingbread.com
 blushinghappilyberenice.com
 blusterflintbig.com
 blusterhawspontaneous.com
+blxcrbaopbvvxk.com
 blzz.xyz
 bm-bluemoon.com
 bmadss.com
@@ -13479,6 +13486,7 @@ boyfriendmeaningless.com
 boyiinlove.com
 boymagicdate.com
 boyunakylie.com
+bp44bqnvdb.com
 bp7mb11.top
 bpabmyodbtav.com
 bparcizapowm.com
@@ -13758,6 +13766,7 @@ brusklylawton.com
 brut.ooo
 brutalmathematics.com
 bruteportrait.com
+brutishlyfantasizeretorted.com
 brutishlylifevoicing.com
 brxcioxve.com
 brxqstnvd.com
@@ -14877,6 +14886,7 @@ chandlermore.com
 changeablecats.com
 changedevelopmentpeacock.com
 changeflamboyant.com
+changelly-en.at
 changely.at
 changengoaxolt.net
 changeofmarylebone.com
@@ -16862,6 +16872,7 @@ cursorltd.com
 cursorslibrary.com
 curtainscountingsnitch.com
 curtalreinvigorateauthority.com
+curtalsunipods.cfd
 curtcoracii.com
 curve-flnance.com
 curvedheldideal.com
@@ -17659,6 +17670,7 @@ demolishforbidhonorable.com
 demolishovercoat.com
 demolishwrestconclusions.com
 demolitionnutsgrease.com
+demonhunterz.com
 demonstrationleadershippatriot.com
 demonstudent.com
 demotearrogancegroin.com
@@ -18774,7 +18786,6 @@ dspretargeting.org
 dspultra.com
 dsraozxhfuifo.site
 dsreviews.net
-dstillery.com
 dsu-adguard.pro
 dsucpnsfxip.com
 dsultra.com
@@ -19616,6 +19627,7 @@ emulateworse.com
 emulationfastened.com
 emxdgt.com
 en-ledger.com
+en-leger.org
 en-mu-su-bi.com
 en7788.com
 enabledpeople.com
@@ -21859,6 +21871,7 @@ fudyepnjxwmlm.online
 fudzceoandzhm.website
 fuelburns.com
 fuettjbytxvy.com
+fugitivequilt.com
 fuglaizid.net
 fugsslosher.com
 fuhrerstanking.com
@@ -27407,6 +27420,7 @@ kidobedientteeth.com
 kidomax.com
 kidsboilingbeech.com
 kidsevqhaudoi.store
+kihkudwal.in
 kihudevo.pro
 kijia.com
 kikmpahfaj.com
@@ -28248,6 +28262,7 @@ lectureolympics.com
 lecubzcgozcgk.one
 ledeedaugh.com
 ledgeadmitted.com
+ledger-nano.com
 leedagauluz.net
 leedsneurite.com
 leeglaipepoa.com
@@ -29126,6 +29141,7 @@ lrmasmheotivr.com
 lrucqhpa.com
 lrwtsfkv.net
 lryocmakbqri.com
+lryojqlp.in
 lrziloubgdcfe.online
 lsefbdrript.xyz
 lsiszlerwgure.store
@@ -30246,6 +30262,7 @@ mgl.xyz
 mgladthereisso.com
 mgm50.com
 mgmecngr.com
+mgmylc.cc
 mgptijzevfuxj.space
 mgrafmxbsgjma.store
 mgsnicqdeydae.space
@@ -32170,6 +32187,7 @@ npcsgckzwswgs.site
 npcta.xyz
 npdhwhkrn.com
 npiramqanr.com
+npitaqvuwci.in
 npjsottvkqob.com
 npmkmnkjy.com
 npmnavtmhpxf.com
@@ -33326,6 +33344,7 @@ opzoxvxut.com
 opzwfuhi.com
 oqbotdowrcr.in
 oqbowztarb.com
+oqbzwuamhwfy.in
 oqdgibwa.com
 oqdjincce.com
 oqfgyyjtodioh.com
@@ -34151,6 +34170,7 @@ pathsempowergate.com
 pathwayslife.care
 patienceinfluxdemon.com
 patientsaustralia.com
+patozdkidh.in
 patpkutfij.in
 patrickhalks.com
 patricksbutcherboyburgers.com
@@ -37161,6 +37181,7 @@ reate.info
 reaujwzwzkdih.store
 rebakebelage.com
 rebateai.com
+rebaterrecoupe.cyou
 rebelhen.com
 rebelliousallyprohibited.com
 rebelloworks.com
@@ -41011,6 +41032,7 @@ suggestbingo.com
 suggestionbridge.com
 suggestionswear.com
 suggilzanza.com
+sugochanloxl.in
 suguaitaina.com
 suguao.net
 suguap.net
@@ -42840,6 +42862,7 @@ trentbereal.com
 treoppom.in
 trepolan.com
 trezor.la
+trezor-uk.at
 trezorsafety.com
 trezorsuite.at
 trfcbooost.com
@@ -43771,6 +43794,7 @@ uovveljjaoxfe.store
 uoxmdhdsg.com
 uoxocwxakddyq.space
 up-community.wiki
+up-ledger.com
 up-loop.net
 upagqmxqvipry.com
 uparceuson.com
