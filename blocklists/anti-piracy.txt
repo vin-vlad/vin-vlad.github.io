@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-10-28T12:23:29.415Z
-# Entries: 57655
+# Last updated: 2026-10-28T22:21:27.098Z
+# Entries: 57656
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -4734,6 +4734,7 @@ animeabc.xyz
 animeav1.one
 animebam.se
 animeblix.com
+animebourse.com
 animebw.com
 animebyt.es
 animebytes.tv
