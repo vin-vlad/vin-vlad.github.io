@@ -1,6 +1,6 @@
 # gambling
-# Last updated: 2026-10-31T11:54:34.524Z
-# Entries: 626747
+# Last updated: 2026-10-31T21:12:51.956Z
+# Entries: 626739
 v8v1.021td.com
 vip.039-vip6.com
 cdnapiif.039casinocdnhd.com
@@ -22,10 +22,6 @@ k6b7.1stlvyou.com
 pixel-us.1winsa.com
 stage.gitea.1xbet-37322.top
 id.1xbet-adq.top
-adm.1xbet-bofw.top
-airflow.1xbet-bofw.top
-mattermost.1xbet-bofw.top
-portainer.1xbet-bofw.top
 api-dev.1xbet-bonuskod.ru
 devops.1xbet-bonuskod.ru
 nl.1xbet-bonuskod.ru
@@ -55,9 +51,13 @@ rabbitmq.1xbet-nvrz.top
 drive.1xbet-telegramm.ru
 beta.1xbet-vgna.top
 workspace.1xbet-vgna.top
+jira.1xbet-vxj.top
+pay.1xbet-vxj.top
+proxmox.1xbet-vxj.top
 backoffice.1xbet-whel.top
 dev.okta.1xslots-284.top
 builder.1xslots-284.top
+dify.1xslots-284.top
 staff.1xslots-cqm.top
 studio.1xslots-cqm.top
 chatgpt.1xslots-kvo.top
@@ -7109,6 +7109,7 @@ ai.riobetcasino-fdu.top
 boss.riobetcasino-fdu.top
 business.riobetcasino-fdu.top
 cloud.riobetcasino-fdu.top
+command.riobetcasino-fdu.top
 static.riobetcasino-fdu.top
 workspace.riobetcasino-hem.top
 www.en.riobetcasino-lgt.top
@@ -31781,6 +31782,7 @@ zx.zzxx889.com
 1xbet-body.top
 1xbet-bof85.buzz
 1xbet-bof88.cam
+1xbet-bofw.top
 1xbet-bog5.cfd
 1xbet-bog83.cam
 1xbet-bogx.top
@@ -268080,7 +268082,6 @@ com-polybet-q63.com
 com-polybet-q64.com
 com-polybet-q65.com
 com-polybet-q66.com
-com-polybet-q67.com
 com-polybet-q68.com
 com-polybet-q69.com
 com-polybet-q70.com
@@ -280704,7 +280705,6 @@ diabetikertreff-bietigheim.de
 diabetir.online
 diabetis-mellitus.de
 diabetologe-online.de
-diabetologia-budapest.hu
 diabetologie-info.de
 diabetologie-steglitz.berlin
 diabetover-oficjalna.shop
@@ -321551,7 +321551,6 @@ gomu837-slot.com
 gomu837casino.com
 gomu837hoki.com
 gomu837slots.com
-gomubet-amp.site
 gomubetsaldo.com
 gomubetslots.com
 gomubetx.com
@@ -361309,9 +361308,6 @@ jojobet15020.com
 jojobet15021.com
 jojobet15022.com
 jojobet15024.com
-jojobet15025.com
-jojobet15026.com
-jojobet15027.com
 jojobet15444.com
 jojobet15859.com
 jojobet15862.com
@@ -374147,7 +374143,6 @@ kartupokergg.app
 kartupokergo.com
 kartupokerss.com
 kartupokerxxx.com
-kartupokerxxx.net
 kartusayang.com
 kartuscan.com
 kartusepak.com
@@ -441533,7 +441528,6 @@ nagapoker1.asia
 nagapoker88.asia
 nagapoker88.com
 nagapoker9.us
-nagapoker988.net
 nagapoker99.org
 nagapokermax.com
 nagapokerqq88.asia
@@ -509892,6 +509886,7 @@ revolutioncasinotipspl.com
 revolutioncasinovinne-no.com
 revolutions-casinos.com
 revolutionscasino.net
+revolutonlineslot-fr.com
 revoluts-casino.com
 revolutscasino.ch
 revolutscasino.se
@@ -524885,7 +524880,6 @@ santollucky.ph
 santorini-wine-tasting-tour.com
 santoriniwine-tour.com
 santos-casino.com
-santos-casino-official.online
 santos-casino-official.site
 santos-casino-ru.casino
 santos-casino-vip.team
@@ -538186,7 +538180,6 @@ slotsarjana.net
 slotsasiapro.com
 slotsate777.xyz
 slotsatlas.online
-slotsau.site
 slotsavana.co
 slotsavanna.pro
 slotsavant.pro
@@ -624649,7 +624642,6 @@ zgrljtoog.com
 zgsyb.poker
 zgy.casino
 zh-app-betway.com
-zh-bet-1xbet.com
 zh-bet-leisu.com
 zh-bet-lolwc.com
 zh-bet-s16lol.com
