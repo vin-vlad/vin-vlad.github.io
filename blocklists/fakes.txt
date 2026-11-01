@@ -1,8 +1,6 @@
 # fakes
-# Last updated: 2026-10-31T21:12:51.419Z
-# Entries: 17561
-f.075756.net
-finanzen.075756.net
+# Last updated: 2026-11-01T12:54:03.790Z
+# Entries: 17553
 eu.2bagsvalley.cn
 de.activenutra.coupons
 store.aeotec.com
@@ -782,7 +780,6 @@ ger.zoibakii.com
 3racingparts.com
 3sixteenonline.org
 4-pfoten-freizeit.de
-4bike.net
 4dmarkt.de
 4rainfast.shop
 4rxofficial.com
@@ -2316,7 +2313,6 @@ bestartikel-online.com
 bestbikecyclinggear.com
 bestbikede.com
 bestboxcontainer.de
-bestchoicepills.com
 bestclothes.club
 bestcoiffureshop.com
 bestdealtoday.net
@@ -4473,7 +4469,6 @@ disciplinem.com
 discounntde.com
 discount-audio-equipment.com
 discount-baustoff.de
-discount-cigarettes-store.net
 discount-kobalt.com
 discount-lightingshop.com
 discount-megastore.com
@@ -6404,7 +6399,6 @@ gartenfuchskreation.de
 gartenfuhrer.de
 gartenfurdu.de
 gartengenussde.com
-gartengeraete-shop.de
 gartengluecklich.de
 gartengreifer.de
 gartenguenter.de
@@ -7922,7 +7916,6 @@ hotelaustralien.de
 hotelladen.com
 hotels-colombo.com
 hotelsinperm.ru
-hotelsinvienna.org
 hotelsofmenorca.com
 hotelwareus.com
 hotelwhales.com
@@ -12537,7 +12530,6 @@ pillola-italia.com
 pills-au.com
 pills-store-online24.com
 pillsshop.live
-pillstock.net
 pillz888.org
 pilotentest-vorbereitung.com
 pilotshof.com
@@ -12589,7 +12581,6 @@ planttshop.com
 plasticsdaily.com
 plasticshor.com
 platform-ai-trade.com
-platincoin.com
 platinwerk.de
 platten24.com
 platzimgarten.com
@@ -12795,6 +12786,7 @@ primada.de
 primalekarna.com
 primary-markets.com
 primatop.de
+primavo24.de
 prime-analytics.de
 prime-deutschland.com
 prime-e-bike.eu
