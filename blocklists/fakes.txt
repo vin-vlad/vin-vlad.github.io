@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-11T13:48:46.369Z
-# Entries: 18846
+# Last updated: 2026-11-12T00:15:24.075Z
+# Entries: 18836
 eu.2bagsvalley.cn
 acc.accgn.com
 de.activenutra.coupons
@@ -344,7 +344,6 @@ suite.kb.help
 store.kestrelby.com
 at.ketonaktiv.com
 at9.ketonaktiv.com
-store.kingslora.com
 shop.kingxbar.com
 fr.kiplar.com
 info.kompressify.com
@@ -5540,7 +5539,6 @@ ethikadeutschland.com
 ethikadeutschland.de
 ethimostyle.com
 ethnotheko.shop
-eticketsy.com
 etkick.de
 etniesshoesireland.com
 etrade-securities.com
@@ -8093,7 +8091,6 @@ hixberger-zeltlager.de
 hiziel.de
 hjmyfzzw.com
 hjullagerdrivaxlar.com
-hjz-handel.de
 hkp-biofuels.com
 hks-versand.de
 hlboutiqui.com
@@ -11447,7 +11444,6 @@ mmk-shoppingwelt.de
 mml-container.de
 mms-kapky.cz
 mngaristastore.de
-mnsnyavp.shop
 mntasest.lol
 moancd.shop
 moaracafe.com
@@ -12474,7 +12470,6 @@ obindo.de
 objectivew.com
 objektiverklick.de
 obmarkets.com
-obolapvw.shop
 oborondesign.shop
 obozboots.com
 obroker.com
@@ -15449,7 +15444,6 @@ sneakersgermanyonline.com
 sneakwelt.com
 sneawin.com
 snitactical.com
-snjdueu.shop
 snkzurich.com
 snmea.shop
 snoacks.com
@@ -16268,7 +16262,6 @@ systemofdown.com
 sz-fishing.de
 sz-tax.com
 szigetlo.shop
-t4trade.com
 tabexofficial.com
 tablets-today.org
 tablets-world.com
@@ -17887,7 +17880,6 @@ vrtil.com
 vruktazelin.at
 vruktazelin.tech
 vs-home.de
-vsgdew.shop
 vswatches.net
 vtmfr.com
 vtoolstore.de
@@ -17901,7 +17893,6 @@ vuxocap-vip.io
 vw-insights.de
 vwutaq.com
 vxbtools.com
-vxjskiy.shop
 vyjak.com
 vynox.de
 vynxaria.com
@@ -18527,7 +18518,6 @@ xiiw.shop
 xinghly.com
 xinyuekj.com
 xiruilai.com
-xjyehli.shop
 xkmtmsgm.shop
 xlumina.at
 xlumina.de
