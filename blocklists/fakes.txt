@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-12T00:15:24.075Z
-# Entries: 18836
+# Last updated: 2026-11-12T14:51:39.887Z
+# Entries: 18848
 eu.2bagsvalley.cn
 acc.accgn.com
 de.activenutra.coupons
@@ -2308,7 +2308,6 @@ berlinbeardeal.de
 berlincrown.com
 berliner-gartenservice.de
 berliner-laden.de
-berlinermode.shop
 berlinfog.com
 berlinget.com
 berlinglamour.de
@@ -2563,6 +2562,7 @@ bikerforword.shop
 bikerimtapede.com
 bikescompetitive.com
 bikesexpert.shop
+bikesexpert-de.com
 bikeshockabsorberde.com
 bikeskraft.de
 bikesporthauf.de
@@ -3606,7 +3606,6 @@ cicilookshop.com
 cicinia.de
 cielie.com
 cifuentesdresseshop.com
-cigarettescigs.com
 cimerwatch.com
 cimnelatlas.click
 cindymen.com
@@ -3729,6 +3728,7 @@ cloudsiv.com
 cloudtritt.de
 cloudy-with-containers.ch
 clurophillashop.com
+cluud7.com
 cmchbhopal.com
 cmctradingeu.com
 cmdt-sales.com
@@ -6782,6 +6782,7 @@ gartenstuebel.de
 gartenstuhlemetall.com
 gartentraktor.com
 gartenundanhaenger.de
+gartenundhausmeisterservice.de
 gartenundwerkzeug.com
 gartenvision2.de
 gartenwerkzeugeprofi.com
@@ -7160,6 +7161,7 @@ glurvextopin-gb.com
 glurvextopin-official.com
 gluschwein.de
 glutadrops.com
+glutbar.de
 gmbh2go.de
 gmzglobal.net
 gnope.com
@@ -7195,6 +7197,7 @@ golden-bank.com
 golden-goose.at
 golden-outlet.de
 golden-re.com
+goldenage-trading.com
 goldenbayboutiques.com
 goldenelemento.shop
 goldenngoosee.com
@@ -8714,6 +8717,7 @@ instollotions-shop.shop
 instrklang.com
 instructionk.com
 instrumentak.com
+instrumentenvinyl.com
 integisok.com
 integralbroker.com
 integralmarket.ltd
@@ -10881,6 +10885,7 @@ marktpro.de
 marktsmart.de
 marktzauberbox.com
 markvexo.at
+markvexo-ai.com
 markvexoki.at
 marloe.de
 marly-amsterdam.nl
@@ -13541,6 +13546,7 @@ polluxer.com
 polska-ed.com
 polster-franz.at
 polster-franz.de
+polstersofa.com
 polycondistribution.com
 pondoliibe.shop
 ponggi.de
@@ -13636,6 +13642,7 @@ preise.com
 preisrausch24.de
 preistech.de
 preiswertoutdoor.com
+preiswohnen.com
 prelox-guenstiger.de
 premier-dream.co
 premiercarry.com
@@ -13988,6 +13995,7 @@ radhandel24.de
 radiator-selling.com
 radiusor.com
 radixinvest.com
+radlerfrau.com
 radliebeshop.de
 radmarkt-schaeler.de
 radrudel.de
@@ -15418,6 +15426,7 @@ smartlightingshop.com
 smartpills.io
 smartplantivy.com
 smartplayground.de
+smartregler.com
 smartro.de
 smartsteamershop.com
 smartwaerme.com
@@ -15555,6 +15564,7 @@ solas-anlagen.com
 solauthentic.com
 solden-hotels.com
 solern.top
+solgarag.com
 solictedbyjule.shop
 solidewaren.com
 solidinvest.co
@@ -17119,7 +17129,6 @@ trustmycart.com
 trustonlinepharmacy.com
 trustpharm.to
 trustpharm7pills.com
-trustpharmsonline.com
 trustss.com
 trustydealmarket.com
 trustytime888.io
@@ -17307,6 +17316,7 @@ uoozy.com
 up2sales.de
 upanddesko.shop
 upap-papu.post
+updez.com
 upgradeoutdoors.com
 upie.buzz
 upifex.com
@@ -18553,6 +18563,7 @@ xperttrekking.com
 xpmarkets.com
 xprtcoin.com
 xrivalfitness.com
+xsdcmnet.com
 xshopcloud.com
 xspiegel.de
 xsy198.com
@@ -18602,6 +18613,7 @@ yonexdeutschland.com
 yonexdeutschland.de
 yonexs.at
 yoocaa.com
+yoohal.com
 yooofa.com
 yootet.com
 yorkbootsshop.de
