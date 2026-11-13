@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-12T23:20:44.600Z
-# Entries: 18848
+# Last updated: 2026-11-13T14:13:59.220Z
+# Entries: 18853
 eu.2bagsvalley.cn
 acc.accgn.com
 de.activenutra.coupons
@@ -6258,7 +6258,6 @@ floveme.com
 flow-electric.de
 flow-tex.de
 flowartshop.com
-floweraup.com
 flowercomedy.com
 flowermodas.com
 flowoon.com
@@ -6942,7 +6941,9 @@ geschirrangebote.com
 geschirronyx.com
 geschirrs-de.com
 gesichtkorperbeauty.com
+gestion.finance
 gestion-de-patrimoine-asnieres.fr
+gestion-deblock.com
 gesuender-im-leben.com
 gesunderrasen.com
 gesundeswelpenhaus.de
@@ -8599,6 +8600,7 @@ implicationi.com
 import-export.website
 importstoree.com
 improbuehne.de
+impruneta.de
 impulsa.shop
 imridiit.com
 imtrend.at
@@ -10562,6 +10564,7 @@ lukamode.de
 lukasplazapauls.shop
 lukeshoe.com
 luladiffusion.com
+luladress.com
 lululemoneu.shop
 lululemonhamburg.de
 lululemonrabatt.de
@@ -14500,6 +14503,7 @@ rotterdamsunny.com
 rotweibwein.com
 rotweinbar.com
 rotyka.com
+rougeriefinance.com
 roulettegem.com
 roullei.com
 roussebois.com
@@ -16923,6 +16927,7 @@ tozido.de
 tp-treuhand.de
 tpcinvest.com
 tpugilismf.lol
+tr-brokers.com
 tr-handschuho.shop
 trabo-garten.de
 tracksmithdeutschland.com
