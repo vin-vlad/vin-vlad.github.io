@@ -1,5 +1,5 @@
 # popup-ads
-# Last updated: 2026-11-13T14:13:59.349Z
+# Last updated: 2026-11-13T23:23:36.871Z
 # Entries: 77562
 0.07c225f3.online
 9.07c225f3.online
