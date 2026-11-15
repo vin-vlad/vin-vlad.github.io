@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-11-15T13:40:45.230Z
-# Entries: 61877
+# Last updated: 2026-11-15T22:37:40.650Z
+# Entries: 61880
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -5377,7 +5377,6 @@ antbd.com
 antbd.net
 antecoxalbobbing1010.com
 antenacentral.store
-antenapluto.store
 antenasouth.store
 antenasport.online
 antenasport.site
@@ -6593,7 +6592,6 @@ bithumen.ru
 bitldzhus-bitldzhus-lordfilm.cfd
 bitldzhus-lordfilm.homes
 bitlord.com
-bitmanija.net
 bitme.org
 bitmetv.org
 bitmovie.org
@@ -7778,7 +7776,6 @@ cb01.store
 cb01.support
 cb01.us
 cb01.video
-cb01.vip
 cb01.win
 cb01.work
 cb01.world
@@ -9574,6 +9571,7 @@ cubes-lordfilm.ru
 cubeu-lordfilm.ru
 cuckoos-nest-lordfilm.homes
 cue3.net
+cuevana.boutique
 cuevana.is
 cuevana.nu
 cuevana-3.date
@@ -9668,6 +9666,7 @@ cybervynx.com
 cyberwares.ru
 cyberwarez.info
 cyberwarez.net
+cyberwarsanime.com
 cycle-lordfilm.sbs
 cyclingtorrents.nl
 cyonix.net
@@ -11235,7 +11234,6 @@ dliashokolada-lordfilm.ru
 dlions.pro
 dlpsgame.com
 dlstreams.com
-dlstreams.top
 dlwarez.xyz
 dlwarezbb.com
 dlwarezbb.shop
@@ -13836,6 +13834,7 @@ filmyfly.now
 filmyfly.sale
 filmyfly.soy
 filmygallery22.lol
+filmygroup.com
 filmyh.com
 filmyhd.biz
 filmyhub.online
@@ -20667,7 +20666,6 @@ keu-pop-ohotnicy-na-demonov-lordfilm.ru
 kevin-kostner-lordfilm.ru
 kevin-lordfilm.cfd
 kevinsport.top
-kevinsports.top
 keygen.us
 keygenguru.com
 keygenninja.com
@@ -38791,6 +38789,7 @@ megakino25.com
 megakino26.com
 megakino26.site
 megakino27.com
+megakino28.com
 megakino3.com
 megakino3.org
 megakino3.to
@@ -44559,6 +44558,7 @@ outsider-serial-lordfilm.ru
 ovagames.com
 ovagames.top
 ove-lordfilm.top
+overloiptv.com
 overlook.cx
 overtakefans.com
 ovg.cc
@@ -51629,6 +51629,7 @@ starckfilmes-v16.com
 starckfilmes-v26.com
 starckfilmes-v27.com
 starckfilmes-v29.com
+starckfilmes-v30.com
 starckfilmesbr.com
 starckfilmesnet.com
 stardiima.top
@@ -52243,6 +52244,7 @@ streamingunity.dog
 streamingunity.vip
 streamingunity.win
 streamingvf.rip
+streamingwatchpartytv.com
 streamit.ws
 streamix.so
 streamiz.rip
@@ -56241,6 +56243,7 @@ trackerpmr.com
 trackerstatus.live
 trackerturk.biz
 tracylocalschool.com
+tradebridgejamaica.com
 traderz.org
 tradestreamsports.com
 tradingtorrent.xyz

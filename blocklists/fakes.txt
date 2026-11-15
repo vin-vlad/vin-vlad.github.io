@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-15T13:40:45.065Z
-# Entries: 18778
+# Last updated: 2026-11-15T22:37:40.550Z
+# Entries: 18776
 eu.2bagsvalley.cn
 acc.accgn.com
 de.activenutra.coupons
@@ -1006,7 +1006,6 @@ ainvestments.biz
 aio-vita.com
 aipharmaweekly.com
 aipohealth.com
-air-jordan4.com
 air-uposterreich.at
 air-uposterreich.com
 airblueuhren.de
@@ -18333,7 +18332,6 @@ wolffcommerce.de
 wolfgangcontainers.de
 wolfganggmbh.de
 wolfmode.de
-wolftoothbike.com
 wolke-hundebett.de
 wolkenfreund.de
 wolkenschaukel.de
