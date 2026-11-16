@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-15T22:37:40.550Z
-# Entries: 18776
+# Last updated: 2026-11-16T15:14:41.847Z
+# Entries: 18777
 eu.2bagsvalley.cn
 acc.accgn.com
 de.activenutra.coupons
@@ -780,7 +780,6 @@ ger.zoibakii.com
 3mjrealestatellc.com
 3racingparts.com
 3sixteenonline.org
-4-pfoten-freizeit.de
 4bike.net
 4dmarkt.de
 4kidspuint.com
@@ -1754,6 +1753,7 @@ aurorahikari.com
 aurorastocks.com
 aurorastore.pro
 aurudium.com
+aurum.foundation
 aus-gelassen.de
 ausgabetag.com
 ausgewalhtheim.de
@@ -1921,6 +1921,7 @@ babybox-schweiz.ch
 babycookie.online
 babyfuntoys.com
 babygea.com
+babyglueck.shop
 babyglueckshop.com
 babylissde.de
 babymio-tirol.com
@@ -2427,6 +2428,7 @@ betashop-gmbh.com
 betonruttler.com
 betonspot.com
 betontop.com
+betrailo.com
 betrendy.site
 betrmode.com
 betrugs-check.de
@@ -2630,7 +2632,6 @@ bioweingutlenikoz.shop
 biowiin-klompfer.shop
 bioxtrim.com
 biozentrolo.shop
-biranco.com
 birgit-hamburg.de
 birkgarten.de
 birkinshaws.ca
@@ -3051,7 +3052,6 @@ bringwish.com
 brinkmann-mode.de
 brinylagge.shop
 briscofinance.com
-british-columbia-hotels.com
 britishessentiils.com
 broadjoint.com
 brocheeks.store
@@ -3940,6 +3940,7 @@ coverfrot.com
 coveshe.com
 coviviocapital.com
 covshop.de
+cowboy-brothers.de
 cowboybootsnew.com
 coyojo.com
 coyrty.buzz
@@ -5529,9 +5530,9 @@ etsbois-de-chaufage.com
 etskom.com
 etsyshield.com
 ettern24.de
+etvgozkl.shop
 eu-first.com
 eu-meds.net
-eu-meds.online
 eu-pharmacy-online.com
 eu-pillstore.com
 eu-segway.com
@@ -6235,7 +6236,6 @@ floveme.com
 flow-electric.de
 flow-tex.de
 flowartshop.com
-floweraup.com
 flowercomedy.com
 flowermodas.com
 flowoon.com
@@ -6919,6 +6919,7 @@ gestion.finance
 gestion-de-patrimoine-asnieres.fr
 gestion-deblock.com
 gesuender-im-leben.com
+gesund-kaufen.com
 gesunderrasen.com
 gesundeswelpenhaus.de
 gesundheits-apo.com
@@ -9471,7 +9472,6 @@ kingsire.co
 kingsmotorcyclofairings.shop
 kingsribels.com
 kingstonbathroom.com
-kingwwy.com
 kiqutilaumpartnersnet.click
 kiranolir.com
 kirbmayer.com
@@ -11146,7 +11146,6 @@ menfis.de
 menfrog.com
 menido.de
 menily.com
-menilyshop.com
 menke-bahr.com
 mennique.com
 mens-health-ph.com
@@ -11529,6 +11528,7 @@ moebelwunerland.de
 moebelzone.com
 moedllbahnlippe.shop
 moeller-immobilien.net
+moellerbrennholz.de
 moensale.com
 mogati.shop
 moglichinderlademarket.shop
@@ -13286,6 +13286,7 @@ pharmacieenlignefrance.com
 pharmacy-europe.com
 pharmacy-true.com
 pharmacy-xl.org
+pharmacyeurope24.com
 pharmacyinventory.org
 pharmacymarketonline.com
 pharmacyonline24.com
@@ -14096,6 +14097,7 @@ reifencheck.net
 reifenivo.de
 reifenritter.com
 reifensverkauf.com
+reifenvaro.com
 reifkogel24.de
 reimers-partner.de
 reimund-morgenfurt.at
@@ -14982,7 +14984,6 @@ sevenfiguresolar.com
 seveninter.com
 seventeenk.com
 sevillafanshop.de
-sexicats.com
 sexpuppenkaufen.at
 sfzev.de
 sgtruffe.com
@@ -15735,7 +15736,6 @@ spuelenprofide.com
 spuelerparts.com
 spybulbcamera.de
 spydersale.de
-spydiscount24.com
 spyshop.at
 spyxe.com
 squarexchange.com
@@ -15864,6 +15864,7 @@ sternstimme.de
 steroide-medikamente.com
 steroide360.com
 sterreich.at
+steuben-gmbh.de
 stevemaddenosterreich.com
 steyrtracteursgmbh.at
 stickcars.de
