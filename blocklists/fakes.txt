@@ -1,5 +1,5 @@
 # fakes
-# Last updated: 2026-11-18T00:44:26.397Z
+# Last updated: 2026-11-18T15:21:23.653Z
 # Entries: 18803
 eu.2bagsvalley.cn
 acc.accgn.com
@@ -2695,7 +2695,6 @@ biwakstern.com
 bixfin.com
 bixvolt.com
 bizcox.net
-bizglobeinvest.com
 bjbta.com
 bjmining.com
 bjorkcoffee.com
@@ -9005,6 +9004,7 @@ jooribeauty.shop
 joox388-online.com
 joponwithlovestore.shop
 jorassicfruit.com
+jordan-1s.com
 jordanat.at
 jordanmania.de
 jordanretro4.com
