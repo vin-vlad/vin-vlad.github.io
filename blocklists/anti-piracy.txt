@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-11-18T15:21:23.759Z
-# Entries: 62381
+# Last updated: 2026-11-19T00:01:54.000Z
+# Entries: 62383
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -5962,6 +5962,7 @@ avutarr-lordfilms.ru
 avuttar-lordfilm.ru
 avvatar-lordfilms.ru
 avvutar-lordfilms.ru
+avxhm.se
 awarezebra.info
 awatar-lordfilme.ru
 awatare-lordfilme.ru
@@ -20414,6 +20415,7 @@ jpxm3u8.com
 jpzy01.com
 jq8hnvdc.com
 jsb.by
+jshdtv.cn
 jsoap2day.co
 jsoap2day.com
 jstorrent.com
@@ -42099,6 +42101,7 @@ my123moviess.space
 myabandonware.com
 myaccountinghelp.org
 myanime.live
+myanimestory.com
 myanmariptv.com
 myanonamouse.net
 myasiantv.to
@@ -46039,7 +46042,6 @@ planete-bd.org
 planete-lolo.com
 planete-lolo.su
 planetgames.fr
-planetsoft.su
 platforma-film-lordfilm.ru
 platformae-lordfilm.ru
 platformah-lordfilm.ru
