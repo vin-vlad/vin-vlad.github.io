@@ -1,6 +1,6 @@
 # anti-piracy
-# Last updated: 2026-11-19T15:27:49.108Z
-# Entries: 62437
+# Last updated: 2026-11-20T00:24:49.616Z
+# Entries: 62435
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
 energy-stresser.000webhostapp.com
@@ -539,7 +539,6 @@ tracker.doko.moe
 tr.doogh.club
 tracker.dorcus.digital
 flemmix.dorkdaddy.com
-www.drivec.ru
 open.dstud.io
 cutscloud.duckdns.org
 edgev.duckdns.org
@@ -13553,7 +13552,6 @@ filmapik.beauty
 filmapik.beer
 filmapik.bio
 filmapik.biz
-filmapik.cam
 filmapik.cc
 filmapik.coupons
 filmapik.courses
@@ -15720,6 +15718,7 @@ futemax.je
 futemax.ke
 futemax.kim
 futemax.koeln
+futemax.limited
 futemax.lt
 futemax.ltda
 futemax.luxury
@@ -18923,7 +18922,6 @@ hindmovie.tax
 hindmovie-offcial.cyou
 hindmoviez.bet
 hindmoviez.biz
-hindmoviez.click
 hindmoviez.com
 hindmoviez.email
 hindmoviez.wiki
@@ -21422,6 +21420,7 @@ kinoxanko.online
 kinoxarxar.online
 kinoxax-official.cyou
 kinoxbr.com
+kinoxcapital.com
 kinoxed.website
 kinoxelura.store
 kinoxen.site
@@ -22855,6 +22854,7 @@ lion-king-lordfilm.homes
 lion-king-lordfilm.top
 lionsgateplay.com
 lisatrialidea.com
+lisellitorrentit.com
 litaapks.com
 liteaio.com
 liteapks.com
@@ -23173,7 +23173,6 @@ lookmovies.garden
 lookmovies.life
 lookmovies.living
 lookmovies.media
-lookmovies.monster
 lookmovies.nexus
 lookmovies.onl
 lookmovies.online
@@ -41091,7 +41090,6 @@ movierulz.irish
 movierulz.kim
 movierulz.land
 movierulz.lifestyle
-movierulz.makeup
 movierulz.mba
 movierulz.media
 movierulz.mobi
@@ -47032,6 +47030,7 @@ prmoviess.org
 prmoviestv.cfd
 pro-evolution.org
 pro-windows.net
+proanimetric.com
 proaudiotorrents.org
 proclyatie-lordfilme.ru
 proclyatue-lordfilms.ru
@@ -48726,7 +48725,6 @@ rus-lordfilm-2025.com
 rus-lordfilmkap.lat
 rus-media.org
 rus-serial-lordfilm.com
-rus-serial-lordfilm.online
 rus-serial-lordfilm.org
 rusaalochka-lordfilm.ru
 rusalka-lordfilm.ru
@@ -49071,7 +49069,6 @@ sdmoviespoint.monster
 sdmoviespoint.my
 sdmoviespoint.osaka
 sdmoviespoint.party
-sdmoviespoint.rest
 sdmoviespoint.sbs
 sdmoviespoint.style
 sdmoviespoint.town
@@ -54591,6 +54588,7 @@ theebooksbay.com
 thefap.net
 thefieldawarezone.info
 thefiles.ro
+thefilmypocket.com
 theflixer.tv
 theflixertv.to
 thefrenchstream.com

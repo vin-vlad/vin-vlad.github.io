@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-19T15:27:48.994Z
-# Entries: 10734
+# Last updated: 2026-11-20T00:24:48.498Z
+# Entries: 10728
 acc.accgn.com
 webtrader.aeratiqos.com
 de1.aiinshgits.de
@@ -626,7 +626,6 @@ alfrescodurable.com
 algexia.pro
 algo-robot.co
 algorates.com
-algosone.ai
 alijz.com
 alimora.shop
 alioth.club
@@ -1627,9 +1626,7 @@ bit24coin.com
 bitaiapp.pro
 bitcoin-pharmacy.com
 bitcoin-xact.fr
-bitcoin360ai.com
 bitcoineer.ai
-bitcoinera.app
 bitcoinera.com
 bitcoins-central.com
 bitebuns.com
@@ -1779,6 +1776,7 @@ braintester.net
 bralettesstore.com
 brand-fahrradladen.de
 brandclothesshop.site
+branden-burg.com
 brandschutzfachbuero-engler.de
 brandsoutlet.at
 brandup-grade.de
@@ -4070,7 +4068,6 @@ gesundheitskontrolle.com
 gesundmedizinische.com
 gesundundklar.com
 get-coolizicoolzy.store
-get-epicooler.com
 get-kinzeno.com
 get-matsato-osuren.com
 get-nuro.com
@@ -4253,7 +4250,6 @@ gotrax.store
 gotrixa.de
 govern1.com
 gpautoshopimport.com
-gplate.de
 gpslocatorphone.com
 gqaltq.shop
 grabpillsusa.com
@@ -4279,7 +4275,6 @@ grazapotheke.com
 greatpillsshops.com
 greenbird-shop.com
 greencrosspharmacy.online
-greendax.com
 greeneggstore.de
 greenhousesshop.com
 greentec-handel.de
@@ -10346,7 +10341,6 @@ weitzgermany.com
 wekagartenrabatt.com
 wekos.fr
 welcherweinzu.de
-wellacooler.com
 wellensteynjacke.de
 wellensteynshopde.com
 wellindal.de
