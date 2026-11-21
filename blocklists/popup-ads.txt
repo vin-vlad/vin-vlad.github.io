@@ -1,5 +1,5 @@
 # popup-ads
-# Last updated: 2026-11-21T14:25:10.973Z
+# Last updated: 2026-11-21T22:54:39.221Z
 # Entries: 72984
 ads.123net.jp
 s.18ramp.com
