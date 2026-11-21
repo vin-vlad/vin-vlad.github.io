@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-20T23:47:40.639Z
-# Entries: 10732
+# Last updated: 2026-11-21T14:25:10.859Z
+# Entries: 10745
 acc.accgn.com
 webtrader.aeratiqos.com
 de1.aiinshgits.de
@@ -30,7 +30,6 @@ aktiennetwork.co.uk
 burton.co.at
 cdlp.co.at
 champion.co.at
-comme-des-garcons.co.at
 damsonmadder.co.at
 diesel.co.at
 digitalinfo.co.kr
@@ -515,6 +514,7 @@ adidasperu.com
 adler-ch.com
 admiral-markets.com
 admiralmarketsltd.com
+adour-combustibles.com
 adrian-beck.de
 adriaticljekarna.com
 advancedgaming.online
@@ -604,6 +604,7 @@ aktivbeutel.com
 aktivbike24.com
 aktivmaxx.com
 al-nassr.shop
+al-nassr.store
 al-research.com
 albacontainersgmbh.de
 albuni-24.de
@@ -1471,6 +1472,7 @@ bestsoundclub.com
 besttoyspielzeug.com
 bestwassertechnik.com
 bestwerkzeugeshop.com
+betakom-tec.com
 betashop-gmbh.com
 betonruttler.com
 betonspot.com
@@ -1667,6 +1669,7 @@ bloombergnewstoday.com
 bloombex-options.com
 bloomszone.com
 bludexe.com
+blue-diamond-invest.com
 bluebike2.com
 bluebikes8.com
 blueforge.ltd
@@ -1799,7 +1802,6 @@ brennholz-anhaenger.de
 brennholz-brennstoff.com
 brennholz-forstservice-gilbert.de
 brennholz-friedrich.com
-brennholz-goignerog.at
 brennholz-hans.de
 brennholz-haus.de
 brennholz-hofmann.de
@@ -1878,6 +1880,7 @@ brunsohnbrennholz.de
 brutaka.com
 bryngrill.se
 bryo-kaffee.de
+brysha.store
 bs-gmbh.de
 bs2best.at
 bs2site.at
@@ -2709,6 +2712,7 @@ diag-wagen.de
 diamant-eventcenter.de
 diamants-invest.com
 diamondinvests.com
+diamoneo.com
 diamonstore.com
 diamony.com
 diamsinvest.fr
@@ -2786,6 +2790,7 @@ divorion.com
 diy-expert-deals.shop
 diybuildsupplies.com
 dj-audio.com
+dks-online.de
 dlholzhandel.de
 dly-home.com
 dmrbremsbelag.com
@@ -3590,6 +3595,7 @@ finprofm.com
 finrally.com
 finrocketpro.com
 fintessxpert.com
+fintevex.io
 fintrexia.org
 finvestai.org
 finvoire.com
@@ -3813,7 +3819,6 @@ gaballo-handel.de
 gabbian.de
 gabelglanz.de
 gaborberlin.com
-gaborosterreich.at
 gaborshoesoutlet.shop
 gahas24.de
 gaiabeautyproducts.com
@@ -4492,6 +4497,7 @@ haushaltsgeratemarkt.com
 haushaltsheld.com
 haushaltsreich.de
 haushaltswarendiscount.shop
+hausmarkt24.com
 hausmobel-de.com
 hausofvedashop.com
 hausonline24.com
@@ -4596,6 +4602,7 @@ heizline.at
 heizlogistik.de
 heizo24.de
 heizoel-24.com
+heizoel-24.net
 heizoel-austria.com
 heizoel-best.de
 heizoel-deutschland.com
@@ -4607,6 +4614,7 @@ heizoel-jetzt.de
 heizoel-kalkulator.de
 heizoel-lieferung.com
 heizoel-tankstelle.de
+heizoel24.shop
 heizoel24-aktuell.com
 heizoel24-preise.com
 heizoelbp.de
@@ -5635,6 +5643,7 @@ km-baumarkt.de
 kmgr.store
 kmgr-shop.com
 kmotorrad.de
+kna-99.buzz
 knast-papier.com
 kndpigjc.shop
 knifeboker.com
@@ -5676,6 +5685,7 @@ konsolenexperten.de
 konsolenladen.com
 konsolenland.de
 konsolenmarkt.com
+konsolenplatz.com
 kontaktlinsenshopping.de
 kontano.de
 kopfsacheonline.de
@@ -5945,6 +5955,7 @@ lems-deutschland.de
 lenaskunst.de
 lennys-autoteile.at
 leobabyjordanbjj.com
+leomans.com
 leopold-mode.com
 leoswc.com
 leqaa-store.com
@@ -7287,6 +7298,7 @@ omenyxgroup.com
 omnedealslab.online
 omniluxaustria.com
 on-at.com
+on-outlet.shop
 on-runningdeutschland.de
 onbestsellprods.com
 oncloudoutlet.at
@@ -7850,6 +7862,7 @@ prestigemetalle.de
 priceannihilator.com
 priceslash.shop
 pridesaunaclub.com
+prima-sport.de
 primada.de
 primalekarna.com
 primavo24.de
@@ -8416,7 +8429,6 @@ salmingslovenija.com
 salmingsuomi.com
 salomon-deutschland.de
 salomondeutschlandsale.de
-salomonosterreich.at
 salomonoutletgermany.de
 salomonoutletireland.com
 salomonoutletstoresusa.com
@@ -9673,6 +9685,7 @@ topskiequipmentde.com
 topspink.com
 topstore1game.com
 topworldnewstoday.com
+torano.shop
 torantriebemarkt.de
 torbeschlagestobgriffe.com
 tornadostore.de
