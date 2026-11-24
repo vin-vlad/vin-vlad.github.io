@@ -1,6 +1,6 @@
 # fakes
-# Last updated: 2026-11-23T17:41:47.485Z
-# Entries: 10378
+# Last updated: 2026-11-24T03:53:23.233Z
+# Entries: 10357
 acc.accgn.com
 webtrader.aeratiqos.com
 de1.aiinshgits.de
@@ -584,6 +584,7 @@ akitchentime.com
 akj-crypto.com
 akku-laden.at
 akku-staubsauger.eu
+akkusmir.de
 akkusnotebook.at
 akkuwerk.shop
 aklassport.de
@@ -1316,7 +1317,6 @@ benzinkanistertrichter.com
 berando.de
 beratify.de
 bergcycle.com
-berger-brennstoffe.com
 berger-seidle-shop.de
 bergersearch.at
 bergexperten.de
@@ -1649,7 +1649,6 @@ bnpotc.com
 bo-bank.com
 boanapromocoes.com
 boardfreude.com
-boastore.de
 boatswassersport.com
 boatworkssupply.com
 bobostore.de
@@ -1770,7 +1769,6 @@ brennholzkamin.de
 brennholzkontorscharf.de
 brennholzkraft.com
 brennholzmeister.de
-brennholzmichalhoff.com
 brennholzmuscheid.com
 brennholzs.com
 brennholzschommer.de
@@ -2009,6 +2007,7 @@ caterpillareutschlandshop.de
 caterpillarschuhe.at
 caterpillarsuomi.com
 caterpillarwien.com
+catwebshop.com
 cavedor.com
 cavissimo.com
 cavrontelyx.com
@@ -2364,7 +2363,6 @@ dagle.de
 dailog.de
 dailyberlin.de
 dailyexpressnewstoday.com
-dailygermanshop.com
 dailyheraldnewstoday.com
 dailylifeyouth.de
 dailymirrornewstoday.com
@@ -2398,7 +2396,6 @@ darembel.com
 darfhundefutter.de
 darsvint.fr
 das-feel-natural.de
-das-montessori-spielzeug.de
 dasbeautykollektiv.de
 daschachten.de
 dashausimgarten.de
@@ -2610,7 +2607,6 @@ deutwaren.de
 devalife.eu
 deweins.com
 dexer-handel.de
-dexoraoutlet.com
 dfbsports.com
 dfbworld.shop
 dgkktero.shop
@@ -3036,7 +3032,6 @@ elwenkoffer.de
 elwenrimowa.de
 elwomis.de
 elysiumbikes.com
-elyvanedepot.com
 emailboutique.de
 emberwakeonline.com
 embrellar.de
@@ -3110,6 +3105,7 @@ ersatzteilesale.com
 erschwinglichwerkzeug.com
 ersterkatzenladen.de
 erstmal-kaffee.com
+erswf.buzz
 eryxavin.com
 erzgebirger-uhrwerk.com
 es-consult.net
@@ -3251,7 +3247,6 @@ eyanskbeautymedspacom.com
 eyewearandframes.com
 ezcustombikes.com
 ezigarettehub.com
-ezigarettestore.com
 ezonesglobal.com
 fabecodis.com
 fabrikverkaufmerrellschuhe.de
@@ -3445,7 +3440,6 @@ financieredsbg.com
 financieres.com
 finanzasforex.com
 finanzplanungwittenberg.com
-finarionaxi.fr
 finasport.de
 finaurex.com
 fincacheck.com
@@ -4283,7 +4277,6 @@ handtholzhandelgmbh.de
 handwerker-katalog.net
 handwerker-wachstum.de
 handwerkertoolsbase.com
-handwerkstatt-der-holzgestaltung.de
 handwerkzeugshop.com
 handyorten.de
 hanfseedstore.de
@@ -5264,7 +5257,6 @@ kaminholz-premium.de
 kaminholz-wohnort.com
 kaminholzbeumer.de
 kaminholzkonig.de
-kaminholzmoppel-de.com
 kaminkehrer-dachau.com
 kaminofenhandel.com
 kaminoland.de
@@ -5498,7 +5490,6 @@ koupitedpilulky.com
 kowela.com
 kpnukknv.shop
 kpoweronline.com
-kraftdesweins.com
 kraftfahrrad.de
 kraftindustrie-shop.de
 kraftraumpro.com
@@ -5581,7 +5572,6 @@ l-meds.com
 la-sportiva.at
 labelparis.com
 labexholzgmbh.de
-labubu-box.com
 labubu-lounge.de
 labubu-popmart.de
 labubuofficials.de
@@ -5653,7 +5643,6 @@ lautisbikeshop.de
 lautsprechersale.com
 lavacucina.com
 lavendearbeauty.de
-layda-handel.de
 layer-shop.com
 lbsbikes.com
 lbslepe.de
@@ -6018,7 +6007,6 @@ mainet.business
 mainz-mode.de
 maiser-markt.de
 maisonverkauf.com
-major-agentur.de
 majorautoteile.com
 makanigermanyshop.shop
 makata.de
@@ -6981,8 +6969,6 @@ oelunox.de
 oelup.de
 oelvia.de
 oelwert.de
-oelza.de
-oelzy.de
 ofendeutschland.com
 ofenrohr.eu
 ofenundholz.de
@@ -7414,7 +7400,6 @@ pharmaserve.com
 pharmatheke-europe.com
 pharmrx-1.com
 pharmuno.com
-pheronaemporium.com
 philippsthomas.com
 phippstrailer.com
 phoenix-elektro.com
@@ -8133,7 +8118,6 @@ salomonsuomi.com
 salussaunasonline.shop
 salzburgapotheke.com
 same-academy.com
-sammlerliebe.com
 sammlerloft.shop
 samofotografie.de
 samoonde.com
@@ -8532,7 +8516,6 @@ smile-apotheken.de
 smilebabyalbum.com
 smileclothing.com
 smitdeals.de
-smokelabin.com
 smokerland.net
 snap-sell.de
 sneak-r.de
@@ -8928,7 +8911,6 @@ summersandalsdeals.shop
 summervibes.de
 summit.io
 sunbike-shop.de
-sundanceliving-us.com
 sundaynaturalshop.de
 sunflex-de.com
 sunfulfillmentstore.de
@@ -9073,6 +9055,7 @@ techno-max.de
 techno-maximus.de
 techno-x.de
 technologykr.com
+technopers.com
 techsupportchat.de
 techswap.de
 techtaskforcede.works
@@ -9136,7 +9119,6 @@ thaisawadee.de
 thanesar.com
 the-bitcoin-bank.com
 the-immediateconnect.com
-the-northface.de
 the-portable-monitor.tech
 theautodaily.com
 thebeautyfilter.com
@@ -9477,6 +9459,7 @@ trivio-handel.de
 trivona.de
 trockenes-brennholz.com
 trockenesholz.de
+trockenholz.com
 tronixrise.com
 trousersonsales.com
 trovando.de
@@ -9638,7 +9621,6 @@ vacamy.com
 valentinalondon.com
 valentinocanada.com
 valexorliq.com
-valnixcorner.com
 valora-shop.com
 valtama.com
 valueflowhub.com
@@ -9650,7 +9632,6 @@ vandoxo.com
 vanea-barfussschuhe.com
 vanguarddetailco.com
 vanofashion.de
-vanss.de
 vantagetrades.com
 vapegunstig.de
 vapekiste.com
@@ -9658,7 +9639,6 @@ vapekitprime.com
 vapeversorgung.de
 vapezigarette.de
 vapingonline.de
-vaporcurrent.com
 varonet.de
 varonovo.de
 vasmoebel.de
@@ -9969,7 +9949,6 @@ weber-werkstatt.com
 weber-werkzeug.com
 weberelektronik.de
 webermode.com
-webhubtest.net
 webseite.de
 webseite-gratis.com
 webshoplease.de
